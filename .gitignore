@@ -1,22 +1,45 @@
+# my personal files to ignore
 debugnotify.txt
 
 
+
+# typical HA files to ignore
+secrets.yaml
+home-assistant.log
+home-assistant_v2.db
+
+
+
+# default things to ignore that I'm not sure if I need yet
+*.db-journal
+www
+OZW_Log.txt
+known_devices.yaml
+pyozw.sqlite
+
+
+
+# file extensions to ignore
 *.pid
 *.xml
 *.csr
 *.crt
 *.key
 *.conf
-secrets.yaml
-www
-OZW_Log.txt
-home-assistant.log
-home-assistant_v2.db
-*.db-journal
+
+
+
+# directories to ignore
 lib
 deps
 tts
-known_devices.yaml
-pyozw.sqlite
+
+
+
+# ignore anything that starts with a period
 .*
+
+
+
+# don't ignore the gitignore file
 !/.gitignore
