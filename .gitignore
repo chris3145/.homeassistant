@@ -1,3 +1,6 @@
+debugnotify.txt
+
+
 *.pid
 *.xml
 *.csr
@@ -6,7 +9,6 @@
 *.conf
 secrets.yaml
 www
-debugnotify.txt
 OZW_Log.txt
 home-assistant.log
 home-assistant_v2.db
