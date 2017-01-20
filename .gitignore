@@ -3,7 +3,10 @@
 *.csr
 *.crt
 *.key
+*.conf
+secrets.yaml
 www
+debugnotify.txt
 OZW_Log.txt
 home-assistant.log
 home-assistant_v2.db
@@ -11,9 +14,7 @@ home-assistant_v2.db
 lib
 deps
 tts
-secrets.yaml
 known_devices.yaml
-*.conf
 pyozw.sqlite
 .*
 !/.gitignore
