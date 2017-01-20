@@ -1,0 +1,125 @@
+#taken from here: https://community.home-assistant.io/t/possible-to-break-out-items-in-climate/4241/13
+
+group:
+  hvac_downstairs:
+    name: 'Downstairs'
+    entities:
+      - input_select.hvac_operation_mode
+      - input_select.hvac_fan_mode
+      - input_slider.hvac_target_temp
+      - sensor.climate_downstairs_temperature
+      - sensor.thermostat_downstairs_temperature_2
+      - sensor.thermostat_downstairs_relative_humidity_2_3
+
+  hvac:
+    name: HVAC
+    view: yes
+    entities:
+      - group.hvac_downstairs
+
+input_select:
+  hvac_operation_mode:
+    name: 'Operating Mode'
+    options:
+      - 'Auto'
+      - 'Cool'
+      - 'Heat'
+      - 'Off'
+    initial: Cool
+    icon: mdi:settings
+  hvac_fan_mode:
+    name: 'Fan Mode'
+    options:
+      - 'Auto'
+      - 'On'
+    initial: Auto
+    icon: mdi:fan
+
+input_slider:
+  hvac_target_temp:
+    name: 'Set Target Temp'
+    min: 55
+    max: 90
+    step: 1
+    initial: 70
+
+automation:
+  - alias: 'Set thermostat operation_mode based on input_select'
+    trigger:
+      platform: state
+      entity_id: input_select.hvac_operation_mode
+    action:
+      service: climate.set_operation_mode
+      entity_id: climate.thermostat_downstairs_cooling_1_2
+      data_template:
+        operation_mode: "{{ states('input_select.hvac_operation_mode') }}"
+        
+        
+        
+        
+        
+  - alias: 'Set input_select based on thermostat operation_mode'
+    trigger:
+      platform: state
+      entity_id: climate.thermostat_downstairs_cooling_1_2
+    condition:
+      condition: template
+      value_template: '{{ trigger.to_state.attributes.operation_mode != trigger.from_state.attributes.operation_mode }}'
+    action:
+      service: input_select.select_option
+      entity_id: input_select.hvac_operation_mode
+      data_template:
+        option: '{{ states.climate.thermostat_downstairs_cooling_1_2.attributes.operation_mode }}'
+        
+        
+        
+        
+        
+  - alias: 'Set thermostat fan_mode based on input_select'
+    trigger:
+      platform: state
+      entity_id: input_select.hvac_fan_mode
+    action:
+      service: climate.set_fan_mode
+      entity_id: climate.thermostat_downstairs_cooling_1_2
+      data_template:
+        fan_mode: >-
+            {% if is_state('input_select.hvac_fan_mode', 'Auto') %}
+                Auto Low
+            {% elif is_state('input_select.hvac_fan_mode', 'On') %}
+                On Low
+            {% endif %}
+            
+            
+            
+            
+  - alias: 'Set input_select based on thermostat fan_mode'
+    trigger:
+      platform: state
+      entity_id: climate.thermostat_downstairs_cooling_1_2
+    condition:
+      condition: template
+      value_template: '{{ trigger.to_state.attributes.fan_mode != trigger.from_state.attributes.fan_mode }}'
+    action:
+      service: input_select.select_option
+      entity_id: input_select.hvac_fan_mode
+      data_template:
+        option: >-
+            {% if is_state_attr('climate.thermostat_downstairs_cooling_1_2', 'fan_mode', 'Auto Low') %}
+                Auto
+            {% elif is_state_attr('climate.thermostat_downstairs_cooling_1_2', 'fan_mode', 'On Low') %}
+                On
+            {% endif %}
+            
+            
+            
+            
+  - alias: 'Set thermostat temperature based on input_slider'
+    trigger:
+      platform: state
+      entity_id: input_slider.hvac_target_temp
+    action:
+      service: climate.set_temperature
+      entity_id: climate.thermostat_downstairs_cooling_1_2
+      data_template:
+        temperature: "{{ states('input_slider.hvac_target_temp') }}"

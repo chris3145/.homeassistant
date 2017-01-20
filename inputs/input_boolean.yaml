@@ -1,0 +1,26 @@
+restart_ha_pb:
+  name: Restart home assistant
+  initial: off
+  icon: mdi:restart
+    
+    
+nest_temp_test:
+  name: Temporarily change Nest
+  initial: off
+  icon: mdi:restart
+
+  
+blinds_open:
+  name: Blinds open
+  initial: off
+  icon: mdi:blinds
+  
+tv_on:
+  name: Television on
+  initial: off
+  icon: mdi:television
+  
+sun_debug:
+  name: Sun (debug)
+  initial: off
+  icon: mdi:weather-sunny

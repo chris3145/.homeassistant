@@ -1,0 +1,168 @@
+
+
+
+
+
+
+
+
+
+# Using this as the data for a notify action outputs all attribute names and values for the sun
+{"message": 
+"Sun properties - {% for attr in states.sun.sun.attributes -%} {{ attr }} is {{states.sun.sun.attributes[attr]}}. {%- endfor -%}"
+}
+
+
+
+# Using this as the data for a notify action outputs the sun's elevation
+{"message": "Elevation is {{states.sun.sun.attributes.elevation}}"}
+
+
+
+
+
+
+#-----------------------#
+#                       #
+#      AUTOMATIONS      #
+#                       #
+#-----------------------#
+
+
+
+
+
+#Automation entry to log the temperature whenever Nest updates.
+- alias: Nest Temperature
+  trigger:
+    platform: state
+    entity_id: climate.living_room.temperature
+            
+  action:
+    service: notify.debug
+    data:
+      message: "The temperature just changed to {{ states.climate.living_room.temperature }}."
+
+
+      
+#Display a notification and log to a file when Home Assistant starts up
+- alias: Home Assistant Start
+ hide_entity: true
+  trigger:
+    platform: event
+    event_type: homeassistant_start
+            
+  action:
+    - service: notify.debug
+      data:
+        message: |
+          Home assistant started up!
+          The sun is {% if is_state('sun.sun', 'above_horizon') %}up{% else %}down{% endif %}!
+          The sun is {{ states.sun.sun }}.
+             
+    - service: persistent_notification.create
+      data:
+        message: The sun is {% if is_state('sun.sun', 'above_horizon') %}up{% else %}down{% endif %}!
+        title: Debug notification
+
+   
+   
+# Post a notification about the sun every 5 minutes.  
+- alias: Time checker
+  trigger:
+    platform: time
+    minutes: '/05'
+    seconds: 00
+    
+  action:
+    - service: persistent_notification.create
+      data:
+        title: Sun Status
+        notification_id: "SunStatus"
+        message: Time checker event ocurred at {{now().strftime('%I:%M:%S %p')}}. The sun's elevation is {{states.sun.sun.attributes.elevation}}. # The next sunrise will be at {{states.sun.sun.attributes.next_rising.strftime('%I:%M:%S %p')}}.
+    - service: notify.debug
+      data:
+        message: Time checker event ocurred at {{now().strftime('%I:%M:%S %p')}}.        
+
+
+        
+        
+# Change a value, wait 10 seconds, and then change it back.
+# Save the old value to nest_temp, then set debug to 50. Wait 10 seconds. Then return debug back to its original setting.       
+- alias: Set new value
+  trigger:
+    platform: state
+    entity_id: input_boolean.nest_temp_test
+    to: 'on'
+        
+  action:
+    - service: input_slider.select_value
+      data_template:
+        entity_id: input_slider.nest_temp
+        value: '{{ states.input_slider.debug.state }}'
+    - service: input_slider.select_value
+      data_template:
+        entity_id: input_slider.debug
+        value: 50
+    - delay: 0:0:10
+    - service: input_slider.select_value
+      data_template:
+        entity_id: input_slider.debug
+        value: '{{ states.input_slider.nest_temp.state }}'
+    - service: input_boolean.turn_off
+      data_template:
+        entity_id: input_boolean.nest_temp_test        
+        
+        
+        
+        
+        
+        
+# Make an IFTTT request when Home Assistant starts
+- alias: IFTTT request
+  #  hide_entity: true
+  trigger:
+    platform: event
+    event_type: homeassistant_start
+
+  action:
+    - service: persistent_notification.create
+      data:
+        title: IFTTT Attempt
+        notification_id: "IFTTT_Post"
+        message: IFTTT event was attempted at {{now().strftime('%I:%M:%S %p')}}
+        
+    - service: ifttt.trigger
+      data: {"event":"HA_Trigger"}
+      
+      
+        
+        
+# This displays a notification when the sun reaches an angle greater than 1. When Home Assistant first starts up, the sun's elevation is reported as 0 for about half a minute, so this will trigger after that time.
+- alias: Sun angle
+  trigger:
+    platform: numeric_state
+    entity_id: sun.sun
+    value_template: '{{ state.attributes.elevation }}'
+    above: 1
+        
+  action:
+    service: notify.debug
+    data:
+      message: The sun just reached an elevation of {{ states.sun.sun.attributes.elevation}}.
+
+      
+      
+      
+      
+#This automation updates a notification about the sun every ten seconds
+- alias: Time checker
+  trigger:
+    platform: time
+    seconds: '/10' 
+  action:
+    service: persistent_notification.create
+    data:
+      title: Sun Status
+      notification_id: "SunStatus"
+      message: Time checker event ocurred. The sun's elevation is {{states.sun.sun.attributes.elevation}}. It will next rise at {{states.sun.sun.attributes.next_rising}}.

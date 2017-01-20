@@ -1,0 +1,52 @@
+# close the blinds when the TV turns on or when the sun sets
+# either one of the triggers can close the blinds regardless of the other
+- alias: Close blinds
+  trigger:
+    - platform: state
+      entity_id: input_boolean.tv_on
+      to: 'on'
+    
+    # - platform: sun
+      # event: sunset
+
+    - platform: state
+      entity_id: input_boolean.sun_debug
+      to: 'off'   
+      
+  action:
+    - service: input_boolean.turn_off
+      data:
+        entity_id: input_boolean.blinds_open
+        
+# open the blinds when the TV is off and when the sun rises
+# both the sun and the TV must agree on opening the blinds
+- alias: Open blinds
+  trigger:
+    - platform: state
+      entity_id: input_boolean.tv_on
+      to: 'off'   
+    # - platform: sun
+      # event: sunrise
+    - platform: state
+      entity_id: input_boolean.sun_debug
+      to: 'on'
+  
+  condition:
+    condition: and
+    conditions:
+      - condition: state
+        entity_id: input_boolean.tv_on
+        state: 'off'
+        
+      # - condition: sun
+        # after: sunrise
+        # before: sunset
+        
+      - condition: state
+        entity_id: input_boolean.sun_debug
+        state: 'on'   
+    
+  action:
+    - service: input_boolean.turn_on
+      data:
+        entity_id: input_boolean.blinds_open

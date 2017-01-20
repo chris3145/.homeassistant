@@ -1,0 +1,43 @@
+- alias: Time checker
+  trigger:
+    platform: time
+    seconds: '/01'
+    
+  action:
+    - service: persistent_notification.create
+      data:
+        title: Debug
+        notification_id: "DebugStatus"
+        message: At {{now().strftime('%I:%M:%S %p')}} the value of the debug int was {{ states.input_slider.debug.state }}.
+        
+
+# Turn on the light
+- alias: Light on
+
+  trigger:
+    platform: state
+    entity_id: input_boolean.nest_temp_test
+    to: 'on'
+    
+  action:
+    - service: input_slider.select_value
+      data_template:
+        entity_id: input_slider.debug
+        value: 90     
+        
+        
+# Turn off the light when it         
+- alias: Light off
+
+  trigger:
+    platform: state
+    entity_id: input_boolean.nest_temp_test
+    to: 'off'
+    for:
+      seconds: 5
+    
+  action:
+    - service: input_slider.select_value
+      data_template:
+        entity_id: input_slider.debug
+        value: 0

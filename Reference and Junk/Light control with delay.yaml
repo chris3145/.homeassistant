@@ -1,0 +1,32 @@
+# Turn on the light when motion is detected
+- alias: Light on
+
+  trigger:
+    platform: state
+    entity_id: input_boolean.motion_detected
+    to: 'on'
+
+  action:
+    - service: input_slider.select_value
+      data_template:
+        entity_id: input_slider.debug
+        value: 90     
+
+
+
+
+# Turn off the light when no motion is detected for a time
+- alias: Light off
+
+  trigger:
+    platform: state
+    entity_id: input_boolean.motion_detected
+    to: 'off'
+    for:
+      seconds: 5
+
+  action:
+    - service: input_slider.select_value
+      data_template:
+        entity_id: input_slider.debug
+        value: 0

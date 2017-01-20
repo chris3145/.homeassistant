@@ -1,0 +1,37 @@
+#-----------------------------#
+#   Random tags for testing   #
+#-----------------------------#
+
+debug:
+  name: Debug Integer
+  initial: 0
+  min: 0
+  max: 100
+
+#-----------------------------#
+#   These tags are used for   #
+#   storing previous values   #
+#   of variables.             #
+#-----------------------------#
+
+#previous temperature setpoint for Nest thermostat
+nest_temp:
+  name: Nest temperature setpoint
+  initial: 50
+  min: 40
+  max: 90
+  
+#previous low temperature setpoint for Nest thermostat
+nest_temp_lo:
+  name: Nest temperature setpoint (low)
+  initial: 50
+  min: 40
+  max: 90
+  
+  
+#previous high temperature setpoint for Nest thermostat
+nest_temp_hi:
+  name: Nest temperature setpoint (high)
+  initial: 50
+  min: 40
+  max: 90

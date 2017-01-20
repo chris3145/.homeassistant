@@ -1,0 +1,81 @@
+homeassistant:
+  # Name of the location where Home Assistant is running
+  name: Home
+  # Location required to calculate the time the sun rises and sets
+  latitude: !secret latitude
+  longitude: !secret longitude
+  # Impacts weather/sunrise data (altitude above sea level in meters)
+  elevation: !secret elevation
+  # metric for Metric, imperial for Imperial
+  unit_system: imperial
+  # Pick yours from here: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  time_zone: !secret time_zone
+
+# Show links to resources in log and frontend
+# introduction:
+
+# Enables the frontend
+frontend:
+
+http:
+  # Uncomment the following line to add a password (recommended!)
+   api_password: !secret api_password
+  # Uncomment the following line if you are using SSL or running in Docker etc
+  # base_url: example.duckdns.org:8123
+
+# Checks for available updates
+updater:
+
+# Discover some devices automatically
+discovery:
+
+# Allows you to issue voice commands from the frontend in enabled browsers
+conversation:
+
+# Enables support for tracking state changes over time.
+history:
+
+# View all events in a logbook
+logbook:
+  exclude:
+    domains:
+      - sun
+
+# Track the sun
+sun:
+
+# Nest thermostat
+nest:
+ client_id: !secret Nest_id
+ client_secret: !secret Nest_secret
+  
+# IFTTT
+ifttt:
+  key: !secret maker_key
+
+ 
+# Media (just Chromecast for now)
+# media_player:
+  # platform: cast
+
+# Weather Prediction
+sensor:
+  - platform: yr
+
+# Text to speech
+tts:
+  platform: google
+  
+# Notify to file
+notify:
+  - name: debug
+    platform: file
+    filename: debugNotify.txt
+    timestamp: true
+
+# Automation
+automation: !include_dir_merge_list automation
+
+# Inputs
+input_boolean: !include inputs/input_boolean.yaml
+input_slider: !include inputs/input_slider.yaml
