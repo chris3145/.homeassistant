@@ -1,11 +1,11 @@
 #------------------------------------------------------------------------------------#
-#   A script to run the heat for a few minutes.                                      #
+#   A script to run the A/C for a few minutes.                                      #
 #                                                                                    #
-#   It turns the temperature setpoints a few degrees higher than the current temp,   #
+#   It turns the temperature setpoints a few degrees lower than the current temp,   #
 #   waits a few minutes, and then puts them back where they were.                    #
 #------------------------------------------------------------------------------------#
 
-  temporary_heat:
+  temporary_cool:
     sequence:
     
       # save setpoints on thermostat
@@ -22,13 +22,13 @@
           entity_id: input_slider.nest_temp_hi
           value: '{{ states.climate.living_room.attributes.target_temp_high }}'
           
-      # change setpoints on thermostat to be slightly warmer than current temp    
+      # change setpoints on thermostat to be slightly cool than current temp    
       - service: climate.set_temperature
         data_template:
           entity_id: climate.living_room
-          temperature: '{{ states.climate.living_room.attributes.current_temperature + 2 }}'
-          target_temp_low: '{{ states.climate.living_room.attributes.current_temperature + 2 }}'
-          target_temp_high: '{{ states.climate.living_room.attributes.current_temperature + 5 }}'
+          temperature: '{{ states.climate.living_room.attributes.current_temperature - 2 }}'
+          target_temp_low: '{{ states.climate.living_room.attributes.current_temperature - 5 }}'
+          target_temp_high: '{{ states.climate.living_room.attributes.current_temperature - 2 }}'
       
       # wait for a time
       - delay:
