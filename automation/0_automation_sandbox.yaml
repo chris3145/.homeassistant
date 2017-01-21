@@ -11,11 +11,14 @@
 
 
 
+
+
+
 - alias: Time checker
   initial_state: False #Don't run this until it is turned on.
   trigger:
     platform: time
-    seconds: '/01'
+    seconds: '/05'
     
   action:
     - service: persistent_notification.create
@@ -23,3 +26,6 @@
         title: Debug
         notification_id: "DebugStatus"
         message: At {{now().strftime('%I:%M:%S %p')}} the value of the debug int was {{ states.input_slider.debug.state }}.
+    - service: notify.debug
+      data:
+        message: Temp change thing to {{ states.climate.living_room.attributes.current_temperature }} or {{ states.climate.living_room.temperature }}. # The trigger thing saw a change to {{ trigger.payload }} # on topic {{ trigger.topic }}

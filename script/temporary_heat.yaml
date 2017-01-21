@@ -1,0 +1,32 @@
+#------------------------------------------------------------------------------------#
+#   A script to run the heat for a few minutes.                                      #
+#                                                                                    #
+#   It turns the temperature setpoints a few degrees higher than the current temp,   #
+#   waits a few minutes, and then puts them back where they were.                    #
+#------------------------------------------------------------------------------------#
+
+
+  temporary_heat:
+    sequence:
+      - service: input_slider.select_value
+        data_template:
+          entity_id: input_slider.nest_temp_lo
+          value: '{{ states.climate.living_room.attributes.target_temp_low }}'
+      - service: input_slider.select_value
+        data_template:
+          entity_id: input_slider.nest_temp_hi
+          value: '{{ states.climate.living_room.attributes.target_temp_high }}'
+      - service: climate.set_temperature
+        data_template:
+          entity_id: climate.living_room
+          temperature: '{{ states.climate.living_room.attributes.current_temperature + 2 }}'
+          target_temp_low: '{{ states.climate.living_room.attributes.current_temperature + 2 }}'
+          target_temp_high: '{{ states.climate.living_room.attributes.current_temperature + 5 }}'
+      - delay:
+          minutes: 3
+      - service: climate.set_temperature
+        data_template:
+          entity_id: climate.living_room
+          temperature: '{{ states.climate.living_room.attributes.current_temperature }}'
+          target_temp_low: '{{ states.input_slider.nest_temp_lo.state }}'
+          target_temp_high: '{{ states.input_slider.nest_temp_hi.state }}' 
