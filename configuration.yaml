@@ -85,3 +85,13 @@ automation: !include_dir_merge_list automation
 # Inputs
 input_boolean: !include inputs/input_boolean.yaml
 input_slider: !include inputs/input_slider.yaml
+
+# Creates a command to pull the latest updates from GitHub and then restart home assistant
+shell_command:
+  get_latest_config: bash /home/homeassistant/.homeassistant.pullconfig.shell_command
+
+script:
+  update_config:
+    sequence:
+      - service: shell_command.get_latest_config
+      - service: homeassistant.restart
