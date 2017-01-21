@@ -1,0 +1,5 @@
+A master backup branch will have an old version that is known to be stable.
+
+The active-use branch is the branch that will actually be running my home automation.
+
+A sandbox branch will be used for testing new things before making them active.
