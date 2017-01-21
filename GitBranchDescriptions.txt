@@ -1,4 +1,4 @@
-A master backup branch will have an old version that is known to be stable.
+The stable-backup branch will have be the "master." It has an old version that is known to be stable.
 
 The active-use branch is the branch that will actually be running my home automation.
 
