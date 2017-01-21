@@ -33,6 +33,8 @@
 
 
 #Automation entry to log the temperature whenever Nest updates.
+
+#I'm not sure that this one works!!!!!
 - alias: Nest Temperature
   trigger:
     platform: state
@@ -41,7 +43,7 @@
   action:
     service: notify.debug
     data:
-      message: "The temperature just changed to {{ states.climate.living_room.temperature }}."
+      message: "The temperature just changed to {{ states.climate.living_room.attributes.current_temperature }}."
 
 
       
