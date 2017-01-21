@@ -1,0 +1,57 @@
+# Detect every temperature change on the Nest and log it.
+# - alias: Nest Temp Change
+  # trigger:
+    # platform: state
+    # entity_id: climate.living_room.attributes.current_temperature #maybe taking out climate. will make it work? 
+    # # entity_id: climate.living_room.current_temperature
+  # action:
+    # service: notify.debug
+    # data:
+      # message: The Nest temperature just changed to {{ states.climate.living_room.atrributes.current_temperature }}.
+
+
+
+# Detect every temperature change on the Nest and log it.
+- alias: Nest Temp Change (trigger value template)      
+  trigger:
+    platform: state
+    entity_id: climate.living_room
+    
+ # condition:
+ #   condition: template
+ #   value_template: '{{ trigger.to_state.attributes.current_temperature != trigger.from_state.attributes.current_temperature }}'
+
+  action:
+    service: notify.debug
+    data:
+      message: Temp change thing to {{ states.climate.living_room.attributes.current_temperature }}. #  The trigger thing saw a change to {{ trigger.payload }} # on topic {{ trigger.topic }}
+   
+
+   
+
+   
+# Detect a mode change on the Nest and log it.
+# - alias: Nest Temp Change
+  # trigger:
+    # platform: state
+    # entity_id: climate.living_room.away_mode
+    # to: 'off'
+  # action:
+    # service: notify.debug
+    # data:
+      # message: The Nest just left away mode.
+  
+  
+# Maybe don't actually use an automation thing within HA for this. Just call the service.  
+# automation:
+  # trigger:
+    # platform: time
+    # after: "07:15:00"
+  # action:
+    # - service: climate.set_temperature
+      # data:
+        # entity_id: climate.living_room
+        # temperature: 24
+        # target_temp_high: 75
+        # target_temp_low: 65
+  

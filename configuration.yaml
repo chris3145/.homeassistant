@@ -90,8 +90,4 @@ input_slider: !include inputs/input_slider.yaml
 shell_command:
   get_latest_config: bash /home/homeassistant/.homeassistant.pullconfig.shell_command
 
-script:
-  update_config:
-    sequence:
-      - service: shell_command.get_latest_config
-      - service: homeassistant.restart
+script: !include_dir_merge_named script
