@@ -88,6 +88,6 @@ input_slider: !include inputs/input_slider.yaml
 
 # Creates a command to pull the latest updates from GitHub and then restart home assistant
 shell_command:
-  get_latest_config: bash /home/homeassistant/.homeassistant.pullconfig.shell_command
+  get_latest_config: bash /home/homeassistant/.homeassistant/pullconfig.sh
 
 script: !include_dir_merge_named script
