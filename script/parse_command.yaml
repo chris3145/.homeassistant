@@ -1,0 +1,12 @@
+#------------------------------------------------------------------------------------#
+#   A script to process voice commands                                               #
+#                                                                                    #
+#------------------------------------------------------------------------------------#
+
+  parse_command:
+    sequence:
+          
+      # indicate that the service was triggered
+      - service: notify.debug
+        data:
+          message: Parse command triggered with text remotely. #: {{ command }}
