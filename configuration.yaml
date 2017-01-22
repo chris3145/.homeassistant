@@ -36,10 +36,10 @@ conversation:
 history:
 
 # Let's try out this iframe thing
-panel_iframe:
-  router:
-    title: 'Router'
-    url: 'http://192.168.1.1'
+#panel_iframe:
+#  router:
+   # title: 'Router'
+  #  url: 'http://192.168.1.1'
 
 # View all events in a logbook
 logbook:
