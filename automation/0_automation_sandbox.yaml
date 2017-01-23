@@ -1,6 +1,25 @@
 
+- alias: Debug Delay
+  trigger:
+    - platform: state
+      entity_id: input_boolean.debug_bool
+      to: 'on'
+      
+  action:
+    - service: notify.debug
+      data:
+        message: Starting debug delay
 
-
+    #putting in a thirty second delay just to see how it affects everything else
+    - delay: 00:00:30
+    
+    - service: input_boolean.turn_off
+      data:
+        entity_id: input_boolean.debug_bool
+    
+    - service: notify.debug
+      data:
+        message: Ending debug delay
 
 
 
@@ -28,4 +47,4 @@
         message: At {{now().strftime('%I:%M:%S %p')}} the value of the debug int was {{ states.input_slider.debug.state }}.
     - service: notify.debug
       data:
-        message: Temp change thing to {{ states.climate.living_room.attributes.current_temperature }} or {{ states.climate.living_room.temperature }}. # The trigger thing saw a change to {{ trigger.payload }} # on topic {{ trigger.topic }}
+        message: Temp change thing to # {{ states.climate.living_room.attributes.current_temperature }} or {{ states.climate.living_room.temperature }}. # The trigger thing saw a change to {{ trigger.payload }} # on topic {{ trigger.topic }}
