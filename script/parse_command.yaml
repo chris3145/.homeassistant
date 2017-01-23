@@ -1,0 +1,21 @@
+#------------------------------------------------------------------------------------#
+#                                                                                    #
+#   A script to parse voice commands                                                 #
+#                                                                                    #
+#------------------------------------------------------------------------------------#
+
+  parse_command:
+    sequence:
+          
+      # indicate that the service was triggered and what the command was
+      - service: notify.debug
+        data_template:
+          message: "{{ command }}"
+          
+      # indicate that the service was triggered and what the command was
+      - service: persistent_notification.create
+        data_template:
+          title: "Parse Command ({{ now().strftime('%I:%M:%S %p') }})"
+          notification_id: "ParseCommand"
+          message: |
+            Command: {{ command }}

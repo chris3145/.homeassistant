@@ -1,10 +1,26 @@
+#-----------------------#
+#                       #
+#  configuration.yaml   #
+#                       #
+#-----------------------#
 
 
+# Adds an iframe to the side panel to allow access to the router's settings
+# However, as it uses a local IP address, it seems to work only on the local network.
+panel_iframe:
+ router:
+   title: 'Router'
+   url: 'http://192.168.1.1'
 
 
-
-
-
+   
+   
+   
+#-----------------------#
+#                       #
+#     miscellaneous     #
+#                       #
+#-----------------------#
 
 
 # Using this as the data for a notify action outputs all attribute names and values for the sun
@@ -16,9 +32,6 @@
 
 # Using this as the data for a notify action outputs the sun's elevation
 {"message": "Elevation is {{states.sun.sun.attributes.elevation}}"}
-
-
-
 
 
 
