@@ -36,6 +36,14 @@ discovery:
 # Enables support for tracking state changes over time.
 history:
 
+#Browse the web from Home Assistant?
+panel_iframe:
+ google:
+   title: 'Google'
+   url: 'https://www.google.com/'
+   icon: mdi:google
+   
+
 # View all events in a logbook
 logbook:
   exclude:
@@ -86,3 +94,17 @@ shell_command:
   get_latest_config: bash /home/homeassistant/.homeassistant/pullconfig.sh
 
 script: !include_dir_merge_named script
+
+# python add ons
+
+hello_state:
+
+hello_service:
+
+# simple_alarm:
+  # known_light: input_boolean.tv_on
+  # unknown_light: input_boolean.sun_debug
+  
+# simple_python:
+  # input_bit: input_boolean.tv_on
+  # output_bit: input_boolean.sun_debug

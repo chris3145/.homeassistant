@@ -1,3 +1,23 @@
+
+#-----------------------#
+#                       #
+#        Python         #
+#                       #
+#-----------------------#
+
+
+
+
+# This saves a local temporary copy
+# local_filename, headers = urllib.request.urlretrieve(url)
+# print(local_filename)
+# html = open(local_filename)
+
+
+
+
+
+
 #-----------------------#
 #                       #
 #  configuration.yaml   #
