@@ -4,7 +4,25 @@ import sys # needed for sys.exit(), which ends execution
 import logging # for displaying info in the HA log (I don't think this is the same as the front end)
 
 
-# url = "view-source:http://www.seasonsandsuppers.ca/peach-dutch-baby-with-blueberry-sauce/"    #This one has ingredients in some kind of header
+
+# url to retrieve
+# url = "http://www.seasonsandsuppers.ca/peach-dutch-baby-with-blueberry-sauce/"    #This one has ingredients in some kind of header
+# url = "http://www.pbs.org/food/kitchen-vignettes/salted-honey-cranberry-pumpkin-seed-bars"
+# url = "http://www.bettycrocker.com/recipes/easy-chocolate-banana-snack-cake/32f5b7ba-3226-4c35-bf63-bc42951f8f8a"
+# url = "https://www.hersheys.com/celebrate/valentines/recipedetail.aspx?id=4780&name=Celebration-Tarts"
+# url = "http://www.thewickednoodle.com/turkey-tetrazzini/#_a5y_p=5810571"
+# url = "http://allrecipes.com/recipe/222085/healthier-delicious-ham-and-potato-soup/?internalSource=staff%20pick&referringId=1552&referringContentType=recipe%20hub&clickId=cardslot%205"
+# url = "http://simply-delicious-food.com/steak-mushroom-pot-pies/"
+# url = "http://www.closetcooking.com/2011/04/jalapeno-popper-grilled-cheese-sandwich.html"
+# url = "http://damndelicious.net/2014/03/15/one-pot-chili-mac-cheese/"
+
+#
+# sites that don't work are bettycrocker and simplydelicious
+#
+# seasonsandsuppers has recipe info in a style that this doesn't read yet
+#
+
+
 
 _LOGGER = logging.getLogger(__name__)
 
@@ -29,11 +47,16 @@ def setup(hass, config):
     
     def handle_hello(call):
         
+        print('\n\n')
+        print('-----------------------------------------------------------')
+        print('\n')
+        
+        #get url and ingredient from parameters passed to the service
         url = call.data.get(ATTR_URL, DEFAULT_URL)
         ingredient = call.data.get(ATTR_INGR, DEFAULT_INGR)
         
         
-        print("\n\n\n\nRetrieving webpage...")
+        print("Retrieving webpage...")
         
        
         # files to save to
@@ -45,22 +68,44 @@ def setup(hass, config):
         ingFile = filePath + ingFileName
         
         
-        # # Get the webpage and save it to a file
+        
+        
+        #
+        #
+        # should the file be saved in byte mode or regular mode?
+        #
+        #
+        
+        
+        # Get the webpage and save it to a file
         req = opener.open(url)
         page_content = req.read()
-        with open(recipeFile, 'wb') as fid:   
+        # with open(recipeFile, 'wb') as fid:   #original version that saved file as bytes
+        with open(recipeFile, 'w+t', encoding='utf-8') as fid:   #open file in text mode with utf-8 encoding (to support all unicode characters)
             fid.write(page_content)       
         
         
         
         
         print("Opening file...")
-
+        
+        
+        
+        #
+        #
+        # should the file be opened in byte mode or regular mode?
+        #
+        #  
+        
+        # honestly, it would probably be best to skip the try,except and just start off by opening in utf-8 encoding
+        
+        
         try: #Try to open the file normally
             with open(recipeFile, 'r') as inf:
                 filetext = inf.read()      
 
         except UnicodeDecodeError: #If there is an encoding error, open the file in a different format
+            print("\n\nOpen failure! Trying again with with encoding=utf-8\n\n")
             with open(recipeFile, encoding='utf-8') as inf:
                 filetext = inf.read()
                 
@@ -103,7 +148,8 @@ def setup(hass, config):
 
         # remove any blank elements from ingList
         ingList = [x for x in ingList if x != '']
-
+        
+        # print the ingredient list
         print()
         for ndx, member in enumerate(ingList):
             print(ingList[ndx])
@@ -113,7 +159,10 @@ def setup(hass, config):
         # name = call.data.get(ATTR_NAME, DEFAULT_NAME)
 
         # hass.states.set('hello_service.hello', name)
-
+        
+        print('\n\n')
+        print('-----------------------------------------------------------')
+        print('\n')
 
     hass.services.register(DOMAIN, 'hello', handle_hello)  
     
