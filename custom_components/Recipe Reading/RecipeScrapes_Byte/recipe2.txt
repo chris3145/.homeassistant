@@ -1,0 +1,1920 @@
+http://altonbrown.com/triple-cheese-popcorn-recipe/
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="lt-ie9 lt-ie8 lt-ie7" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 7]>
+<html class="lt-ie9 lt-ie8" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 8]>
+<html class="lt-ie9" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 9]>
+<html class="ie9" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" itemscope itemtype="http://schema.org/Article"> <!--<![endif]-->
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="HandheldFriendly" content="True">
+	<meta name="apple-touch-fullscreen" content="yes"/>
+	<meta name="MobileOptimized" content="320">
+	<title>Alton Brown&#039;s Triple Cheese Popcorn Recipe</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://altonbrown.com/xmlrpc.php">
+	<script type="text/javascript">
+addthis_config = {
+		ui_click : false,
+	ui_delay : 100,
+	ui_offset_top: 42,
+	ui_use_css : true,
+	data_track_addressbar : false,
+	data_track_clickback : false
+		};
+
+addthis_share = {
+	url : "http://altonbrown.com/triple-cheese-popcorn-recipe/",
+	title : "Alton Brown&#039;s Triple Cheese Popcorn Recipe",
+	description : ""
+};
+</script>
+<!-- This site is optimized with the Yoast SEO plugin v4.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Get the recipe for Alton Brown&#039;s Triple Cheese Popcorn. Be forewarned, the resulting mix is extremely habit forming."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://altonbrown.com/triple-cheese-popcorn-recipe/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Alton Brown&#039;s Triple Cheese Popcorn Recipe" />
+<meta property="og:description" content="Get the recipe for Alton Brown&#039;s Triple Cheese Popcorn. Be forewarned, the resulting mix is extremely habit forming." />
+<meta property="og:url" content="http://altonbrown.com/triple-cheese-popcorn-recipe/" />
+<meta property="og:site_name" content="ALTON BROWN" />
+<meta property="article:publisher" content="https://www.facebook.com/altonbrown" />
+<meta property="article:tag" content="movies" />
+<meta property="article:tag" content="popcorn" />
+<meta property="article:tag" content="Recipes" />
+<meta property="article:tag" content="snacks" />
+<meta property="article:section" content="Alton Brown Live" />
+<meta property="article:published_time" content="2016-04-06T14:56:42-05:00" />
+<meta property="article:modified_time" content="2016-11-10T11:49:16-05:00" />
+<meta property="og:updated_time" content="2016-11-10T11:49:16-05:00" />
+<meta property="fb:admins" content="100006068235426" />
+<meta property="og:image" content="http://altonbrown.com/wp-content/uploads/2016/04/alton-brown-triple-cheese-popcorn-recipe.jpg" />
+<meta property="og:image:width" content="803" />
+<meta property="og:image:height" content="620" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s7.addthis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="ALTON BROWN &raquo; Feed" href="http://altonbrown.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ALTON BROWN &raquo; Comments Feed" href="http://altonbrown.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ALTON BROWN &raquo; Umami Dusted Popcorn Comments Feed" href="http://altonbrown.com/triple-cheese-popcorn-recipe/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/altonbrown.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='style_main-css'  href='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/wp-gif-player/style.css?ver=1481810774' type='text/css' media='all' />
+<link rel='stylesheet' id='google-webfonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C400%2C300%2C700&#038;ver=4.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpgrade-main-style-css'  href='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/themes/heap/theme-content/css/style.css?ver=201601192016' type='text/css' media='all' />
+<style id='wpgrade-main-style-inline-css' type='text/css'>
+
+    .container{
+        max-width: 1368px;
+    }
+
+    .search__container{
+        max-width: 1368px;
+    }
+
+
+
+ @media only screen and (min-width: 900px) {
+   .sidebar--main {
+        width: 325px;
+   }
+
+   .page-content.has-sidebar {
+        margin-right: -325px;
+   }
+
+   .page-content.has-sidebar .page-content__wrapper {
+        margin-right: 325px;
+   }
+
+   .page-content.has-sidebar:after{
+        right: 325px;
+   }
+ }
+
+ 
+@media screen and (min-width: 481px) and (max-width: 899px) {
+    .mosaic__item  {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 900px) and (max-width: 1249px) {
+    .mosaic__item  {
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 1250px){
+    .mosaic__item  {
+        width: 50%;
+    }
+}
+
+
+a,a:hover,.link--light:hover,.text-link:hover,.wpgrade_popular_posts .article__category:hover,.meta-list a.btn:hover,.meta-list a.comments_add-comment:hover,.meta-list .form-submit a#comment-submit:hover,.form-submit .meta-list a#comment-submit:hover,.meta-list .widget_tag_cloud a:hover,.widget_tag_cloud .meta-list a:hover,.meta-list a.load-more__button:hover,.article__comments-number:hover,.author__social-link:hover,.article-archive .article__categories a:hover,.link--dark:hover,.nav--main a:hover,.comment__author-name a:hover,.author__title a:hover,.site-title--small a:hover,.site-header__menu a:hover,.widget a:hover,.article-archive--quote blockquote:before,.menu-item-has-children:hover>a,ol.breadcrumb a:hover,a:hover>.pixcode--icon,.tabs__nav a.current,.tabs__nav a:hover,.quote--single-featured:before,.price ins,.price>span,.shop-categories a.active{color:#0093bf;}.pagination .pagination-item--current span,.pagination li a:hover,.pagination li span:hover,.rsNavSelected,.progressbar__progress,.comments_add-comment:hover,.form-submit #comment-submit:hover,.widget_tag_cloud a:hover,.btn--primary,.comments_add-comment,.form-submit #comment-submit,a:hover>.pixcode--icon.circle,a:hover>.pixcode--icon.square,.btn--add-to-cart,.wpcf7-form-control.wpcf7-submit,.pagination--archive ol li a:hover,.btn:hover,.comments_add-comment:hover,.form-submit #comment-submit:hover,.widget_tag_cloud a:hover,.load-more__button:hover,#review-submit:hover,body.woocommerce div.woocommerce-message .button:hover,td.actions input.button:hover,form.shipping_calculator button.button:hover,body.woocommerce-page input.button:hover,body.woocommerce #content input.button.alt:hover,body.woocommerce #respond input#submit.alt:hover,body.woocommerce a.button.alt:hover,body.woocommerce button.button.alt:hover,body.woocommerce input.button.alt:hover,body.woocommerce-page #content input.button.alt:hover,body.woocommerce-page #respond input#submit.alt:hover,body.woocommerce-page a.button.alt:hover,body.woocommerce-page button.button.alt:hover,body.woocommerce-page input.button.alt:hover{
+background-color:#0093bf;
+}select:focus,textarea:focus,input[type="text"]:focus,input[type="password"]:focus,input[type="datetime"]:focus,input[type="datetime-local"]:focus,input[type="date"]:focus,input[type="month"]:focus,input[type="time"]:focus,input[type="week"]:focus,input[type="number"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="color"]:focus,.form-control:focus{outline-color:#0093bf;}
+body{color:#000000;}
+h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.article-archive .article__title a,.article-archive .article__title a:hover{color:#1a1919;}
+body{background-color:#eeeeee;}
+.container{background-color:#ffffff;}
+.header{background-color:#ffffff;}
+.navigation a{font-size:14px;}
+.navigation a{letter-spacing:px;}
+.navigation a{text-transform:uppercase;}
+.nav--main>.menu-item>a{text-decoration:none;}
+body{font-size:16px;}
+body{line-height:1.6;}
+.container,.search__container,.site-header__container,.header--sticky .site-header__container{max-width:1368px;}
+.site-title--image img{max-height:90px;}
+body{color:#000000;}
+h1,h2,h3,h4,h5,h6{color:#1a1919;}
+h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{color:#1a1919;}
+h1,h2,h3,h4,h5,h6,hgroup,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,blockquote,.tabs__nav,.popular-posts__time,.pagination li a,.pagination li span{font-family:Oswald;font-weight:300;}
+.navigation a{font-family:Oswald;font-weight:400!important;}
+html,.wp-caption-text,.small-link,.post-nav-link__label,.author__social-link,.comment__links,.score__desc{font-family:Open Sans;}
+.container{max-width:1368px;}
+.search__container{max-width:1368px;}
+
+@media screen and (min-width: 900px) {.navigation--main{background-color:#ffffff;}}
+@media screen and (min-width: 900px) {.container{padding-left:96px;}}
+@media screen and (min-width: 900px) {.container{padding-right:96px;}}
+@media only screen and (min-width: 900px) {.sidebar--main{width:300px;}}
+@media only screen and (min-width: 900px) {.page-content.has-sidebar:after{right:300px;}}
+@media only screen and (min-width: 900px) {.page-content.has-sidebar .page-content__wrapper{margin-right:300px;}.page-content.has-sidebar{margin-right:-300px;}}
+@media screen and (min-width: 900px) {.header{padding-top:36px;}}
+@media screen and (min-width: 900px) {.header{padding-bottom:36px;}}
+@media screen and (min-width: 900px) {.nav--main>.menu-item>a{padding-left:14px;}}
+@media screen and (min-width: 900px) {.nav--main>.menu-item>a{padding-right:14px;}}
+@media screen and (min-width: 900px) {.nav--main>.menu-item>a{margin-left:14px;}}
+@media screen and (min-width: 900px) {.nav--main>.menu-item>a{margin-right:14px;}}
+@media screen and (min-width: 900px) {.nav--main>.menu-item>a{padding-top:10px;}}@media screen and (min-width: 900px) {.nav--main>.menu-item>a{padding-bottom:10px;}}
+@media screen and (min-width: 900px) {.nav--main>.menu-item>a{margin-top:10px;}}
+@media screen and (min-width: 900px) {.nav--main>.menu-item>a{margin-bottom:10px;}}
+@media only screen and (min-width: 900px){.nav--main li:hover,.nav--main li.current-menu-item{border-bottom-color:#0093bf;}.back-to-top a:hover:after,.back-to-top a:hover:before{border-color:#0093bf;}}
+@media only screen and (min-width: 1201px){.team-member__profile{background:rgba(0,147,191,0.5);}}
+@media only screen and (min-width: 900px) {.sidebar--main{width:325px;}.page-content.has-sidebar{margin-right:-325px;}.page-content.has-sidebar .page-content__wrapper{margin-right:325px;}.page-content.has-sidebar:after{right:325px;}}
+@media screen and (min-width: 481px) and (max-width: 899px) {.mosaic__item{width:100%;}}
+@media screen and (min-width: 900px) and (max-width: 1249px) {.mosaic__item{width:50%;}}
+@media screen and (min-width: 1250px){.mosaic__item{width:50%;}}
+
+</style>
+<link rel='stylesheet' id='404-style-css'  href='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/themes/heap/theme-content/css/pages/404.css?ver=4.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='pixlikes-plugin-styles-css'  href='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/pixlikes/css/public.css?ver=1.0.0' type='text/css' media='all' />
+<style id='pixlikes-plugin-styles-inline-css' type='text/css'>
+.animate i:after {-webkit-transition: all 1000ms;-moz-transition: all 1000ms;-o-transition: all 1000ms;transition: all 1000ms; }
+</style>
+<link rel='stylesheet' id='popup-maker-site-css'  href='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/popup-maker/assets/css/site.min.css?ver=1.4.21' type='text/css' media='all' />
+<link rel='stylesheet' id='yumprint-recipe-theme-layout-css'  href='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/recipe-card/css/layout.css?ver=4.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_reset_css-css'  href='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/gravityforms/css/formreset.min.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css'  href='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css'  href='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/gravityforms/css/readyclass.min.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css'  href='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/gravityforms/css/browsers.min.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='gravityformsmailchimp_form_settings-css'  href='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/gravityformsmailchimp/css/form_settings.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-stylesheet-css'  href='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/themes/heap/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.4.2' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v5.5.4 - Universal enabled - https://www.monsterinsights.com/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-66187308-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script><script>jQueryWP = jQuery;</script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/themes/heap/theme-content/js/vendor/modernizr.min.js?ver=4.7.1'></script>
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js?ver=4.7.1'></script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/recipe-card/js/post.js?ver=4.7.1'></script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.1.2'></script>
+<link rel='https://api.w.org/' href='http://altonbrown.com/wp-json/' />
+<link rel='shortlink' href='http://wp.me/p1FHoG-13L' />
+<link rel="alternate" type="application/json+oembed" href="http://altonbrown.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Faltonbrown.com%2Ftriple-cheese-popcorn-recipe%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://altonbrown.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Faltonbrown.com%2Ftriple-cheese-popcorn-recipe%2F&#038;format=xml" />
+<meta name="generator" content="Beaverlodge v1.3.0"/><link rel="icon" href="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/favicon.ico" type="image/x-icon" />    <style id="pum-styles" type="text/css">
+    /* Popup Google Fonts */
+@import url('//fonts.googleapis.com/css?family=Acme|Montserrat');
+
+/* Popup Theme 4268: Framed Border */
+.pum-theme-4268, .pum-theme-framed-border { background-color: rgba( 255, 255, 255, 0.5 ) } 
+.pum-theme-4268 .pum-container, .pum-theme-framed-border .pum-container { padding: 18px; border-radius: 0px; border: 20px outset #dd3333; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.97 ) inset; background-color: rgba( 255, 251, 239, 1 ) } 
+.pum-theme-4268 .pum-title, .pum-theme-framed-border .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-4268 .pum-content, .pum-theme-framed-border .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-4268 .pum-content + .pum-close, .pum-theme-framed-border .pum-content + .pum-close { height: 20px; width: 20px; left: auto; right: -20px; bottom: auto; top: -20px; padding: 0px; color: #ffffff; font-family: Acme; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 0.55 ) } 
+/* Popup Theme 4267: Cutting Edge */
+.pum-theme-4267, .pum-theme-cutting-edge { background-color: rgba( 0, 0, 0, 0.5 ) } 
+.pum-theme-4267 .pum-container, .pum-theme-cutting-edge .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 10px 25px 0px rgba( 2, 2, 2, 0.5 ); background-color: rgba( 30, 115, 190, 1 ) } 
+.pum-theme-4267 .pum-title, .pum-theme-cutting-edge .pum-title { color: #ffffff; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Sans-Serif; font-size: 26px; line-height: 28px } 
+.pum-theme-4267 .pum-content, .pum-theme-cutting-edge .pum-content { color: #ffffff; font-family: inherit } 
+.pum-theme-4267 .pum-content + .pum-close, .pum-theme-cutting-edge .pum-content + .pum-close { height: 24px; width: 24px; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #1e73be; font-family: inherit; font-size: 32px; line-height: 24px; border: 1px none #ffffff; border-radius: 0px; box-shadow: -1px 1px 1px 0px rgba( 2, 2, 2, 0.1 ); text-shadow: -1px 1px 1px rgba( 0, 0, 0, 0.1 ); background-color: rgba( 238, 238, 34, 1 ) } 
+/* Popup Theme 4266: Hello Box */
+.pum-theme-4266, .pum-theme-hello-box { background-color: rgba( 0, 0, 0, 0.75 ) } 
+.pum-theme-4266 .pum-container, .pum-theme-hello-box .pum-container { padding: 30px; border-radius: 80px; border: 14px solid #81d742; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0 ); background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-4266 .pum-title, .pum-theme-hello-box .pum-title { color: #2d2d2d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Montserrat; font-size: 32px; line-height: 36px } 
+.pum-theme-4266 .pum-content, .pum-theme-hello-box .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-4266 .pum-content + .pum-close, .pum-theme-hello-box .pum-content + .pum-close { height: auto; width: auto; left: auto; right: -30px; bottom: auto; top: -30px; padding: 0px; color: #2d2d2d; font-family: inherit; font-size: 32px; line-height: 28px; border: 1px none #ffffff; border-radius: 28px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1 ) } 
+/* Popup Theme 4265: Enterprise Blue */
+.pum-theme-4265, .pum-theme-enterprise-blue { background-color: rgba( 0, 0, 0, 0.7 ) } 
+.pum-theme-4265 .pum-container, .pum-theme-enterprise-blue .pum-container { padding: 28px; border-radius: 5px; border: 1px none #000000; box-shadow: 0px 10px 25px 4px rgba( 2, 2, 2, 0.5 ); background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-4265 .pum-title, .pum-theme-enterprise-blue .pum-title { color: #315b7c; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 34px; line-height: 36px } 
+.pum-theme-4265 .pum-content, .pum-theme-enterprise-blue .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-4265 .pum-content + .pum-close, .pum-theme-enterprise-blue .pum-content + .pum-close { height: 28px; width: 28px; left: auto; right: 8px; bottom: auto; top: 8px; padding: 4px; color: #ffffff; font-family: inherit; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 42px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 49, 91, 124, 1 ) } 
+/* Popup Theme 4264: Light Box */
+.pum-theme-4264, .pum-theme-lightbox { background-color: rgba( 0, 0, 0, 0.6 ) } 
+.pum-theme-4264 .pum-container, .pum-theme-lightbox .pum-container { padding: 18px; border-radius: 3px; border: 8px solid #000000; box-shadow: 0px 0px 30px 0px rgba( 2, 2, 2, 1 ); background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-4264 .pum-title, .pum-theme-lightbox .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-4264 .pum-content, .pum-theme-lightbox .pum-content { color: #000000; font-family: inherit } 
+.pum-theme-4264 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close { height: 30px; width: 30px; left: auto; right: -24px; bottom: auto; top: -24px; padding: 0px; color: #ffffff; font-family: inherit; font-size: 24px; line-height: 26px; border: 2px solid #ffffff; border-radius: 30px; box-shadow: 0px 0px 15px 1px rgba( 2, 2, 2, 0.75 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 1 ) } 
+/* Popup Theme 4263: Default Theme */
+.pum-theme-4263, .pum-theme-default-theme { background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-4263 .pum-container, .pum-theme-default-theme .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1 ) } 
+.pum-theme-4263 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: inherit; font-size: 32px; font-style: normal; line-height: 36px } 
+.pum-theme-4263 .pum-content, .pum-theme-default-theme .pum-content { color: #8c8c8c; font-family: inherit; font-weight: inherit; font-style: normal } 
+.pum-theme-4263 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: inherit; font-size: 12px; font-style: normal; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1 ) } 
+        </style><script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=599,height=453');	return false;}
+//-->
+</script>
+<script type="text/javascript">
+	window.yumprintRecipePlugin = "http://altonbrown.com/wp-content/plugins/recipe-card";
+	window.yumprintRecipeAjaxUrl = "http://altonbrown.com/wp-admin/admin-ajax.php";
+	window.yumprintRecipeUrl = "http://altonbrown.com/";
+</script><!--[if lte IE 8]>
+<script type="text/javascript">
+    window.yumprintRecipeDisabled = true;
+</script>
+<![endif]-->
+<style type="text/css">    .blog-yumprint-recipe .blog-yumprint-recipe-title {
+    	color: #414141;
+    }
+    .blog-yumprint-recipe .blog-yumprint-subheader, .blog-yumprint-recipe .blog-yumprint-infobar-section-title, .blog-yumprint-recipe .blog-yumprint-infobox-section-title, .blog-yumprint-nutrition-section-title {
+        color: #414141;
+    }
+    .blog-yumprint-recipe .blog-yumprint-save, .blog-yumprint-recipe .blog-yumprint-header .blog-yumprint-save a {
+    	background-color: #666666;
+    	color: #ffffff !important;
+    }
+    .blog-yumprint-recipe .blog-yumprint-save:hover, .blog-yumprint-recipe .blog-yumprint-header .blog-yumprint-save:hover a {
+    	background-color: #808080;
+    }
+    .blog-yumprint-recipe .blog-yumprint-adapted-link, .blog-yumprint-nutrition-more, .blog-yumprint-report-error {
+        color: #666666;
+    }
+    .blog-yumprint-recipe .blog-yumprint-infobar-section-data, .blog-yumprint-recipe .blog-yumprint-infobox-section-data, .blog-yumprint-recipe .blog-yumprint-adapted, .blog-yumprint-recipe .blog-yumprint-author, .blog-yumprint-recipe .blog-yumprint-serves, .blog-yumprint-nutrition-section-data {
+        color: #808080;
+    }
+    .blog-yumprint-recipe .blog-yumprint-recipe-summary, .blog-yumprint-recipe .blog-yumprint-ingredient-item, .blog-yumprint-recipe .blog-yumprint-method-item, .blog-yumprint-recipe .blog-yumprint-note-item, .blog-yumprint-write-review, .blog-yumprint-nutrition-box {
+        color: #414141;
+    }
+    .blog-yumprint-write-review:hover, .blog-yumprint-nutrition-more:hover, .blog-yumprint-recipe .blog-yumprint-adapted-link:hover {
+        color: #808080;
+    }
+    .blog-yumprint-recipe .blog-yumprint-nutrition-bar:hover .blog-yumprint-nutrition-section-title {
+        color: #5a5a5a;
+    }
+    .blog-yumprint-recipe .blog-yumprint-nutrition-bar:hover .blog-yumprint-nutrition-section-data {
+        color: #9a9a9a;
+    }
+
+    .blog-yumprint-recipe .blog-yumprint-print {
+    	background-color: #bfbfbf;
+    	color: #ffffff;
+    }
+    .blog-yumprint-recipe .blog-yumprint-print:hover {
+    	background-color: #d9d9d9;
+    }
+    .blog-yumprint-recipe {
+    	background-color: white;
+    	border-color: rgb(220, 220, 220);
+    	border-style: none;
+    	border-width: 1px;
+    	border-radius: 0px;
+    }
+    .blog-yumprint-recipe .blog-yumprint-recipe-contents {
+    	border-top-color: rgb(220, 220, 220);
+    	border-top-width: 1px;
+    	border-top-style: dashed;
+    }
+    .blog-yumprint-recipe .blog-yumprint-info-bar, .blog-yumprint-recipe .blog-yumprint-nutrition-bar, .blog-yumprint-nutrition-border {
+    	border-top-color: rgb(220, 220, 220);
+    	border-top-width: 1px;
+    	border-top-style: dashed;
+    }
+    .blog-yumprint-nutrition-line, .blog-yumprint-nutrition-thick-line, .blog-yumprint-nutrition-very-thick-line {
+    	border-top-color: rgb(220, 220, 220);
+    }
+    .blog-yumprint-recipe .blog-yumprint-info-box, .blog-yumprint-nutrition-box {
+    	background-color: white;
+    	border-color: rgb(220, 220, 220);
+    	border-style: dashed;
+    	border-width: 1px;
+    	border-radius: 0px;
+    }
+    .blog-yumprint-recipe .blog-yumprint-recipe-title {
+		font-family: Helvetica Neue,Helvetica,Arial,sans-serif, Helvetica Neue, Helvetica, Tahoma, Sans Serif, Sans;
+		font-size: 22px;
+		font-weight: normal;
+		font-style: normal;
+		text-transform: none;
+		text-decoration: none;
+    }
+    .blog-yumprint-recipe .blog-yumprint-subheader {
+		font-family: Helvetica Neue,Helvetica,Arial,sans-serif, Helvetica Neue, Helvetica, Tahoma, Sans Serif, Sans;
+		font-size: 18px;
+		font-weight: normal;
+		font-style: normal;
+		text-transform: none;
+		text-decoration: none;
+    }
+    .blog-yumprint-recipe .blog-yumprint-recipe-summary, .blog-yumprint-recipe .blog-yumprint-ingredients, .blog-yumprint-recipe .blog-yumprint-methods, .blog-yumprint-recipe .blog-yumprint-notes, .blog-yumprint-write-review, .blog-yumprint-nutrition-box {
+		font-family: Helvetica Neue,Helvetica,Arial,sans-serif, Helvetica Neue, Helvetica, Tahoma, Sans Serif, Sans;
+		font-size: 14px;
+		font-weight: normal;
+		font-style: normal;
+		text-transform: none;
+		text-decoration: none;
+    }
+    .blog-yumprint-recipe .blog-yumprint-info-bar, .blog-yumprint-recipe .blog-yumprint-info-box, .blog-yumprint-recipe .blog-yumprint-adapted, .blog-yumprint-recipe .blog-yumprint-author, .blog-yumprint-recipe .blog-yumprint-serves, .blog-yumprint-recipe .blog-yumprint-infobar-section-title, .blog-yumprint-recipe .blog-yumprint-infobox-section-title,.blog-yumprint-recipe .blog-yumprint-nutrition-bar, .blog-yumprint-nutrition-section-title, .blog-yumprint-nutrition-more {
+		font-family: Helvetica Neue,Helvetica,Arial,sans-serif, Helvetica Neue, Helvetica, Tahoma, Sans Serif, Sans;
+		font-size: 14px;
+		font-weight: normal;
+		font-style: normal;
+		text-transform: none;
+		text-decoration: none;
+    }
+    .blog-yumprint-recipe .blog-yumprint-action {
+		font-family: Helvetica Neue,Helvetica,Arial,sans-serif, Helvetica Neue, Helvetica, Tahoma, Sans Serif, Sans;
+		font-size: 13px;
+		font-weight: normal;
+		font-style: normal;
+		text-transform: none;
+		text-decoration: none;
+    }    .blog-yumprint-header {
+        width: 100% !important;
+    }    </style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<style type='text/css'>img#wpstats{display:none}</style><link rel='icon' href="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2014/09/postit-16-sq.jpg" >
+<link rel="apple-touch-icon" href="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2014/09/postit-77-sq.jpg" >
+<meta name="msapplication-TileColor" content="#f01d4f">
+<meta name="msapplication-TileImage" content="http://altonbrown.com/wp-content/uploads/2014/09/postit-144-sq.jpg" >
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="description" content="In depth research and experimentation have led me to the crystalline clear realization that the best flavor on earth is that of crunchy Cheetos. Not the regular ones. They&#8217;re crap. Just the crunchies. The reason of course is pure science. It&#8217;s a chemical gestalt of cheese powder (or powdered cheese depending on who your talking to, and a bunch of other &#8230; stuff. Well I think we&#8217;ve cracked the code and truth be told, there are multiple secret ingredients including: nutritional yeast which is actually good for you and available at your local health food store; cheddar cheese powder, which is available from most reputable spice purveyors; trashy, green canister &#8220;parmesan&#8221; cheese, which is available at most gas stations; and last but not least buttermilk powder which you can find on the baking aisle of most megamarts. Be forewarned, the.."/>
+<link rel="canonical" href="http://altonbrown.com/triple-cheese-popcorn-recipe/" />
+<!-- facebook open graph stuff -->
+<meta property="fb:app_id" content="1698428077048377"/>
+<meta property="fb:admins" content="stevesemail0115@yahoo.com"/>
+<meta property="og:site_name" content="ALTON BROWN"/>
+<meta property="og:url" content="http://altonbrown.com/triple-cheese-popcorn-recipe/"/>
+<meta property="og:title" content="Alton Brown&#039;s Triple Cheese Popcorn Recipe" />
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="In depth research and experimentation have led me to the crystalline clear realization that the best flavor on earth is that of crunchy Cheetos. Not the regular ones. They&#8217;re crap. Just the crunchies. The reason of course is pure science. It&#8217;s a chemical gestalt of cheese powder (or powdered cheese depending on who your talking to, and a bunch of other &#8230; stuff. Well I think we&#8217;ve cracked the code and truth be told, there are multiple secret ingredients including: nutritional yeast which is actually good for you and available at your local health food store; cheddar cheese powder, which is available from most reputable spice purveyors; trashy, green canister &#8220;parmesan&#8221; cheese, which is available at most gas stations; and last but not least buttermilk powder which you can find on the baking aisle of most megamarts. Be forewarned, the.." />
+<meta property="article:published_time" content="2016-04-6 14:56">
+<meta property="article:modified_time" content="2016-11-10 11:49">
+<meta property="article:section" content="Alton brown live">
+<meta property="article:tag" content="movies">
+<meta property="article:tag" content="popcorn">
+<meta property="article:tag" content="Recipes">
+<meta property="article:tag" content="snacks">
+<meta property="og:image" content="http://altonbrown.com/wp-content/uploads/2016/04/alton-brown-triple-cheese-popcorn-recipe.jpg"/>
+<!-- end facebook open graph --><!-- google +1 tags -->
+<meta itemprop="name" content="Umami Dusted Popcorn">
+<meta itemprop="description" content="In depth research and experimentation have led me to the crystalline clear realization that the best flavor on earth is that of crunchy Cheetos. Not the regular ones. They&#8217;re crap. Just the crunchies. The reason of course is pure science. It&#8217;s a chemical gestalt of cheese powder (or powdered cheese depending on who your talking to, and a bunch of other &#8230; stuff. Well I think we&#8217;ve cracked the code and truth be told, there are multiple secret ingredients including: nutritional yeast which is actually good for you and available at your local health food store; cheddar cheese powder, which is available from most reputable spice purveyors; trashy, green canister &#8220;parmesan&#8221; cheese, which is available at most gas stations; and last but not least buttermilk powder which you can find on the baking aisle of most megamarts. Be forewarned, the..">
+<meta itemprop="image" content="http://altonbrown.com/wp-content/uploads/2016/04/alton-brown-triple-cheese-popcorn-recipe.jpg">
+
+<!-- end google +1 tags --><!-- twitter card tags -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="http://altonbrown.com/triple-cheese-popcorn-recipe/" >
+<meta name="twitter:site" content="@altonbrown"/>
+<meta name="twitter:domain" content="altonbrown.com">
+<meta name="twitter:title" content="Umami Dusted Popcorn">
+<meta name="twitter:description" content="In depth research and experimentation have led me to the crystalline clear realization that the best flavor on earth is that of crunchy Cheetos. Not the regular ones. They&#8217;re crap. Just the crunchies. The reason of course is pure science. It&#8217;s a chemical gestalt of cheese powder (or powdered cheese depending on who your talking to, and a bunch of other &#8230; stuff. Well I think we&#8217;ve cracked the code and truth be told, there are multiple secret ingredients including: nutritional yeast which is actually good for you and available at your local health food store; cheddar cheese powder, which is available from most reputable spice purveyors; trashy, green canister &#8220;parmesan&#8221; cheese, which is available at most gas stations; and last but not least buttermilk powder which you can find on the baking aisle of most megamarts. Be forewarned, the..">
+<meta name="twitter:image:src" content="http://altonbrown.com/wp-content/uploads/2016/04/alton-brown-triple-cheese-popcorn-recipe.jpg">
+<!-- end twitter card tags -->
+		<style type="text/css" id="wp-custom-css">
+			/*
+Welcome to Custom CSS!
+
+To learn how this works, see http://wp.me/PEmnE-Bt
+*/
+.subscribe-box {
+	padding: 20px;
+	border: 1px solid #ddd;
+}
+
+.box-header div {
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.box-header-logo {
+	width: 30%;
+}
+
+.box-header-title {
+	width: 100%;
+}
+
+.box-header-title h3 {
+	margin: 0;
+}
+
+.box-header-logo img {
+	width: 50px;
+	height: auto;
+	border-radius: 50%;
+}
+
+.box-content {
+	text-align: center;
+}
+
+.box-content p {
+	margin: 20px 0;
+}
+
+.subscribe-button {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	background-color: #ec3d42;
+	color: #fff !important;
+	text-decoration: none;
+}
+
+.pum-content h2 {
+	margin: 0;
+}
+
+#input_1_3 li {
+	display: inline;
+	margin-right: 10px;
+}
+
+.box-header-logo {
+	display: none !important;
+}
+
+#input_1_1_3_container label {
+	display: none;
+}
+
+#gform_submit_button_1 {
+	background-color: #262525;
+	color: #fff;
+	text-transform: uppercase;
+	padding: 10px 15px;
+	border: 0;
+}
+
+#gform_submit_button_1:hover {
+	background-color: #0093bf;
+}
+
+.gform_footer {
+	text-align: center;
+}
+
+/* FORM ID:2 SUBMIT BUTTON*/
+body #gform_wrapper_2 .gform_footer input[type=submit] {
+	padding: 12px 24px;
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #000;
+}
+
+body #gform_wrapper_2 .gform_footer input[type=submit]:hover {
+	background-color: #0093bf;
+}
+
+@media (max-width: 480px) {
+	#input_1_3 li {
+		display: block;
+	}
+}		</style>
+	<script type="text/javascript">
+;(function($){
+                                            
+})(jQuery);
+</script>
+</head>
+
+<body class="post-template-default single single-post postid-4077 single-format-standard header--sticky nav-dropdown-plus nav-scroll-hide"   data-smoothscrolling  >
+<!--[if lt IE 7]>
+<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
+	your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to
+	improve your experience.</p>
+<![endif]-->
+<div class="wrapper  js-wrapper" id="page">
+	<div class="search__wrapper">
+	<button class="search__close  js-search-close"></button>
+	<div class="search__container">
+		<form class="search-fullscreen" method="get" action="http://altonbrown.com/" role="search">
+			<input type="text" name="s" class="search-input  js-search-input" placeholder="Type to search" autocomplete="off" value="" /><!--
+			--><button class="search-button" id="searchsubmit"><i class="icon-search"></i></button>
+		</form>
+		<hr class="separator" />
+		<p class="search-description">Begin typing your search above and press return to search. Press Esc to cancel.</p>
+	</div>
+</div>	<header class="site-header">
+		<div class="site-header__wrapper  js-sticky">
+			<div class="site-header__container">
+				
+				<div class="header flexbox">
+					<div class="header-component  header-component--left">
+						<ul class="nav  site-header__menu">
+							<li class="menu-trigger">
+								<a href="#" class="js-nav-trigger">
+									<i class="icon-reorder"></i>
+								</a>
+							</li>
+									    <li>
+		        <a class="social-icon" href="https://www.facebook.com/altonbrown" target="_blank">
+		            <i class="icon-e-facebook"></i>
+		        </a>
+		    </li>
+				    <li>
+		        <a class="social-icon" href="https://twitter.com/altonbrown" target="_blank">
+		            <i class="icon-e-twitter"></i>
+		        </a>
+		    </li>
+				    <li>
+		        <a class="social-icon" href="http://www.pinterest.com/altonbrown/" target="_blank">
+		            <i class="icon-e-pinterest"></i>
+		        </a>
+		    </li>
+				    <li>
+		        <a class="social-icon" href="http://instagram.com/altonbrown" target="_blank">
+		            <i class="icon-e-instagram"></i>
+		        </a>
+		    </li>
+								</ul>
+					</div>
+					<div class="header-component  header-component--center header-transition--image-to-text">
+						<div class="site-header__branding">
+		<h1 class="site-title site-title--image">
+		<a class="site-logo  site-logo--image   " href="http://altonbrown.com" title="ALTON BROWN" rel="home">
+						<img src="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2014/09/ab-logo-postit.jpg"  rel="logo" alt="ALTON BROWN"/>
+		</a>
+	</h1>
+		<p class="site-header__description"></p>
+</div>
+
+<h1 class="site-title  site-title--small"><a href="http://altonbrown.com">ALTON BROWN</a></h1>
+					</div>
+					<div class="header-component  header-component--right">
+						<ul class="nav  site-header__menu">
+															<li class="search-trigger">
+									<a href="#" class="js-search-trigger"><i class="icon-e-search"></i></a></li>
+													</ul>
+					</div>
+				</div>
+
+									<nav class="navigation  navigation--main" id="js-navigation--main">
+						<h2 class="accessibility">Primary Navigation</h2>
+						<ul id="menu-header-menu" class="nav--main"><li id="menu-item-4166" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item  hidden menu-item-4166"><a href="http://bit.ly/EYSBroadwayTkts">EAT YOUR SCIENCE</a>
+<ul class="sub-menu">
+	<li id="menu-item-4185" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4185"><a href="http://www.altonbrowntour.com/shows/">Buy Tour Tickets</a></li>
+	<li id="menu-item-4167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4167"><a href="http://altonbrown.com/alton-brown-live-eat-science-broadway/">ABOUT</a></li>
+</ul>
+</li>
+<li id="menu-item-4562" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4562"><a href="http://altonbrown.com/alton-brown-everydaycook-cookbook/">EveryDayCook</a></li>
+<li id="menu-item-1795" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item  hidden menu-item-1795"><a href="http://altonbrown.com/altonblog/recipes/">RECIPES</a>
+<ul class="sub-menu">
+	<li id="menu-item-2874" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2874"><a href="http://altonbrown.com/tag/appetizers/">APPETIZERS / SNACKS</a></li>
+	<li id="menu-item-2872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2872"><a href="http://altonbrown.com/tag/breakfast/">BREAKFAST</a></li>
+	<li id="menu-item-4131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4131"><a href="http://altonbrown.com/tag/dinner/">DINNER</a></li>
+	<li id="menu-item-2873" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2873"><a href="http://altonbrown.com/tag/dessert/">DESSERT</a></li>
+	<li id="menu-item-2871" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2871"><a href="http://altonbrown.com/tag/drinks/">DRINKS</a></li>
+</ul>
+</li>
+<li id="menu-item-3988" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3988"><a href="http://altonbrown.com/tag/culinary-toolbox/">CULINARY TOOLBOX</a></li>
+<li id="menu-item-1342" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1342"><a href="http://altonbrown.com/tag/ab-road-eats/">AB ROAD EATS</a></li>
+<li id="menu-item-930" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-930"><a href="http://altonbrown.com/tag/videos/">VIDEOS</a></li>
+<li id="menu-item-4002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item  hidden menu-item-4002"><a href="http://altonbrown.com/altonblog/the-alton-browncast-podcast/">ALTON BROWNCAST</a>
+<ul class="sub-menu">
+	<li id="menu-item-3991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3991"><a href="https://itunes.apple.com/us/podcast/the-alton-browncast/id925156477">iTunes</a></li>
+	<li id="menu-item-3992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3992"><a href="http://www.stitcher.com/podcast/the-alton-browncast/">Stitcher Radio</a></li>
+	<li id="menu-item-3993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3993"><a href="http://altonbrown.com/feed/podcast/">RSS Feed</a></li>
+</ul>
+</li>
+<li id="menu-item-2310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2310"><a href="http://altonbrown.com/contact/">CONTACT</a></li>
+</ul>					</nav><!-- .navigation  .navigation- -main -->
+							</div><!-- .site-header__container -->
+		</div><!-- .site-header__wrapper -->
+	</header><!-- .site-header -->
+	<div class="container  js-container">
+		<section class="content">
+		<div class="page-content  single-content has-sidebar">
+			<div class="page-content__wrapper">			<article class="article-single single-post has-thumbnail post-4077 post type-post status-publish format-standard has-post-thumbnail hentry category-alton-brown-live category-alton-blog category-recipes tag-movies tag-popcorn tag-recipes-2 tag-snacks">
+
+				
+<header class="article__header">
+			<div class="article__featured-image">
+			<img src="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/alton-brown-triple-cheese-popcorn-recipe.jpg" alt="Umami Dusted Popcorn"/>
+		</div>
+				<div class="breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+			<a href="http://altonbrown.com" itemprop="url" class="home">
+				<span itemprop="title">Home</span>
+			</a>
+		<span class="separator"></span><div itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="cat-item cat-item-70"><a href="http://altonbrown.com/altonblog/alton-brown-live/" itemprop="url"title="View all posts filed under Alton Brown Live"><span itemprop="title">Alton Brown Live</span></a></div>
+<span class="cat-separator"></span><div itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="cat-item cat-item-4"><a href="http://altonbrown.com/altonblog/alton-blog/" itemprop="url"title="View all posts filed under Alton&#039;s Blog"><span itemprop="title">Alton&#039;s Blog</span></a></div>
+<span class="cat-separator"></span><div itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="cat-item cat-item-28"><a href="http://altonbrown.com/altonblog/recipes/" itemprop="url"title="View all posts filed under Recipes"><span itemprop="title">Recipes</span></a></div>
+<span class="separator"></span></div>
+			<h1 class="article__title entry-title" itemtype="name">Umami Dusted Popcorn</h1>
+	
+	<hr class="separator"/>
+			<div class="entry__meta--header">
+			<div class="grid">
+				<div class="grid__item lap-and-up-one-half">
+					<span class="article__author-name">By <address class="vcard author"><a class="url fn" href="http://altonbrown.com/author/alton-brown/" title="Posts by Mr. Brown" itemprop="author" >Mr. Brown</a></address>.</span>						<time class="article__time" datetime="2016-04-06T14:56:42+00:00">
+							<span> Published on <abbr class="published" title="2016-04-06T14:56:42+00:00">April 6, 2016</abbr></time>. </span>
+											<a href="#comments" class="article__comments-number">51</a>
+									</div><!--
+				--><div class="grid__item lap-and-up-one-half">
+											<div class="addthis_toolbox addthis_default_style addthis_32x32_style  add_this_list"
+						     addthis:url="http://altonbrown.com/triple-cheese-popcorn-recipe/"
+						     addthis:title="Alton Brown&#039;s Triple Cheese Popcorn Recipe"
+						     addthis:description="In depth research and experimentation have led me to the crystalline clear realization that the best flavor on earth is that of crunchy Cheetos. Not the regular ones. They&#8217;re crap. Just the crunchies. The reason of course is pure science. It&#8217;s a chemical gestalt of cheese powder (or powdered cheese depending on who your talking to, and a bunch of other &#8230; stuff. Well I think we&#8217;ve cracked the code and truth be told, there are multiple secret ingredients including: nutritional yeast which is actually good for you and available at your local health food store; cheddar cheese powder, which is available from most reputable spice purveyors; trashy, green canister &#8220;parmesan&#8221; cheese, which is available at most gas stations; and last but not least buttermilk powder which you can find on the baking aisle of most megamarts. Be forewarned, the..">
+							<a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a><a class="addthis_button_pinterest_share"></a><a class="addthis_button_email"></a>						</div>
+									</div>
+			</div>
+		</div>
+	</header><!-- .article__header -->
+				<section class="article__content entry-content js-post-gallery">
+					<p>In depth research and experimentation have led me to the crystalline clear realization that the best flavor on earth is that of crunchy Cheetos. Not the regular ones. They&#8217;re crap. Just the crunchies. The reason of course is pure science. It&#8217;s a chemical gestalt of cheese powder (or powdered cheese depending on who your talking to, and a bunch of other &#8230; stuff. Well I think we&#8217;ve cracked the code and truth be told, there are multiple secret ingredients including: nutritional yeast which is actually good for you and available at your local health food store; cheddar cheese powder, which is available from most reputable spice purveyors; trashy, green canister &#8220;parmesan&#8221; cheese, which is available at most gas stations; and last but not least buttermilk powder which you can find on the baking aisle of most megamarts.</p>
+<p><span id="more-4077"></span></p>
+<p>Be forewarned, the resulting mix is extremely habit forming. Placing it on popcorn only makes it better &#8230; I mean worse.</p>
+    <div class="blog-yumprint-recipe blog-yumprint-medium-image   blog-yumprint-numbered-methods " yumprintrecipe="xQ7s" itemscope itemtype="http://schema.org/Recipe">    <img class="blog-yumprint-google-image" src="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/alton-brown-triple-cheese-popcorn_200.jpg" style="display:block;position:absolute;left:-10000px;top:-10000px;" itemprop="image" />		<div class="blog-yumprint-photo-top" style="background-image: url(http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/alton-brown-triple-cheese-popcorn_200.jpg)"></div>	<div class="blog-yumprint-recipe-title" itemprop="name">Triple Cheese Popcorn</div>	<div class="blog-yumprint-recipe-published" itemprop="datePublished">2016-03-26 01:13:00</div>		<img class="blog-yumprint-photo-top-large" src="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/alton-brown-triple-cheese-popcorn_200.jpg" />    <div class="blog-yumprint-serves">Serves 4</div>	<div class="blog-yumprint-header">		<div class='blog-yumprint-stars-reviews' itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" color="#666666" highlightcolor="#808080" emptycolor="#bfbfbf" rating="0" count="0">
+			<div class='blog-yumprint-star-wrapper'>
+				<div class='blog-yumprint-star-container'></div>
+				<meta itemprop="ratingValue" content="0" />
+				<meta itemprop="bestRating" content="4" />
+				<div class="blog-yumprint-review-count" itemprop="reviewCount" content="0"></div>
+			</div>
+			<div class='blog-yumprint-write-review'>Write a review</div>
+		</div>		<div class="blog-yumprint-save blog-yumprint-action"><a href="http://yumprint.com/app/object/xQ7s">Save Recipe</a></div>		<div class="blog-yumprint-print blog-yumprint-action">Print</div>	</div>	<div class="blog-yumprint-spacer"></div>	<div class="blog-yumprint-recipe-contents">		<div class="blog-yumprint-photo-middle" style="background-image: url(http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/alton-brown-triple-cheese-popcorn_200.jpg)"></div>		<div class="blog-yumprint-ingredient-section" yumprintsection="0">                <div class="blog-yumprint-subheader">Ingredients</div>			<ol class='blog-yumprint-ingredients'>				<li class="blog-yumprint-ingredient-item" yumprintitem="0" itemprop="ingredients">2 ounces Cheddar cheese powder</li>				<li class="blog-yumprint-ingredient-item" yumprintitem="1" itemprop="ingredients">1/2 ounce finely grated Parmesan cheese-food (meaning the stuff in the green can)</li>				<li class="blog-yumprint-ingredient-item" yumprintitem="2" itemprop="ingredients">2 tablespoons nutritional yeast</li>				<li class="blog-yumprint-ingredient-item" yumprintitem="3" itemprop="ingredients">1 teaspoon buttermilk powder</li>				<li class="blog-yumprint-ingredient-item" yumprintitem="4" itemprop="ingredients">1 teaspoon kosher salt</li>				<li class="blog-yumprint-ingredient-item" yumprintitem="5" itemprop="ingredients">3 tablespoon canola oil</li>				<li class="blog-yumprint-ingredient-item" yumprintitem="6" itemprop="ingredients">4 ounces popcorn kernels</li>				<li class="blog-yumprint-ingredient-item" yumprintitem="7" itemprop="ingredients">3 tablespoon canola oil</li>				<li class="blog-yumprint-ingredient-item" yumprintitem="8" itemprop="ingredients">2 ounces unsalted butter, melted</li>			</ol>
+		</div>		<div class="blog-yumprint-method-section" yumprintsection="1">			<div class="blog-yumprint-subheader">Instructions</div>			<ol class="blog-yumprint-methods" itemprop="recipeInstructions">				<li class="blog-yumprint-method-item" yumprintitem="0">Process the parmesan cheese-stuff, nutritional yeast, buttermilk powder and kosher salt in a food processor to a fine, granular powder.</li>				<li class="blog-yumprint-method-item" yumprintitem="1">Place the oil and popcorn in a large, 6-quart, metal mixing bowl. Cover with heavy-duty aluminum foil and poke ten slits in the top with a knife.</li>				<li class="blog-yumprint-method-item" yumprintitem="2">Place the bowl over medium heat and shake constantly using a pair of tongs to hold the bowl.  Continue shaking until the popcorn finishes popping, approximately 3 minutes.</li>				<li class="blog-yumprint-method-item" yumprintitem="3">Remove the bowl from the heat and carefully remove the foil.</li>				<li class="blog-yumprint-method-item" yumprintitem="4">Melt the butter in the microwave. Slowly drizzle over the popcorn, while spinning the bowl. Add the cheese mixture, re-cover with the aluminum foil and shake to coat the popcorn with the cheese mixture. Serve immediately.</li>			</ol>
+		</div>		<div class="blog-yumprint-note-section" yumprintsection="2">			<div class="blog-yumprint-subheader">Notes</div>			<ol class='blog-yumprint-notes'>				<li class="blog-yumprint-note-item" yumprintitem="0">Although the butter does bring flavor to the party, it does contain water so in time it will suck some of the crispness out of your corn. Using olive oil will help to avoid this wilting.</li>			</ol>
+		</div>    <div class="author blog-yumprint-author" itemprop="author">By © Alton Brown, Recipe and Images 2016</div>    <div class="blog-yumprint-recipe-source">ALTON BROWN http://altonbrown.com/</div>		</div>
+	</div><img class="aligncenter size-full wp-image-4100" src="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/alton-brown-triple-cheese-popcorn_v.jpg" alt="Alton Brown's Triple Cheese Popcorn Recipe" width="803" height="1155" srcset="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/alton-brown-triple-cheese-popcorn_v.jpg 803w, http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/alton-brown-triple-cheese-popcorn_v-209x300.jpg 209w, http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/alton-brown-triple-cheese-popcorn_v-768x1105.jpg 768w, http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/alton-brown-triple-cheese-popcorn_v-712x1024.jpg 712w, http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/alton-brown-triple-cheese-popcorn_v-400x575.jpg 400w" sizes="(max-width: 803px) 100vw, 803px" /></p>
+				</section>
+				<!-- .article__content -->
+				
+<footer class="article__footer  push--bottom">
+			<div class="meta--categories btn-list  meta-list">
+			<span class="btn  btn--small  btn--secondary  list-head">Categories</span>
+			<a class="btn  btn--small  btn--tertiary" href="http://altonbrown.com/altonblog/alton-brown-live/" title="View all posts in Alton Brown Live" rel="tag">Alton Brown Live</a><a class="btn  btn--small  btn--tertiary" href="http://altonbrown.com/altonblog/alton-blog/" title="View all posts in Alton&#039;s Blog" rel="tag">Alton's Blog</a><a class="btn  btn--small  btn--tertiary" href="http://altonbrown.com/altonblog/recipes/" title="View all posts in Recipes" rel="tag">Recipes</a>		</div>
+			<div class="meta--tags  btn-list  meta-list">
+			<span class="btn  btn--small  btn--secondary  list-head">Tags</span>
+			<a class="btn  btn--small  btn--tertiary" href="http://altonbrown.com/tag/movies/" title="View all posts tagged movies" rel="tag">movies</a><a class="btn  btn--small  btn--tertiary" href="http://altonbrown.com/tag/popcorn/" title="View all posts tagged popcorn" rel="tag">popcorn</a><a class="btn  btn--small  btn--tertiary" href="http://altonbrown.com/tag/recipes-2/" title="View all posts tagged Recipes" rel="tag">Recipes</a><a class="btn  btn--small  btn--tertiary" href="http://altonbrown.com/tag/snacks/" title="View all posts tagged snacks" rel="tag">snacks</a>		</div>
+		<hr class="separator" />
+	<div class="grid">
+		<div class="grid__item  lap-and-up-one-half">
+								<div id="pixlikes" class="share-item  pixlikes-box  likeable"  data-id="4077">
+						<span class="like-link"><i class="icon-e-heart"></i>
+						<span class="likes-text">
+							<span class="likes-count">21</span>&nbsp;likes						</span>
+						</span>
+					</div>
+						</div><!--
+		--><div class="grid__item  lap-and-up-one-half">
+						<div class="addthis_toolbox addthis_default_style addthis_32x32_style  add_this_list"
+					 addthis:url="http://altonbrown.com/triple-cheese-popcorn-recipe/"
+					 addthis:title="Alton Brown&#039;s Triple Cheese Popcorn Recipe"
+					 addthis:description="In depth research and experimentation have led me to the crystalline clear realization that the best flavor on earth is that of crunchy Cheetos. Not the regular ones. They&#8217;re crap. Just the crunchies. The reason of course is pure science. It&#8217;s a chemical gestalt of cheese powder (or powdered cheese depending on who your talking to, and a bunch of other &#8230; stuff. Well I think we&#8217;ve cracked the code and truth be told, there are multiple secret ingredients including: nutritional yeast which is actually good for you and available at your local health food store; cheddar cheese powder, which is available from most reputable spice purveyors; trashy, green canister &#8220;parmesan&#8221; cheese, which is available at most gas stations; and last but not least buttermilk powder which you can find on the baking aisle of most megamarts. Be forewarned, the..">
+					<a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a><a class="addthis_button_pinterest_share"></a><a class="addthis_button_email"></a>				</div>
+					</div>
+	</div>
+
+	
+</footer><!-- .article__footer -->
+
+
+
+    <div id="comments" class="comments-area  ">
+        <div class="comments-area-title">
+            <h3>
+                <span class="comment-number total">51</span> Comments            </h3>
+            <a class="comments_add-comment" href="#reply-title">Add yours</a>        </div>
+
+        
+        
+            
+            <ol class="commentlist">
+                	<li class="comment even thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">1</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Grace</span>				<time class="comment__time" datetime="2017-01-22T00:32:19+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-153298" class="comment__timestamp">on January 22, 2017 at 12:32 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=153298#respond' onclick='return addComment.moveForm( "comment-153298", "153298", "respond", "4077" )' aria-label='Reply to Grace'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>There is a typo in this recipe.  The ingredients call for Canola Oil but the notes call for Olive Oil.  Which is correct?</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">2</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">DS</span>				<time class="comment__time" datetime="2017-01-20T11:40:30+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-153098" class="comment__timestamp">on January 20, 2017 at 11:40 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=153098#respond' onclick='return addComment.moveForm( "comment-153098", "153098", "respond", "4077" )' aria-label='Reply to DS'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Ummmm–am I missing something? We have cheddar powder, Parmesan stuff, but what is the third cheese?</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+<ul class="children">
+	<li class="comment even depth-2">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">3</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Geoff</span>				<time class="comment__time" datetime="2017-01-20T17:23:59+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-153135" class="comment__timestamp">on January 20, 2017 at 5:23 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=153135#respond' onclick='return addComment.moveForm( "comment-153135", "153135", "respond", "4077" )' aria-label='Reply to Geoff'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Nutritional Yeast is often referred to as &#8220;Vegan Cheese.&#8221; But like any replacement food, the nickname is always bad. IT has a cheese-esque flavor, and it&#8217;s good and healthy, but doesn&#8217;t really mimic cheese well. Not a vegan or vegetarian, but I use this stuff on popcorn all the time.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">4</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Bob Kellum</span>				<time class="comment__time" datetime="2017-01-20T07:40:49+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-153086" class="comment__timestamp">on January 20, 2017 at 7:40 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=153086#respond' onclick='return addComment.moveForm( "comment-153086", "153086", "respond", "4077" )' aria-label='Reply to Bob Kellum'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>You could use Ghee!!!</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">5</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Brian Bennetts</span>				<time class="comment__time" datetime="2017-01-20T03:22:21+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-153064" class="comment__timestamp">on January 20, 2017 at 3:22 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=153064#respond' onclick='return addComment.moveForm( "comment-153064", "153064", "respond", "4077" )' aria-label='Reply to Brian Bennetts'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Oops, shoulda read the comments.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">6</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Brian Bennetts</span>				<time class="comment__time" datetime="2017-01-20T03:20:40+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-153063" class="comment__timestamp">on January 20, 2017 at 3:20 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=153063#respond' onclick='return addComment.moveForm( "comment-153063", "153063", "respond", "4077" )' aria-label='Reply to Brian Bennetts'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>I wonder&#8230; would using ghee (clarified butter&#8230;good stuff though, not the cheap stuff from a plastic bottle) work in reducing the amount of water/moisture from regular butter, or perhaps a 50/50 mix of the two butters?   If it does maintain crispness, does it maintain flavor?</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">7</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">L</span>				<time class="comment__time" datetime="2017-01-19T23:29:59+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-153039" class="comment__timestamp">on January 19, 2017 at 11:29 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=153039#respond' onclick='return addComment.moveForm( "comment-153039", "153039", "respond", "4077" )' aria-label='Reply to L'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>There is only one parenthesis. Where does it end?</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">8</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Becca</span>				<time class="comment__time" datetime="2017-01-19T22:25:23+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-153033" class="comment__timestamp">on January 19, 2017 at 10:25 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=153033#respond' onclick='return addComment.moveForm( "comment-153033", "153033", "respond", "4077" )' aria-label='Reply to Becca'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Using Ghee instead of butter will also preserve crunchiness.  😀</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">9</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Jen Noonan</span>				<time class="comment__time" datetime="2017-01-19T22:14:04+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-153030" class="comment__timestamp">on January 19, 2017 at 10:14 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=153030#respond' onclick='return addComment.moveForm( "comment-153030", "153030", "respond", "4077" )' aria-label='Reply to Jen Noonan'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Why the large metal mixing bowl instead of a pot? I always use a pot. Is that why my popcorn comes out kinda chewy?</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+<ul class="children">
+	<li class="comment odd alt depth-2">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">10</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Jason</span>				<time class="comment__time" datetime="2017-01-19T22:43:03+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-153037" class="comment__timestamp">on January 19, 2017 at 10:43 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=153037#respond' onclick='return addComment.moveForm( "comment-153037", "153037", "respond", "4077" )' aria-label='Reply to Jason'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Hi Jen, that&#8217;s a great question. Try a YouTube search &#8220;alton brown popcorn&#8221; and you would come across the Good Eats episode where he explains this. 🙂</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">11</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Lori Titus</span>				<time class="comment__time" datetime="2017-01-19T20:04:59+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-153014" class="comment__timestamp">on January 19, 2017 at 8:04 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=153014#respond' onclick='return addComment.moveForm( "comment-153014", "153014", "respond", "4077" )' aria-label='Reply to Lori Titus'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>When I make homemade popcorn, I use clarified butter and popcorn stays crunchy! To clarify your butter, heat slowly on the stove and use a spoon to drag off the frothy cream at the top. It&#8217;s easy 🙂</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">12</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Heidi</span>				<time class="comment__time" datetime="2017-01-19T19:42:40+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-153011" class="comment__timestamp">on January 19, 2017 at 7:42 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=153011#respond' onclick='return addComment.moveForm( "comment-153011", "153011", "respond", "4077" )' aria-label='Reply to Heidi'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>If water content in the butter is an issue, perhaps use ghee instead?</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">13</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Lorrie</span>				<time class="comment__time" datetime="2017-01-19T15:27:30+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-152989" class="comment__timestamp">on January 19, 2017 at 3:27 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=152989#respond' onclick='return addComment.moveForm( "comment-152989", "152989", "respond", "4077" )' aria-label='Reply to Lorrie'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>I have a good solution to the butter or oil debate.  Butter infused olive oil.  I use it on popcorn anyway, and it has all the good flavor of butter but not the wilting issues you&#8217;d get with hot butter.  It&#8217;s not exactly at every store but I can get it locally here, or you can buy it online.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">14</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name"><a href='https://goo.gl/dWEAYt' rel='external nofollow' class='url'>https://imoappz.com</a></span>				<time class="comment__time" datetime="2016-12-12T01:00:25+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-148532" class="comment__timestamp">on December 12, 2016 at 1:00 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=148532#respond' onclick='return addComment.moveForm( "comment-148532", "148532", "respond", "4077" )' aria-label='Reply to https://imoappz.com'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>good carrier online application.Share Images and also video clips with your buddies on the air. much faster and also finest rate of sending out Pictures or Video submits to other individuals nice.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">15</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name"><a href='https://tutuappdownloadz.com' rel='external nofollow' class='url'>tutuapp</a></span>				<time class="comment__time" datetime="2016-11-26T01:22:52+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-147331" class="comment__timestamp">on November 26, 2016 at 1:22 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=147331#respond' onclick='return addComment.moveForm( "comment-147331", "147331", "respond", "4077" )' aria-label='Reply to tutuapp'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Great If we speak about the glance of the iphone app it is certainly certainly not that superb. It just simply appears like a frequent third get together retail outlet where you search for the software and mount them.		 Fine.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">16</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name"><a href='https://goo.gl/gknBOq' rel='external nofollow' class='url'>Pokemesh for PC</a></span>				<time class="comment__time" datetime="2016-11-05T03:14:10+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-145647" class="comment__timestamp">on November 5, 2016 at 3:14 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=145647#respond' onclick='return addComment.moveForm( "comment-145647", "145647", "respond", "4077" )' aria-label='Reply to Pokemesh for PC'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>awesome This approach is certainly top-quality because it assures you dont own to download a sole record from the net. You give simply for the viewing fees, and there is certainly no have to account with any Pokemon Trainer reports just as very well nice.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">17</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Becky</span>				<time class="comment__time" datetime="2016-10-16T14:39:38+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-144228" class="comment__timestamp">on October 16, 2016 at 2:39 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=144228#respond' onclick='return addComment.moveForm( "comment-144228", "144228", "respond", "4077" )' aria-label='Reply to Becky'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Where can you find powdered cheddar cheese? I&#8217;ve searched in all the grocery stores in my town and have completely stumped the workers who haven&#8217;t even heard of it. Is this an item you have to buy online?</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+<ul class="children">
+	<li class="comment odd alt depth-2">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">18</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Caroedog</span>				<time class="comment__time" datetime="2017-01-20T01:47:35+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-153053" class="comment__timestamp">on January 20, 2017 at 1:47 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=153053#respond' onclick='return addComment.moveForm( "comment-153053", "153053", "respond", "4077" )' aria-label='Reply to Caroedog'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Use the package from Kraft mac and cheese</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even depth-2">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">19</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Marie</span>				<time class="comment__time" datetime="2017-01-20T12:15:44+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-153102" class="comment__timestamp">on January 20, 2017 at 12:15 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=153102#respond' onclick='return addComment.moveForm( "comment-153102", "153102", "respond", "4077" )' aria-label='Reply to Marie'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Amazon has a number of cheese powders (sour cream too). I use them for baking cheddar bread.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">20</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">jeff</span>				<time class="comment__time" datetime="2016-10-11T21:49:15+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-143951" class="comment__timestamp">on October 11, 2016 at 9:49 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=143951#respond' onclick='return addComment.moveForm( "comment-143951", "143951", "respond", "4077" )' aria-label='Reply to jeff'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>are we supposed to add all of the &#8220;triple cheese topping&#8221; outlined in the recipe for the amount of popcorn indicated, or just some of it?</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+<ul class="children">
+	<li class="comment even depth-2">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">21</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Meghan</span>				<time class="comment__time" datetime="2016-10-12T07:48:38+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-143975" class="comment__timestamp">on October 12, 2016 at 7:48 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=143975#respond' onclick='return addComment.moveForm( "comment-143975", "143975", "respond", "4077" )' aria-label='Reply to Meghan'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>4 oz of kernels will produce about 16 cups (or 4 quarts) of popped corn.  If you feel that the amount of topping is too much, you are of course welcome to use less and save the extra topping in the fridge.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">22</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Matt</span>				<time class="comment__time" datetime="2016-09-24T15:29:33+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-142809" class="comment__timestamp">on September 24, 2016 at 3:29 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=142809#respond' onclick='return addComment.moveForm( "comment-142809", "142809", "respond", "4077" )' aria-label='Reply to Matt'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>While I can appreciate the appeal of Crunchy Cheetos, you may be unaware of the far superior crunchy cheese snacks Hawkins Cheezies.  They are however, only available in Canada, but I suggest everyone try them if they get the chance.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">23</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name"><a href='https://goo.gl/uxD1Qm' rel='external nofollow' class='url'>mobdro for computer</a></span>				<time class="comment__time" datetime="2016-09-19T03:02:18+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-142377" class="comment__timestamp">on September 19, 2016 at 3:02 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=142377#respond' onclick='return addComment.moveForm( "comment-142377", "142377", "respond", "4077" )' aria-label='Reply to mobdro for computer'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>good It’s extremely well-made and incredibly user-friendly and as well features included Chromecast support so you will suitable to stream straightly to your Television set.		 nice.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">24</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Sharon Edelson-Eubanks</span>				<time class="comment__time" datetime="2016-08-27T12:35:52+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-140655" class="comment__timestamp">on August 27, 2016 at 12:35 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=140655#respond' onclick='return addComment.moveForm( "comment-140655", "140655", "respond", "4077" )' aria-label='Reply to Sharon Edelson-Eubanks'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>I see &#8220;3 tablespoon of canola oil&#8221; listed twice but no olive oil listed in the recipe, yet, the &#8220;Notes&#8221; mention the use of olive oil. Two questions: (1) are we to really use 6 TBS (3 + 3= 6) or is the second &#8220;three tablespoons&#8221; a typo? And (2) are we to use (a) canola OR olive oil OR (b) canola AND olive oil and, if we are two use both types of oil, how much olive and at what point in the prep?</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+<ul class="children">
+	<li class="comment even depth-2">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">25</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Mike</span>				<time class="comment__time" datetime="2017-01-19T20:45:47+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-153018" class="comment__timestamp">on January 19, 2017 at 8:45 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=153018#respond' onclick='return addComment.moveForm( "comment-153018", "153018", "respond", "4077" )' aria-label='Reply to Mike'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>The olive oil mentioned is suggested as a substitute for the butter drizzled on at the end. The water content in the butter makes the corn soggy . The olive oil makes the cheeses stick without the wet factor.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">26</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Steve</span>				<time class="comment__time" datetime="2016-08-13T19:32:14+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-139122" class="comment__timestamp">on August 13, 2016 at 7:32 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=139122#respond' onclick='return addComment.moveForm( "comment-139122", "139122", "respond", "4077" )' aria-label='Reply to Steve'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>this recipe is amazing on popcorn!  Hopefully you don&#8217;t over indulge as I did.   Oh the pain lol&#8230;..ready for a colonoscopy afterwards.   Have enjoyed many times since but always keep the quantity within reason</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">27</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Dan</span>				<time class="comment__time" datetime="2016-08-05T14:10:21+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-138520" class="comment__timestamp">on August 5, 2016 at 2:10 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=138520#respond' onclick='return addComment.moveForm( "comment-138520", "138520", "respond", "4077" )' aria-label='Reply to Dan'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Could you substitute clarified butter for the melted butter?</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">28</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name"><a href='https://goo.gl/IHltsX' rel='external nofollow' class='url'>SnapTube Latest</a></span>				<time class="comment__time" datetime="2016-07-26T02:07:40+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-137805" class="comment__timestamp">on July 26, 2016 at 2:07 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=137805#respond' onclick='return addComment.moveForm( "comment-137805", "137805", "respond", "4077" )' aria-label='Reply to SnapTube Latest'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>good we will become publishing about some programs which happen to be equivalent to snaptube and happen to be as well obtainable for iPhone users.	 nice.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">29</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Katisownedbyacat</span>				<time class="comment__time" datetime="2016-06-12T20:37:12+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-135481" class="comment__timestamp">on June 12, 2016 at 8:37 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=135481#respond' onclick='return addComment.moveForm( "comment-135481", "135481", "respond", "4077" )' aria-label='Reply to Katisownedbyacat'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>I found the olive oil to be a bit weird tasting. On the second attempt using butter I did find that the butter wilted the popcorn but tasted a lot better; to rectify this soggy debacle, I divided the popcorn onto 2 parchment lined baking sheets and let it &#8220;dry&#8221; at 250 degrees for 7 to ten minutes. Perfection! Cheesy, crispy, buttery popcorn. Woo hoo!!</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">30</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Matthew Start</span>				<time class="comment__time" datetime="2016-06-11T21:46:28+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-135434" class="comment__timestamp">on June 11, 2016 at 9:46 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=135434#respond' onclick='return addComment.moveForm( "comment-135434", "135434", "respond", "4077" )' aria-label='Reply to Matthew Start'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Super excited to make up a batch since I saw your show on grand rapids.  Just made some up and I can&#8217;t prevent it from clumping into one big ball.  Even added some unpopped kernels to try and prevent clumping but they didn&#8217;t help.  Did I do something wrong?</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">31</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">TimS</span>				<time class="comment__time" datetime="2016-06-03T20:16:08+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-134795" class="comment__timestamp">on June 3, 2016 at 8:16 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=134795#respond' onclick='return addComment.moveForm( "comment-134795", "134795", "respond", "4077" )' aria-label='Reply to TimS'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>I refuse to eat &#8220;green can&#8221; parmesan since reading about how much wood cellulose is put into it, which is over what is recommended and advertised. Some brands aren&#8217;t even made of parmesan but rather white cheddar!</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">32</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Dorothy Dyson</span>				<time class="comment__time" datetime="2016-05-24T14:36:32+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-134371" class="comment__timestamp">on May 24, 2016 at 2:36 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=134371#respond' onclick='return addComment.moveForm( "comment-134371", "134371", "respond", "4077" )' aria-label='Reply to Dorothy Dyson'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Great show! We had a blast! Thanks for coming to Redding.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">33</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Ann Thompson</span>				<time class="comment__time" datetime="2016-05-23T16:15:42+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-134333" class="comment__timestamp">on May 23, 2016 at 4:15 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=134333#respond' onclick='return addComment.moveForm( "comment-134333", "134333", "respond", "4077" )' aria-label='Reply to Ann Thompson'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Loved the show from Redding! Thank you for the popcorn recipe!! Is the cheddar powder 2 ounces by weight or by volume?</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">34</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Ashley</span>				<time class="comment__time" datetime="2016-05-23T13:33:37+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-134329" class="comment__timestamp">on May 23, 2016 at 1:33 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=134329#respond' onclick='return addComment.moveForm( "comment-134329", "134329", "respond", "4077" )' aria-label='Reply to Ashley'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Went to the Redding show! You were amazing! Thanks for a funtastic show!!!! Thanks for meeting your fans afterwards, you made our year!!!! Can&#8217;t wait to make this when I get home!</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">35</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">charlotte</span>				<time class="comment__time" datetime="2016-05-20T11:09:19+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-134238" class="comment__timestamp">on May 20, 2016 at 11:09 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=134238#respond' onclick='return addComment.moveForm( "comment-134238", "134238", "respond", "4077" )' aria-label='Reply to charlotte'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>loved the San Jose show &#8230;&#8230;.just wish there was more food science. &#8230;maybe i can appease the food god by offering a sacrifice? im excited to try the cheese powder. Will there be a doritos powder coming out soon? =o)</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">36</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">JeffHallett</span>				<time class="comment__time" datetime="2016-05-19T15:13:47+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-134206" class="comment__timestamp">on May 19, 2016 at 3:13 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=134206#respond' onclick='return addComment.moveForm( "comment-134206", "134206", "respond", "4077" )' aria-label='Reply to JeffHallett'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Agree with Aileen&#8230;was also at the show in San Jose last night and I believe the term was &#8220;heroine of the culinary world&#8221; 😀  I too came here explicitly to find this recipe and will be trying it this weekend.  Thanks for a great show and for solving this essential equation for our understanding of the known physical universe.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">37</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Aileen</span>				<time class="comment__time" datetime="2016-05-19T09:55:41+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-134203" class="comment__timestamp">on May 19, 2016 at 9:55 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=134203#respond' onclick='return addComment.moveForm( "comment-134203", "134203", "respond", "4077" )' aria-label='Reply to Aileen'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>My husband and I just attended the show in San Jose last night. (We were the pair with yeast sock puppets way off to your right.) The minute you announced the &#8220;crack of the culinary world&#8221; we turned to each other and just knew we had to find this recipe. We&#8217;re looking forward to making this, with our usual popcorn made on the stove with the (sorry it&#8217;s a unitasker) pot with the built in agitator, our homemade clarified butter, and the salt I ground down in my mortar and pestle because we just can&#8217;t seem to find pickling salt at our grocery store.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">38</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Saltier Bit</span>				<time class="comment__time" datetime="2016-05-16T12:56:14+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-134119" class="comment__timestamp">on May 16, 2016 at 12:56 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=134119#respond' onclick='return addComment.moveForm( "comment-134119", "134119", "respond", "4077" )' aria-label='Reply to Saltier Bit'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Made this yesterday.  The Cheetos reference is well-earned.  I made sure to get the bright orange cheddar cheese powder!  The recipe doesn&#8217;t say when to add the cheddar cheese powder &#8211; it&#8217;s not listed in the dry ingredients that get buzzed together.  I added it anyway.  2 ounces is a LOT of cheddar cheese powder!   I also added 1/4 tsp of Flavocal seasoning.  I had about half of the recipe leftover after adding it to the popcorn&#8230; which is the perfect reason to make more popcorn!</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">39</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Kathleen L Morgan</span>				<time class="comment__time" datetime="2016-05-16T11:21:41+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-134118" class="comment__timestamp">on May 16, 2016 at 11:21 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=134118#respond' onclick='return addComment.moveForm( "comment-134118", "134118", "respond", "4077" )' aria-label='Reply to Kathleen L Morgan'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Yes! San Diego was awesome yesterday! Can&#8217;t wait to try the popcorn.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">40</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Joe Kraatz</span>				<time class="comment__time" datetime="2016-05-16T00:13:19+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-134096" class="comment__timestamp">on May 16, 2016 at 12:13 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=134096#respond' onclick='return addComment.moveForm( "comment-134096", "134096", "respond", "4077" )' aria-label='Reply to Joe Kraatz'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Loved your show at the Balboa Theater this afternoon.  Haven&#8217;t been that entertained in ages.  Can&#8217;t wait to try the popcorn recipe.  I eat so much pop corn Inshould go through the 12 step program!</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">41</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Chuck</span>				<time class="comment__time" datetime="2016-04-27T19:06:53+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-133247" class="comment__timestamp">on April 27, 2016 at 7:06 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=133247#respond' onclick='return addComment.moveForm( "comment-133247", "133247", "respond", "4077" )' aria-label='Reply to Chuck'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>The aged white cheddar Pirate Booty (in the &#8220;health&#8221; food section of our grocery store) is the best cheese flavored packing foam product on the market, but I will definitely give this a try when I gather the raw ingredients. Thanks for the great show @ Syracuse, btw!</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">42</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Callie Benson</span>				<time class="comment__time" datetime="2016-04-25T14:20:52+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-133129" class="comment__timestamp">on April 25, 2016 at 2:20 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=133129#respond' onclick='return addComment.moveForm( "comment-133129", "133129", "respond", "4077" )' aria-label='Reply to Callie Benson'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Clarified butter or ghee should eliminate the moisture issue&#8230; and add more buttery goodness!</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">43</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Wayne</span>				<time class="comment__time" datetime="2016-04-20T18:34:32+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-132858" class="comment__timestamp">on April 20, 2016 at 6:34 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=132858#respond' onclick='return addComment.moveForm( "comment-132858", "132858", "respond", "4077" )' aria-label='Reply to Wayne'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Mr. Brown, we loves the Durham NC show this past Friday.  Made a batch of the umami powder tonight, and I wondered if you had any anti-caking suggestions.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+<ul class="children">
+	<li class="comment odd alt depth-2">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">44</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Wayne</span>				<time class="comment__time" datetime="2016-04-20T18:35:47+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-132859" class="comment__timestamp">on April 20, 2016 at 6:35 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=132859#respond' onclick='return addComment.moveForm( "comment-132859", "132859", "respond", "4077" )' aria-label='Reply to Wayne'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Loved.  Not loves.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">45</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Alberto Yu</span>				<time class="comment__time" datetime="2016-04-10T08:47:18+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-132314" class="comment__timestamp">on April 10, 2016 at 8:47 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=132314#respond' onclick='return addComment.moveForm( "comment-132314", "132314", "respond", "4077" )' aria-label='Reply to Alberto Yu'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>More habit forming than Heroine.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">46</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Sevie</span>				<time class="comment__time" datetime="2016-04-09T18:45:03+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-132250" class="comment__timestamp">on April 9, 2016 at 6:45 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=132250#respond' onclick='return addComment.moveForm( "comment-132250", "132250", "respond", "4077" )' aria-label='Reply to Sevie'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>A great snack for movie night! I will have to disagree with you on the Cheetos thing though! They&#8217;re great when your power gets knocked out by a hurricane (I live in Louisiana), all those preservatives keep it nice and fresh, haha. After this tour, you should come to Baton Rouge, Louisiana! We have some great places, and I would love to meet you!</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+<ul class="children">
+	<li class="comment even depth-2">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">47</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Sevie</span>				<time class="comment__time" datetime="2016-04-09T18:54:30+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-132251" class="comment__timestamp">on April 9, 2016 at 6:54 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=132251#respond' onclick='return addComment.moveForm( "comment-132251", "132251", "respond", "4077" )' aria-label='Reply to Sevie'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>You&#8217;re power gets knocked out by a hurricane.***</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+<ul class="children">
+	<li class="comment odd alt depth-3">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">48</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">grandma1995</span>				<time class="comment__time" datetime="2016-04-11T18:52:25+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-132419" class="comment__timestamp">on April 11, 2016 at 6:52 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=132419#respond' onclick='return addComment.moveForm( "comment-132419", "132419", "respond", "4077" )' aria-label='Reply to grandma1995'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>You had it right the first time</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">49</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Scotty J</span>				<time class="comment__time" datetime="2016-04-07T08:46:58+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-131765" class="comment__timestamp">on April 7, 2016 at 8:46 am </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=131765#respond' onclick='return addComment.moveForm( "comment-131765", "131765", "respond", "4077" )' aria-label='Reply to Scotty J'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>Nay, Cheddar Jalapeno Cheetos are the greatest snack food ever created.  I buy them in gross on Amazon, because they&#8217;re rarely on the shelf at the shops or in the food machine at work.  There&#8217;s a case of them in my trunk as we speak.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">50</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Jim</span>				<time class="comment__time" datetime="2016-04-06T18:29:38+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-131713" class="comment__timestamp">on April 6, 2016 at 6:29 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=131713#respond' onclick='return addComment.moveForm( "comment-131713", "131713", "respond", "4077" )' aria-label='Reply to Jim'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>First paragraph seems a bit janky, but I&#8217;m guessing it is saying you don&#8217;t need to process the cheddar cheese powder, can just mix it in with the rest of the stuff after you process them. Also, double canola oil in the recipe I assume is a mistake?</p>
+<p>All that being said Cheetos are the only cheese flavored products I like, so have to try this.</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1">
+	<article id="comment-" class="comment-article  media">
+				<span class="comment-number">51</span>
+						<div class="media__body">
+			<header class="comment__meta comment-author">
+				<span class="comment__author-name">Jennifer Sabatino</span>				<time class="comment__time" datetime="2016-04-06T17:38:26+00:00"><a href="http://altonbrown.com/triple-cheese-popcorn-recipe/#comment-131710" class="comment__timestamp">on April 6, 2016 at 5:38 pm </a></time>
+				<div class="comment__links">
+					<a rel='nofollow' class='comment-reply-link' href='http://altonbrown.com/triple-cheese-popcorn-recipe/?replytocom=131710#respond' onclick='return addComment.moveForm( "comment-131710", "131710", "respond", "4077" )' aria-label='Reply to Jennifer Sabatino'>Reply</a>				</div>
+			</header><!-- .comment-meta -->
+						<section class="comment__content comment">
+				<p>oh hell yeah</p>
+			</section>
+		</div>
+	</article>
+	<!-- </li> is added by WordPress automatically -->
+</li><!-- #comment-## -->
+            </ol><!-- .commentlist -->
+
+                    
+
+        
+    </div><!-- #comments .comments-area -->
+    	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><span class="comment-number total">+</span> Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/triple-cheese-popcorn-recipe/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://altonbrown.com/wp-comments-post.php?wpe-comment-post=brainfoodind" method="post" id="commentform" class="comment-form">
+				<p class="comment-form-comment"><label for="comment" class="show-on-ie8">Comment</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true" placeholder="Your thoughts.."></textarea></p><p class="comment-form-author"><label for="author" class="show-on-ie8">Name</label><input id="author" name="author" value="" type="text" placeholder="Name..." size="30"  aria-required='true' /></p><!--
+--><p class="comment-form-email"><label for="name" class="show-on-ie8">Email</label><input id="email" name="email" value="" size="30" type="text" placeholder="your@email.com..."  aria-required='true' /></p><!--
+--><p class="comment-form-url"><label for="url" class="show-on-ie8">Url</label><input id="url" name="url" value="" size="30" placeholder="Website..." type="text"></p>
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Submit" /> <input type='hidden' name='comment_post_ID' value='4077' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="a465ef6678" /></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">Notify me of follow-up comments by email.</label></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Notify me of new posts by email.</label></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="220"/></p>			</form>
+			</div><!-- #respond -->
+	
+			</article>
+			</div><!-- .page-content__wrapper -->		</div>
+
+				<aside class="sidebar  sidebar--main">
+		<div id="text-4" class="widget widget--sidebar-blog widget_text">			<div class="textwidget"><div class="subscribe-box">
+	<div class="box-header">
+		<div class="box-header-logo">
+			<img src="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/b-nx_oqumaa0go7.jpg" alt="Alton" />
+		</div>
+		<div class="box-header-title">
+			<h3>Welcome to <br /> AltonBrown.com</h3>
+		</div>
+	</div>
+	<div class="box-content">
+<p>Never miss a recipe, tour announcement or podcast ever again. <br /> Subscribe to my newsletter below!</p>
+		<button id="button-pop" class="subscribe-button button-pop" >Subscribe Here</button>
+	</div>
+</div></div>
+		</div><div id="wpgrade_social_links-2" class="widget widget--sidebar-blog widget_wpgrade_social_links">			<h3 class="widget__title widget--sidebar-blog__title">Social</h3>			<div class="btn-list">
+										<a href="https://www.facebook.com/altonbrown" target="_blank">
+							<i class="pixcode  pixcode--icon  icon-e-facebook circle xsmall"></i>
+						</a>
+											<a href="https://twitter.com/altonbrown" target="_blank">
+							<i class="pixcode  pixcode--icon  icon-e-twitter circle xsmall"></i>
+						</a>
+											<a href="http://www.pinterest.com/altonbrown/" target="_blank">
+							<i class="pixcode  pixcode--icon  icon-e-pinterest circle xsmall"></i>
+						</a>
+											<a href="http://instagram.com/altonbrown" target="_blank">
+							<i class="pixcode  pixcode--icon  icon-e-instagram circle xsmall"></i>
+						</a>
+											<a href="https://plus.google.com/+AltonBrown/posts" target="_blank">
+							<i class="pixcode  pixcode--icon  icon-e-gplus circle xsmall"></i>
+						</a>
+											<a href="https://www.youtube.com/altonbrown" target="_blank">
+							<i class="pixcode  pixcode--icon  icon-e-youtube circle xsmall"></i>
+						</a>
+								</div>
+		</div><div id="wpgrade_popular_posts-2" class="widget widget--sidebar-blog wpgrade_popular_posts"><h3 class="widget__title widget--sidebar-blog__title">Popular Post</h3>			<article class="article  article--list">
+				<a href="http://altonbrown.com/homemade-marshmallow-recipe/" title="Homemade Marshmallows" class="article--list__link">
+											<div class="media__img  article__img  push-half--right">
+							<img src="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/alton-brown-homemade-marshmallows-150x150.jpg" alt="Homemade Marshmallows" class="popular-posts-widget__img" />
+						</div>
+										<div class="media__body">
+						<span class="article__category">Alton's Blog</span>
+						<div class="article__title  article--list__title">
+							<h4 class="hN">Homemade Marshmallows</h4>
+						</div>
+					</div><!-- .media__body -->
+				</a>
+			</article><!-- .article- -list -->
+						<article class="article  article--list">
+				<a href="http://altonbrown.com/hot-cocoa-mix-recipe/" title="Hot Cocoa Mix" class="article--list__link">
+											<div class="media__img  article__img  push-half--right">
+							<img src="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2016/01/alton-brown-hot-cocoa-mix_s-150x150.jpg" alt="Alton Brown&#039;s Hot Cocoa Mix Recipe" class="popular-posts-widget__img" />
+						</div>
+										<div class="media__body">
+						<span class="article__category">Alton's Blog</span>
+						<div class="article__title  article--list__title">
+							<h4 class="hN">Hot Cocoa Mix</h4>
+						</div>
+					</div><!-- .media__body -->
+				</a>
+			</article><!-- .article- -list -->
+						<article class="article  article--list">
+				<a href="http://altonbrown.com/christmas-soup-recipe/" title="Christmas Soup" class="article--list__link">
+											<div class="media__img  article__img  push-half--right">
+							<img src="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/alton-brown-christmas-soup-150x150.jpg" alt="Christmas Soup" class="popular-posts-widget__img" />
+						</div>
+										<div class="media__body">
+						<span class="article__category">Alton's Blog</span>
+						<div class="article__title  article--list__title">
+							<h4 class="hN">Christmas Soup</h4>
+						</div>
+					</div><!-- .media__body -->
+				</a>
+			</article><!-- .article- -list -->
+						<article class="article  article--list">
+				<a href="http://altonbrown.com/eggnog-recipe/" title="My Aged Eggnog Recipe" class="article--list__link">
+											<div class="media__img  article__img  push-half--right">
+							<img src="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/alton-brown-eggnog-150x150.jpg" alt="My Aged Eggnog Recipe" class="popular-posts-widget__img" />
+						</div>
+										<div class="media__body">
+						<span class="article__category">Alton's Blog</span>
+						<div class="article__title  article--list__title">
+							<h4 class="hN">My Aged Eggnog Recipe</h4>
+						</div>
+					</div><!-- .media__body -->
+				</a>
+			</article><!-- .article- -list -->
+						<article class="article  article--list">
+				<a href="http://altonbrown.com/guacamole-recipe/" title="The Guac" class="article--list__link">
+											<div class="media__img  article__img  push-half--right">
+							<img src="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/alton-brown-guacamole-150x150.jpg" alt="The Guac" class="popular-posts-widget__img" />
+						</div>
+										<div class="media__body">
+						<span class="article__category">Alton's Blog</span>
+						<div class="article__title  article--list__title">
+							<h4 class="hN">The Guac</h4>
+						</div>
+					</div><!-- .media__body -->
+				</a>
+			</article><!-- .article- -list -->
+			</div><div id="recent-comments-3" class="widget widget--sidebar-blog widget--latest-comments"><h3 class="widget__title widget--sidebar-blog__title">Latest Comments</h3>				<article class="latest-comments__list">
+					<div class="media__body  latest-comments__body">
+						<div class="comment__meta">
+							<a class="latest-comments__author" href="">Ryan</a> on
+							<a class="latest-comments__title" href="http://altonbrown.com/?p=2856">10 Knife-Buying Tips</a>
+						</div>
+						<div class="latest-comments__content">
+							<a href="http://altonbrown.com/?p=2856"><p>Well OXO makes individual Knife safes which have rubber cushions that float and protect the cutting edge from dulling due to rubbing. and I have</p></a>
+						</div>
+					</div>
+				</article>
+								<article class="latest-comments__list">
+					<div class="media__body  latest-comments__body">
+						<div class="comment__meta">
+							<a class="latest-comments__author" href="">shyurngsfriend</a> on
+							<a class="latest-comments__title" href="http://altonbrown.com/?p=2856">10 Knife-Buying Tips</a>
+						</div>
+						<div class="latest-comments__content">
+							<a href="http://altonbrown.com/?p=2856"><p>Umm. . . protection. . . :)</p></a>
+						</div>
+					</div>
+				</article>
+								<article class="latest-comments__list">
+					<div class="media__body  latest-comments__body">
+						<div class="comment__meta">
+							<a class="latest-comments__author" href="">shyurngsfriend</a> on
+							<a class="latest-comments__title" href="http://altonbrown.com/?p=2856">10 Knife-Buying Tips</a>
+						</div>
+						<div class="latest-comments__content">
+							<a href="http://altonbrown.com/?p=2856"><p>To the question about storage with kids, if you have a cabinet door that you could mount a magnetic strip on and then put a</p></a>
+						</div>
+					</div>
+				</article>
+								<article class="latest-comments__list">
+					<div class="media__body  latest-comments__body">
+						<div class="comment__meta">
+							<a class="latest-comments__author" href="">Chris Dac</a> on
+							<a class="latest-comments__title" href="http://altonbrown.com/?p=1856">The Only Pizza Dough Recipe You Need</a>
+						</div>
+						<div class="latest-comments__content">
+							<a href="http://altonbrown.com/?p=1856"><p>Hi Scott. Great question. The only thing I have to offer to that question is this: Sugar is a solid at room temp. Honey is</p></a>
+						</div>
+					</div>
+				</article>
+								<article class="latest-comments__list">
+					<div class="media__body  latest-comments__body">
+						<div class="comment__meta">
+							<a class="latest-comments__author" href="">Chris Dac</a> on
+							<a class="latest-comments__title" href="http://altonbrown.com/?p=1856">The Only Pizza Dough Recipe You Need</a>
+						</div>
+						<div class="latest-comments__content">
+							<a href="http://altonbrown.com/?p=1856"><p>I second that!</p></a>
+						</div>
+					</div>
+				</article>
+				</div>		</aside><!-- .sidebar -->
+				</section><!-- .content -->
+				<footer class="site-footer">
+					<h2 class="accessibility"></h2>
+
+						<div class="footer-widget-area  col-1">
+		<aside class="sidebar">
+		<div id="nav_menu-3" class="widget widget--menu widget_nav_menu"><div class="menu-header-menu-container"><ul id="menu-header-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4166"><a href="http://bit.ly/EYSBroadwayTkts">EAT YOUR SCIENCE</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4185"><a href="http://www.altonbrowntour.com/shows/">Buy Tour Tickets</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4167"><a href="http://altonbrown.com/alton-brown-live-eat-science-broadway/">ABOUT</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4562"><a href="http://altonbrown.com/alton-brown-everydaycook-cookbook/">EveryDayCook</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1795"><a href="http://altonbrown.com/altonblog/recipes/">RECIPES</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2874"><a href="http://altonbrown.com/tag/appetizers/">APPETIZERS / SNACKS</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2872"><a href="http://altonbrown.com/tag/breakfast/">BREAKFAST</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4131"><a href="http://altonbrown.com/tag/dinner/">DINNER</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2873"><a href="http://altonbrown.com/tag/dessert/">DESSERT</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2871"><a href="http://altonbrown.com/tag/drinks/">DRINKS</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3988"><a href="http://altonbrown.com/tag/culinary-toolbox/">CULINARY TOOLBOX</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1342"><a href="http://altonbrown.com/tag/ab-road-eats/">AB ROAD EATS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-930"><a href="http://altonbrown.com/tag/videos/">VIDEOS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4002"><a href="http://altonbrown.com/altonblog/the-alton-browncast-podcast/">ALTON BROWNCAST</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3991"><a href="https://itunes.apple.com/us/podcast/the-alton-browncast/id925156477">iTunes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3992"><a href="http://www.stitcher.com/podcast/the-alton-browncast/">Stitcher Radio</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3993"><a href="http://altonbrown.com/feed/podcast/">RSS Feed</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2310"><a href="http://altonbrown.com/contact/">CONTACT</a></li>
+</ul></div></div>		</aside><!-- .sidebar -->
+	</div><!-- .grid__item -->
+
+					<div class="footer-menu">
+						<nav class="navigation  navigation--footer">
+													</nav>
+					</div>
+					<div class="copyright-text">
+						<span><div>© 2015 Alton Brown. All Rights Reserved.
+© 2014 Handcrafted with love by <a href="#">PixelGrade</a> Team</div></span>
+					</div>
+				</footer><!-- .site-footer -->
+			</div><!-- .container -->
+		</div><!-- .wrapper -->
+		<div id="pum-4288" class="pum pum-overlay pum-theme-4264 popmake-overlay" data-popmake="{&quot;id&quot;:4288,&quot;slug&quot;:&quot;newsletter-pop-up&quot;,&quot;theme_id&quot;:4264,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_open&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-4288&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:1,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:1}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.button-pop&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:[&quot;add_new&quot;]}}}],&quot;mobile_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;50&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-4288" class="pum-container popmake theme-4264 pum-responsive pum-responsive-small responsive size-small">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<p style="text-align: center;"><a href="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2014/09/ab-logo-postit.jpg"><img class="size-medium wp-image-1250 aligncenter" src="http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/uploads/2014/09/ab-logo-postit-300x77.jpg" alt="AB-Logo-PostIt" width="300" height="77"/></a></p>
+<h2 style="text-align: center;">Subscribe to Newsletter</h2>
+<p style="text-align: center;">
+                <div class='gf_browser_chrome gform_wrapper' id='gform_wrapper_1' ><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/triple-cheese-popcorn-recipe/'>
+                        <div class='gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><li id='field_1_1' class='gfield field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label gfield_label_before_complex' for='input_1_1_3' >Name</label><div class='ginput_complex ginput_container no_prefix has_first_name no_middle_name no_last_name no_suffix gf_name_has_1 ginput_container_name gfield_trigger_change' id='input_1_1'>
+                            
+                            <span id='input_1_1_3_container' class='name_first' >
+                                                    <input type='text' name='input_1.3' id='input_1_1_3' value='' aria-label='First name' tabindex='2'   aria-invalid="false" />
+                                                    <label for='input_1_1_3' >First</label>
+                                                </span>
+                            
+                            
+                            
+                        </div></li><li id='field_1_2' class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_1_2' >Email<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_2' id='input_1_2' type='text' value='' class='large' tabindex='6'   />
+                        </div></li><li id='field_1_3' class='gfield field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label'  >What are you interested in:</label><div class='ginput_container ginput_container_checkbox'><ul class='gfield_checkbox' id='input_1_3'><li class='gchoice_1_3_1'>
+								<input name='input_3.1' type='checkbox'  value='Recipes'  id='choice_1_3_1' tabindex='7'  />
+								<label for='choice_1_3_1' id='label_1_3_1'>Recipes</label>
+							</li><li class='gchoice_1_3_2'>
+								<input name='input_3.2' type='checkbox'  value='Events'  id='choice_1_3_2' tabindex='8'  />
+								<label for='choice_1_3_2' id='label_1_3_2'>Events</label>
+							</li><li class='gchoice_1_3_3'>
+								<input name='input_3.3' type='checkbox'  value='Book Updates'  id='choice_1_3_3' tabindex='9'  />
+								<label for='choice_1_3_3' id='label_1_3_3'>Book Updates</label>
+							</li><li class='gchoice_1_3_4'>
+								<input name='input_3.4' type='checkbox'  value='General News'  id='choice_1_3_4' tabindex='10'  />
+								<label for='choice_1_3_4' id='label_1_3_4'>General News</label>
+							</li></ul></div></li>
+                            </ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='Submit' tabindex='11' onclick='if(window["gf_submitting_1"]){return false;}  window["gf_submitting_1"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} window["gf_submitting_1"]=true;  jQuery("#gform_1").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=&amp;tabindex=1' />
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsIjFiNWZhY2JjOWIzZWZjYTBlNzkzNWVlNTUwYWVmOTAzIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1'>This iframe contains the logic required to handle AJAX powered Gravity Forms.</iframe>
+                <script type='text/javascript'>jQuery(document).ready(function($){gformInitSpinner( 1, 'http://altonbrown.com/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery('#gform_ajax_frame_1').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */  }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'http://altonbrown.com/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('#gforms_confirmation_message_1').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith('<' + 'div id=\'gforms_confirmation_message_1\' class=\'gform_confirmation_message_1 gforms_confirmation_message\'' + '>' + confirmation_content + '<' + '/div' + '>');jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} );</script><script type='text/javascript'> if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/altonbrown.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/altonbrown.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); </script></p>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			×            </button>
+		
+	</div>
+
+</div>
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/akismet/_inc/form.js?ver=3.2'></script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/themes/heap/theme-content/js/plugins.js?ver=4.7.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxurl = "http:\/\/altonbrown.com\/wp-admin\/admin-ajax.php";
+var objectl10n = {"tPrev":"Previous (Left arrow key)","tNext":"Next (Right arrow key)","tCounter":"of","infscrLoadingText":"","infscrReachedEnd":""};
+var theme_name = "heap";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/themes/heap/theme-content/js/main.js?ver=201601192016'></script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201704'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var locals = {"ajax_url":"http:\/\/altonbrown.com\/wp-admin\/admin-ajax.php","ajax_nounce":"91e7abc335","load_likes_with_ajax":"","already_voted_msg":"You already voted!","like_on_action":"click","hover_time":"1000","free_votes":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/pixlikes/js/public.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/wp-gif-player/js/play_gif.js?ver=1481810774'></script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/jetpack/_inc/spin.js?ver=1.3'></script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/wp-gif-player/inc/jquery.spin.js?ver=1.0'></script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-includes/js/comment-reply.min.js?ver=4.7.1'></script>
+<script type='text/javascript' src='http://s7.addthis.com/js/300/addthis_widget.js?ver=4.7.1#async=1'></script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pum_vars = {"ajaxurl":"http:\/\/altonbrown.com\/wp-admin\/admin-ajax.php","default_theme":"4263"};
+var ajaxurl = "http:\/\/altonbrown.com\/wp-admin\/admin-ajax.php";
+var popmake_default_theme = "4263";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-content/plugins/popup-maker/assets/js/site.min.js?defer&#038;ver=1.4.21' defer='defer'></script>
+<script type='text/javascript' src='http://1g3qt034qrei26p6x54fpg09.wpengine.netdna-cdn.com/wp-includes/js/wp-embed.min.js?ver=4.7.1'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201704.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.4.2',blog:'24714606',post:'4077',tz:'-5',srv:'altonbrown.com'} ]);
+	_stq.push([ 'clickTrackerInit', '24714606', '4077' ]);
+</script>
+<script type="text/javascript">
+;(function($){
+                                            
+})(jQuery);
+</script>
+
+	</body>
+</html>

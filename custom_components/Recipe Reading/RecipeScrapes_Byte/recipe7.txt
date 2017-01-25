@@ -1,0 +1,933 @@
+http://www.almondtozest.com/chicken-leek-brie-pie/
+
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<title>Chicken, Leek and Brie Pie | almondtozest.com</title><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<style type="text/css">
+			.slide-excerpt { width: 100%; }
+			.slide-excerpt { bottom: 0; }
+			.slide-excerpt { right: 0; }
+			.flexslider { max-width: 680px; max-height: 400px; }
+			.slide-image { max-height: 400px; }
+		</style>
+<!-- This site is optimized with the Yoast SEO plugin v3.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.almondtozest.com/chicken-leek-brie-pie/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Chicken, Leek and Brie Pie | almondtozest.com" />
+<meta property="og:description" content="I love eating pie. Sweet or savoury it doesn’t matter as long as it comes piping hot and full of flavor I am willing to burn the inside of my mouth off for one. The only problem with making pies though is that they have a fiddley and difficult process that involves different types of...Read More &raquo;" />
+<meta property="og:url" content="http://www.almondtozest.com/chicken-leek-brie-pie/" />
+<meta property="og:site_name" content="Almond to Zest" />
+<meta property="article:publisher" content="https://www.facebook.com/pages/Almond-to-Zest/494169250625745" />
+<meta property="article:section" content="Brunch" />
+<meta property="article:published_time" content="2015-08-31T05:03:56-08:00" />
+<meta property="article:modified_time" content="2016-09-30T22:36:34-08:00" />
+<meta property="og:updated_time" content="2016-09-30T22:36:34-08:00" />
+<meta property="og:image" content="http://www.almondtozest.com/wp-content/uploads/2015/08/IMG_0766.jpg" />
+<meta property="og:image:width" content="650" />
+<meta property="og:image:height" content="975" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="I love eating pie. Sweet or savoury it doesn’t matter as long as it comes piping hot and full of flavor I am willing to burn the inside of my mouth off for one. The only problem with making pies though is that they have a fiddley and difficult process that involves different types of...Read More &raquo;" />
+<meta name="twitter:title" content="Chicken, Leek and Brie Pie | almondtozest.com" />
+<meta name="twitter:image" content="http://www.almondtozest.com/wp-content/uploads/2015/08/IMG_0766.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Almond to Zest &raquo; Feed" href="http://feeds.feedburner.com/AlmondToZest" />
+<link rel="alternate" type="application/rss+xml" title="Almond to Zest &raquo; Comments Feed" href="http://www.almondtozest.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Almond to Zest &raquo; Chicken, Leek and Brie Pie Comments Feed" href="http://www.almondtozest.com/chicken-leek-brie-pie/feed/" />
+<!-- This site is powered by Shareaholic - https://shareaholic.com -->
+<script type='text/javascript' data-cfasync='false'>
+  //<![CDATA[
+    _SHR_SETTINGS = {"endpoints":{"local_recs_url":"http:\/\/www.almondtozest.com\/wp-admin\/admin-ajax.php?action=shareaholic_permalink_related","share_counts_url":"http:\/\/www.almondtozest.com\/wp-admin\/admin-ajax.php?action=shareaholic_share_counts_api"}};
+  //]]>
+</script>
+<script type='text/javascript' data-cfasync='false'
+        src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js'
+        data-shr-siteid='48a792ece7484bc624ef867cf74d23c2' async='async' >
+</script>
+
+<!-- Shareaholic Content Tags -->
+<meta name='shareaholic:site_name' content='Almond to Zest' />
+<meta name='shareaholic:language' content='en-US' />
+<meta name='shareaholic:url' content='http://www.almondtozest.com/chicken-leek-brie-pie/' />
+<meta name='shareaholic:keywords' content='brunch, dinner, lunch, mains' />
+<meta name='shareaholic:article_published_time' content='2015-08-31T12:03:56+00:00' />
+<meta name='shareaholic:article_modified_time' content='2017-01-18T03:52:40+00:00' />
+<meta name='shareaholic:shareable_page' content='true' />
+<meta name='shareaholic:article_author_name' content='Kylie' />
+<meta name='shareaholic:site_id' content='48a792ece7484bc624ef867cf74d23c2' />
+<meta name='shareaholic:wp_version' content='7.8.0.3' />
+<meta name='shareaholic:image' content='http://www.almondtozest.com/wp-content/uploads/2015/08/IMG_0766.jpg' />
+<!-- Shareaholic Content Tags End -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.almondtozest.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='foodie-pro-theme-css'  href='http://www.almondtozest.com/wp-content/themes/foodiepro/style.css?ver=2.1.3' type='text/css' media='all' />
+<style id='foodie-pro-theme-inline-css' type='text/css'>
+.recipes-top, .footer-widgets, .form-allowed-tags{background:#f8f8f8;}.before-header, .enews-widget{background:#f8f8f8;}.genesis-nav-menu > li > a:hover, .genesis-nav-menu > .current-menu-item > a{color:#3c6989;}h1.entry-title, .entry-title a, .widgettitle, .recipes-top .widgettitle, .footer-widgets .widgettitle{color:#3c6989;}a, .entry-meta a, .post-info a, .post-meta a, .site-footer a, .entry-content a{color:#3c6989;}a:hover, .entry-meta a:hover, .post-info a:hover, .post-meta a:hover, .site-footer a:hover{color:#6cb2eb;}.enews-widget input[type="submit"]{background:#3c6989;}.button:hover, button:hover, .enews-widget input[type="submit"]:hover{color:#6cb2eb;}body{font-family:"Source Sans Pro","Helvetica Neue",sans-serif;}input, select, textarea, .wp-caption-text, .site-description, .entry-meta, .post-info, .post-meta{font-family:"Droid Serif","Helvetica Neue",sans-serif;font-style:normal;}h1, h2, h3, h4, h5, h6, .site-title, .entry-title, .widgettitle{font-family:"Source Sans Pro","Helvetica Neue",sans-serif;}
+</style>
+<link rel='stylesheet' id='et_bloom-open-sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' type='text/css' media='all' />
+<link rel='stylesheet' id='et_bloom-css-css'  href='http://www.almondtozest.com/wp-content/plugins/bloom/css/style.css?ver=1.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3Aregular%2Citalic%2C700%2C200%2C300%2C300italic%2C900%7CDroid+Serif%3Aregular%2Citalic%2C700%26subset%3Dlatin%2C&#038;ver=2.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='easyrecipestyle-reset-css'  href='http://www.almondtozest.com/wp-content/plugins/easyrecipe/css/easyrecipe-style-reset-min.css?ver=3.5.3208' type='text/css' media='all' />
+<link rel='stylesheet' id='easyrecipebuttonUI-css'  href='http://www.almondtozest.com/wp-content/plugins/easyrecipe/ui/easyrecipe-buttonUI.css?ver=3.5.3208' type='text/css' media='all' />
+<link rel='stylesheet' id='easyrecipestyle-css'  href='http://www.almondtozest.com/wp-content/plugins/easyrecipe/styles/style002a/style.css?ver=3.5.3208.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='http://www.almondtozest.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.almondtozest.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slider_styles-css'  href='http://www.almondtozest.com/wp-content/plugins/genesis-responsive-slider/style.css?ver=0.9.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.almondtozest.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.almondtozest.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jpibfi_options = {"hover":{"siteTitle":"Almond to Zest","image_selector":".jpibfi_container img","disabled_classes":"nopin;wp-smiley","enabled_classes":"","min_image_height":"0","min_image_height_small":0,"min_image_width":"0","min_image_width_small":0,"show_on":"[front],[home],[single],[page],[archive],[search],[category]","disable_on":"","show_on_home":"1","show_on_single":"1","show_on_page":"1","show_on_category":"1","show_on_blog":"1","show_button":"hover","button_margin_bottom":"20","button_margin_top":"20","button_margin_left":"20","button_margin_right":"20","button_position":"0","description_option":["img_title","img_alt","post_title"],"pinLinkedImages":"0","transparency_value":"0","use_custom_image":"0","custom_image_url":"http:\/\/www.almondtozest.com\/images\/pin.png","use_post_url":"1","pinLinkedImagesExtensions":"","retina_friendly":"1","pinImageWidth":65,"pinImageHeight":41}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.almondtozest.com/wp-content/plugins/jquery-pin-it-button-for-images/js/jpibfi.client.js?ver=2.0.1'></script>
+<script type='text/javascript' src='http://www.almondtozest.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.almondtozest.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.almondtozest.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.almondtozest.com/wp-content/plugins/easyrecipe/js/easyrecipe-min.js?ver=3.5.3208'></script>
+<link rel='https://api.w.org/' href='http://www.almondtozest.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.almondtozest.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.almondtozest.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.1" />
+<link rel='shortlink' href='http://wp.me/p7M5Y9-38' />
+<link rel="alternate" type="application/json+oembed" href="http://www.almondtozest.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.almondtozest.com%2Fchicken-leek-brie-pie%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.almondtozest.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.almondtozest.com%2Fchicken-leek-brie-pie%2F&#038;format=xml" />
+<style type="text/css"> .enews .screenread {
+	height: 1px;
+    left: -1000em;
+    overflow: hidden;
+    position: absolute;
+    top: -1000em;
+    width: 1px; } </style><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-66556124-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+		<style type="text/css">
+			a.pinit-button {
+                position:absolute;
+                text-indent:-9999em !important;
+				width: 65px !important;
+				height: 41px !important;
+				background: transparent url('http://www.almondtozest.com/wp-content/plugins/jquery-pin-it-button-for-images/images/pinit-button.png') no-repeat 0 0 !important;
+				background-size: 65px 41px !important;
+			}
+
+			img.pinit-hover {
+				opacity: 1 !important;
+				filter:alpha(opacity=100) !important;
+			}
+		</style>
+        
+	   
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+<style type='text/css'>img#wpstats{display:none}</style><link rel="Shortcut Icon" href="http://www.almondtozest.com/wp-content/uploads/2016/04/lemon.ico" type="image/x-icon" />
+<link rel="pingback" href="http://www.almondtozest.com/xmlrpc.php" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4347757384778987",
+    enable_page_level_ads: true
+  });
+</script>
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script><style type="text/css">.site-header { background: url(http://www.almondtozest.com/wp-content/uploads/2016/04/cropped-newlogo-1.png) no-repeat !important; }</style>
+<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<style type="text/css">/* MailChimp for WP - Checkbox Styles */
+.mc4wp-checkbox-wp-comment-form {
+  clear: both;
+  display: block;
+  position: static;
+  width: auto; }
+  .mc4wp-checkbox-wp-comment-form input {
+    float: none;
+    width: auto;
+    position: static;
+    margin: 0 6px 0 0;
+    padding: 0;
+    vertical-align: middle;
+    display: inline-block !important;
+    max-width: 21px;
+    -webkit-appearance: checkbox; }
+  .mc4wp-checkbox-wp-comment-form label {
+    float: none;
+    display: block;
+    cursor: pointer;
+    width: auto;
+    position: static;
+    margin: 0 0 16px 0; }
+</style>			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://www.almondtozest.com/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+			<style type="text/css">
+html body div.easyrecipe .ERSInstructions .ERSSectionHead { color: rgb(51, 51, 51)!important;font-size: 16px!important;padding-left: 15px!important;padding-bottom: 15px!important;padding-right: 15px!important;font-family: 'Open Sans'!important;font-weight: bold!important;font-style: italic!important; }
+html body div.easyrecipe { background-color: rgb(248, 248, 248)!important; }
+html body div.easyrecipe { background-color: rgb(248, 248, 248)!important; }
+html body div.easyrecipe .ERSName { color: rgb(255, 255, 255)!important;margin-top: 0px!important;padding: 10px 0px 10px 15px!important;font-size: 24px!important;background-color: rgb(60, 105, 137)!important; }
+html body div.easyrecipe .ERSServes { font-weight: bold!important;font-size: 14px!important;padding-left: 15px!important;font-family: 'Open Sans'!important; }
+html body div.easyrecipe .ERSIngredientsHeader { color: rgb(60, 105, 137)!important;font-size: 22px!important;margin-top: 15px!important;padding-left: 15px!important; }
+html body div.easyrecipe .ERSIngredients .ERSSectionHead { margin-left: 15px!important;margin-right: 15px!important;font-size: 16px!important;font-family: 'Open Sans'!important;font-weight: bold!important;font-style: italic!important; }
+html body div.easyrecipe .ERSIngredients li.ingredient { color: rgb(51, 51, 51)!important;font-size: 16px!important;padding-left: 15px!important;padding-right: 15px!important;font-family: 'Open Sans'!important;list-style-type: square!important;list-style-position: inside!important; }
+html body div.easyrecipe .ERSInstructionsHeader { color: rgb(60, 105, 137)!important;font-size: 22px!important;padding-left: 15px!important;padding-right: 15px!important; }
+html body div.easyrecipe .ERSInstructions .instruction { color: rgb(51, 51, 51)!important;font-size: 16px!important;font-family: 'Open Sans'!important;padding-left: 15px!important;padding-bottom: 15px!important;padding-right: 15px!important;list-style-position: outside!important; }
+html body div.easyrecipe .ERSNotesDiv .ERSNotesHeader { color: rgb(60, 105, 137)!important;margin-top: 22px!important;margin-bottom: 22px!important;font-size: 22px!important;padding-top: 0px!important;padding-bottom: 0px!important;padding-left: 15px!important; }
+html body div.easyrecipe .ERSNotesDiv .ERSNotes { color: rgb(102, 102, 102)!important;margin: 0px 0px 0px 30px!important;font-size: 16px!important;font-family: 'Open Sans'!important;padding: 0px 15px 15px!important; }
+.foodie-pro .easyrecipe .ERRateStars, .foodie-pro .ERComment .ERRateStars, .foodie-pro .ERRatingCommentInner, .foodie-pro .ERSRatingInner { 
+  background: url(/wp-content/plugins/easyrecipe/css/images/yellowstar15.png);
+}
+ 
+.foodie-pro .ERRateBG, .foodie-pro .ERRatingComment, .foodie-pro .ERComment .ERRateBG, .foodie-pro .ERSRatingOuter { 
+  background: url('/wp-content/plugins/easyrecipe/css/images/greystar15.png');
+}</style>
+</head>
+<body class="post-template-default single single-post postid-194 single-format-standard et_bloom custom-header header-image header-full-width nolayout foodie-pro er-recipe" itemscope="itemscope" itemtype="http://schema.org/WebPage"><div class="site-container"><header class="site-header" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://www.almondtozest.com/">Almond to Zest</a></p><p class="site-description" itemprop="description">Delicious dishes using ingredients from almonds to zest!</p></div></div></header><nav class="nav-primary" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-primary-menu" class="menu genesis-nav-menu menu-primary"><li id="menu-item-41" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41"><a href="/about-us">About Us</a></li>
+<li id="menu-item-1362" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1362"><a href="http://www.almondtozest.com/category/easy-how-tos/">Kitchen Tips</a>
+<ul class="sub-menu">
+	<li id="menu-item-1363" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1363"><a href="http://www.almondtozest.com/category/easy-how-tos/">How To</a></li>
+</ul>
+</li>
+<li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-303"><a href="http://www.almondtozest.com/recipe-index/">Recipes</a>
+<ul class="sub-menu">
+	<li id="menu-item-574" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-574"><a href="http://www.almondtozest.com/category/easy-how-tos/">Easy How To&#8217;s</a></li>
+	<li id="menu-item-457" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-457"><a href="http://www.almondtozest.com/category/brunch/">Brunch</a></li>
+	<li id="menu-item-462" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-462"><a href="http://www.almondtozest.com/category/lunch/">Lunch</a></li>
+	<li id="menu-item-463" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-463"><a href="http://www.almondtozest.com/category/dinner/">Dinner</a></li>
+	<li id="menu-item-456" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-456"><a href="http://www.almondtozest.com/category/healthy/">Healthy</a>
+	<ul class="sub-menu">
+		<li id="menu-item-458" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-458"><a href="http://www.almondtozest.com/category/gluten-free/">Gluten Free</a></li>
+		<li id="menu-item-467" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-467"><a href="http://www.almondtozest.com/category/smoothies/">Smoothies</a></li>
+		<li id="menu-item-455" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-455"><a href="http://www.almondtozest.com/category/vegetarian/">Vegetarian</a></li>
+	</ul>
+</li>
+	<li id="menu-item-459" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-459"><a href="http://www.almondtozest.com/category/desserts/">Desserts</a>
+	<ul class="sub-menu">
+		<li id="menu-item-461" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-461"><a href="http://www.almondtozest.com/category/cakes/">Cakes</a></li>
+		<li id="menu-item-465" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-465"><a href="http://www.almondtozest.com/category/cookies/">Cookies</a></li>
+		<li id="menu-item-460" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-460"><a href="http://www.almondtozest.com/category/slices/">Slices</a></li>
+	</ul>
+</li>
+	<li id="menu-item-464" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-464"><a href="http://www.almondtozest.com/category/muffins/">Muffins</a></li>
+</ul>
+</li>
+<li id="menu-item-741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-741"><a href="http://www.almondtozest.com/contact/">Contact</a></li>
+</ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog"><article class="post-194 post type-post status-publish format-standard has-post-thumbnail category-brunch category-dinner category-lunch category-mains entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Chicken, Leek and Brie Pie</h1> 
+<p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2015-08-31T05:03:56+00:00">August 31, 2015</time> by <span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person"><span class="entry-author-name" itemprop="name">Kylie</span></span> <span class="entry-comments-link"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comments">16 Comments</a></span></p></header><div class="entry-content" itemprop="text"><input class="jpibfi" type="hidden"><div class='shareaholic-canvas' data-app-id='19412842' data-app='share_buttons' data-title='Chicken, Leek and Brie Pie' data-link='http://www.almondtozest.com/chicken-leek-brie-pie/' data-summary=''></div>
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 336x280 - Middle Post -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-4347757384778987"
+     data-ad-slot="1248154952"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<p><img src="http://www.almondtozest.com/wp-content/uploads/2015/08/IMG_0745.jpg" alt="Chicken, Leek and Brie Pie - Comfort food never tasted so good with leeks cooked to a sweet caramelized state, mixed with chunks of juicy chicken pieces!" width="100%" data-jpibfi-post-url="http://www.almondtozest.com/chicken-leek-brie-pie/" data-jpibfi-post-title="Chicken, Leek and Brie Pie" ></p>
+<p>I love eating pie. Sweet or savoury it doesn’t matter as long as it comes piping hot and full of flavor I am willing to burn the inside of my mouth off for one.</p>
+<p><img src="http://www.almondtozest.com/wp-content/uploads/2015/08/IMG_0749.jpg" alt="Chicken, Leek and Brie Pie - Comfort food never tasted so good with leeks cooked to a sweet caramelized state, mixed with chunks of juicy chicken pieces!" width="100%" data-jpibfi-post-url="http://www.almondtozest.com/chicken-leek-brie-pie/" data-jpibfi-post-title="Chicken, Leek and Brie Pie" ></p>
+<p>The only problem with making pies though is that they have a fiddley and difficult process that involves different types of pastries and complicated steps that I just don’t have time for most days. But then I realised that there was an easier way, which I’m going to show you today so that you can enjoy the pleasure of eating pie whenever you want, without it taking up your whole day.</p>
+<p><img src="http://www.almondtozest.com/wp-content/uploads/2015/08/IMG_0740.jpg" alt="Chicken, Leek and Brie Pie - Comfort food never tasted so good with leeks cooked to a sweet caramelized state, mixed with chunks of juicy chicken pieces!" width="100%" data-jpibfi-post-url="http://www.almondtozest.com/chicken-leek-brie-pie/" data-jpibfi-post-title="Chicken, Leek and Brie Pie" ><img src="http://www.almondtozest.com/wp-content/uploads/2015/08/IMG_0743.jpg" alt="Chicken, Leek and Brie Pie - Comfort food never tasted so good with leeks cooked to a sweet caramelized state, mixed with chunks of juicy chicken pieces!" width="100%" data-jpibfi-post-url="http://www.almondtozest.com/chicken-leek-brie-pie/" data-jpibfi-post-title="Chicken, Leek and Brie Pie" ></p>
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<!-- Begin MailChimp Signup Form -->
+<div id="mailchimp2" style="margin-bottom:25px;">
+<center>
+<form action="//almondtozest.us11.list-manage.com/subscribe/post?u=73bcc6dbb95bf109c4fa5efe6&amp;id=541ca60690" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mailchimp_scroll">
+	<h2>Receive Email Updates</h2>
+        <p>enter your email to receive new recipes straight to your inbox!</p>
+<div class="mc-field-group">
+	<input type="email" value="enter your email" SIZE="30" name="EMAIL" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+</div>
+<div class="mc-field-group">
+	<input type="text" value="enter your name" SIZE="30" name="FNAME" class="" id="mce-FNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_73bcc6dbb95bf109c4fa5efe6_541ca60690" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</center>
+</div>
+
+<!--End mailchimp-->
+</div>
+
+<p>Leeks cooked to a sweet caramelized state are mixed with chunks of juicy chicken pieces, swimming in a pool of white wine and salty stock. Topped with slices of creamy centered Brie cheese that melts into a gooey mess. This is what makes the glorious filling for this tasty pie.</p>
+<p><img src="http://www.almondtozest.com/wp-content/uploads/2015/08/IMG_0757.jpg" alt="Chicken, Leek and Brie Pie - Comfort food never tasted so good with leeks cooked to a sweet caramelized state, mixed with chunks of juicy chicken pieces!" width="100%" data-jpibfi-post-url="http://www.almondtozest.com/chicken-leek-brie-pie/" data-jpibfi-post-title="Chicken, Leek and Brie Pie" ></p>
+<p>The filling is then encased in a couple of sheets of puff pastry and then popped in the oven. I love watching puff pastry transform into its risen form of light crispy layers and its pale complexion tan up to a golden brown glow. And the best bit about this pie is the slits on the top layer that give you a sneaky peak of the glossy filling waiting to ooze out with the first bite.</p>
+<p><img src="http://www.almondtozest.com/wp-content/uploads/2015/08/IMG_0766.jpg" alt="Chicken, Leek and Brie Pie - Comfort food never tasted so good with leeks cooked to a sweet caramelized state, mixed with chunks of juicy chicken pieces!" width="100%" data-jpibfi-post-url="http://www.almondtozest.com/chicken-leek-brie-pie/" data-jpibfi-post-title="Chicken, Leek and Brie Pie" ></p>
+<p>To make my pie life easier I opt to use pre rolled frozen puff pastry sheets. Without these I would not be able to eat pies as often as I like, but of course if you have the time you can make your own pastry. Serve with a simple side salad and enjoy for either lunch or dinner. Enjoy.</p>
+<div style="clear:both; margin-top:1em; margin-bottom:1em;"><a href="http://www.almondtozest.com/couscous-salad-chorizo-kumara/" target="_self" rel="nofollow" class="u7a4b39b8a69b3cb257fe5f5dd4f0558f"><!-- INLINE RELATED POSTS 1/3 //--><style> .u7a4b39b8a69b3cb257fe5f5dd4f0558f { padding:0px; margin: 0; padding-top:1em!important; padding-bottom:1em!important; width:100%; display: block; font-weight:bold; background-color:#eaeaea; border:0!important; border-left:4px solid #34495E!important; text-decoration:none; } .u7a4b39b8a69b3cb257fe5f5dd4f0558f:active, .u7a4b39b8a69b3cb257fe5f5dd4f0558f:hover { opacity: 1; transition: opacity 250ms; webkit-transition: opacity 250ms; text-decoration:none; } .u7a4b39b8a69b3cb257fe5f5dd4f0558f { transition: background-color 250ms; webkit-transition: background-color 250ms; opacity: 1; transition: opacity 250ms; webkit-transition: opacity 250ms; } .u7a4b39b8a69b3cb257fe5f5dd4f0558f .ctaText { font-weight:bold; color:inherit; text-decoration:none; font-size: 16px; } .u7a4b39b8a69b3cb257fe5f5dd4f0558f .postTitle { color:#000000; text-decoration: underline!important; font-size: 16px; } .u7a4b39b8a69b3cb257fe5f5dd4f0558f:hover .postTitle { text-decoration: underline!important; } </style><div style="padding-left:1em; padding-right:1em;"><span class="ctaText">Try our</span>&nbsp; <span class="postTitle">Couscous Salad with Chorizo and Kumara</span></div></a></div><p><img src="http://www.almondtozest.com/wp-content/uploads/2015/08/IMG_0761.jpg" alt="Chicken, Leek and Brie Pie - Comfort food never tasted so good with leeks cooked to a sweet caramelized state, mixed with chunks of juicy chicken pieces!" width="100%" data-jpibfi-post-url="http://www.almondtozest.com/chicken-leek-brie-pie/" data-jpibfi-post-title="Chicken, Leek and Brie Pie" ><div id="easyrecipe-194-0" class="easyrecipe" itemscope itemtype="http://schema.org/Recipe"> <link itemprop="image" href="http://www.almondtozest.com/wp-content/uploads/2015/08/IMG_0745.jpg"/> <div itemprop="name" class="ERSName">Chicken, Leek and Brie Pie</div> <div class="ERSClear">&nbsp;</div> <div class="ERSTopRight"> <div class="ERSSavePrint"> </div> </div> <div class="divERSHeadItems"> <div class="ERSServes">Serves: <span itemprop="recipeYield">4</span></div> </div> <div class="ERSIngredients"> <div class="ERSIngredientsHeader ERSHeading">Ingredients</div> <ul> <li class="ingredient" itemprop="ingredients">2 large square sheets puff pastry</li> <li class="ingredient" itemprop="ingredients">1 oz (25g) butter</li> <li class="ingredient" itemprop="ingredients">1 leek thinly sliced</li> <li class="ingredient" itemprop="ingredients">3 cloves garlic crushed</li> <li class="ingredient" itemprop="ingredients">14 oz (400g) skinless chicken breast diced into 1 inch cubes</li> <li class="ingredient" itemprop="ingredients">½ cup white wine</li> <li class="ingredient" itemprop="ingredients">½ cup chicken stock</li> <li class="ingredient" itemprop="ingredients">2 tablespoons cornflour</li> <li class="ingredient" itemprop="ingredients">¼ cup cold water</li> <li class="ingredient" itemprop="ingredients">3.5 oz (100g) brie thinly sliced</li> <li class="ingredient" itemprop="ingredients">¼ cup parsley chopped</li> <li class="ingredient" itemprop="ingredients">1 free-range egg lightly beaten</li> <li class="ingredient" itemprop="ingredients">salt and pepper</li> </ul> <div class="ERSClear"></div> </div> <div class="ERSInstructions"> <div class="ERSInstructionsHeader ERSHeading">Instructions</div> <ol> <li class="instruction" itemprop="recipeInstructions">Thaw pastry on bench and heat oven to 390 (200C) and line a cookie tray with parchment paper.</li> <li class="instruction" itemprop="recipeInstructions">In a medium sized saucepan over a medium heat, melt the butter and cook down the garlic and leek for around 8 minutes until soft. Add chicken and cook through.</li> <li class="instruction" itemprop="recipeInstructions">Add the wine and stock to the saucepan and continue to cook for 5 minutes. Season with salty and pepper.</li> <li class="instruction" itemprop="recipeInstructions">In a small bowl mix together the cornflour and water to create a paste. Add this to the chicken mixture along with the chopped parsley. Mix through and remove from heat.</li> <li class="instruction" itemprop="recipeInstructions">Take the first sheet of the puff pastry and place on a cutting board. Leaving a 1 ½ inch boarder around all sides make about 8 evenly spaced slits along the width of the pastry sheet.</li> <li class="instruction" itemprop="recipeInstructions">Place the second sheet on the cookie tray and spoon the chicken mixture into the center. Spread the mixture out, leaving a 1 ½ inch boarder. Place the slices of brie on top. With a pastry brush (or your finger), brush some of the beaten egg around this boarder. Place the first sheet on top of the second, press down the boarder with your fingers and brush the egg over the top of the pie.</li> <li class="instruction" itemprop="recipeInstructions">Cook for around 20 minutes until the pastry is golden brown. Let stand for 5 minutes before cutting.</li> </ol><div style="clear:both; margin-top:1em; margin-bottom:1em;"><a href="http://www.almondtozest.com/mint-feta-pesto/" target="_self" rel="nofollow" class="u4202503556cf30bd5a8c86d76ab6dc7a"><!-- INLINE RELATED POSTS 2/3 //--><style> .u4202503556cf30bd5a8c86d76ab6dc7a { padding:0px; margin: 0; padding-top:1em!important; padding-bottom:1em!important; width:100%; display: block; font-weight:bold; background-color:#eaeaea; border:0!important; border-left:4px solid #34495E!important; text-decoration:none; } .u4202503556cf30bd5a8c86d76ab6dc7a:active, .u4202503556cf30bd5a8c86d76ab6dc7a:hover { opacity: 1; transition: opacity 250ms; webkit-transition: opacity 250ms; text-decoration:none; } .u4202503556cf30bd5a8c86d76ab6dc7a { transition: background-color 250ms; webkit-transition: background-color 250ms; opacity: 1; transition: opacity 250ms; webkit-transition: opacity 250ms; } .u4202503556cf30bd5a8c86d76ab6dc7a .ctaText { font-weight:bold; color:inherit; text-decoration:none; font-size: 16px; } .u4202503556cf30bd5a8c86d76ab6dc7a .postTitle { color:#000000; text-decoration: underline!important; font-size: 16px; } .u4202503556cf30bd5a8c86d76ab6dc7a:hover .postTitle { text-decoration: underline!important; } </style><div style="padding-left:1em; padding-right:1em;"><span class="ctaText">Try our</span>&nbsp; <span class="postTitle">Mint and Feta Pesto</span></div></a></div> <div class="ERSClear"></div> </div> <div class="endeasyrecipe" title="style002a" style="display: none">3.5.3208</div> </div><br />
+</p>
+
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 336x280 - Last Para -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-4347757384778987"
+     data-ad-slot="4994012555"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div><div class='shareaholic-canvas' data-app-id='19412838' data-app='share_buttons' data-title='Chicken, Leek and Brie Pie' data-link='http://www.almondtozest.com/chicken-leek-brie-pie/' data-summary=''></div><!--<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.almondtozest.com/chicken-leek-brie-pie/"
+    dc:identifier="http://www.almondtozest.com/chicken-leek-brie-pie/"
+    dc:title="Chicken, Leek and Brie Pie"
+    trackback:ping="http://www.almondtozest.com/chicken-leek-brie-pie/trackback/" />
+</rdf:RDF>-->
+</div><div class="adjacent-entry-pagination pagination"><div class="pagination-previous alignleft">&laquo; <a href="http://www.almondtozest.com/caramello-brownie-bites/" rel="prev">Caramello Brownie Bites</a></div><div class="pagination-next alignright"><a href="http://www.almondtozest.com/double-chocolate-mocha-muffins/" rel="next">Double Chocolate Mocha Muffins</a> &raquo;</div></div><footer class="entry-footer"><p class="entry-meta"><span class="entry-categories">Filed Under: <a href="http://www.almondtozest.com/category/brunch/" rel="category tag">Brunch</a>, <a href="http://www.almondtozest.com/category/dinner/" rel="category tag">Dinner</a>, <a href="http://www.almondtozest.com/category/lunch/" rel="category tag">Lunch</a>, <a href="http://www.almondtozest.com/category/mains/" rel="category tag">Mains</a></span> </p></footer></article><div class="after-entry"><section id="featured-post-35" class="widget featured-content featuredpost"><div class="widget-wrap"><article class="post-1664 post type-post status-publish format-standard has-post-thumbnail category-cookies category-desserts entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/dark-white-chocolate-cranberry-cookies/" title="Dark and White Chocolate Cranberry Cookies" class="aligncenter"><img width="650" height="400" src="http://www.almondtozest.com/wp-content/uploads/2016/10/2-dark-white-chocolate-cranberry-cookies-650x400.jpg" class="entry-image attachment-post" alt="" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.almondtozest.com/dark-white-chocolate-cranberry-cookies/">Dark and White Chocolate Cranberry Cookies</a></h2></header></article><article class="post-1082 post type-post status-publish format-standard has-post-thumbnail category-easy-how-tos category-quick-easy entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/easy-3-step-shortcrust-pastry/" title="Easy 3-Step Shortcrust Pastry" class="aligncenter"><img width="650" height="400" src="http://www.almondtozest.com/wp-content/uploads/2016/05/IMG_2844-650x400.jpg" class="entry-image attachment-post" alt="" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.almondtozest.com/easy-3-step-shortcrust-pastry/">Easy 3-Step Shortcrust Pastry</a></h2></header></article><article class="post-1521 post type-post status-publish format-standard has-post-thumbnail category-dinner category-healthy category-lunch category-mains category-vegetarian entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/tahini-root-vegetable-stew/" title="Tahini and Root Vegetable Stew" class="aligncenter"><img width="650" height="400" src="http://www.almondtozest.com/wp-content/uploads/2016/09/2-tahini-root-vegetable-stew-dutch_oven-650x400.jpg" class="entry-image attachment-post" alt="" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.almondtozest.com/tahini-root-vegetable-stew/">Tahini and Root Vegetable Stew</a></h2></header></article></div></section>
+</div><div class="entry-comments" id="comments"><h3>Comments</h3><ol class="comment-list">
+	<li class="comment even thread-even depth-1" id="comment-44">
+	<article itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person">
+				<img alt='' src='http://2.gravatar.com/avatar/85afaf5d8c0a10907e4befb41d440296?s=48&#038;r=g' srcset='http://2.gravatar.com/avatar/85afaf5d8c0a10907e4befb41d440296?s=96&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name"><a href="http://www.mangialicious.com" class="comment-author-link" rel="external nofollow" itemprop="url">Laura</a></span> <span class="says">says</span>		 	</p>
+
+			<p class="comment-meta">
+				<time class="comment-time" datetime="2015-09-09T14:34:58+00:00" itemprop="commentTime"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comment-44" class="comment-time-link" itemprop="url">September 9, 2015 at 2:34 pm</a></time>			</p>
+		</header>
+
+		<div class="comment-content" itemprop="commentText">
+			
+			<p>This looks delicious!!  I love leeks and do not use them enough.  Sounds like I have  my next Sunday&#8217;s dinner planned 🙂</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.almondtozest.com/chicken-leek-brie-pie/?replytocom=44#respond' onclick='return addComment.moveForm( "comment-44", "44", "respond", "194" )' aria-label='Reply to Laura'>Reply</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment byuser comment-author-admin odd alt depth-2" id="comment-45">
+	<article itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person">
+				<img alt='' src='http://0.gravatar.com/avatar/9202923aa5c19c70bd1aa38348464fb8?s=48&#038;r=g' srcset='http://0.gravatar.com/avatar/9202923aa5c19c70bd1aa38348464fb8?s=96&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name"><a href="http://www.almondtozest.com" class="comment-author-link" rel="external nofollow" itemprop="url">Jason</a></span> <span class="says">says</span>		 	</p>
+
+			<p class="comment-meta">
+				<time class="comment-time" datetime="2015-09-09T23:56:56+00:00" itemprop="commentTime"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comment-45" class="comment-time-link" itemprop="url">September 9, 2015 at 11:56 pm</a></time>			</p>
+		</header>
+
+		<div class="comment-content" itemprop="commentText">
+			
+			<p>Thanks Laura let us know how you like it 🙂</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.almondtozest.com/chicken-leek-brie-pie/?replytocom=45#respond' onclick='return addComment.moveForm( "comment-45", "45", "respond", "194" )' aria-label='Reply to Jason'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li class="comment even thread-odd thread-alt depth-1" id="comment-419">
+	<article itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person">
+				<img alt='' src='http://0.gravatar.com/avatar/fe673dc8abfa5bfd72adc15f7a9311ed?s=48&#038;r=g' srcset='http://0.gravatar.com/avatar/fe673dc8abfa5bfd72adc15f7a9311ed?s=96&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name">Anonymous</span> <span class="says">says</span>		 	</p>
+
+			<p class="comment-meta">
+				<time class="comment-time" datetime="2016-03-08T22:32:04+00:00" itemprop="commentTime"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comment-419" class="comment-time-link" itemprop="url">March 8, 2016 at 10:32 pm</a></time>			</p>
+		</header>
+
+		<div class="comment-content" itemprop="commentText">
+			
+			<p>How do I add the brie?</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.almondtozest.com/chicken-leek-brie-pie/?replytocom=419#respond' onclick='return addComment.moveForm( "comment-419", "419", "respond", "194" )' aria-label='Reply to '>Reply</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment byuser comment-author-jason odd alt depth-2" id="comment-493">
+	<article itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person">
+				<img alt='' src='http://0.gravatar.com/avatar/632a3bd6e32ec10fbd19aeceee9a9acf?s=48&#038;r=g' srcset='http://0.gravatar.com/avatar/632a3bd6e32ec10fbd19aeceee9a9acf?s=96&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name"><a href="http://www.almondtozest.com" class="comment-author-link" rel="external nofollow" itemprop="url">Jason Tsang</a></span> <span class="says">says</span>		 	</p>
+
+			<p class="comment-meta">
+				<time class="comment-time" datetime="2016-03-20T01:32:34+00:00" itemprop="commentTime"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comment-493" class="comment-time-link" itemprop="url">March 20, 2016 at 1:32 am</a></time>			</p>
+		</header>
+
+		<div class="comment-content" itemprop="commentText">
+			
+			<p>Hi, so sorry, the recipe has been updated. Thanks so much for pointing out the mistake.</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.almondtozest.com/chicken-leek-brie-pie/?replytocom=493#respond' onclick='return addComment.moveForm( "comment-493", "493", "respond", "194" )' aria-label='Reply to Jason Tsang'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li class="comment even thread-even depth-1" id="comment-261">
+	<article itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person">
+				<img alt='' src='http://2.gravatar.com/avatar/8a85dd338d851cc92818df0092c72bc9?s=48&#038;r=g' srcset='http://2.gravatar.com/avatar/8a85dd338d851cc92818df0092c72bc9?s=96&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name">Meg</span> <span class="says">says</span>		 	</p>
+
+			<p class="comment-meta">
+				<time class="comment-time" datetime="2016-03-17T21:10:18+00:00" itemprop="commentTime"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comment-261" class="comment-time-link" itemprop="url">March 17, 2016 at 9:10 pm</a></time>			</p>
+		</header>
+
+		<div class="comment-content" itemprop="commentText">
+			
+			<p>I may be missing something, but where does the brie come in? Don&#8217;t see it in the step by step. Thanks!</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.almondtozest.com/chicken-leek-brie-pie/?replytocom=261#respond' onclick='return addComment.moveForm( "comment-261", "261", "respond", "194" )' aria-label='Reply to Meg'>Reply</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment byuser comment-author-jason odd alt depth-2" id="comment-492">
+	<article itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person">
+				<img alt='' src='http://0.gravatar.com/avatar/632a3bd6e32ec10fbd19aeceee9a9acf?s=48&#038;r=g' srcset='http://0.gravatar.com/avatar/632a3bd6e32ec10fbd19aeceee9a9acf?s=96&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name"><a href="http://www.almondtozest.com" class="comment-author-link" rel="external nofollow" itemprop="url">Jason Tsang</a></span> <span class="says">says</span>		 	</p>
+
+			<p class="comment-meta">
+				<time class="comment-time" datetime="2016-03-20T01:30:32+00:00" itemprop="commentTime"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comment-492" class="comment-time-link" itemprop="url">March 20, 2016 at 1:30 am</a></time>			</p>
+		</header>
+
+		<div class="comment-content" itemprop="commentText">
+			
+			<p>Hi Meg, whoops.. I left that step out. I have updated the recipe, thanks so much for letting me know!</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.almondtozest.com/chicken-leek-brie-pie/?replytocom=492#respond' onclick='return addComment.moveForm( "comment-492", "492", "respond", "194" )' aria-label='Reply to Jason Tsang'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li class="comment even thread-odd thread-alt depth-1" id="comment-558">
+	<article itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person">
+				<img alt='' src='http://1.gravatar.com/avatar/d5dbd25da2a2210f17792a0554685154?s=48&#038;r=g' srcset='http://1.gravatar.com/avatar/d5dbd25da2a2210f17792a0554685154?s=96&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name">George</span> <span class="says">says</span>		 	</p>
+
+			<p class="comment-meta">
+				<time class="comment-time" datetime="2016-03-28T21:23:10+00:00" itemprop="commentTime"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comment-558" class="comment-time-link" itemprop="url">March 28, 2016 at 9:23 pm</a></time>			</p>
+		</header>
+
+		<div class="comment-content" itemprop="commentText">
+			
+			<p>Can you freeze the pie? If so should you cook it first ?</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.almondtozest.com/chicken-leek-brie-pie/?replytocom=558#respond' onclick='return addComment.moveForm( "comment-558", "558", "respond", "194" )' aria-label='Reply to George'>Reply</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment byuser comment-author-jason odd alt depth-2" id="comment-563">
+	<article itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person">
+				<img alt='' src='http://0.gravatar.com/avatar/632a3bd6e32ec10fbd19aeceee9a9acf?s=48&#038;r=g' srcset='http://0.gravatar.com/avatar/632a3bd6e32ec10fbd19aeceee9a9acf?s=96&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name"><a href="http://www.almondtozest.com" class="comment-author-link" rel="external nofollow" itemprop="url">Jason</a></span> <span class="says">says</span>		 	</p>
+
+			<p class="comment-meta">
+				<time class="comment-time" datetime="2016-03-29T22:33:32+00:00" itemprop="commentTime"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comment-563" class="comment-time-link" itemprop="url">March 29, 2016 at 10:33 pm</a></time>			</p>
+		</header>
+
+		<div class="comment-content" itemprop="commentText">
+			
+			<p>Hi George, to be honest I haven&#8217;t tried freezing this one. However if I was too I probably wouldn&#8217;t cook it first. Let us know how you get on.</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.almondtozest.com/chicken-leek-brie-pie/?replytocom=563#respond' onclick='return addComment.moveForm( "comment-563", "563", "respond", "194" )' aria-label='Reply to Jason'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li class="comment even thread-even depth-1" id="comment-923">
+	<article itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person">
+				<img alt='' src='http://1.gravatar.com/avatar/4a3d175abf78e482745c7d89ba21b2cf?s=48&#038;r=g' srcset='http://1.gravatar.com/avatar/4a3d175abf78e482745c7d89ba21b2cf?s=96&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name"><a href="http://mandyashcraft.com" class="comment-author-link" rel="external nofollow" itemprop="url">Mandy Ashcraft</a></span> <span class="says">says</span>		 	</p>
+
+			<p class="comment-meta">
+				<time class="comment-time" datetime="2016-06-16T08:38:33+00:00" itemprop="commentTime"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comment-923" class="comment-time-link" itemprop="url">June 16, 2016 at 8:38 am</a></time>			</p>
+		</header>
+
+		<div class="comment-content" itemprop="commentText">
+			
+			<p>I made this last night for myself and my husband, and it was so delicious that I made one for my parents and another one for my in-laws today! Highly recommend!</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.almondtozest.com/chicken-leek-brie-pie/?replytocom=923#respond' onclick='return addComment.moveForm( "comment-923", "923", "respond", "194" )' aria-label='Reply to Mandy Ashcraft'>Reply</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment byuser comment-author-jason odd alt depth-2" id="comment-926">
+	<article itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person">
+				<img alt='' src='http://0.gravatar.com/avatar/632a3bd6e32ec10fbd19aeceee9a9acf?s=48&#038;r=g' srcset='http://0.gravatar.com/avatar/632a3bd6e32ec10fbd19aeceee9a9acf?s=96&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name"><a href="http://www.almondtozest.com" class="comment-author-link" rel="external nofollow" itemprop="url">Jason</a></span> <span class="says">says</span>		 	</p>
+
+			<p class="comment-meta">
+				<time class="comment-time" datetime="2016-06-16T16:24:31+00:00" itemprop="commentTime"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comment-926" class="comment-time-link" itemprop="url">June 16, 2016 at 4:24 pm</a></time>			</p>
+		</header>
+
+		<div class="comment-content" itemprop="commentText">
+			
+			<p>Thanks Mandy, hope that your family enjoyed the pie!</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.almondtozest.com/chicken-leek-brie-pie/?replytocom=926#respond' onclick='return addComment.moveForm( "comment-926", "926", "respond", "194" )' aria-label='Reply to Jason'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li class="comment even thread-odd thread-alt depth-1" id="comment-955">
+	<article itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person">
+				<img alt='' src='http://0.gravatar.com/avatar/3996074ef02b835ea34a1df17286de99?s=48&#038;r=g' srcset='http://0.gravatar.com/avatar/3996074ef02b835ea34a1df17286de99?s=96&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name">L.C.</span> <span class="says">says</span>		 	</p>
+
+			<p class="comment-meta">
+				<time class="comment-time" datetime="2016-06-27T11:50:09+00:00" itemprop="commentTime"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comment-955" class="comment-time-link" itemprop="url">June 27, 2016 at 11:50 am</a></time>			</p>
+		</header>
+
+		<div class="comment-content" itemprop="commentText">
+			
+			<p>What can I use instead of corn flour? Recipe looks great and I can&#8217;t wait to try it!</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.almondtozest.com/chicken-leek-brie-pie/?replytocom=955#respond' onclick='return addComment.moveForm( "comment-955", "955", "respond", "194" )' aria-label='Reply to L.C.'>Reply</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment byuser comment-author-jason odd alt depth-2" id="comment-956">
+	<article itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person">
+				<img alt='' src='http://0.gravatar.com/avatar/632a3bd6e32ec10fbd19aeceee9a9acf?s=48&#038;r=g' srcset='http://0.gravatar.com/avatar/632a3bd6e32ec10fbd19aeceee9a9acf?s=96&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name"><a href="http://www.almondtozest.com" class="comment-author-link" rel="external nofollow" itemprop="url">Jason</a></span> <span class="says">says</span>		 	</p>
+
+			<p class="comment-meta">
+				<time class="comment-time" datetime="2016-06-27T16:20:34+00:00" itemprop="commentTime"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comment-956" class="comment-time-link" itemprop="url">June 27, 2016 at 4:20 pm</a></time>			</p>
+		</header>
+
+		<div class="comment-content" itemprop="commentText">
+			
+			<p>If you don&#8217;t have any cornflour or cornstarch in your pantry you can just substitute some plain flour in it&#8217;s place. Hope you enjoy the pie and thanks for checking out our recipe!</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.almondtozest.com/chicken-leek-brie-pie/?replytocom=956#respond' onclick='return addComment.moveForm( "comment-956", "956", "respond", "194" )' aria-label='Reply to Jason'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li class="comment even thread-even depth-1" id="comment-1016">
+	<article itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person">
+				<img alt='' src='http://2.gravatar.com/avatar/?s=48&#038;r=g' srcset='http://1.gravatar.com/avatar/?s=96&amp;r=g 2x' class='avatar avatar-48 photo avatar-default' height='48' width='48' /><span itemprop="name">Anonymous</span> <span class="says">says</span>		 	</p>
+
+			<p class="comment-meta">
+				<time class="comment-time" datetime="2016-08-11T05:46:40+00:00" itemprop="commentTime"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comment-1016" class="comment-time-link" itemprop="url">August 11, 2016 at 5:46 am</a></time>			</p>
+		</header>
+
+		<div class="comment-content" itemprop="commentText">
+			
+			<p>What size is your cookie sheet?</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.almondtozest.com/chicken-leek-brie-pie/?replytocom=1016#respond' onclick='return addComment.moveForm( "comment-1016", "1016", "respond", "194" )' aria-label='Reply to '>Reply</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment byuser comment-author-jason odd alt depth-2" id="comment-1017">
+	<article itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person">
+				<img alt='' src='http://0.gravatar.com/avatar/632a3bd6e32ec10fbd19aeceee9a9acf?s=48&#038;r=g' srcset='http://0.gravatar.com/avatar/632a3bd6e32ec10fbd19aeceee9a9acf?s=96&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name"><a href="http://www.almondtozest.com" class="comment-author-link" rel="external nofollow" itemprop="url">Jason</a></span> <span class="says">says</span>		 	</p>
+
+			<p class="comment-meta">
+				<time class="comment-time" datetime="2016-08-11T17:00:29+00:00" itemprop="commentTime"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comment-1017" class="comment-time-link" itemprop="url">August 11, 2016 at 5:00 pm</a></time>			</p>
+		</header>
+
+		<div class="comment-content" itemprop="commentText">
+			
+			<p>The one I used is 10&#8243;x15&#8243; but basically any tray that will comfortably fit your pastry sheet will be fine 🙂</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.almondtozest.com/chicken-leek-brie-pie/?replytocom=1017#respond' onclick='return addComment.moveForm( "comment-1017", "1017", "respond", "194" )' aria-label='Reply to Jason'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li class="comment even thread-odd thread-alt depth-1" id="comment-1067">
+	<article itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person">
+				<img alt='' src='http://1.gravatar.com/avatar/a6da5435e89398aad3722ecc608a3833?s=48&#038;r=g' srcset='http://1.gravatar.com/avatar/a6da5435e89398aad3722ecc608a3833?s=96&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name">Debbie</span> <span class="says">says</span>		 	</p>
+
+			<p class="comment-meta">
+				<time class="comment-time" datetime="2016-10-12T11:24:16+00:00" itemprop="commentTime"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comment-1067" class="comment-time-link" itemprop="url">October 12, 2016 at 11:24 am</a></time>			</p>
+		</header>
+
+		<div class="comment-content" itemprop="commentText">
+			
+			<p>I&#8217;m making this for dinner tonight , the only addition is sliced mushrooms</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.almondtozest.com/chicken-leek-brie-pie/?replytocom=1067#respond' onclick='return addComment.moveForm( "comment-1067", "1067", "respond", "194" )' aria-label='Reply to Debbie'>Reply</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment byuser comment-author-kylie bypostauthor odd alt depth-2" id="comment-1068">
+	<article itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person">
+				<img alt='' src='http://2.gravatar.com/avatar/595c8d8805ff07962c09345fab3e0579?s=48&#038;r=g' srcset='http://2.gravatar.com/avatar/595c8d8805ff07962c09345fab3e0579?s=96&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name"><a href="http://www.almondtozest.com" class="comment-author-link" rel="external nofollow" itemprop="url">Kylie</a></span> <span class="says">says</span>		 	</p>
+
+			<p class="comment-meta">
+				<time class="comment-time" datetime="2016-10-12T12:45:15+00:00" itemprop="commentTime"><a href="http://www.almondtozest.com/chicken-leek-brie-pie/#comment-1068" class="comment-time-link" itemprop="url">October 12, 2016 at 12:45 pm</a></time>			</p>
+		</header>
+
+		<div class="comment-content" itemprop="commentText">
+			
+			<p>Sliced mushrooms would be an amazing addition Debbie, I hope you love it!!</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.almondtozest.com/chicken-leek-brie-pie/?replytocom=1068#respond' onclick='return addComment.moveForm( "comment-1068", "1068", "respond", "194" )' aria-label='Reply to Kylie'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ol></div>
+		<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/chicken-leek-brie-pie/#respond" style="display:none;">Cancel reply</a></small></h3>
+			<form id="commentform" class="comment-form">
+				<iframe src="https://jetpack.wordpress.com/jetpack-comment/?blogid=114897045&#038;postid=194&#038;comment_registration=0&#038;require_name_email=0&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=gravatar_default&#038;greeting=Leave+a+Reply&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en_US&#038;jetpack_version=4.3.1&#038;sig=a54f59d5dc1f310b1710a53c00753a1304e33408#parent=http%3A%2F%2Fwww.almondtozest.com%2Fchicken-leek-brie-pie%2F" allowtransparency="false" style="width:100%; height: 430px;border:0;" frameBorder="0" scrolling="no" name="jetpack_remote_comment" id="jetpack_remote_comment"></iframe>
+			</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+		</main><aside class="sidebar sidebar-primary widget-area" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar"><section id="text-2" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><img src="http://www.almondtozest.com/wp-content/uploads/2016/08/about-us.png" /><center><h2>Hi there,  thanks for dropping by!</h2></center><p align="justify">We are Kylie and Jason, life partners, best friends, work mates and most importantly the team behind Almond to Zest. We love food soooo much that we have dedicated our whole lives to it. And Almond to Zest is our little platform on the web to share all our ideas, knowledge and techniques with you. <a href="/about-us/"><i style="float:right;">continue reading →</i></a></p>
+</div>
+		</div></section><section id="lsi_widget-2" class="widget widget_lsi_widget"><div class="widget-wrap"><ul class="lsi-social-icons icon-set-lsi_widget-2"><li class="lsi-social-pinterest"><a class="" rel="nofollow" title="Pinterest" aria-label="Pinterest" href="http://www.pinterest.com/almondtozest" ><i class="lsicon lsicon-pinterest"></i></a></li><li class="lsi-social-facebook"><a class="" rel="nofollow" title="Facebook" aria-label="Facebook" href="http://www.facebook.com/almondtozest" ><i class="lsicon lsicon-facebook"></i></a></li><li class="lsi-social-email"><a class="" rel="nofollow" title="Contact" aria-label="Contact" href="mailto:almondtozest@gmail.com" ><i class="lsicon lsicon-email"></i></a></li></ul></div></section><section id="text-20" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><!-- Begin MailChimp Signup Form -->
+<div style="height:20px;"></div>
+<div id="mailchimp3">
+<center>
+<form action="//almondtozest.us11.list-manage.com/subscribe/post?u=73bcc6dbb95bf109c4fa5efe6&amp;id=541ca60690" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mailchimp_scroll">
+	<h2>join us</h2>
+        <p>subscribe to our newsletter and get new recipes straight to your inbox!</p>
+<div class="mc-field-group">
+	<input type="email" value="enter your email" SIZE="5" name="EMAIL" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+</div>
+<div class="mc-field-group">
+	<input type="text" value="enter your name" SIZE="5" name="FNAME" class="" id="mce-FNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_73bcc6dbb95bf109c4fa5efe6_541ca60690" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+
+</div>
+<div style="height:20px;"></div>
+<!--End mailchimp--></div>
+		</div></section><section id="text-23" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><a href="/recipe-index">
+<span style="color: #ffffff;
+    display: inline-block;
+    background-color: #3c6989;
+    text-transform: lowercase;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    padding: 5px 12px 4px;">Most Popular</span>
+<em style="    float: right;
+    font-style: normal;
+    font-size: 14px;
+    text-transform: lowercase;
+    color: #3c6989;
+    line-height: 40px;">See More →</em>
+</a></div>
+		</div></section><section id="featured-post-17" class="widget featured-content featuredpost"><div class="widget-wrap"><article class="simple-grid one-half odd first post-390 post type-post status-publish format-standard has-post-thumbnail category-brunch category-muffins entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/orange-cream-cheese-muffins/" title="Orange and Cream Cheese Muffins" class="aligncenter"><img width="650" height="975" src="http://www.almondtozest.com/wp-content/uploads/2015/09/IMG_1378.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2015/09/IMG_1378.jpg 650w, http://www.almondtozest.com/wp-content/uploads/2015/09/IMG_1378-200x300.jpg 200w, http://www.almondtozest.com/wp-content/uploads/2015/09/IMG_1378-610x915.jpg 610w, http://www.almondtozest.com/wp-content/uploads/2015/09/IMG_1378-300x450.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.almondtozest.com/orange-cream-cheese-muffins/">Orange and Cream Cheese Muffins</a></h2><p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2015-09-17T04:07:11+00:00">September 17, 2015</time></p></header></article><article class="simple-grid one-half post-1174 post type-post status-publish format-standard has-post-thumbnail category-brunch category-dairy-free category-dinner category-gluten-free category-healthy category-mains category-salads category-vegetarian entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/goji-berry-kaniwa-salad/" title="Goji Berry and Kaniwa Salad" class="aligncenter"><img width="650" height="975" src="http://www.almondtozest.com/wp-content/uploads/2016/06/IMG_3037.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2016/06/IMG_3037.jpg 650w, http://www.almondtozest.com/wp-content/uploads/2016/06/IMG_3037-200x300.jpg 200w, http://www.almondtozest.com/wp-content/uploads/2016/06/IMG_3037-320x480.jpg 320w, http://www.almondtozest.com/wp-content/uploads/2016/06/IMG_3037-610x915.jpg 610w, http://www.almondtozest.com/wp-content/uploads/2016/06/IMG_3037-300x450.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.almondtozest.com/goji-berry-kaniwa-salad/">Goji Berry and Kaniwa Salad</a></h2><p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2016-06-11T08:00:23+00:00">June 11, 2016</time></p></header></article><article class="simple-grid one-half odd first post-379 post type-post status-publish format-standard has-post-thumbnail category-dairy-free category-easy-how-tos category-gluten-free category-quick-easy category-vegetarian entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/how-to-make-roast-garlic-mayo/" title="How To Make Roast Garlic Mayo" class="aligncenter"><img width="650" height="975" src="http://www.almondtozest.com/wp-content/uploads/2015/09/IMG_1445.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2015/09/IMG_1445.jpg 650w, http://www.almondtozest.com/wp-content/uploads/2015/09/IMG_1445-200x300.jpg 200w, http://www.almondtozest.com/wp-content/uploads/2015/09/IMG_1445-610x915.jpg 610w, http://www.almondtozest.com/wp-content/uploads/2015/09/IMG_1445-300x450.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.almondtozest.com/how-to-make-roast-garlic-mayo/">How To Make Roast Garlic Mayo</a></h2><p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2015-09-17T03:53:51+00:00">September 17, 2015</time></p></header></article><article class="simple-grid one-half post-105 post type-post status-publish format-standard has-post-thumbnail category-brunch category-healthy category-muffins entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/whole-wheat-jam-doughnut-muffins/" title="Whole-Wheat Jam Doughnut Muffins" class="aligncenter"><img width="650" height="975" src="http://www.almondtozest.com/wp-content/uploads/2015/08/IMG_0646.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2015/08/IMG_0646.jpg 650w, http://www.almondtozest.com/wp-content/uploads/2015/08/IMG_0646-200x300.jpg 200w, http://www.almondtozest.com/wp-content/uploads/2015/08/IMG_0646-610x915.jpg 610w, http://www.almondtozest.com/wp-content/uploads/2015/08/IMG_0646-300x450.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.almondtozest.com/whole-wheat-jam-doughnut-muffins/">Whole-Wheat Jam Doughnut Muffins</a></h2><p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2015-08-23T01:14:53+00:00">August 23, 2015</time></p></header></article><article class="simple-grid one-half odd first post-1357 post type-post status-publish format-standard has-post-thumbnail category-cookies category-dairy-free category-desserts entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/tropical-pineapple-coconut-biscotti/" title="Tropical Pineapple and Coconut Biscotti" class="aligncenter"><img width="650" height="975" src="http://www.almondtozest.com/wp-content/uploads/2016/07/1-tropical-pineapple-coconut-biscotti.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2016/07/1-tropical-pineapple-coconut-biscotti.jpg 650w, http://www.almondtozest.com/wp-content/uploads/2016/07/1-tropical-pineapple-coconut-biscotti-200x300.jpg 200w, http://www.almondtozest.com/wp-content/uploads/2016/07/1-tropical-pineapple-coconut-biscotti-320x480.jpg 320w, http://www.almondtozest.com/wp-content/uploads/2016/07/1-tropical-pineapple-coconut-biscotti-610x915.jpg 610w, http://www.almondtozest.com/wp-content/uploads/2016/07/1-tropical-pineapple-coconut-biscotti-300x450.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.almondtozest.com/tropical-pineapple-coconut-biscotti/">Tropical Pineapple and Coconut Biscotti</a></h2><p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2016-08-06T08:00:48+00:00">August 6, 2016</time></p></header></article><article class="simple-grid one-half post-1581 post type-post status-publish format-standard has-post-thumbnail category-cocktails entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/classic-caprioska/" title="Classic Caprioska" class="aligncenter"><img width="650" height="975" src="http://www.almondtozest.com/wp-content/uploads/2016/10/1-classic-caprioska.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2016/10/1-classic-caprioska.jpg 650w, http://www.almondtozest.com/wp-content/uploads/2016/10/1-classic-caprioska-200x300.jpg 200w, http://www.almondtozest.com/wp-content/uploads/2016/10/1-classic-caprioska-320x480.jpg 320w, http://www.almondtozest.com/wp-content/uploads/2016/10/1-classic-caprioska-610x915.jpg 610w, http://www.almondtozest.com/wp-content/uploads/2016/10/1-classic-caprioska-300x450.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.almondtozest.com/classic-caprioska/">Classic Caprioska</a></h2><p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2016-10-08T08:00:49+00:00">October 8, 2016</time></p></header></article></div></section><section id="search-4" class="widget widget_search"><div class="widget-wrap"><form method="get" class="search-form" action="http://www.almondtozest.com/" role="search"><input type="search" name="s" placeholder="Looking for something?" /><input type="submit" value="Search" /></form></div></section></aside></div><aside class="sidebar sidebar-secondary widget-area" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar"></aside></div><div class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="user-profile-2" class="widget user-profile"><div class="widget-wrap"><p><span class="alignleft"><img alt='' src='http://2.gravatar.com/avatar/595c8d8805ff07962c09345fab3e0579?s=85&#038;r=g' srcset='http://2.gravatar.com/avatar/595c8d8805ff07962c09345fab3e0579?s=170&amp;r=g 2x' class='avatar avatar-85 photo' height='85' width='85' /></span>Hi there, thanks for dropping by. We are Kylie and Jason, life partners, best friends, work mates and most importantly the team behind Almond to Zest. We love food soooo much that we have dedicated our whole lives to it. And Almond to Zest is our little platform on the web to share all our ideas, knowledge and techniques with you. <a class="pagelink" href="http://www.almondtozest.com/about-us/">continue reading →</a></p>
+</div></section>
+<section id="lsi_widget-3" class="widget widget_lsi_widget"><div class="widget-wrap"><ul class="lsi-social-icons icon-set-lsi_widget-3"><li class="lsi-social-pinterest"><a class="" rel="nofollow" title="Pinterest" aria-label="Pinterest" href="http://www.pinterest.com/almondtozest" ><i class="lsicon lsicon-pinterest"></i></a></li><li class="lsi-social-facebook"><a class="" rel="nofollow" title="Facebook" aria-label="Facebook" href="http://www.facebook.com/almondtozest" ><i class="lsicon lsicon-facebook"></i></a></li><li class="lsi-social-email"><a class="" rel="nofollow" title="Contact" aria-label="Contact" href="mailto:almondtozest@gmail.com" ><i class="lsicon lsicon-email"></i></a></li></ul></div></section>
+</div><div class="footer-widgets-2 widget-area"><section id="featured-post-33" class="widget featured-content featuredpost"><div class="widget-wrap"><article class="simple-grid one-third odd first post-835 post type-post status-publish format-standard has-post-thumbnail category-chinese category-dinner category-lunch entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/char-siu-pork/" title="Char Siu Pork" class="alignnone"><img width="320" height="320" src="http://www.almondtozest.com/wp-content/uploads/2016/05/IMG_2640-320x320.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2016/05/IMG_2640-320x320.jpg 320w, http://www.almondtozest.com/wp-content/uploads/2016/05/IMG_2640-150x150.jpg 150w" sizes="(max-width: 320px) 100vw, 320px" /></a></article><article class="simple-grid one-third post-677 post type-post status-publish format-standard has-post-thumbnail category-dinner category-easy-how-tos category-healthy category-lunch category-quick-easy entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/how-to-make-purple-basil-pesto/" title="How To Make Purple Basil Pesto" class="alignnone"><img width="320" height="320" src="http://www.almondtozest.com/wp-content/uploads/2016/03/IMG_2071-320x320.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2016/03/IMG_2071-320x320.jpg 320w, http://www.almondtozest.com/wp-content/uploads/2016/03/IMG_2071-150x150.jpg 150w" sizes="(max-width: 320px) 100vw, 320px" /></a></article><article class="simple-grid one-third odd post-1341 post type-post status-publish format-standard has-post-thumbnail category-cakes category-desserts category-slices entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/pineapple-lime-coconut-bars/" title="Pineapple, Lime and Coconut Bars" class="alignnone"><img width="320" height="320" src="http://www.almondtozest.com/wp-content/uploads/2016/07/4-pineapple-lime-coconut-bars-320x320.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2016/07/4-pineapple-lime-coconut-bars-320x320.jpg 320w, http://www.almondtozest.com/wp-content/uploads/2016/07/4-pineapple-lime-coconut-bars-150x150.jpg 150w" sizes="(max-width: 320px) 100vw, 320px" /></a></article><article class="simple-grid one-third first post-291 post type-post status-publish format-standard has-post-thumbnail category-dairy-free category-easy-how-tos category-gluten-free category-vegan category-vegetarian entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/how-to-make-caramelized-onions/" title="How To Make Caramelized Onions" class="alignnone"><img width="320" height="320" src="http://www.almondtozest.com/wp-content/uploads/2015/09/IMG_1111-320x320.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2015/09/IMG_1111-320x320.jpg 320w, http://www.almondtozest.com/wp-content/uploads/2015/09/IMG_1111-150x150.jpg 150w" sizes="(max-width: 320px) 100vw, 320px" /></a></article><article class="simple-grid one-third odd post-1749 post type-post status-publish format-standard has-post-thumbnail category-dinner category-gluten-free category-healthy category-lunch category-vegan category-vegetarian entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/red-kidney-bean-ratatouille/" title="Red Kidney Bean Ratatouille" class="alignnone"><img width="320" height="320" src="http://www.almondtozest.com/wp-content/uploads/2016/12/4-red-kidney-bean-ratatouille-320x320.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2016/12/4-red-kidney-bean-ratatouille-320x320.jpg 320w, http://www.almondtozest.com/wp-content/uploads/2016/12/4-red-kidney-bean-ratatouille-150x150.jpg 150w" sizes="(max-width: 320px) 100vw, 320px" /></a></article><article class="simple-grid one-third post-1460 post type-post status-publish format-standard has-post-thumbnail category-cocktails entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/classic-cosmopolitan-cocktail/" title="Classic Cosmopolitan Cocktail" class="alignnone"><img width="320" height="320" src="http://www.almondtozest.com/wp-content/uploads/2016/08/2-cosmopolitan-cocktail-320x320.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2016/08/2-cosmopolitan-cocktail-320x320.jpg 320w, http://www.almondtozest.com/wp-content/uploads/2016/08/2-cosmopolitan-cocktail-150x150.jpg 150w" sizes="(max-width: 320px) 100vw, 320px" /></a></article></div></section>
+</div><div class="footer-widgets-3 widget-area"><section id="featured-post-34" class="widget featured-content featuredpost"><div class="widget-wrap"><article class="simple-grid one-third odd first post-375 post type-post status-publish format-standard has-post-thumbnail category-cookies category-desserts entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/strawberry-cinnamon-swirls/" title="Strawberry Cinnamon Swirls" class="alignnone"><img width="320" height="320" src="http://www.almondtozest.com/wp-content/uploads/2015/09/IMG_1419-320x320.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2015/09/IMG_1419-320x320.jpg 320w, http://www.almondtozest.com/wp-content/uploads/2015/09/IMG_1419-150x150.jpg 150w" sizes="(max-width: 320px) 100vw, 320px" /></a></article><article class="simple-grid one-third post-1691 post type-post status-publish format-standard has-post-thumbnail category-cocktails entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/creamy-coconut-lime-frozen-margaritas/" title="Creamy Coconut and Lime Frozen Margaritas" class="alignnone"><img width="320" height="320" src="http://www.almondtozest.com/wp-content/uploads/2016/11/2-creamy-coconut-lime-frozen-margarita.-320x320.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2016/11/2-creamy-coconut-lime-frozen-margarita.-320x320.jpg 320w, http://www.almondtozest.com/wp-content/uploads/2016/11/2-creamy-coconut-lime-frozen-margarita.-150x150.jpg 150w" sizes="(max-width: 320px) 100vw, 320px" /></a></article><article class="simple-grid one-third odd post-1237 post type-post status-publish format-standard has-post-thumbnail category-brunch category-healthy category-lunch entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/superfood-poached-eggs-benedict/" title="Superfood Poached Eggs Benedict" class="alignnone"><img width="320" height="320" src="http://www.almondtozest.com/wp-content/uploads/2016/06/IMG_3084-320x320.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2016/06/IMG_3084-320x320.jpg 320w, http://www.almondtozest.com/wp-content/uploads/2016/06/IMG_3084-150x150.jpg 150w" sizes="(max-width: 320px) 100vw, 320px" /></a></article><article class="simple-grid one-third first post-1127 post type-post status-publish format-standard has-post-thumbnail category-brunch category-dairy-free category-dinner category-easy-how-tos category-gluten-free category-healthy category-lunch category-vegan category-vegetarian entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/tomato-cilantro-chutney/" title="Tomato and Cilantro Chutney" class="alignnone"><img width="320" height="320" src="http://www.almondtozest.com/wp-content/uploads/2016/06/IMG_2942-320x320.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2016/06/IMG_2942-320x320.jpg 320w, http://www.almondtozest.com/wp-content/uploads/2016/06/IMG_2942-150x150.jpg 150w" sizes="(max-width: 320px) 100vw, 320px" /></a></article><article class="simple-grid one-third odd post-1320 post type-post status-publish format-standard has-post-thumbnail category-brunch category-dairy-free category-dinner category-healthy category-lunch category-soups entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/chicken-ginger-noodle-soup/" title="Chicken and Ginger Noodle Soup" class="alignnone"><img width="320" height="320" src="http://www.almondtozest.com/wp-content/uploads/2016/07/3-chicken-noodle-ginger-tahini-soup-320x320.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2016/07/3-chicken-noodle-ginger-tahini-soup-320x320.jpg 320w, http://www.almondtozest.com/wp-content/uploads/2016/07/3-chicken-noodle-ginger-tahini-soup-150x150.jpg 150w" sizes="(max-width: 320px) 100vw, 320px" /></a></article><article class="simple-grid one-third post-670 post type-post status-publish format-standard has-post-thumbnail category-brunch category-healthy entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting"><a href="http://www.almondtozest.com/decadent-gronola/" title="Decadent Granola" class="alignnone"><img width="320" height="320" src="http://www.almondtozest.com/wp-content/uploads/2016/03/IMG_2163-320x320.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://www.almondtozest.com/wp-content/uploads/2016/03/IMG_2163-320x320.jpg 320w, http://www.almondtozest.com/wp-content/uploads/2016/03/IMG_2163-150x150.jpg 150w" sizes="(max-width: 320px) 100vw, 320px" /></a></article></div></section>
+</div><div class="footer-widgets-4 widget-area"></div></div></div><footer class="site-footer" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div class="wrap"><p>Copyright &#x000A9;&nbsp;2017 &middot; Almond To Zest &middot; <a href="http://www.almondtozest.com/privacy-policy">Privacy Policy</a> &middot; <a href="http://www.almondtozest.com/contact">Contact</a></p></div></footer></div>	<div style="display:none">
+	<div class="grofile-hash-map-85afaf5d8c0a10907e4befb41d440296">
+	</div>
+	<div class="grofile-hash-map-9202923aa5c19c70bd1aa38348464fb8">
+	</div>
+	<div class="grofile-hash-map-fe673dc8abfa5bfd72adc15f7a9311ed">
+	</div>
+	<div class="grofile-hash-map-632a3bd6e32ec10fbd19aeceee9a9acf">
+	</div>
+	<div class="grofile-hash-map-8a85dd338d851cc92818df0092c72bc9">
+	</div>
+	<div class="grofile-hash-map-d5dbd25da2a2210f17792a0554685154">
+	</div>
+	<div class="grofile-hash-map-4a3d175abf78e482745c7d89ba21b2cf">
+	</div>
+	<div class="grofile-hash-map-3996074ef02b835ea34a1df17286de99">
+	</div>
+	<div class="grofile-hash-map-d41d8cd98f00b204e9800998ecf8427e">
+	</div>
+	<div class="grofile-hash-map-a6da5435e89398aad3722ecc608a3833">
+	</div>
+	<div class="grofile-hash-map-595c8d8805ff07962c09345fab3e0579">
+	</div>
+	</div>
+<script type='text/javascript'>jQuery(document).ready(function($) {$(".flexslider").flexslider({controlsContainer: "#genesis-responsive-slider",animation: "slide",directionNav: 0,controlNav: 1,animationDuration: 800,slideshowSpeed: 4000    });  });</script><script type='text/javascript' src='http://www.almondtozest.com/wp-content/plugins/akismet/_inc/form.js?ver=3.2'></script>
+<link rel='stylesheet' id='lsi-style-css'  href='http://www.almondtozest.com/wp-content/plugins/lightweight-social-icons/css/style.css' type='text/css' media='all' />
+<style id='lsi-style-inline-css' type='text/css'>
+
+			.icon-set-lsi_widget-2 {
+				text-align:center !important;
+			}
+			.icon-set-lsi_widget-2 a, 
+			.icon-set-lsi_widget-2 a:visited, 
+			.icon-set-lsi_widget-2 a:focus {
+				border-radius: 2px;
+				background: #3c6989 !important;
+				color: #FFFFFF !important;
+				font-size: 20px !important;
+			}
+			.icon-set-lsi_widget-2 a:hover {
+				background: #777777 !important;
+				color: #FFFFFF !important;
+			}
+
+			.icon-set-lsi_widget-3 {
+				text-align:center !important;
+			}
+			.icon-set-lsi_widget-3 a, 
+			.icon-set-lsi_widget-3 a:visited, 
+			.icon-set-lsi_widget-3 a:focus {
+				border-radius: 2px;
+				background: #3c6989 !important;
+				color: #FFFFFF !important;
+				font-size: 20px !important;
+			}
+			.icon-set-lsi_widget-3 a:hover {
+				background: #777777 !important;
+				color: #FFFFFF !important;
+			}
+</style>
+<script type='text/javascript' src='http://www.almondtozest.com/wp-content/plugins/bloom/js/jquery.uniform.min.js?ver=1.0.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bloomSettings = {"ajaxurl":"http:\/\/www.almondtozest.com\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/www.almondtozest.com\/chicken-leek-brie-pie\/","stats_nonce":"5b7790f22e","subscribe_nonce":"ff272cb03e"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.almondtozest.com/wp-content/plugins/bloom/js/custom.js?ver=1.0.5'></script>
+<script type='text/javascript' src='http://www.almondtozest.com/wp-content/plugins/bloom/js/idle-timer.min.js?ver=1.0.5'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201704'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2017Janaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.almondtozest.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.7.1'></script>
+<script type='text/javascript' src='http://www.almondtozest.com/wp-includes/js/comment-reply.min.js?ver=4.7.1'></script>
+<script type='text/javascript' src='http://www.almondtozest.com/wp-content/themes/foodiepro/assets/js/general.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.almondtozest.com/wp-content/plugins/genesis-responsive-slider/js/jquery.flexslider.js?ver=0.9.5'></script>
+<script type='text/javascript' src='http://www.almondtozest.com/wp-includes/js/wp-embed.min.js?ver=4.7.1'></script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+		if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+			// window.location.reload() doesn't respect the Hash in IE
+			window.location.hash = window.location.hash;
+		}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			var comm_par_el = document.getElementById( 'comment_parent' ),
+			    comm_par = (comm_par_el && comm_par_el.value) ? comm_par_el.value : '',
+			    frame = document.getElementById( 'jetpack_remote_comment' ),
+			    tellFrameNewParent;
+
+			tellFrameNewParent = function() {
+				if ( comm_par ) {
+					frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=114897045&postid=194&comment_registration=0&require_name_email=0&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=gravatar_default&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_US&jetpack_version=4.3.1&sig=a54f59d5dc1f310b1710a53c00753a1304e33408#parent=http%3A%2F%2Fwww.almondtozest.com%2Fchicken-leek-brie-pie%2F" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+				} else {
+					frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=114897045&postid=194&comment_registration=0&require_name_email=0&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=gravatar_default&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_US&jetpack_version=4.3.1&sig=a54f59d5dc1f310b1710a53c00753a1304e33408#parent=http%3A%2F%2Fwww.almondtozest.com%2Fchicken-leek-brie-pie%2F";
+				}
+			};
+
+	
+			if ( 'undefined' !== typeof addComment ) {
+				addComment._Jetpack_moveForm = addComment.moveForm;
+
+				addComment.moveForm = function( commId, parentId, respondId, postId ) {
+					var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ), cancelClick, cancel;
+
+					if ( false === returnValue ) {
+						cancel = document.getElementById( 'cancel-comment-reply-link' );
+						cancelClick = cancel.onclick;
+						cancel.onclick = function() {
+							var cancelReturn = cancelClick.call( this );
+							if ( false !== cancelReturn ) {
+								return cancelReturn;
+							}
+
+							if ( !comm_par ) {
+								return cancelReturn;
+							}
+
+							comm_par = 0;
+
+							tellFrameNewParent();
+
+							return cancelReturn;
+						};
+					}
+
+					if ( comm_par == parentId ) {
+						return returnValue;
+					}
+
+					comm_par = parentId;
+
+					tellFrameNewParent();
+
+					return returnValue;
+				};
+			}
+
+	
+			if ( window.postMessage ) {
+				if ( document.addEventListener ) {
+					window.addEventListener( 'message', function( event ) {
+						if ( "https:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				} else if ( document.attachEvent ) {
+					window.attachEvent( 'message', function( event ) {
+						if ( "https:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				}
+			}
+		</script>
+
+	<script type='text/javascript' src='http://stats.wp.com/e-201704.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.3.1',blog:'114897045',post:'194',tz:'-8',srv:'www.almondtozest.com'} ]);
+	_stq.push([ 'clickTrackerInit', '114897045', '194' ]);
+</script>
+</body>
+</html>
+
+<!-- Dynamic page generated in 1.709 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-01-25 09:04:15 -->
+
+<!-- super cache -->
