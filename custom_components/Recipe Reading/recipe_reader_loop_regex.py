@@ -6,7 +6,7 @@ import html # for converting escape characters into ascii (e.g. turns &amp; into
 
 # recipe to search and ingredient to search for
 # recipeNum = 3
-# ingredient = 'onion'
+ingredient = 'salt'
 
 # folders where pages are saved
 folderName_Byte = "RecipeScrapes_Byte"
@@ -35,7 +35,7 @@ if not os.path.isdir(filePath_Results):
 
 ndx=3
 
-for ndx in range(19):
+for ndx in range(30):
 
     #read the contents of a file
     print("Reading text file", ndx)
@@ -57,21 +57,18 @@ for ndx in range(19):
     #search for the title. It will probably be the first thing that is found between <title></title> tags
     pattern = re.compile("(?<=\<title\>)(.*?)(?=\<\/title\>)",re.DOTALL)
     match = re.search(pattern, filetext)
-
-    # clean up the found title by removing junk
-    title = re.sub(r'[^\x00-\x7F]+',' ', match.group(0)) #remove non-ASCII characters by replacing them with white space
-    # title = re.sub(r'&amp;','&',title)   # fix ampersands in title
-    # title = re.sub(r'&#039;','\'',title)  # fix apostrophes in title
-    title = re.sub(r'[\t\n\r\f\v]','', title) #remove most "blank" characters that aren't spaces
-    title.strip()  #remove leading or trailing white space from title
-
-    # print('\n')
-    # print(url)
-    # print(title)
-
-
     
-
+    # print(match)
+    # print(type(match))
+    try:
+        # clean up the found title by removing junk
+        title = re.sub(r'[^\x00-\x7F]+',' ', match.group(0)) #remove non-ASCII characters by replacing them with white space
+        title = re.sub(r'[\t\n\r\f\v]','', title) #remove most "blank" characters that aren't spaces
+        title.strip()  #remove leading or trailing white space from title
+    except AttributeError:
+        title = "Title not found."
+    
+    print(title)
     #
     # find an ingredient list
     #
@@ -96,7 +93,6 @@ for ndx in range(19):
 
     
    
-   
     # open a file. Write the url, title, and ingredient list to that file
     with open(filePath_Results + "\\" + recipeFile, 'w+t', encoding='utf-8') as fid:   
         fid.write(url)
@@ -107,6 +103,12 @@ for ndx in range(19):
         for ndx, member in enumerate(ingList):
             fid.write('\n'+ingList[ndx])
 
+     
+    # find ingredients in the ingredient list
+    ingResult = [x for x in ingList if ingredient in x]
+            
+    print(ingResult)        
+            
 print("Done.")
 
 print('\n\n')
