@@ -16,10 +16,10 @@ folderName_String = "RecipeScrapes_String"
 urls = []
 
 # 100% functional
-urls.append("http://www.pbs.org/food/kitchen-vignettes/salted-honey-cranberry-pumpkin-seed-bars")
-urls.append("https://www.hersheys.com/celebrate/valentines/recipedetail.aspx?id=4780&name=Celebration-Tarts")
-urls.append("http://altonbrown.com/triple-cheese-popcorn-recipe/")    
-urls.append("http://www.mantitlement.com/recipes/creamy-sausage-spaghetti/")    
+urls.append("http://www.pbs.org/food/kitchen-vignettes/salted-honey-cranberry-pumpkin-seed-bars")  # This one uses some ingredients multiple times in its list. It would be a good one to test that sort of thing with.
+urls.append("https://www.hersheys.com/celebrate/valentines/recipedetail.aspx?id=4780&name=Celebration-Tarts") # This one uses butter twice (One item is 2 tablespoons of butter. Another is 1 tbsp of butter, melted.)
+urls.append("http://altonbrown.com/triple-cheese-popcorn-recipe/")      # Lists butter and buttermilk. That could be tricky when asking about butter. It also has canola oil listed twice.
+urls.append("http://www.mantitlement.com/recipes/creamy-sausage-spaghetti/")    # Has two ingredient items with tomatoes
 urls.append("http://www.theseasonedmom.com/one-dish-garlic-herb-pork-tenderloin/")
 urls.append("http://www.closetcooking.com/2011/04/jalapeno-popper-grilled-cheese-sandwich.html")
 urls.append("http://www.almondtozest.com/chicken-leek-brie-pie/")
@@ -86,14 +86,14 @@ localFolder = os.path.dirname(__file__)
 
 # Create the complete path to folders (so they are placed in the directory where the script is running from)
 filePath_String = localFolder + "\\" + folderName_String
-filePath_Byte = localFolder + "\\" + folderName_Byte
+# filePath_Byte = localFolder + "\\" + folderName_Byte
 
 # Create directories if they don't already exist
 if not os.path.isdir(filePath_String):
     os.makedirs(filePath_String)
   
-if not os.path.isdir(filePath_Byte):
-    os.makedirs(filePath_Byte)
+# if not os.path.isdir(filePath_Byte):
+    # os.makedirs(filePath_Byte)
 
 
 
@@ -108,11 +108,11 @@ for ndx, member in enumerate(urls):
     req = opener.open(urls[ndx])
     page_content = req.read()
        
-    # save the page to a file in byte form
-    with open(filePath_Byte + "\\" + recipeFile, 'w+b') as fid:   
-        fid.write(urls[ndx].encode())
-        fid.write('\r\n\r\n\r\n'.encode())
-        fid.write(page_content)
+    # # save the page to a file in byte form
+    # with open(filePath_Byte + "\\" + recipeFile, 'w+b') as fid:   
+        # fid.write(urls[ndx].encode())
+        # fid.write('\r\n\r\n\r\n'.encode())
+        # fid.write(page_content)
 
 
     # save the page to a file in text (string) form
