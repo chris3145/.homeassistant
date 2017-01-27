@@ -1,3 +1,11 @@
+debug_bool:
+  name: Debug
+  initial: off
+  icon: mdi:android-debug-bridge
+
+
+
+
 restart_ha_pb:
   name: Restart home assistant
   initial: off

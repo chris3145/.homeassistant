@@ -24,9 +24,7 @@
   action:
     service: notify.debug
     data:
-      message: Temp change thing to {{ states.climate.living_room.attributes.current_temperature }}. #  The trigger thing saw a change to {{ trigger.payload }} # on topic {{ trigger.topic }}
-   
-
+      message: Temp change thing to {{ states.climate.living_room.attributes.current_temperature }}.  The trigger thing saw a change to {{ trigger.payload }} # on topic {{ trigger.topic }}
    
 
    

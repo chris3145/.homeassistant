@@ -14,14 +14,14 @@ frontend:
 
 http:
   # Uncomment the following line to add a password (recommended!)
-   api_password: !secret api_password
+  api_password: !secret api_password
   # Uncomment the following line if you are using SSL or running in Docker etc
   # base_url: example.duckdns.org:8123
   
   # no password required for connections from these IP addresses
-  # trusted_networks:
-    # - 127.0.0.1 # loopback IP address (the Raspberry Pi itself)
-    # - 192.168.1.0/24  # Anything from 192.168.1.0 to 192.168.1.254 (anything on the local network)
+  trusted_networks:
+    - 127.0.0.1 # loopback IP address (the Raspberry Pi itself)
+    - 192.168.1.0/24  # Anything from 192.168.1.0 to 192.168.1.254 (i.e. anything on the local network)
 
 # Checks for available updates
 updater:
@@ -30,16 +30,19 @@ updater:
 discovery:
 
 # Allows you to issue voice commands from the frontend in enabled browsers
-conversation:
+# This is restricted to a very limited "turn on [device]" format, so I'm not even going to bother with it
+# conversation:
 
 # Enables support for tracking state changes over time.
 history:
 
-# Let's try out this iframe thing
+#Browse the web from Home Assistant?
 panel_iframe:
-  router:
-    title: 'Router'
-    url: 'http://192.168.1.1'
+ google:
+   title: 'Google'
+   url: 'https://www.google.com/'
+   icon: mdi:google
+   
 
 # View all events in a logbook
 logbook:
@@ -88,6 +91,23 @@ input_slider: !include inputs/input_slider.yaml
 
 # Creates a command to pull the latest updates from GitHub and then restart home assistant
 shell_command:
-  get_latest_config: bash /home/homeassistant/.homeassistant/pullconfig.sh
+  get_latest_config: bash /home/homeassistant/.homeassistant/fetchconfig.sh
 
 script: !include_dir_merge_named script
+
+# python add ons
+
+
+# temporarily removed as I prepare to update the Raspberry Pi
+recipe_reader:
+# hello_state:
+# hello_service:
+
+
+# simple_alarm:
+  # known_light: input_boolean.tv_on
+  # unknown_light: input_boolean.sun_debug
+  
+# simple_python:
+  # input_bit: input_boolean.tv_on
+  # output_bit: input_boolean.sun_debug

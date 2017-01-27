@@ -33,7 +33,7 @@ pyozw.sqlite
 lib
 deps
 tts
-
+custom_components/recipeFiles
 
 
 # ignore anything that starts with a period
