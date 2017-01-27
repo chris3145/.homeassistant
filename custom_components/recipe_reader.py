@@ -1,3 +1,4 @@
+import json
 import urllib.request # for getting the page from the internet
 import re # for using regex 
 import os # for making a directory
@@ -203,6 +204,22 @@ def setup(hass, config):
             
         finally:
             print('\n\n')
+            
+            
+            
+            # Send a request to IFTTT containing the result
+            print("Sending IFTTT request")
+            IFTTTurl = "https://maker.ifttt.com/trigger/Text_Me/with/key/dt6NqmWkQPIXhE5OopFufv"
+            values = {'value1':str(ingResult[0])}#str(ingResult[0])}
+            
+            params = json.dumps(values).encode('utf8')
+            req = urllib.request.Request(IFTTTurl, params, headers={'content-type': 'application/json'})
+            
+            response = urllib.request.urlopen(req)
+            
+            print(response.read().decode('utf8'))
+            
+            
             return ingResult
 
     

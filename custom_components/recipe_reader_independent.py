@@ -1,8 +1,10 @@
+import urllib.parse
 import urllib.request # for getting the page from the internet
 import re # for using regex 
 import os # for making a directory
 import sys
 import html # for extracting html characters
+import json
 
 
 # This is used to bypass some of the webpages that attempt to block access from Python
@@ -23,6 +25,13 @@ filePath = os.path.join(localFolder,folderName)
 rcpFile = os.path.join(filePath,fileName)
 
 print(rcpFile)
+
+# response = urllib.request.urlopen(req)
+
+
+# print("Request attempted")
+# print(response.read().decode('utf8'))
+
 
 # Create the recipe data folder if it doesn't exist already
 if not os.path.isdir(filePath):
@@ -180,6 +189,21 @@ def findAmount(ingredient):
         
     finally:
         print('\n\n')
+        
+        
+    
+        # Send a request to IFTTT containing the result
+        print("Sending IFTTT request")
+        IFTTTurl = "https://maker.ifttt.com/trigger/Text_Me/with/key/dt6NqmWkQPIXhE5OopFufv"
+        values = {'value1':str(ingResult[0])}#str(ingResult[0])}
+        
+        params = json.dumps(values).encode('utf8')
+        req = urllib.request.Request(IFTTTurl, params, headers={'content-type': 'application/json'})
+        
+        response = urllib.request.urlopen(req)
+        
+        print(response.read().decode('utf8'))
+        
         return ingResult
 
 
@@ -195,6 +219,8 @@ try:
     rcpTitle = getTitle(rcpFile)        
     rcpIngList = getIngredientList(rcpFile)
     print("Data retrieval succeeded!")
+    
+    findAmount("chicken")
     # script.ifttt.trigger("event":"Text_Me","value1":"Test")
     # print(rcpIngList)
     # print('\n\n\n\n')
