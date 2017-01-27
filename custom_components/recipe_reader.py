@@ -23,17 +23,24 @@ def setup(hass, config):
     class AppURLopener(urllib.request.FancyURLopener):
         version = "Mozilla/5.0"
     opener = AppURLopener()
-
+       
+    
     # set file locations
     folderName = "recipeFiles"           
     fileName = "recipe.txt"        
 
     # build the file path based on the directory the script is running from
-    localFolder = os.path.dirname(__file__) 
-    filePath = localFolder + "\\" + folderName
-    rcpFile = filePath + "\\" + fileName
+    localFile = os.path.dirname(__file__)
+    localFolder = os.path.abspath(localFile)
 
-    # Create the results folder if it doesn't exist already
+
+    filePath = os.path.join(localFolder,folderName)
+    rcpFile = os.path.join(filePath,fileName)
+
+    print(rcpFile)
+    
+    
+    # Create the recipe data folder if it doesn't exist already
     if not os.path.isdir(filePath):
         os.makedirs(filePath)
     
@@ -172,6 +179,11 @@ def setup(hass, config):
         ''' when given an ingredient and an ingredient list, find all entries of the list that mention the ingredient'''
         
         print("\n\nFinding ingredient amount\n")
+        print("Working directory:")
+        print(os.getcwd())
+        
+        print("\nReal path")
+        print(os.path.realpath(__file__))
 
         ingredient = call.data.get(ATTR_INGR, DEFAULT_INGR)
         _LOGGER.info("Finding ingredient amount. Searching for '"+ingredient+"' in ingredient list.")
