@@ -126,7 +126,7 @@ def getIngredientList(recipeFile):
 
     return ingList
 
-def loadRecipe(url):
+def downloadRecipe(url):
     '''Setup function that is called when first receiving the url.
     This runs all of the functions to save the webpage, extract the title, and extract the ingredients.
     '''
@@ -199,7 +199,9 @@ try:
     # print(rcpIngList)
     # print('\n\n\n\n')
 except FileNotFoundError:
-    print("No recipe file found.")  
+    print("No recipe file found.")
+    print("Loading file")
+    downloadRecipe("http://altonbrown.com/election-night-steak-recipe/")
 
 # print('Title after update:', rcpTitle)
 # print('\n\n\n')

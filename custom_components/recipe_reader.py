@@ -142,7 +142,7 @@ def setup(hass, config):
 
         return ingList
     
-    def loadRecipe(call):
+    def downloadRecipe(call):
         '''Setup function that is called when first receiving the url.
         This runs all of the functions to save the webpage, extract the title, and extract the ingredients.
         '''
@@ -208,7 +208,7 @@ def setup(hass, config):
     
     
     #these are the services that will be exposed to home assistant
-    hass.services.register(DOMAIN, 'loadRecipe', loadRecipe)  
+    hass.services.register(DOMAIN, 'downloadRecipe', downloadRecipe)  
     hass.services.register(DOMAIN, 'findAmount', findAmount)
     
     print('\n\n\n')
