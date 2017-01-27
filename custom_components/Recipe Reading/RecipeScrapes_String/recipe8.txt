@@ -1,0 +1,1028 @@
+http://www.pickledplum.com/spaghetti-squash-healthy-recipe/
+
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8"/>
+<title>Spaghetti Squash Recipe with Mushrooms and Parmesan - Pickled Plum</title><meta name="viewport" content="width=device-width, initial-scale=1"/>
+ 
+<meta name="description" content="One easy spaghetti squash recipe! Meaty mushrooms, thyme and a good dose of parmesan bring earthy, savory and rustic Italian flavors to the forefront."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/"/>
+<link rel="publisher" href="https://plus.google.com/+Pickledplum/"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Spaghetti Squash Recipe with Mushrooms and Parmesan - Pickled Plum"/>
+<meta property="og:description" content="One easy spaghetti squash recipe! Meaty mushrooms, thyme and a good dose of parmesan bring earthy, savory and rustic Italian flavors to the forefront."/>
+<meta property="og:url" content="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/"/>
+<meta property="og:site_name" content="Pickled Plum"/>
+<meta property="article:publisher" content="https://www.facebook.com/misspickledplum"/>
+<meta property="article:author" content="https://www.facebook.com/misspickledplum"/>
+<meta property="article:section" content="Appetizers / sides"/>
+<meta property="article:published_time" content="2014-01-19T11:01:10+00:00"/>
+<meta property="article:modified_time" content="2017-01-18T10:21:25+00:00"/>
+<meta property="og:updated_time" content="2017-01-18T10:21:25+00:00"/>
+<meta property="og:image" content="http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-quash-mushrooms-320.jpg"/>
+<meta property="og:image:width" content="320"/>
+<meta property="og:image:height" content="320"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="One easy spaghetti squash recipe! Meaty mushrooms, thyme and a good dose of parmesan bring earthy, savory and rustic Italian flavors to the forefront."/>
+<meta name="twitter:title" content="Spaghetti Squash Recipe with Mushrooms and Parmesan - Pickled Plum"/>
+<meta name="twitter:site" content="@misspickledplum"/>
+<meta name="twitter:image" content="http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-quash-mushrooms-320.jpg"/>
+<meta name="twitter:creator" content="@misspickledplum"/>
+ 
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//a.optnmnstr.com'/>
+<link rel='dns-prefetch' href='//fonts.googleapis.com'/>
+<link rel='dns-prefetch' href='//s.w.org'/>
+<link rel="alternate" type="application/rss+xml" title="Pickled Plum &raquo; Feed" href="http://feeds.feedburner.com/PickledPlum"/>
+<link rel="alternate" type="application/rss+xml" title="Pickled Plum &raquo; Comments Feed" href="http://www.pickledplum.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Pickled Plum &raquo; Spaghetti Squash Recipe with Mushrooms and Parmesan Comments Feed" href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/feed/"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.pickledplum.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel='stylesheet' id='brunch-pro-theme-css' href='http://www.pickledplum.com/wp-content/themes/brunch-pro-2.0.1/style.css?ver=2.0.1' type='text/css' media='all'/>
+<style id='brunch-pro-theme-inline-css' type='text/css'>body{font-family:"Source Sans Pro","Helvetica Neue",sans-serif;font-weight:300;font-size:15px;}input,select,textarea,.wp-caption-text,.site-description,.entry-meta{font-style:normal;}.wp-caption-text,.site-description,.entry-meta{font-size:12px;}h1{font-size:21px;}h2{font-size:18px;}h3{font-size:16px;}.single .content .entry-title,.page .content .page .entry-title,.archive-description .entry-title,.home-top .entry-title,.home-middle .entry-title,.home-bottom .entry-title{font-size:19px;}.sidebar .widgettitle,.footer-widgets .widgettitle{font-size:12px;}.genesis-nav-menu .menu-item{font-family:"Oswald","Helvetica Neue",sans-serif;font-weight:500;font-size:14px;}.button,.button-secondary,button,input[type="button"],input[type="reset"],input[type="submit"],.enews-widget input[type="submit"],.brunch-pro .simmer-icon-print,.brunch-pro .simmer-icon-print a,div.gform_wrapper .gform_footer input[type="submit"],a.more-link,.more-from-category a{font-weight:500;background:#a8a8a8;border-color:#a8a8a8;}.brunch-pro .site-header{background:#ffffff;}.entry-title,.entry-title a,h1.entry-title,.widgettitle,.recipe-index .widgettitle,.footer-widgets .widgettitle,.site-title a,.site-title a:hover,.site-title a:focus,.brunch-pro .simmer-embedded-recipe .simmer-recipe-title a{color:#473e41;}body,.entry-meta a:not(.button),.sidebar a:not(.button),.site-description,.site-footer a:not(.button){color:#494144;}a,.site-footer a:not(.button),.pagination-next:after,.pagination-previous:before{color:#d61b79;}.genesis-nav-menu>li>a:hover,.genesis-nav-menu>li>a:focus,.genesis-nav-menu>.current-menu-item>a{color:#a04367;}</style>
+<link rel='stylesheet' id='brunch-pro-google-fonts-css' href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3Aregular%2Citalic%2C700%2C200%2C200italic%2C300%2C300italic%2C600%2C600italic%2C700italic%2C900%2C900italic%7CLato%3Aregular%2Citalic%2C700%2C300%2C300italic%2C700italic%2C900%2C900italic%7COswald%3Aregular%2C700%2C300%26subset%3Dlatin%2C&#038;ver=2.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='simple-social-icons-font-css' href='http://www.pickledplum.com/wp-content/plugins/simple-social-icons/css/style.css?ver=1.0.12' type='text/css' media='all'/>
+<link rel='stylesheet' id='easyrecipestyle-reset-css' href='http://www.pickledplum.com/wp-content/plugins/easyrecipeplus/css/easyrecipe-style-reset-min.css?ver=3.5.3226' type='text/css' media='all'/>
+<link rel='stylesheet' id='easyrecipebuttonUI-css' href='http://www.pickledplum.com/wp-content/plugins/easyrecipeplus/ui/easyrecipe-buttonUI.css?ver=3.5.3226' type='text/css' media='all'/>
+<link rel='stylesheet' id='easyrecipestyle-css' href='http://www.pickledplum.com/wp-content/plugins/easyrecipeplus/styles/style002a/style.css?ver=3.5.3226.1.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='wp-featherlight-css' href='http://www.pickledplum.com/wp-content/plugins/wp-featherlight/css/wp-featherlight.min.css?ver=1.0.0' type='text/css' media='all'/>
+<link rel='stylesheet' id='jetpack_css-css' href='http://www.pickledplum.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.4.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css' href='http://www.pickledplum.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.13' type='text/css' media='all'/>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-content/themes/genesis/lib/js/skip-links.js?ver=4.6.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' data-cfasync="false" id="omapi-script" async="async" src='//a.optnmnstr.com/app/js/api.min.js?ver=1.1.5.9'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-content/plugins/easyrecipeplus/js/easyrecipe-min.js?ver=3.5.3226'></script>
+<link rel='https://api.w.org/' href='http://www.pickledplum.com/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.pickledplum.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.pickledplum.com/wp-includes/wlwmanifest.xml"/>
+<meta name="generator" content="WordPress 4.6.1"/>
+<link rel='shortlink' href='http://www.pickledplum.com/?p=9841'/>
+<link rel="alternate" type="application/json+oembed" href="http://www.pickledplum.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pickledplum.com%2Fspaghetti-squash-healthy-recipe%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="http://www.pickledplum.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pickledplum.com%2Fspaghetti-squash-healthy-recipe%2F&#038;format=xml"/>
+<script type="text/javascript">
+var a2a_config=a2a_config||{};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.templates=a2a_config.templates||{};
+</script>
+<script type="text/javascript" src="http://static.addtoany.com/menu/page.js" async="async"></script>
+<script>
+window.adthrive = window.adthrive || {};
+window.adthrive.cmd = window.adthrive.cmd || [];
+
+(function() {
+  var script = document.createElement('script');
+  script.async = true;
+  script.type = 'text/javascript';
+  script.src = 'http://ads.adthrive.com/sites/5613df275ed284b838a6065f/ads.min.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(script, node);
+})();
+</script>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel="icon" href="http://www.pickledplum.com/wp-content/themes/brunch-pro-2.0.1/images/favicon.ico"/>
+ 
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-39207633-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<link rel="icon" href="http://www.pickledplum.com/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="http://www.pickledplum.com/favicon.ico" type="image/x-icon"/>
+<meta name="msvalidate.01" content="5908CB27E0963CC15ADF2EDD08BA1E2C"/>
+<script type="text/javascript">
+<!--
+if (top.location!= self.location) {
+top.location = self.location.href
+}
+//-->
+</script>
+<meta property="fb:admins" content="500752364"/>
+<style type="text/css">.site-title a{background:url(http://www.pickledplum.com/wp-content/uploads/2016/05/Header-June-2016-transparency.png) no-repeat!important;}</style>
+<style type="text/css" media="screen">.simple-social-icons ul li a,.simple-social-icons ul li a:hover{background-color:#0f0f0f!important;border-radius:0px;color:#f9f9f9!important;border:0px #ffffff solid!important;font-size:18px;padding:9px;}.simple-social-icons ul li a:hover{background-color:#c4c4c4!important;border-color:#ffffff!important;color:#ffffff!important;}</style><style type="text/css">html body div.easyrecipe .nutrition .ERSNutritionHeader{font-weight:bold!important;color:rgb(69,69,69)!important;}html body div.easyrecipe .nutrition .ERSNutrionDetails{font-size:16px!important;}html body div.easyrecipe .ERSName{font-family:'Kotta One'!important;font-weight:bold!important;font-size:22px!important;color:rgb(13,13,13)!important;}html body div.easyrecipe .ERSSummary{font-family:'Times New Roman',serif!important;font-size:17px!important;color:rgb(56,53,55)!important;}html body div.easyrecipe .ERSPrintBtnSpan .ERSPrintBtn{color:rgb(150,63,131)!important;font-family:'Open Sans'!important;font-size:16px!important;margin-top:-2px!important;}html body div.easyrecipe .ERSIngredientsHeader{color:rgb(179,74,154)!important;font-family:'Kotta One'!important;font-weight:normal!important;}html body div.easyrecipe .ERSIngredients li.ingredient{font-size:17px!important;margin-top:5px!important;}html body div.easyrecipe .ERSInstructionsHeader{color:rgb(179,74,154)!important;font-family:'Kotta One'!important;}html body div.easyrecipe .ERSInstructions .instruction{font-size:17px!important;padding-left:0px!important;margin-top:10px!important;margin-left:29px!important;}</style>
+<script type="text/javascript">$SA = {s:265602, asynch: 1, useBlacklistUrl: 1};(function() {   var sa = document.createElement("script");   sa.type = "text/javascript";   sa.async = true;   sa.src = ("https:" == document.location.protocol ? "https://" + $SA.s + ".sa" : "http://" + $SA.s + ".a") + ".siteapps.com/" + $SA.s + ".js";   var t = document.getElementsByTagName("script")[0];   t.parentNode.insertBefore(sa, t);})();</script></head>
+<body class="single single-post postid-9841 single-format-standard wp-featherlight-captions custom-header header-image header-full-width content-sidebar brunch-pro er-recipe" itemscope itemtype="http://schema.org/WebPage"><div class="site-container"><section><h2 class="screen-reader-text">Skip links</h2><ul class="genesis-skip-link"><li><a href="#genesis-nav-primary" class="screen-reader-shortcut"> Skip to primary navigation</a></li><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to content</a></li><li><a href="#genesis-sidebar-primary" class="screen-reader-shortcut"> Skip to primary sidebar</a></li><li><a href="#genesis-footer-widgets" class="screen-reader-shortcut"> Skip to footer</a></li></ul></section>
+<h2 class="screen-reader-text">Main navigation</h2><header class="site-header" itemscope itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://www.pickledplum.com/">Pickled Plum</a></p><p class="site-description" itemprop="description">Turn your favorite dishes into healthier meals without cutting back on flavor. Hundreds of easy and popular recipes made lighter, with blogger resources.</p></div></div></header><nav class="nav-secondary" itemscope itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-my-menu" class="menu genesis-nav-menu menu-secondary"><li id="menu-item-2817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2817"><a href="http://www.pickledplum.com/about/" itemprop="url"><span itemprop="name">About</span></a>
+<ul class="sub-menu">
+<li id="menu-item-29453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29453"><a href="http://www.pickledplum.com/press/" itemprop="url"><span itemprop="name">PRESS</span></a></li>
+<li id="menu-item-16650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16650"><a href="http://www.pickledplum.com/work-with-us/" itemprop="url"><span itemprop="name">Work With Us</span></a></li>
+<li id="menu-item-4241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4241"><a href="http://www.pickledplum.com/contact/" itemprop="url"><span itemprop="name">Contact</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2818"><a title="Anti aging" href="http://www.pickledplum.com/anti-aging/" itemprop="url"><span itemprop="name">Antiaging</span></a>
+<ul class="sub-menu">
+<li id="menu-item-9469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9469"><a href="http://www.pickledplum.com/recipes/anti-aging-recipes/" itemprop="url"><span itemprop="name">Anti-aging recipes</span></a></li>
+<li id="menu-item-4206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4206"><a title="products" href="http://www.pickledplum.com/anti-aging/anti-aging-products/" itemprop="url"><span itemprop="name">Anti-aging products</span></a></li>
+<li id="menu-item-4207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4207"><a title="tiips" href="http://www.pickledplum.com/anti-aging/anti-aging-tips-2/" itemprop="url"><span itemprop="name">Anti-aging tips</span></a></li>
+</ul>
+</li>
+<li id="menu-item-27391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27391"><a href="http://www.pickledplum.com/recipe-index/" itemprop="url"><span itemprop="name">Recipe Index</span></a>
+<ul class="sub-menu">
+<li id="menu-item-17438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17438"><a href="http://www.pickledplum.com/ingredients-cooking/" itemprop="url"><span itemprop="name">Ingredients</span></a></li>
+<li id="menu-item-11833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11833"><a href="http://www.pickledplum.com/how-to/" itemprop="url"><span itemprop="name">How To</span></a></li>
+</ul>
+</li>
+<li id="menu-item-29581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29581"><a href="http://www.pickledplum.com/recipe-videos/" itemprop="url"><span itemprop="name">Videos</span></a></li>
+<li id="menu-item-26802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26802"><a href="http://www.pickledplum.com/51recipes/" itemprop="url"><span itemprop="name">Ecookbook</span></a></li>
+<li id="menu-item-31197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31197"><a href="http://www.pickledplum.com/10-years-younger/" itemprop="url"><span itemprop="name">10 Years Younger</span></a></li>
+<li id="menu-item-26797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-26797"><a href="http://www.pickledplum.com/blogging/" itemprop="url"><span itemprop="name">Blogging</span></a>
+<ul class="sub-menu">
+<li id="menu-item-30673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30673"><a href="http://www.pickledplum.com/blog-income-report/" itemprop="url"><span itemprop="name">Blog Income Reports</span></a></li>
+<li id="menu-item-30674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30674"><a href="http://www.pickledplum.com/how-to-start-a-food-blog-today/" itemprop="url"><span itemprop="name">How To Start A Food Blog</span></a></li>
+<li id="menu-item-28090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28090"><a href="http://www.pickledplum.com/resources/" itemprop="url"><span itemprop="name">Resources</span></a></li>
+</ul>
+</li>
+<li id="menu-item-28070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28070"><a href="http://www.pickledplum.com/shop-online/" itemprop="url"><span itemprop="name">Shop</span></a></li>
+</ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" id="genesis-content"><p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2014-01-19T11:01:10+00:00">January 19, 2014</time> </p><article class="post-9841 post type-post status-publish format-standard has-post-thumbnail category-appetizers-sides category-thanksgiving category-gluten-free-recipes category-healthy-recipes category-italian-recipes category-popular course-main-2 cuisine-gluten-free entry" itemscope itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Spaghetti Squash Recipe with Mushrooms and Parmesan</h1>
+</header><div class="entry-content" itemprop="text"><div class="addtoany_share_save_container addtoany_content_top"><div class="a2a_kit a2a_kit_size_20 addtoany_list" data-a2a-url="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/" data-a2a-title="Spaghetti Squash Recipe with Mushrooms and Parmesan"><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.pickledplum.com%2Fspaghetti-squash-healthy-recipe%2F&amp;linkname=Spaghetti%20Squash%20Recipe%20with%20Mushrooms%20and%20Parmesan" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.pickledplum.com%2Fspaghetti-squash-healthy-recipe%2F&amp;linkname=Spaghetti%20Squash%20Recipe%20with%20Mushrooms%20and%20Parmesan" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fwww.pickledplum.com%2Fspaghetti-squash-healthy-recipe%2F&amp;linkname=Spaghetti%20Squash%20Recipe%20with%20Mushrooms%20and%20Parmesan" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_button_pinterest" href="http://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.pickledplum.com%2Fspaghetti-squash-healthy-recipe%2F&amp;linkname=Spaghetti%20Squash%20Recipe%20with%20Mushrooms%20and%20Parmesan" title="Pinterest" rel="nofollow" target="_blank"></a><a class="a2a_button_yummly" href="http://www.addtoany.com/add_to/yummly?linkurl=http%3A%2F%2Fwww.pickledplum.com%2Fspaghetti-squash-healthy-recipe%2F&amp;linkname=Spaghetti%20Squash%20Recipe%20with%20Mushrooms%20and%20Parmesan" title="Yummly" rel="nofollow" target="_blank"></a><a class="a2a_button_reddit" href="http://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.pickledplum.com%2Fspaghetti-squash-healthy-recipe%2F&amp;linkname=Spaghetti%20Squash%20Recipe%20with%20Mushrooms%20and%20Parmesan" title="Reddit" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a></div></div><p><em>This easy, kid-friendly and gluten-free spaghetti squash recipe is cheesy, earthy and super healthy. Oh &#8211; and it&#8217;s delicious too! </em></p>
+<p><img class="alignnone wp-image-9859 size-full" title="Spaghetti squash with mushrooms and parmesan" src="http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-quash-wiht-mushrooms-600.jpg" alt="Easy spaghetti squash recipe with mushrooms and parmesan. Recipe, side, squash, hearty, vegetables| pickledplum.com" width="600" height="900" srcset="http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-quash-wiht-mushrooms-600.jpg 600w, http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-quash-wiht-mushrooms-600-200x300.jpg 200w, http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-quash-wiht-mushrooms-600-260x390.jpg 260w, http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-quash-wiht-mushrooms-600-160x240.jpg 160w" sizes="(max-width: 600px) 100vw, 600px"/><script src="//assets.pinterest.com/js/pinit.js" async="" type="text/javascript"></script><br/>
+<h2><span style="color: #993366;">Spaghetti Squash Recipe with Mushrooms and Parmesan</span></h2>
+<p>Sometimes the flavors of a creamy mushroom risotto call out to me. There&#8217;s nothing better than a spoonful of super umami rice and mushrooms. Unfortunately, eating risotto usually involves ingesting mammoth levels of butter &#8211; and leave me feeling like I swallowed a bowling ball. So I embarked on a mission to capture the flavors of risotto in a vegetable dish. The flavors in this spaghetti squash recipe are savory and very earthy, almost like that much loved mushroom risotto. However, instead of creamy grains of rice in this <strong><a href="http://www.amazon.com/gp/product/0547516916/ref=as_li_tf_tl?ie=UTF8&amp;camp=211189&amp;creative=373489&amp;creativeASIN=0547516916&amp;link_code=as3&amp;tag=nyfobl-20" target="_blank">rustic style preparation</a>, </strong>we&#8217;re substituting beautiful golden strands of squash which yield a satisfying crunch. Baking and scraping the <strong>spaghetti squash</strong> couldn&#8217;t have been easier! I&#8217;ll admit to previously (and laboriously) <del>hacking</del> cutting squash into pieces before throwing them on a <strong><a href="http://www.amazon.com/gp/product/B000G0KJG4/ref=as_li_tf_tl?ie=UTF8&amp;camp=211189&amp;creative=373489&amp;creativeASIN=B000G0KJG4&amp;link_code=as3&amp;tag=nyfobl-20" target="_blank">sheet tray</a></strong>, making the whole experience much more tiring than it ever needed to be. Well, never again! The secret is out; bake THEN cut your spaghetti squash to avoid slicing through the hard and waxy raw exterior!</p>
+<div id="attachment_9860" style="width: 610px" class="wp-caption alignnone"><img class="wp-image-9860 size-full" src="http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash-ingredients-info.jpg" alt="spaghetti squash ingredients info" width="600" height="900" srcset="http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash-ingredients-info.jpg 600w, http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash-ingredients-info-200x300.jpg 200w, http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash-ingredients-info-260x390.jpg 260w, http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash-ingredients-info-160x240.jpg 160w" sizes="(max-width: 600px) 100vw, 600px"/><p class="wp-caption-text">There are some potent health benefits you get by combining spaghetti squash, mushrooms, garlic, parsley, thyme and Parmesan.</p></div>
+<p>For a while there, a slew of <strong>spaghetti squash</strong> <strong>recipes</strong> made appearances on <a href="https://www.pinterest.com/pickledplumfood/" target="_blank">Pinterest</a> and on some of my favorite food blogs, looking beautiful and mouthwatering. I wanted to give it a shot but had never cooked with spaghetti squash before. It looked complicated and too elaborate. I was comfortable in my butternut squash zone and secretly believed other gourd family members wouldn&#8217;t taste as good or be as easy to prepare. But a couple of weeks ago, I saw a recipe on <a href="http://www.steamykitchen.com/11285-baked-spaghetti-squash-with-garlic-and-butter.html" target="_blank">Steamy Kitchen</a> with step by step photos on how to work with spaghetti squash. That was enough to convince me to give it a try (thank you Jaden!). I&#8217;ve adapted the recipe by adding a few more ingredients and omitting the butter (to keep it a little lighter.)</p>
+<p><img class="alignnone wp-image-9861 size-full" src="http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash.jpg" alt="how to bake spaghetti squash" width="600" height="896" srcset="http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash.jpg 600w, http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash-200x300.jpg 200w, http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash-260x388.jpg 260w, http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash-160x238.jpg 160w" sizes="(max-width: 600px) 100vw, 600px"/></p>
+<p>Spaghetti squash may be very low in calories but it&#8217;s actually quite filling! Especially when prepared with meaty mushrooms and a good dose of Parmesan cheese. It&#8217;s a side dish that&#8217;s a little heavy so I would recommend serving your spaghetti squash &#8220;risotto&#8221; with a lighter dish. I&#8217;m certainly glad I&#8217;ve given <em>spaghetti squash recipe</em> a try since it&#8217;s absolutely delicious! The flavors are milder and not quite as sweet as butternut squash, which makes a great vehicle for ingredients that are more savory and umami based. It&#8217;s a wonderful addition to the menu!</p>
+<p><img class="alignnone wp-image-9870 size-full" src="http://www.pickledplum.com/wp-content/uploads/2014/01/sliced-spaghetti-squash.jpg" alt="baked spaghetti squash" width="600" height="824" srcset="http://www.pickledplum.com/wp-content/uploads/2014/01/sliced-spaghetti-squash.jpg 600w, http://www.pickledplum.com/wp-content/uploads/2014/01/sliced-spaghetti-squash-218x300.jpg 218w, http://www.pickledplum.com/wp-content/uploads/2014/01/sliced-spaghetti-squash-260x357.jpg 260w, http://www.pickledplum.com/wp-content/uploads/2014/01/sliced-spaghetti-squash-160x219.jpg 160w" sizes="(max-width: 600px) 100vw, 600px"/><strong>Other yummy spaghetti squash recipes:</strong></p>
+<ul>
+<li><a href="http://www.pickledplum.com/spaghetti-squash-alfredo-recipe/" target="_blank">Spaghetti squash alfredo</a></li>
+<li><a href="http://www.pickledplum.com/yakisoba-spaghetti-squash-recipe/" target="_blank">Spaghetti squash yakisoba style</a></li>
+<li><a href="http://www.pickledplum.com/shrimp-scampi-spaghetti-squash-recipe/">Spaghetti squash shrimp scampi</a></li>
+<li><a href="http://www.completelydelicious.com/2015/02/twice-baked-spaghetti-squash-cheese.html" target="_blank">Twice baked spaghetti squash with cheese</a></li>
+<li><a href="http://bevcooks.com/2011/10/southwestern-stuffed-spaghetti-squash/" target="_blank">Southwestern stuffed spaghetti squash</a></li>
+</ul>
+<p><img class="alignnone wp-image-9871 size-full" title="Spaghetti Squash with Mushrooms Parmesan" src="http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash-and-mushrooms-2.jpg" alt="Easy spaghetti squash recipe with mushrooms and parmesan. Recipe, side, squash, hearty, vegetables| pickledplum.com" width="600" height="900" srcset="http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash-and-mushrooms-2.jpg 600w, http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash-and-mushrooms-2-200x300.jpg 200w, http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash-and-mushrooms-2-260x390.jpg 260w, http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash-and-mushrooms-2-160x240.jpg 160w" sizes="(max-width: 600px) 100vw, 600px"/></p>
+<p>Did you like this <strong>Spaghetti Squash Recipe with Mushrooms and Parmesan Recipe</strong>? Are there changes you made that you would like to share? Share your tips and recommendations in the comment section below!<br/>
+<div id="easyrecipe-9841-0" class="easyrecipe" itemscope itemtype="http://schema.org/Recipe"> <link itemprop="image" href="http://pickledplum.com/wp-content/uploads/2014/01/spaghetti-quash-wiht-mushrooms-600-150x150.jpg"/> <div class="ERSRatings" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> <div class="ERSRatingOuter"> <div class="ERSRatingInner" style="width: 96%"></div> <div class="review"><span class="rating"><span class="average" itemprop="ratingValue">4.8</span> from <span class="count" itemprop="ratingCount">13</span> reviews</span></div> </div> </div> <div itemprop="name" class="ERSName">Spaghetti Squash Recipe With Mushrooms And Parmesan</div> <div class="ERSClear">&nbsp;</div> <div class="ERSTopRight"> <div class="ERSSavePrint"> <span class="ERSPrintBtnSpan"><a class="ERSPrintBtn" href="http://www.pickledplum.com/easyrecipe-print/9841-0/" rel="nofollow" target="_blank">Print</a></span> </div> </div> <div class="ERSTimes"> <div class="ERSTime"> <div class="ERSTimeHeading">Prep time</div> <div class="ERSTimeItem"> <time itemprop="prepTime" datetime="PT10M">10 mins</time> </div> </div> <div class="ERSTime ERSTimeRight"> <div class="ERSTimeHeading">Cook time</div> <div class="ERSTimeItem"> <time itemprop="cookTime" datetime="PT1H10M">1 hour 10 mins</time> </div> </div> <div class="ERSTime ERSTimeRight"> <div class="ERSTimeHeading">Total time</div> <div class="ERSTimeItem"> <time itemprop="totalTime" datetime="PT1H20M">1 hour 20 mins</time> </div> </div> <div class="ERSClearLeft">&nbsp;</div> </div> <div itemprop="description" class="ERSSummary">Cheesy, earthy and healthy spaghetti squash recipe that's kid friendly and gluten-free!</div> <div class="divERSHeadItems"> <div class="ERSAuthor">Author: <span itemprop="author">Caroline Phelps</span></div> <div class="ERSCategory">Recipe type: <span itemprop="recipeCategory">Main</span></div> <div class="ERSCuisine">Cuisine: <span itemprop="recipeCuisine">gluten-free</span></div> <div class="ERSServes">Serves: <span itemprop="recipeYield">4</span></div> </div> <div class="ERSIngredients"> <div class="ERSIngredientsHeader ERSHeading">Ingredients</div> <ul> <li class="ingredient" itemprop="ingredients">1 small spaghetti squash (about 2 pounds)</li> <li class="ingredient" itemprop="ingredients">2 tbsp extra virgin olive oil</li> <li class="ingredient" itemprop="ingredients">2 cups button mushrooms, chopped bite size</li> <li class="ingredient" itemprop="ingredients">2 garlic cloves, finely chopped</li> <li class="ingredient" itemprop="ingredients">1 tbsp fresh thyme</li> <li class="ingredient" itemprop="ingredients">&frac14; cup parmesan cheese, grated</li> <li class="ingredient" itemprop="ingredients">1 handful flat leaf parsley, finely chopped</li> <li class="ingredient" itemprop="ingredients">salt and pepper to taste</li> </ul> <div class="ERSClear"></div> </div> <div class="ERSInstructions"> <div class="ERSInstructionsHeader ERSHeading">Instructions</div> <ol> <li class="instruction" itemprop="recipeInstructions">Preheat oven to 380Fº</li> <li class="instruction" itemprop="recipeInstructions">In a <a href="https://www.amazon.com/gp/product/B000EM9PTQ?ie=UTF8&tag=nyfobl-20&camp=1789&linkCode=xm2&creativeASIN=B000EM9PTQ" target="_blank">deep skillet</a> (or large pan), add olive oil, garlic and thyme. Cook for 2 minutes over high heat and add mushrooms. Cook until mushrooms are golden brown (about 7-8 minutes). Turn off the heat and set aside.</li> <li class="instruction" itemprop="recipeInstructions">Put the spaghetti squash on a <a href="https://www.amazon.com/gp/product/B000G0KJG4?ie=UTF8&tag=nyfobl-20&camp=1789&linkCode=xm2&creativeASIN=B000G0KJG4" target="_blank">baking tray</a> and pierce a the skin a few time using a knife. Bake for about an hour, until squash can be pierced with a knife. Alternatively, you can microwave the spaghetti squash. Instructions are at the bottom.</li> <li class="instruction" itemprop="recipeInstructions">Take squash out of the oven and let cool to room temperature. Cut in half and get rid of the seeds. Use a fork to scrape the squash into strings.</li> <li class="instruction" itemprop="recipeInstructions">Add squash to the skillet (or pan), turn the heat to high and quickly fry with mushrooms. Sprinkle parmesan while sauteing for a minute.</li> <li class="instruction" itemprop="recipeInstructions">Turn the heat off, top with parsley and season with salt and pepper. Serve.</li> <li class="instruction" itemprop="recipeInstructions"><strong>Microwaving spaghetti squash:</strong> Place spaghetti squash on a microwave safe plate or other microwave safe container. Place the cut side down (skin facing up). Microwave on high for 10 minutes.</li> <li class="instruction" itemprop="recipeInstructions">Take the spaghetti squash out of the microwave and shred with a fork. If the squash is still hard, microwave for another 2-3 minutes, or until tender.</li> </ol> <div class="ERSClear"></div> </div> <div class="ERSNotesDiv"> <div class="ERSNotesHeader">Notes</div> <div class="ERSNotes">While you can refrigerate this Spaghetti Squash with Mushrooms and Parmesan recipe for 1-2 days, it is ideal if you finish it the day you cook it.<br><br><strong>This Spaghetti Squash Recipe Is:</strong><br>Low in cholesterol<br>Low in sugar<br>High in calcium<br>High in phosphorus<br>Very high in vitamin B6</div> <div class="ERSClear"></div> </div> <div class="endeasyrecipe" title="style002a" style="display: none">3.5.3226</div> </div><br/>
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_enable_interest_ads = "true";
+amzn_assoc_tracking_id = "nyfobl-20";
+amzn_assoc_ad_mode = "auto";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_linkid = "894858bac54d063b19d452de040090e9";
+amzn_assoc_emphasize_categories = "16310101,3760901,284507";
+</script><script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script><img class="alignnone size-full wp-image-23951" src="http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash-recipe-nutritional-facts.png" alt="spaghetti squash recipe nutritional facts" width="300" height="489" srcset="http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash-recipe-nutritional-facts.png 300w, http://www.pickledplum.com/wp-content/uploads/2014/01/spaghetti-squash-recipe-nutritional-facts-184x300.png 184w" sizes="(max-width: 300px) 100vw, 300px"/><br/>
+<h2>Want to know more about spaghetti squash?</h2>
+<p>Check out this post on <a href="http://www.pickledplum.com/cooking-spaghetti-squash/">cooking spaghetti squash</a> and all you ever need to know about spaghetti squash!</p>
+<p><a href="http://www.pickledplum.com/cooking-spaghetti-squash/"><img class="alignnone wp-image-20332 size-full" src="http://www.pickledplum.com/wp-content/uploads/2015/07/cooking-spaghetti-squashOPTM.jpg" alt="how to cook spaghetti squash" width="600" height="427" srcset="http://www.pickledplum.com/wp-content/uploads/2015/07/cooking-spaghetti-squashOPTM.jpg 600w, http://www.pickledplum.com/wp-content/uploads/2015/07/cooking-spaghetti-squashOPTM-300x214.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"/></a></p>
+ <div id="om-xpjwgeonm4mwfbs1-holder"></div><script>var xpjwgeonm4mwfbs1,xpjwgeonm4mwfbs1_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){xpjwgeonm4mwfbs1_poll(function(){if(window['om_loaded']){if(!xpjwgeonm4mwfbs1){xpjwgeonm4mwfbs1=new OptinMonsterApp();return xpjwgeonm4mwfbs1.init({u:"11282.331982",staging:0,dev:0,beta:0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmnstr.com/app/js/api.min.js",o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;xpjwgeonm4mwfbs1=new OptinMonsterApp();xpjwgeonm4mwfbs1.init({u:"11282.331982",staging:0,dev:0,beta:0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script> </div><footer class="entry-footer"><p class="entry-meta"><span class="entry-categories">Filed Under: <a href="http://www.pickledplum.com/category/appetizers-sides/" rel="category tag">Appetizers / sides</a>, <a href="http://www.pickledplum.com/category/thanksgiving/" rel="category tag">Christmas / Thanksgiving recipes</a>, <a href="http://www.pickledplum.com/category/gluten-free-recipes/" rel="category tag">Gluten free recipes</a>, <a href="http://www.pickledplum.com/category/healthy-recipes/" rel="category tag">Healthy recipes</a>, <a href="http://www.pickledplum.com/category/italian-recipes/" rel="category tag">Italian recipes</a>, <a href="http://www.pickledplum.com/category/popular/" rel="category tag">Popular recipes</a></span> </p></footer></article><h2 class="screen-reader-text">Reader Interactions</h2><div class="entry-comments" id="comments"><h3>Comments</h3><ol class="comment-list">
+<li class="comment even thread-even depth-1" id="comment-31783">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://food-network.blogspot.com/2013/12/pad-thai.html" class="comment-author-link" rel="external nofollow" itemprop="url">Yead</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2014-01-20T13:47:50+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-31783" class="comment-time-link" itemprop="url">January 20, 2014 at 1:47 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>This is so delicious. Looking so great. I love this.</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=31783#respond' onclick='return addComment.moveForm( "comment-31783", "31783", "respond", "9841" )' aria-label='Reply to Yead'>Reply</a></div>
+</article>
+</li> 
+<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-32081">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Kim</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2014-01-27T19:42:33+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-32081" class="comment-time-link" itemprop="url">January 27, 2014 at 7:42 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>I made this over the weekend and it was great. I also added some goat cheese.</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=32081#respond' onclick='return addComment.moveForm( "comment-32081", "32081", "respond", "9841" )' aria-label='Reply to Kim'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment even depth-2" id="comment-55674">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">lise scott</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2015-10-23T02:35:12+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-55674" class="comment-time-link" itemprop="url">October 23, 2015 at 2:35 am</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>what a great idea I will try that some of my favorite things</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=55674#respond' onclick='return addComment.moveForm( "comment-55674", "55674", "respond", "9841" )' aria-label='Reply to lise scott'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+<li class="comment odd alt thread-even depth-1" id="comment-36427">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Melissa Mae</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2014-06-29T18:19:00+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-36427" class="comment-time-link" itemprop="url">June 29, 2014 at 6:19 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>I just made this and served it with baked flounder. I was a little unsure how it would be received because my husband isn&#8217;t a big fan of spaghetti squash or mushrooms but he really liked it and said the two dishes made a great combination.<br/>
+I printed it and will make it again! Yum<br/>
+Thanks
+<div class="ERRatingComment">
+<div style="width:80%" class="ERRatingCommentInner"></div>
+</p></div>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=36427#respond' onclick='return addComment.moveForm( "comment-36427", "36427", "respond", "9841" )' aria-label='Reply to Melissa Mae'>Reply</a></div>
+</article>
+</li> 
+<li class="comment even thread-odd thread-alt depth-1" id="comment-47388">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Suzanne</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2015-01-26T16:05:06+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-47388" class="comment-time-link" itemprop="url">January 26, 2015 at 4:05 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>I&#8217;ve loved Spaghetti Squash for years and fix it frequently.The easiest way to perpare it is to cut in half,remove and seeds and MICROWAVE each half on a microwave-safe plate for 10 min. each.The squash should easily shred at this point.If not microwave for 1-2 more min.Trying this recipe tonight !</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=47388#respond' onclick='return addComment.moveForm( "comment-47388", "47388", "respond", "9841" )' aria-label='Reply to Suzanne'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor odd alt depth-2" id="comment-47390">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2015-01-26T17:39:55+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-47390" class="comment-time-link" itemprop="url">January 26, 2015 at 5:39 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>What a great idea Suzanne! I will definitely be trying your method, sounds so simple and easy!!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=47390#respond' onclick='return addComment.moveForm( "comment-47390", "47390", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment even depth-3" id="comment-65630">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Kelly</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-08-22T13:26:42+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-65630" class="comment-time-link" itemprop="url">August 22, 2016 at 1:26 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>I always poke a few holes in my spaghetti squash with a sharp knife making sure I make it to the center of the squash. Then I microwave it for 6-10 mins depending on the size. This sort of steams the squash! Then I cut in half and scrape the seeds out, then the squash. One way to tell if it&#8217;s been microwaved long enough is to squeeze the squash. If it is still really hard, it needs a few more mins. If the outer shell has a little give to it, it&#8217;s been long enough.</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=65630#respond' onclick='return addComment.moveForm( "comment-65630", "65630", "respond", "9841" )' aria-label='Reply to Kelly'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor odd alt depth-4" id="comment-65631">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-08-22T13:31:44+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-65631" class="comment-time-link" itemprop="url">August 22, 2016 at 1:31 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>I love your idea of not even cutting the squash in half before microwaving it Kelly! I&#8217;ll give it a try next time, thanks for sharing!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=65631#respond' onclick='return addComment.moveForm( "comment-65631", "65631", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment even thread-even depth-1" id="comment-47883">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://www.jrosefoto.com" class="comment-author-link" rel="external nofollow" itemprop="url">Jacqui</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2015-02-13T21:31:06+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-47883" class="comment-time-link" itemprop="url">February 13, 2015 at 9:31 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>I&#8217;ve made this recipe twice this week and it is FANTASTIC! Each person who had it loved it. Thanks for sharing, its going into my regular rotation!
+<div class="ERRatingComment">
+<div style="width:100%" class="ERRatingCommentInner"></div>
+</p></div>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=47883#respond' onclick='return addComment.moveForm( "comment-47883", "47883", "respond", "9841" )' aria-label='Reply to Jacqui'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor odd alt depth-2" id="comment-47894">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2015-02-14T11:06:45+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-47894" class="comment-time-link" itemprop="url">February 14, 2015 at 11:06 am</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>That&#8217;s wonderful Jacqui! Thank you so much for letting me know!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=47894#respond' onclick='return addComment.moveForm( "comment-47894", "47894", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+<li class="comment even thread-odd thread-alt depth-1" id="comment-51114">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Sheila</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2015-07-01T23:17:42+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-51114" class="comment-time-link" itemprop="url">July 1, 2015 at 11:17 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Made this tonight, it was excellent. I also stir fried some broccoli, carrots and zucchini up and added to it. We had some fresh marinara sauce on hand, let them add that to their plates, and wow kids and hubby loved it. Will be a family favorite.
+<div class="ERRatingComment">
+<div style="width:100%" class="ERRatingCommentInner"></div>
+</p></div>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=51114#respond' onclick='return addComment.moveForm( "comment-51114", "51114", "respond", "9841" )' aria-label='Reply to Sheila'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor odd alt depth-2" id="comment-51125">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2015-07-02T09:46:13+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-51125" class="comment-time-link" itemprop="url">July 2, 2015 at 9:46 am</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Yumm that&#8217;s such a great idea to offer the sauce as an option! I&#8217;ll try that next time, thank you for sharing Sheila!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=51125#respond' onclick='return addComment.moveForm( "comment-51125", "51125", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment even depth-3" id="comment-59650">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Sandy</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-02-11T13:16:32+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-59650" class="comment-time-link" itemprop="url">February 11, 2016 at 1:16 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>How would I reheat this if I made it in advance? Please email me at <a href="/cdn-cgi/l/email-protection#a7d4cfc6c4ccc1c8d5c396e7c0cac6cecb89c4c8ca"><span class="__cf_email__" data-cfemail="3c4f545d5f575a534e580d7c5b515d5550125f5351">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a> Thanks!
+<div class="ERRatingComment">
+<div style="width:100%" class="ERRatingCommentInner"></div>
+</p></div>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=59650#respond' onclick='return addComment.moveForm( "comment-59650", "59650", "respond", "9841" )' aria-label='Reply to Sandy'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment odd alt thread-even depth-1" id="comment-54413">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Sandy LaRosa</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2015-09-17T18:47:51+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-54413" class="comment-time-link" itemprop="url">September 17, 2015 at 6:47 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>So Good!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=54413#respond' onclick='return addComment.moveForm( "comment-54413", "54413", "respond", "9841" )' aria-label='Reply to Sandy LaRosa'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor even depth-2" id="comment-54414">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2015-09-17T19:19:08+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-54414" class="comment-time-link" itemprop="url">September 17, 2015 at 7:19 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Thank you Sandy!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=54414#respond' onclick='return addComment.moveForm( "comment-54414", "54414", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-55305">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Courtney, Registered Dietitian</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2015-10-14T17:56:01+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-55305" class="comment-time-link" itemprop="url">October 14, 2015 at 5:56 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Great recipe! Love that it is veggie packed! However, 1 ounce Parmesan cheese (or cheese in general) has the same amount of protein as 1 oz beef (or any meat). Total of 7g per ounce 🙂</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=55305#respond' onclick='return addComment.moveForm( "comment-55305", "55305", "respond", "9841" )' aria-label='Reply to Courtney, Registered Dietitian'>Reply</a></div>
+</article>
+</li> 
+<li class="comment even thread-even depth-1" id="comment-55342">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Erin P</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2015-10-15T20:08:04+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-55342" class="comment-time-link" itemprop="url">October 15, 2015 at 8:08 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Made this tonight and it was terrific! I had shaved parmesan on hand, so I used that on top&#8230;it was such a good flavor with the squash that I definitely want to try it freshly grated next time and cooked in a bit as the recipe calls. The only other slight variant was I added 4 oz of fresh-cooked bacon bits right at the end of the mushrooms sauteing. This was such a great way to serve spaghetti squash &#8211; will be making again!
+<div class="ERRatingComment">
+<div style="width:100%" class="ERRatingCommentInner"></div>
+</p></div>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=55342#respond' onclick='return addComment.moveForm( "comment-55342", "55342", "respond", "9841" )' aria-label='Reply to Erin P'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor odd alt depth-2" id="comment-55368">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2015-10-16T07:45:20+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-55368" class="comment-time-link" itemprop="url">October 16, 2015 at 7:45 am</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Thanks Erin, I&#8217;ll add bacon as a topping variation, sounds great!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=55368#respond' onclick='return addComment.moveForm( "comment-55368", "55368", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+<li class="comment even thread-odd thread-alt depth-1" id="comment-55376">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Chris</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2015-10-16T17:44:51+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-55376" class="comment-time-link" itemprop="url">October 16, 2015 at 5:44 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>This was very tastey. I know it says it serves 4 but I ate most of it myself, it was so good.
+<div class="ERRatingComment">
+<div style="width:100%" class="ERRatingCommentInner"></div>
+</p></div>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=55376#respond' onclick='return addComment.moveForm( "comment-55376", "55376", "respond", "9841" )' aria-label='Reply to Chris'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor odd alt depth-2" id="comment-55378">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2015-10-16T20:07:13+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-55378" class="comment-time-link" itemprop="url">October 16, 2015 at 8:07 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Thanks Chris! I know what you mean, I can eat that pretty much on my own too!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=55378#respond' onclick='return addComment.moveForm( "comment-55378", "55378", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+<li class="comment even thread-even depth-1" id="comment-57007">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Megan</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2015-12-01T13:52:45+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-57007" class="comment-time-link" itemprop="url">December 1, 2015 at 1:52 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Instead of taking the seeds out afterwards I scrape them out before baking the squash. I think it&#8217;s easier and less work once it&#8217;s baked. I also like to bake the quash face down on a baking sheet with a thin layer of water at 350 F for 45 minutes. Makes the squash a little more tender.
+<div class="ERRatingComment">
+<div style="width:100%" class="ERRatingCommentInner"></div>
+</p></div>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=57007#respond' onclick='return addComment.moveForm( "comment-57007", "57007", "respond", "9841" )' aria-label='Reply to Megan'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor odd alt depth-2" id="comment-57008">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2015-12-01T14:22:59+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-57008" class="comment-time-link" itemprop="url">December 1, 2015 at 2:22 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Thank you for sharing your cooking tips Megan!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=57008#respond' onclick='return addComment.moveForm( "comment-57008", "57008", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+<li class="comment even thread-odd thread-alt depth-1" id="comment-58668">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Robyn</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-01-13T08:24:56+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-58668" class="comment-time-link" itemprop="url">January 13, 2016 at 8:24 am</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Made this tonight.<br/>
+Added chicken and spinach leaves.<br/>
+Little bit of sour cream mixed in and topped with pine nuts.<br/>
+Wow!
+<div class="ERRatingComment">
+<div style="width:100%" class="ERRatingCommentInner"></div>
+</p></div>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=58668#respond' onclick='return addComment.moveForm( "comment-58668", "58668", "respond", "9841" )' aria-label='Reply to Robyn'>Reply</a></div>
+</article>
+</li> 
+<li class="comment odd alt thread-even depth-1" id="comment-58843">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Pam</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-01-17T22:32:46+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-58843" class="comment-time-link" itemprop="url">January 17, 2016 at 10:32 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Hi this is my first time making spaghetti squash. This recipe is delish. What should the texture of the squash? Mine is a little crunchy?</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=58843#respond' onclick='return addComment.moveForm( "comment-58843", "58843", "respond", "9841" )' aria-label='Reply to Pam'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor even depth-2" id="comment-58845">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-01-17T22:51:47+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-58845" class="comment-time-link" itemprop="url">January 17, 2016 at 10:51 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Hi Pam,</p>
+<p>I like my spaghetti squash to be a little crunchy but that&#8217;s totally subjective to personal preferences. I did make it softer once, but thought it was almost too mushy.</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=58845#respond' onclick='return addComment.moveForm( "comment-58845", "58845", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-58865">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Dominika</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-01-18T13:18:27+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-58865" class="comment-time-link" itemprop="url">January 18, 2016 at 1:18 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>What a fantastic gluten free recipe &#8211; I will definitely make this again!<br/>
+I added Trader Joe&#8217;s jalapeno chicken sausage for extra protein.
+<div class="ERRatingComment">
+<div style="width:100%" class="ERRatingCommentInner"></div>
+</p></div>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=58865#respond' onclick='return addComment.moveForm( "comment-58865", "58865", "respond", "9841" )' aria-label='Reply to Dominika'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor even depth-2" id="comment-58869">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-01-18T19:42:34+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-58869" class="comment-time-link" itemprop="url">January 18, 2016 at 7:42 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>That sounds delicious Dominika!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=58869#respond' onclick='return addComment.moveForm( "comment-58869", "58869", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+<li class="comment odd alt thread-even depth-1" id="comment-60506">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://www.potbellybird.com/blog" class="comment-author-link" rel="external nofollow" itemprop="url">Sarah</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-03-06T23:32:46+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-60506" class="comment-time-link" itemprop="url">March 6, 2016 at 11:32 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Just discovered your blog when searching for spaghetti squash recipes&#8211;made this for dinner tonight and I loved it!! It was so easy and the mushrooms added a deep flavor. I like the idea from the comments of adding sausage to make this a heartier meal, so I&#8217;ll try that next time. I did find that after I scraped out the squash, it was pretty watery and I had to use a paper towel to soak up the liquid before I added it to the mushrooms. Is that normal? I think the squash may have been baked too long so next time I&#8217;ll reduce the baking time a little. Am going to make your spaghetti squash yakisoba later this week&#8211;thanks for the great recipes!
+<div class="ERRatingComment">
+<div style="width:100%" class="ERRatingCommentInner"></div>
+</p></div>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=60506#respond' onclick='return addComment.moveForm( "comment-60506", "60506", "respond", "9841" )' aria-label='Reply to Sarah'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor even depth-2" id="comment-60518">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-03-07T09:59:12+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-60518" class="comment-time-link" itemprop="url">March 7, 2016 at 9:59 am</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Hi Sarah! I had the same problem the second time I made the spaghetti squash and I think it&#8217;s because it was over cooked. Next time, try to keep the strings a little crunchy, I find them much more delicious that way. Let me know how the yakisoba one turns out! Thanks for your comment!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=60518#respond' onclick='return addComment.moveForm( "comment-60518", "60518", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-62498">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Elyn</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-04-23T16:21:22+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-62498" class="comment-time-link" itemprop="url">April 23, 2016 at 4:21 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>I would like to make this but use a cheese other than parmesan in order to reduce the sodium. Does anyone have any suggestions as what cheese might work well?</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=62498#respond' onclick='return addComment.moveForm( "comment-62498", "62498", "respond", "9841" )' aria-label='Reply to Elyn'>Reply</a></div>
+</article>
+</li> 
+<li class="comment even thread-even depth-1" id="comment-63695">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Linda Richardson</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-06-05T12:44:30+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-63695" class="comment-time-link" itemprop="url">June 5, 2016 at 12:44 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Best way to cut through a spaghetti squash pierce it in several places and put it into the microwave on hight 8-10 minutes depending on how hot it gets. Then slice it in half.</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=63695#respond' onclick='return addComment.moveForm( "comment-63695", "63695", "respond", "9841" )' aria-label='Reply to Linda Richardson'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor odd alt depth-2" id="comment-63698">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-06-05T14:08:10+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-63698" class="comment-time-link" itemprop="url">June 5, 2016 at 2:08 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Thank you Linda for the tip!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=63698#respond' onclick='return addComment.moveForm( "comment-63698", "63698", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+<li class="comment even thread-odd thread-alt depth-1" id="comment-65248">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Liz Ziemann</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-08-02T22:28:48+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-65248" class="comment-time-link" itemprop="url">August 2, 2016 at 10:28 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Compiled your recommendations and cooked squash in the microwave; added onions, grape tomatoes, and spinach; and used goat cheese intead of parmesan. Also added some Bragg&#8217;s liquid aminos and red pepper flakes. YUM!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=65248#respond' onclick='return addComment.moveForm( "comment-65248", "65248", "respond", "9841" )' aria-label='Reply to Liz Ziemann'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor odd alt depth-2" id="comment-65253">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-08-03T06:39:25+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-65253" class="comment-time-link" itemprop="url">August 3, 2016 at 6:39 am</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>That sounds amazing Liz! Happy it turned out Yummy 🙂</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=65253#respond' onclick='return addComment.moveForm( "comment-65253", "65253", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+<li class="comment even thread-even depth-1" id="comment-66224">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">jihamilton27</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-09-12T16:46:06+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-66224" class="comment-time-link" itemprop="url">September 12, 2016 at 4:46 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>I&#8217;d love to make this tonight but would like to use some eggs &#8211; do you think a fried egg or poached egg on top would go well with the flavors?</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=66224#respond' onclick='return addComment.moveForm( "comment-66224", "66224", "respond", "9841" )' aria-label='Reply to jihamilton27'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor odd alt depth-2" id="comment-66245">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-09-13T06:17:47+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-66245" class="comment-time-link" itemprop="url">September 13, 2016 at 6:17 am</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Absolutely! Either option sounds great!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=66245#respond' onclick='return addComment.moveForm( "comment-66245", "66245", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+<li class="comment even thread-odd thread-alt depth-1" id="comment-66475">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Polina</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-09-22T15:54:47+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-66475" class="comment-time-link" itemprop="url">September 22, 2016 at 3:54 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Hi, this is a great recipe! I&#8217;m skipping Parmesan but I&#8217;m making it all the time &amp; this time I&#8217;m adding spinach! Thank u!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=66475#respond' onclick='return addComment.moveForm( "comment-66475", "66475", "respond", "9841" )' aria-label='Reply to Polina'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor odd alt depth-2" id="comment-66481">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-09-22T18:21:34+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-66481" class="comment-time-link" itemprop="url">September 22, 2016 at 6:21 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Spinach sounds delicious! Thank you Polina for sharing 🙂</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=66481#respond' onclick='return addComment.moveForm( "comment-66481", "66481", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+<li class="comment even thread-even depth-1" id="comment-67616">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Erin</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-11-08T17:27:53+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-67616" class="comment-time-link" itemprop="url">November 8, 2016 at 5:27 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Absolutely delicious! I must admit my kids still aren&#8217;t going for the spaghetti squash but my husband and I loved it and its going into the files! I sauteed some shallots and garlic for a few minutes before adding the mushrooms. I I also added some Aidell&#8217;s chicken Gruyere garlic sausage, deglazed the pan with wine and broth for a little sauce and then threw it all together. Can&#8217;t wait to eat the leftovers. Thank you!
+<div class="ERRatingComment">
+<div style="width:100%" class="ERRatingCommentInner"></div>
+</p></div>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=67616#respond' onclick='return addComment.moveForm( "comment-67616", "67616", "respond", "9841" )' aria-label='Reply to Erin'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor odd alt depth-2" id="comment-67626">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-11-09T10:53:09+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-67626" class="comment-time-link" itemprop="url">November 9, 2016 at 10:53 am</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Thank you Erin!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=67626#respond' onclick='return addComment.moveForm( "comment-67626", "67626", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+<li class="comment even thread-odd thread-alt depth-1" id="comment-68028">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">LA</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-12-03T19:44:26+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-68028" class="comment-time-link" itemprop="url">December 3, 2016 at 7:44 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>I&#8217;d suggest pricking the squash with a knife or skewer in several places before putting it in the oven. When I pierced my squash with a knife to see if it was done, it literally exploded, sending strands of squash flying all over the oven and into my face! ( I know this is a terrible analogy but I couldn&#8217;t help thinking of that scene in Alien&#8230;you know the one). Anyway, this is still a delicious recipe, just suggesting a word of warning about unexpected fireworks.
+<div class="ERRatingComment">
+<div style="width:100%" class="ERRatingCommentInner"></div>
+</p></div>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=68028#respond' onclick='return addComment.moveForm( "comment-68028", "68028", "respond", "9841" )' aria-label='Reply to LA'>Reply</a></div>
+</article>
+</li> 
+<li class="comment odd alt thread-even depth-1" id="comment-68519">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Melinda</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2017-01-13T11:38:50+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-68519" class="comment-time-link" itemprop="url">January 13, 2017 at 11:38 am</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>I&#8217;ve used portobello, baby Bella in place of button mushrooms. Yum!!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=68519#respond' onclick='return addComment.moveForm( "comment-68519", "68519", "respond", "9841" )' aria-label='Reply to Melinda'>Reply</a></div>
+</article>
+</li> 
+<li class="comment even thread-odd thread-alt depth-1" id="comment-68602">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Jennifer</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2017-01-17T22:45:55+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-68602" class="comment-time-link" itemprop="url">January 17, 2017 at 10:45 pm</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>I am making this right now, and it smells delicious. I can&#8217;t wait to try it, but I am curious if anyone else thinks it&#8217;s a little dangerous to cook a squash whole, without piercing it, in the oven, and then check for doneness by piercing it with a knife after it&#8217;s cooked? It nearly exploded in my face when I checked for doneness &#8211; let out a loud pop like a balloon and spattered a little. In any case, thank you for a great recipe, though I might pierce it before cooking next time.
+<div class="ERRatingComment">
+<div style="width:80%" class="ERRatingCommentInner"></div>
+</p></div>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=68602#respond' onclick='return addComment.moveForm( "comment-68602", "68602", "respond", "9841" )' aria-label='Reply to Jennifer'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-caroline bypostauthor odd alt depth-2" id="comment-68609">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name"><a href="http://pickledplum.com" class="comment-author-link" rel="external nofollow" itemprop="url">Caroline Phelps</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2017-01-18T10:17:26+00:00" itemprop="datePublished"><a href="http://www.pickledplum.com/spaghetti-squash-healthy-recipe/#comment-68609" class="comment-time-link" itemprop="url">January 18, 2017 at 10:17 am</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Thank you Jennifer for sharing your tip! I didn&#8217;t have any issues with baking mine that way but have since switched to microwaving since it&#8217;s faster. I will add it to the recipe to ensure no one suffers from a squash explosion in the kitchen!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.pickledplum.com/spaghetti-squash-healthy-recipe/?replytocom=68609#respond' onclick='return addComment.moveForm( "comment-68609", "68609", "respond", "9841" )' aria-label='Reply to Caroline Phelps'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+</ol></div> <div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/spaghetti-squash-healthy-recipe/#respond" style="display:none;">Cancel reply</a></small></h3> <form action="http://www.pickledplum.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required'/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required'/></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200"/></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment"/> <input type='hidden' name='comment_post_ID' value='9841' id='comment_post_ID'/>
+<input type='hidden' name='comment_parent' id='comment_parent' value='0'/>
+</p><span class="ERComment">
+<span style="float:left">Rate this recipe: </span>
+<span class="ERRateBG">
+<span class="ERRateStars"></span>
+</span>
+<input type="hidden" class="inpERRating" name="ERRating" value="0"/>
+&nbsp;
+</span><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="195c8bf5c9"/></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="46"/></p> </form>
+</div> 
+</main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="http://schema.org/WPSideBar" id="genesis-sidebar-primary"><h2 class="genesis-sidebar-title screen-reader-text">Primary Sidebar</h2><section id="search-10" class="widget widget_search"><div class="widget-wrap"><form class="search-form" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" method="get" action="http://www.pickledplum.com/" role="search"><meta itemprop="target" content="http://www.pickledplum.com/?s={s}"/><label class="search-form-label screen-reader-text" for="searchform-588a4407be6cb">Search this website</label><input itemprop="query-input" type="search" name="s" id="searchform-588a4407be6cb" placeholder="Search this website &#x2026;"/><input type="submit" value="Search"/></form></div></section>
+<section id="simple-social-icons-4" class="widget simple-social-icons"><div class="widget-wrap"><ul class="aligncenter"><li class="social-facebook"><a href="http://facebook.com/misspickledplum" target="_blank">&#xe606;</a></li><li class="social-gplus"><a href="https://plus.google.com/+Pickledplum/posts" target="_blank">&#xe60e;</a></li><li class="social-instagram"><a href="http://instagram.com/misspickledplum" target="_blank">&#xe600;</a></li><li class="social-pinterest"><a href="http://www.pinterest.com/pickledplumfood/" target="_blank">&#xe605;</a></li><li class="social-twitter"><a href="http://twitter.com/misspickledplum" target="_blank">&#xe607;</a></li><li class="social-youtube"><a href="https://www.youtube.com/user/thepickledplum" target="_blank">&#xe60f;</a></li></ul></div></section>
+<section id="optin-monster-api-2" class="widget optin-monster-api"><div class="widget-wrap"> <div id="om-qia6epsfxfry8g4t-holder"></div><script>var qia6epsfxfry8g4t,qia6epsfxfry8g4t_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){qia6epsfxfry8g4t_poll(function(){if(window['om_loaded']){if(!qia6epsfxfry8g4t){qia6epsfxfry8g4t=new OptinMonsterApp();return qia6epsfxfry8g4t.init({u:"11282.346891",staging:0,dev:0,beta:0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmnstr.com/app/js/api.min.js",o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;qia6epsfxfry8g4t=new OptinMonsterApp();qia6epsfxfry8g4t.init({u:"11282.346891",staging:0,dev:0,beta:0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script> </div></section>
+<section id="text-74" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle widget-title">My Latest Videos</h3>
+<div class="textwidget"><script type="text/javascript" language="javascript" src="http://live.sekindo.com/live/liveView.php?s=59191&pubUrl=[SRC_URL_ENCODED]&nofr=1&vp_contentFeedId=nlRWqfOg&subId=5613df275ed284b838a6065f"></script></div>
+</div></section>
+<section id="image-37" class="widget widget_image"><div class="widget-wrap"><h3 class="widgettitle widget-title">MY COOKBOOK</h3>
+<div class="jetpack-image-container"><a target="_blank" href="http://www.pickledplum.com/51recipes/"><img src="http://www.pickledplum.com/wp-content/uploads/2016/12/pickled-plum-ebook-banner-700brighter.jpg" class="alignnone" width="300" height="450"/></a></div>
+</div></section>
+<section id="featured-post-51" class="widget featured-content featuredpost"><div class="widget-wrap"><h3 class="widgettitle widget-title">Most Popular Recipes</h3>
+<article class="simple-grid one-half odd first post-28211 post type-post status-publish format-standard has-post-thumbnail category-japanese-recipes-2 category-less-than-30-minutes category-noodles category-popular category-rice-recipes course-main-noodles-easy cuisine-japanese entry"><a href="http://www.pickledplum.com/spicy-miso-tsukemen-dipping-noodles/" title="Spicy Miso Tsukemen (Dipping Noodles)" class="alignnone"><img width="150" height="150" src="http://www.pickledplum.com/wp-content/uploads/2016/06/tsukemen-dipping-sauce-320-150x150.jpg" class="entry-image attachment-post" alt="tsukemen-dipping-sauce-320" itemprop="image" srcset="http://www.pickledplum.com/wp-content/uploads/2016/06/tsukemen-dipping-sauce-320-150x150.jpg 150w, http://www.pickledplum.com/wp-content/uploads/2016/06/tsukemen-dipping-sauce-320-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px"/></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.pickledplum.com/spicy-miso-tsukemen-dipping-noodles/">Spicy Miso Tsukemen (Dipping Noodles)</a></h2></header></article><article class="simple-grid one-half post-27923 post type-post status-publish format-standard has-post-thumbnail category-less-than-30-minutes category-noodles category-popular category-thai-recipes course-easy-recipe-noodles cuisine-thai entry"><a href="http://www.pickledplum.com/drunken-noodles-recipe/" title="Drunken Noodles &#8211; Pad Kee Mao" class="alignnone"><img width="150" height="150" src="http://www.pickledplum.com/wp-content/uploads/2016/06/drunken-noodles-pad-kee-mao-2-320-150x150.jpg" class="entry-image attachment-post" alt="drunken-noodles-pad-kee-mao-2-320" itemprop="image" srcset="http://www.pickledplum.com/wp-content/uploads/2016/06/drunken-noodles-pad-kee-mao-2-320-150x150.jpg 150w, http://www.pickledplum.com/wp-content/uploads/2016/06/drunken-noodles-pad-kee-mao-2-320-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px"/></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.pickledplum.com/drunken-noodles-recipe/">Drunken Noodles &#8211; Pad Kee Mao</a></h2></header></article><article class="simple-grid one-half odd first post-27531 post type-post status-publish format-standard has-post-thumbnail category-chicken-recipes category-gluten-free-recipes category-healthy-recipes category-less-than-30-minutes category-popular course-easy-healthy-recipe-less-than-20-minutes entry"><a href="http://www.pickledplum.com/easy-grilled-chicken-hot-sweet-sauce/" title="Easy Grilled Chicken With Hot And Sweet Sauce" class="alignnone"><img width="150" height="150" src="http://www.pickledplum.com/wp-content/uploads/2016/06/easy-grilled-chicken-320X480-150x150.jpg" class="entry-image attachment-post" alt="easy-grilled-chicken-320X480" itemprop="image" srcset="http://www.pickledplum.com/wp-content/uploads/2016/06/easy-grilled-chicken-320X480-150x150.jpg 150w, http://www.pickledplum.com/wp-content/uploads/2016/06/easy-grilled-chicken-320X480-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px"/></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.pickledplum.com/easy-grilled-chicken-hot-sweet-sauce/">Easy Grilled Chicken With Hot And Sweet Sauce</a></h2></header></article><article class="simple-grid one-half post-27281 post type-post status-publish format-standard has-post-thumbnail category-chicken-recipes category-less-than-30-minutes category-popular category-sandwiches category-snacks-recipes course-sandwich-easy-recipe entry"><a href="http://www.pickledplum.com/chicken-cordon-bleu-sandwich/" title="Chicken Cordon Bleu Sandwich (Video)" class="alignnone"><img width="150" height="150" src="http://www.pickledplum.com/wp-content/uploads/2016/05/chicken-cordon-bleu-320-150x150.jpg" class="entry-image attachment-post" alt="chicken-cordon-bleu-320" itemprop="image" srcset="http://www.pickledplum.com/wp-content/uploads/2016/05/chicken-cordon-bleu-320-150x150.jpg 150w, http://www.pickledplum.com/wp-content/uploads/2016/05/chicken-cordon-bleu-320-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px"/></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.pickledplum.com/chicken-cordon-bleu-sandwich/">Chicken Cordon Bleu Sandwich (Video)</a></h2></header></article><article class="simple-grid one-half odd first post-27241 post type-post status-publish format-standard has-post-thumbnail category-fish-seafood-recipes category-french-recipes category-gluten-free-recipes category-healthy-recipes category-popular course-healthy-easy-gluten-free-french cuisine-french-2 entry"><a href="http://www.pickledplum.com/salmon-en-papillote/" title="Salmon en Papillote" class="alignnone"><img width="150" height="150" src="http://www.pickledplum.com/wp-content/uploads/2016/05/Toppings-for-papillote-320-150x150.jpg" class="entry-image attachment-post" alt="Toppings-for-papillote-320" itemprop="image" srcset="http://www.pickledplum.com/wp-content/uploads/2016/05/Toppings-for-papillote-320-150x150.jpg 150w, http://www.pickledplum.com/wp-content/uploads/2016/05/Toppings-for-papillote-320-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px"/></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.pickledplum.com/salmon-en-papillote/">Salmon en Papillote</a></h2></header></article><article class="simple-grid one-half post-27136 post type-post status-publish format-standard has-post-thumbnail category-chicken-recipes category-chinese-recipes-2 category-less-than-30-minutes category-popular category-stir-fry course-main-chicken-easy-stir-fry cuisine-chinese entry"><a href="http://www.pickledplum.com/orange-chicken-recipe/" title="Orange Chicken Recipe" class="alignnone"><img width="150" height="150" src="http://www.pickledplum.com/wp-content/uploads/2016/05/orange-chicken-recipe-320x480-150x150.jpg" class="entry-image attachment-post" alt="orange-chicken-recipe-320x480" itemprop="image" srcset="http://www.pickledplum.com/wp-content/uploads/2016/05/orange-chicken-recipe-320x480-150x150.jpg 150w, http://www.pickledplum.com/wp-content/uploads/2016/05/orange-chicken-recipe-320x480-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px"/></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.pickledplum.com/orange-chicken-recipe/">Orange Chicken Recipe</a></h2></header></article><article class="simple-grid one-half odd first post-27093 post type-post status-publish format-standard has-post-thumbnail category-drinks category-healthy-recipes category-popular course-drinks-healthy-easy cuisine-american entry"><a href="http://www.pickledplum.com/strawberry-detox-water/" title="Strawberry Detox Water" class="alignnone"><img width="150" height="150" src="http://www.pickledplum.com/wp-content/uploads/2016/05/strawberry-detox-water-320x480-150x150.jpg" class="entry-image attachment-post" alt="strawberry-detox-water-320x480" itemprop="image" srcset="http://www.pickledplum.com/wp-content/uploads/2016/05/strawberry-detox-water-320x480-150x150.jpg 150w, http://www.pickledplum.com/wp-content/uploads/2016/05/strawberry-detox-water-320x480-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px"/></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.pickledplum.com/strawberry-detox-water/">Strawberry Detox Water</a></h2></header></article><article class="simple-grid one-half post-25688 post type-post status-publish format-standard has-post-thumbnail category-chinese-recipes-2 category-healthy-recipes category-less-than-30-minutes category-noodles category-popular category-rice-recipes category-vegan-recipes category-vegetarian-recipes course-main-side-noodles-vegan cuisine-chinese entry"><a href="http://www.pickledplum.com/vegan-dan-dan-noodles/" title="Vegan Dan Dan Noodles" class="alignnone"><img width="150" height="150" src="http://www.pickledplum.com/wp-content/uploads/2016/03/dan-dan-noodles-320-150x150.jpg" class="entry-image attachment-post" alt="dan-dan-noodles-320" itemprop="image" srcset="http://www.pickledplum.com/wp-content/uploads/2016/03/dan-dan-noodles-320-150x150.jpg 150w, http://www.pickledplum.com/wp-content/uploads/2016/03/dan-dan-noodles-320-300x300.jpg 300w, http://www.pickledplum.com/wp-content/uploads/2016/03/dan-dan-noodles-320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px"/></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.pickledplum.com/vegan-dan-dan-noodles/">Vegan Dan Dan Noodles</a></h2></header></article></div></section>
+<section id="image-33" class="widget widget_image"><div class="widget-wrap"><div class="jetpack-image-container"><a target="_blank" href="http://www.pickledplum.com/10-years-younger"><img src="http://www.pickledplum.com/wp-content/uploads/2017/01/10-years-younger-cover-300.jpg" class="alignnone" width="300" height="250"/></a></div>
+</div></section>
+<section id="image-35" class="widget widget_image"><div class="widget-wrap"><div class="jetpack-image-container"><a target="_blank" href="http://www.pickledplum.com/pork-rolls-teriyaki-recipe/"><img src="http://www.pickledplum.com/wp-content/uploads/2016/12/TERIYAKI-PORK-ROLLS-BANNER.jpg" class="alignnone" width="300" height="450"/></a></div>
+</div></section>
+<section id="archives-6" class="widget widget_archive"><div class="widget-wrap"><h3 class="widgettitle widget-title">Archives</h3>
+<label class="screen-reader-text" for="archives-dropdown-6">Archives</label>
+<select id="archives-dropdown-6" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+<option value="">Select Month</option>
+<option value='http://www.pickledplum.com/2017/01/'> January 2017 </option>
+<option value='http://www.pickledplum.com/2016/12/'> December 2016 </option>
+<option value='http://www.pickledplum.com/2016/11/'> November 2016 </option>
+<option value='http://www.pickledplum.com/2016/10/'> October 2016 </option>
+<option value='http://www.pickledplum.com/2016/09/'> September 2016 </option>
+<option value='http://www.pickledplum.com/2016/08/'> August 2016 </option>
+<option value='http://www.pickledplum.com/2016/07/'> July 2016 </option>
+<option value='http://www.pickledplum.com/2016/06/'> June 2016 </option>
+<option value='http://www.pickledplum.com/2016/05/'> May 2016 </option>
+<option value='http://www.pickledplum.com/2016/04/'> April 2016 </option>
+<option value='http://www.pickledplum.com/2016/03/'> March 2016 </option>
+<option value='http://www.pickledplum.com/2016/02/'> February 2016 </option>
+<option value='http://www.pickledplum.com/2016/01/'> January 2016 </option>
+<option value='http://www.pickledplum.com/2015/12/'> December 2015 </option>
+<option value='http://www.pickledplum.com/2015/11/'> November 2015 </option>
+<option value='http://www.pickledplum.com/2015/10/'> October 2015 </option>
+<option value='http://www.pickledplum.com/2015/09/'> September 2015 </option>
+<option value='http://www.pickledplum.com/2015/08/'> August 2015 </option>
+<option value='http://www.pickledplum.com/2015/07/'> July 2015 </option>
+<option value='http://www.pickledplum.com/2015/06/'> June 2015 </option>
+<option value='http://www.pickledplum.com/2015/05/'> May 2015 </option>
+<option value='http://www.pickledplum.com/2015/04/'> April 2015 </option>
+<option value='http://www.pickledplum.com/2015/03/'> March 2015 </option>
+<option value='http://www.pickledplum.com/2015/02/'> February 2015 </option>
+<option value='http://www.pickledplum.com/2015/01/'> January 2015 </option>
+<option value='http://www.pickledplum.com/2014/12/'> December 2014 </option>
+<option value='http://www.pickledplum.com/2014/11/'> November 2014 </option>
+<option value='http://www.pickledplum.com/2014/10/'> October 2014 </option>
+<option value='http://www.pickledplum.com/2014/09/'> September 2014 </option>
+<option value='http://www.pickledplum.com/2014/08/'> August 2014 </option>
+<option value='http://www.pickledplum.com/2014/07/'> July 2014 </option>
+<option value='http://www.pickledplum.com/2014/06/'> June 2014 </option>
+<option value='http://www.pickledplum.com/2014/05/'> May 2014 </option>
+<option value='http://www.pickledplum.com/2014/04/'> April 2014 </option>
+<option value='http://www.pickledplum.com/2014/03/'> March 2014 </option>
+<option value='http://www.pickledplum.com/2014/02/'> February 2014 </option>
+<option value='http://www.pickledplum.com/2014/01/'> January 2014 </option>
+<option value='http://www.pickledplum.com/2013/12/'> December 2013 </option>
+<option value='http://www.pickledplum.com/2013/11/'> November 2013 </option>
+<option value='http://www.pickledplum.com/2013/10/'> October 2013 </option>
+<option value='http://www.pickledplum.com/2013/09/'> September 2013 </option>
+<option value='http://www.pickledplum.com/2013/08/'> August 2013 </option>
+<option value='http://www.pickledplum.com/2013/07/'> July 2013 </option>
+<option value='http://www.pickledplum.com/2013/06/'> June 2013 </option>
+<option value='http://www.pickledplum.com/2013/05/'> May 2013 </option>
+<option value='http://www.pickledplum.com/2013/03/'> March 2013 </option>
+<option value='http://www.pickledplum.com/2013/02/'> February 2013 </option>
+<option value='http://www.pickledplum.com/2013/01/'> January 2013 </option>
+<option value='http://www.pickledplum.com/2012/12/'> December 2012 </option>
+<option value='http://www.pickledplum.com/2012/11/'> November 2012 </option>
+<option value='http://www.pickledplum.com/2012/10/'> October 2012 </option>
+<option value='http://www.pickledplum.com/2012/09/'> September 2012 </option>
+<option value='http://www.pickledplum.com/2012/08/'> August 2012 </option>
+<option value='http://www.pickledplum.com/2012/07/'> July 2012 </option>
+<option value='http://www.pickledplum.com/2012/06/'> June 2012 </option>
+<option value='http://www.pickledplum.com/2012/05/'> May 2012 </option>
+<option value='http://www.pickledplum.com/2012/04/'> April 2012 </option>
+<option value='http://www.pickledplum.com/2012/03/'> March 2012 </option>
+<option value='http://www.pickledplum.com/2012/02/'> February 2012 </option>
+<option value='http://www.pickledplum.com/2011/09/'> September 2011 </option>
+<option value='http://www.pickledplum.com/2011/08/'> August 2011 </option>
+<option value='http://www.pickledplum.com/2011/03/'> March 2011 </option>
+<option value='http://www.pickledplum.com/2011/02/'> February 2011 </option>
+<option value='http://www.pickledplum.com/2011/01/'> January 2011 </option>
+<option value='http://www.pickledplum.com/2010/12/'> December 2010 </option>
+<option value='http://www.pickledplum.com/2010/11/'> November 2010 </option>
+<option value='http://www.pickledplum.com/2010/10/'> October 2010 </option>
+<option value='http://www.pickledplum.com/2010/09/'> September 2010 </option>
+</select>
+</div></section>
+<section id="image-29" class="widget widget_image"><div class="widget-wrap"><div class="jetpack-image-container"><a target="_blank" href="http://www.pickledplum.com/how-to-start-a-food-blog-today/"><img src="http://www.pickledplum.com/wp-content/uploads/2016/06/BLOGGER-RESOURCES-HOW-TO.jpg" class="alignnone" width="300" height="234"/></a></div>
+</div></section>
+<section id="featured-post-54" class="widget featured-content featuredpost"><div class="widget-wrap"><h3 class="widgettitle widget-title">Easy Stir Fries</h3>
+<article class="simple-grid one-half odd first post-29386 post type-post status-publish format-standard has-post-thumbnail category-appetizers-sides category-chinese-recipes-2 category-healthy-recipes category-less-than-30-minutes category-stir-fry course-easy-healthy-recipe-stir-fry-side-dish cuisine-chinese entry"><a href="http://www.pickledplum.com/bok-choy-garlic-oyster-sauce/" title="Bok Choy With Garlic and Oyster Sauce" class="alignnone"><img width="150" height="150" src="http://www.pickledplum.com/wp-content/uploads/2016/08/bok-choy-320-150x150.jpg" class="entry-image attachment-post" alt="bok-choy-320" itemprop="image" srcset="http://www.pickledplum.com/wp-content/uploads/2016/08/bok-choy-320-150x150.jpg 150w, http://www.pickledplum.com/wp-content/uploads/2016/08/bok-choy-320-320x320.jpg 320w, http://www.pickledplum.com/wp-content/uploads/2016/08/bok-choy-320-120x120.jpg 120w" sizes="(max-width: 150px) 100vw, 150px"/></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.pickledplum.com/bok-choy-garlic-oyster-sauce/">Bok Choy With Garlic and Oyster Sauce</a></h2></header></article><article class="simple-grid one-half post-29239 post type-post status-publish format-standard has-post-thumbnail category-korean-recipes category-less-than-30-minutes category-noodles category-stir-fry category-vegan-recipes category-vegetarian-recipes course-easy-healthy-recipe-vegetarian-vegan-stir-fry cuisine-korean entry"><a href="http://www.pickledplum.com/japchae-recipe/" title="Japchae Recipe (Korean Glass Noodles)" class="alignnone"><img width="150" height="150" src="http://www.pickledplum.com/wp-content/uploads/2016/08/japchae-recipe-320-150x150.jpg" class="entry-image attachment-post" alt="japchae-recipe-320" itemprop="image" srcset="http://www.pickledplum.com/wp-content/uploads/2016/08/japchae-recipe-320-150x150.jpg 150w, http://www.pickledplum.com/wp-content/uploads/2016/08/japchae-recipe-320-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px"/></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.pickledplum.com/japchae-recipe/">Japchae Recipe (Korean Glass Noodles)</a></h2></header></article><article class="simple-grid one-half odd first post-29145 post type-post status-publish format-standard has-post-thumbnail category-chinese-recipes-2 category-healthy-recipes category-less-than-30-minutes category-stir-fry course-healthy-recipe-easy-stir-fry cuisine-chinese entry"><a href="http://www.pickledplum.com/seitan-vegetable-stir-fry/" title="Seitan and Vegetable Stir Fry Recipe" class="alignnone"><img width="150" height="150" src="http://www.pickledplum.com/wp-content/uploads/2016/08/seitan-and-vegetable-stir-fry-320-150x150.jpg" class="entry-image attachment-post" alt="seitan-and-vegetable-stir-fry-320" itemprop="image" srcset="http://www.pickledplum.com/wp-content/uploads/2016/08/seitan-and-vegetable-stir-fry-320-150x150.jpg 150w, http://www.pickledplum.com/wp-content/uploads/2016/08/seitan-and-vegetable-stir-fry-320-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px"/></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.pickledplum.com/seitan-vegetable-stir-fry/">Seitan and Vegetable Stir Fry Recipe</a></h2></header></article><article class="simple-grid one-half post-28856 post type-post status-publish format-standard has-post-thumbnail category-beef-recipes category-chinese-recipes-2 category-healthy-recipes category-less-than-30-minutes category-stir-fry category-uncategorized course-easy-healthy-recipe-hunan-stir-fry cuisine-chinese entry"><a href="http://www.pickledplum.com/hunan-beef-kale-cumin/" title="Hunan Beef With Cumin Recipe" class="alignnone"><img width="150" height="150" src="http://www.pickledplum.com/wp-content/uploads/2016/07/hunan-beef-recipe-320-150x150.jpg" class="entry-image attachment-post" alt="hunan-beef-recipe-320" itemprop="image" srcset="http://www.pickledplum.com/wp-content/uploads/2016/07/hunan-beef-recipe-320-150x150.jpg 150w, http://www.pickledplum.com/wp-content/uploads/2016/07/hunan-beef-recipe-320-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px"/></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.pickledplum.com/hunan-beef-kale-cumin/">Hunan Beef With Cumin Recipe</a></h2></header></article></div></section>
+<section id="image-36" class="widget widget_image"><div class="widget-wrap"><div class="jetpack-image-container"><a target="_blank" href="http://www.pickledplum.com/how-to-make-japanese-rice/"><img src="http://www.pickledplum.com/wp-content/uploads/2016/11/How-to-make-japanese-rice-300.jpg" class="alignnone" width="300" height="450"/></a></div>
+</div></section>
+<section id="wdi_instagram_widget-2" class="widget wdi_instagram_widget"><div class="widget-wrap"><h3 class="widgettitle widget-title">Follow Me On Instagram @misspickledplum</h3>
+<style type="text/css">#wdi_feed_0 .wdi_feed_container{min-width:160px;width:100%;margin:0 auto;background-color:#FFFFFF;border-bottom:5px solid #FFFFFF;;}#wdi_feed_0 .wdi_feed_wrapper{width:100%;margin:0 auto;background-color:#FFFFFF;text-align:left;}#wdi_feed_0 .wdi_feed_header{margin:0px;padding:5px;border:0px solid #DDDDDD;text-align:left;display:none;}#wdi_feed_0 .wdi_header_wrapper{display:inline-table;}#wdi_feed_0 .wdi_header_img_wrap,.wdi_users_img_wrap{height:40px;width:40px;border-radius:0px;overflow:hidden;}#wdi_feed_0 .wdi_header_text{display:table-cell;vertical-align:middle;font-size:18px;font-style:normal;padding:5px;color:#0f4973;font-weight:400;line-height:40px;}#wdi_feed_0 .wdi_single_user{display:inline-block;float:left;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;}#wdi_feed_0 .wdi_user_img_wrap{display:inline-block;float:left;position:relative;}#wdi_feed_0 .wdi_header_user_text{display:inline-block;float:left;width:100%;padding-top:5.5px;}#wdi_feed_0 .wdi_header_user_text h3{margin-top:5.5px;}#wdi_feed_0 .wdi_header_hashtag h3{margin-top:11px;}#wdi_feed_0 .wdi_followers,#wdi_feed_0 .wdi_posts{display:inline-block;}#wdi_feed_0 .wdi_header_user_text h3{display:inline-block;text-transform:none;font-size:18px;font-style:normal;line-height:18px;color:#0f4973;;}#wdi_feed_0 .wdi_header_user_text h3:hover{cursor:pointer;}#wdi_feed_0 .wdi_user_img_wrap img{height:40px;width:40px;border-radius:40px;overflow:hidden;display:block;}#wdi_feed_0 .wdi_header_user_text h3{margin-left:10px;margin-bottom:0px;}#wdi_feed_0 .wdi_media_info{margin-left:50px;line-height:18px;color:#0f4973;display:block}#wdi_feed_0 .wdi_media_info p{margin-top:0px;margin-bottom:0px;}#wdi_feed_0 .wdi_user_controls{margin-left:0;display:inline-block;vertical-align:middle;}#wdi_feed_0 .wdi_bio{color:#0f4973;font-size:14px;float:left;}#wdi_feed_0 .wdi_followers{margin-left:5px;}#wdi_feed_0 .wdi_follow_btn{display:inline-block;background:0 0;border-radius:3px;border-style:solid;border-width:1px;font-size:18px;font-weight:500;outline:none;overflow:hidden;background-color:#ffffff;text-overflow:ellipsis;white-space:nowrap;-webkit-appearance:none;border-color:#0f4973;color:#0f4973;margin-left:10px;vertical-align:text-bottom;padding:0 25px;}#wdi_feed_0 .wdi_follow_btn:hover{border-color:#0f4973;color:#0f4973;background-color:#ffffff;cursor:pointer;}#wdi_feed_0 .wdi_filter_overlay{position:absolute;z-index:2;top:0;left:0;width:40px;height:40px;opacity:0;border-radius:40px;background-color:#125688;transition:opacity 0.1s ease;}#wdi_feed_0 .wdi_filter_overlay:hover{opacity:0.9;cursor:pointer;}#wdi_feed_0 .wdi_filter_icon span{display:block;width:40px;height:40px;font-size:25px;color:white;}#wdi_feed_0 .wdi_filter_icon span::before{width:20px;height:20px;position:absolute;opacity:1;right:0;left:0;top:0;bottom:0;margin:auto;}#wdi_feed_0 .wdi_photo_wrap{padding:5px;position:relative;width:calc(100% - 2*5px);
+	    display: inline-block;
+		  box-sizing:content-box;
+	    overflow: hidden;
+	}#wdi_feed_0 .wdi_photo_wrap:after{padding-top:100%;display:block;content:"";}#wdi_feed_0 .wdi_photo_wrap_inner{position:absolute;top:0;bottom:0;left:0;right:0;border:5px solid #ffffff;background-color:#FFFFFF;}#wdi_feed_0 .wdi_photo_img{border-radius:0px;width:100%;height:100%;}#wdi_feed_0 .wdi_img{width:100%;display:block;position:absolute;top:0;left:0;right:0;bottom:0;margin:auto;}#wdi_feed_0 .wdi_feed_item{width:33.333333333333%;display:inline-block;vertical-align:top;overflow:hidden;}#wdi_feed_0 .wdi_photo_meta{background-color:#FFFFFF;text-align:center;padding-bottom:10px;}#wdi_feed_0 .wdi_thumb_likes{width:50%;float:left;font-size:13px;;color:#8a8d8e;}#wdi_feed_0 .wdi_thumb_comments{width:50%;float:left;font-size:13px;;color:#8a8d8e;}#wdi_feed_0 .wdi_thumb_comments i,#wdi_feed_0 .wdi_thumb_likes i{width:100%;}#wdi_feed_0 .wdi_photo_title{text-overflow:ellipsis;overflow:hidden;white-space:nowrap;width:90%;margin-left:5%;margin-right:5%;font-size:14px;color:#125688;text-align:center;}#wdi_feed_0 .wdi_photo_title:hover{cursor:pointer;color:#8e8e8e;}@-moz-keyframes wdi_rotate{from{transform:rotate(0deg);}to{transform:rotate(360deg);}}@-o-keyframes wdi_rotate{from{transform:rotate(0deg);}to{transform:rotate(360deg);}}@-ms-keyframes wdi_rotate{from{transform:rotate(0deg);}to{transform:rotate(360deg);}}@-webkit-keyframes wdi_rotate{from{transform:rotate(0deg);}to{transform:rotate(360deg);}}@keyframes wdi_rotate{from{transform:rotate(0deg);}to{transform:rotate(360deg);}}#wdi_feed_0 .wdi_load_more_spinner{display:table-cell;vertical-align:middle;color:#1e73be;font-size:18.2px;animation:wdi_rotate 1.5s infinite;}#wdi_feed_0 .wdi_load_more,#wdi_feed_0 .wdi_spinner{padding:10px;background-color:#FFFFFF;text-align:center;transition:all 0.2s ease;}#wdi_feed_0 .wdi_load_more_wrap,#wdi_feed_0 .wdi_spinner_wrap{padding:4px;background-color:#ffffff;display:inline-table;border-radius:500px;height:90px;width:90px;border:1px solid #0f4973;;box-sizing:border-box;}#wdi_feed_0 .wdi_load_more_wrap_inner,#wdi_feed_0 .wdi_spinner_wrap_inner{display:table-row;text-align:center;}#wdi_feed_0 .wdi_load_more_text{display:table-cell;vertical-align:middle;color:#1e73be;font-size:14px;}#wdi_feed_0 .wdi_load_more_text img{height:90px;width:90px;float:left;}#wdi_feed_0 .wdi_load_more_wrap:hover{cursor:pointer;background-color:transparent;}#wdi_feed_0 .wdi_pagination{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;-o-user-select:none;user-select:none;text-align:center;color:#0f4973;font-size:40px;}#wdi_feed_0 .wdi_pagination_ctrl{margin:15px;display:inline-block;}#wdi_feed_0 .wdi_pagination_ctrl:hover{cursor:pointer;color:#25292c;}#wdi_feed_0 .wdi_photo_overlay:hover{cursor:pointer;background-color:#125688;opacity:0.5;}#wdi_feed_0 .wdi_photo_overlay i{font-size:25px;color:#FFFFFF;opacity:1;}#wdi_feed_0 .wdi_load_more_container{display:inline-block;}#wdi_feed_0 .wdi_filter_active{background-color:#2a5b83;}@media screen and (min-width: 800px) and (max-width:1024px){#wdi_feed_0 .wdi_feed_item{width:33.333333333333%;margin:0;display:inline-block;vertical-align:top;overflow:hidden;}#wdi_feed_0 .wdi_feed_container{width:100%;margin:0 auto;background-color:#FFFFFF;}}@media screen and (min-width: 480px) and (max-width:800px){#wdi_feed_0 .wdi_feed_item{width:50%;margin:0;display:inline-block;vertical-align:top;overflow:hidden;}#wdi_feed_0 .wdi_feed_container{width:100%;margin:0 auto;background-color:#FFFFFF;}}@media screen and (max-width: 480px){#wdi_feed_0 .wdi_feed_item{width:100%;margin:0;display:inline-block;vertical-align:top;overflow:hidden;}#wdi_feed_0 .wdi_feed_container{width:100%;margin:0 auto;background-color:#FFFFFF;}}</style>
+<div id="wdi_feed_0" class="wdi_feed_main_container">
+<div id="wdi_spider_popup_loading_0" class="wdi_spider_popup_loading"></div>
+<div id="wdi_spider_popup_overlay_0" class="wdi_spider_popup_overlay" onclick="wdi_spider_destroypopup(1000)"></div>
+<div class="wdi_feed_container">
+<div class="wdi_feed_info">
+<div id="wdi_feed_0_header" class='wdi_feed_header'></div>
+<div id="wdi_feed_0_users" class='wdi_feed_users'></div>
+</div>
+<div class="wdi_feed_wrapper wdi_col_3" wdi-res='wdi_col_3'></div>
+<div class="clear"></div>
+<style>.wdi_hidden{display:none;}</style>
+<div class="wdi_load_more wdi_hidden"><div class="wdi_load_more_container"><div class="wdi_load_more_wrap"><div class="wdi_load_more_wrap_inner"><div class="wdi_load_more_text">Load More</div></div></div></div></div>
+<div class="wdi_spinner "><div class="wdi_spinner_container"><div class="wdi_spinner_wrap"><div class="wdi_spinner_wrap_inner"><i class="wdi_load_more_spinner fa fa-spinner"></i></div></div></div></div>
+</div>
+</div>
+<style></style>
+<script>
+                  </script>
+</div></section>
+<section id="text-71" class="widget widget_text"><div class="widget-wrap"> <div class="textwidget"> <script type='text/javascript' src='https://s3.amazonaws.com/cgc-badge-v2/load.min.js'></script><script type='text/javascript' src='https://s3.amazonaws.com/cgc-badge-v2/common.js'></script><script type='text/javascript' src='http://badge.clevergirlscollective.com/v2/N3MW6G2KV4DNpHVU13t0Zk5QwXGwi8K2.js'></script> </div>
+</div></section>
+</aside></div></div><div class="footer-widgets" id="genesis-footer-widgets"><h2 class="genesis-sidebar-title screen-reader-text">Footer</h2><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="image-30" class="widget widget_image"><div class="widget-wrap"><div class="jetpack-image-container"><a target="_blank" href="http://www.pickledplum.com/blog-income-report/"><img src="http://www.pickledplum.com/wp-content/uploads/2016/06/income-report-footer.jpg" class="alignnone" width="220" height="150"/></a></div>
+</div></section>
+<section id="simple-social-icons-3" class="widget simple-social-icons"><div class="widget-wrap"><ul class="alignleft"><li class="social-email"><a href="http://www.pickledplum.com/subscribe/">&#xe60d;</a></li><li class="social-facebook"><a href="http://facebook.com/misspickledplum">&#xe606;</a></li><li class="social-instagram"><a href="http://instagram.com/misspickledplum">&#xe600;</a></li><li class="social-rss"><a href="http://feeds.feedburner.com/PickledPlum">&#xe60b;</a></li></ul></div></section>
+</div><div class="footer-widgets-2 widget-area"><section id="image-31" class="widget widget_image"><div class="widget-wrap"><div class="jetpack-image-container"><a target="_blank" href="http://www.pickledplum.com/guide-to-youthful-skin/"><img src="http://www.pickledplum.com/wp-content/uploads/2016/06/ebook-footer.jpg" class="alignnone" width="220" height="150"/></a></div>
+</div></section>
+<section id="text-45" class="widget widget_text"><div class="widget-wrap"> <div class="textwidget"><a href="http://pickledplum.com/privacy-policy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://pickledplum.com/work-with-us">Work With Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+		</div></section>
+</div><div class="footer-widgets-3 widget-area"><section id="image-32" class="widget widget_image"><div class="widget-wrap"><div class="jetpack-image-container"><a target="_blank" href="http://www.pickledplum.com/shop/"><img src="http://www.pickledplum.com/wp-content/uploads/2016/06/SHOP.jpg" class="alignnone" width="220" height="150" /></a></div>
+</div></section>
+<section id="text-72" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><a href="http://www.pickledplum.com/sharing-content-images-guidelines/">Using Blog Content Guidelines</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+		</div></section>
+</div></div></div><footer class="site-footer" itemscope itemtype="http://schema.org/WPFooter"><div class="wrap"><p>Copyright&#x000A9;&nbsp;2017 &middot; <a href="http://shaybocks.com/brunch-pro/">Brunch Pro Theme</a> by <a href="http://shaybocks.com/">Shay Bocks</a></p></div></footer></div>  <script type="text/javascript">
+(function() {var s = document.createElement('script');s.type = 'text/javascript';s.async = true;
+s.src = document.location.protocol + '//loader.wisepops.com/default/index/get-loader?user_id=23339';
+var s2 = document.getElementsByTagName('script')[0];s2.parentNode.insertBefore(s, s2);})();
+    </script>    
+
+<script type="text/javascript">
+	var trackcmp_email = '';
+
+	var trackcmp = document.createElement("script");
+	trackcmp.async = true;
+	trackcmp.type = 'text/javascript';
+	trackcmp.src = '//trackcmp.net/visit?actid=251726129&e='+encodeURIComponent(trackcmp_email)+'&r='+encodeURIComponent(document.referrer)+'&u='+encodeURIComponent(window.location.href);
+	var trackcmp_s = document.getElementsByTagName("script");
+	if (trackcmp_s.length) {
+		trackcmp_s[0].parentNode.appendChild(trackcmp);
+	} else {
+		var trackcmp_h = document.getElementsByTagName("head");
+		trackcmp_h.length && trackcmp_h[0].appendChild(trackcmp);
+	}
+</script>
+
+<!-- This site is converting visitors into subscribers and customers with OptinMonster - http://optinmonster.com --><div id="om-lc0sfubydl2rpkm7-holder"></div><script>var lc0sfubydl2rpkm7,lc0sfubydl2rpkm7_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){lc0sfubydl2rpkm7_poll(function(){if(window['om_loaded']){if(!lc0sfubydl2rpkm7){lc0sfubydl2rpkm7=new OptinMonsterApp();return lc0sfubydl2rpkm7.init({u:"11282.326607",staging:0,dev:0,beta:0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmnstr.com/app/js/api.min.js",o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;lc0sfubydl2rpkm7=new OptinMonsterApp();lc0sfubydl2rpkm7.init({u:"11282.326607",staging:0,dev:0,beta:0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster --><script type='text/javascript' src='http://www.pickledplum.com/wp-content/plugins/akismet/_inc/form.js?ver=3.2'></script>
+	    <script type="text/javascript">var xpjwgeonm4mwfbs1_shortcode = true;var qia6epsfxfry8g4t_shortcode = true;var lc0sfubydl2rpkm7_shortcode = true;</script>
+	    <link rel='stylesheet' id='wdi_mCustomScrollbar-css'  href='http://www.pickledplum.com/wp-content/plugins/wd-instagram-feed/css/gallerybox/jquery.mCustomScrollbar.css?ver=1.1.16' type='text/css' media='all' />
+<link rel='stylesheet' id='wdi_frontend_thumbnails-css'  href='http://www.pickledplum.com/wp-content/plugins/wd-instagram-feed/frontend/../css/wdi_frontend.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.pickledplum.com/wp-content/plugins/wd-instagram-feed/frontend/../css/font-awesome/css/font-awesome.css?ver=4.6.1' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var php_data = {"site_url":"http:\/\/www.pickledplum.com","ac_settings":{"syim":{"11":"swim","12":"swim"},"css":{"11":"1","12":"1"},"site_tracking":"1","account_view":{"account":"carolinephelps.activehosted.com","email":"caron.caroline@gmail.com","fname":"Caroline","lname":"Phelps","cname":"","subscriber_limit":"10000","subscriber_total":"5742","status":"nobody","branding":"1","result_code":1,"result_message":"Success: Something is returned","result_output":"json","http_code":200,"success":1},"account":"carolinephelps.activehosted.com","tracking_actid":251726129,"forms":{"11":{"id":"11","name":"testing 2","layout":"inline-form","target":1,"messageid":0,"conflistid":0,"redirecturl":"https:\/\/carolinephelps.api-us1.com\/f\/thankyou.php?id=11&s=","facebookurl":"","managetext":0,"theme":"","sendoptin":false,"waitpreview":0,"widthpx":500,"disabled":0,"analytics":0,"branding":1,"baseformid":"","subscriptions":0,"lists":[],"version":2},"12":{"id":"12","name":"Newsletter Subscription Options","layout":"inline-form","target":1,"messageid":0,"conflistid":0,"redirecturl":"https:\/\/carolinephelps.api-us1.com\/f\/thankyou.php?id=12&s=","facebookurl":"","managetext":0,"theme":"","sendoptin":false,"waitpreview":0,"widthpx":500,"disabled":0,"analytics":0,"branding":1,"baseformid":"","subscriptions":0,"lists":[],"version":2}}},"user_email":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-content/plugins/activecampaign-subscription-forms/site_tracking.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201704'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-includes/js/comment-reply.min.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-content/themes/brunch-pro-2.0.1/js/general.js?ver=2.0.1'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-content/plugins/wp-featherlight/js/wpFeatherlight.pkgd.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-content/plugins/wd-instagram-feed/frontend/../js/wdi_instagram.js?ver=1.1.16'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wdi_ajax = {"ajax_url":"http:\/\/www.pickledplum.com\/wp-admin\/admin-ajax.php"};
+var wdi_url = {"plugin_url":"http:\/\/www.pickledplum.com\/wp-content\/plugins\/wd-instagram-feed\/frontend\/","ajax_url":"http:\/\/www.pickledplum.com\/wp-admin\/admin-ajax.php"};
+var wdi_front_messages = {"connection_error":"Connection Error, try again later :(","user_not_found":"Username not found","network_error":"Network error, please try again later :(","hashtag_nodata":"There is no data for that hashtag","filter_title":"Click to filter images by this user"};
+var wdi_feed_0 = {"feed_row":{"thumb_user":"misspickledplum","feed_name":"Pickled Plum Feed","feed_thumb":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/11032806_493742020767090_1061030339_a.jpg","published":"1","theme_id":"1","feed_users":"[{\"username\":\"misspickledplum\",\"id\":\"175801102\"}]","feed_display_view":"load_more_btn","sort_images_by":"date","display_order":"desc","follow_on_instagram_btn":"1","display_header":"0","number_of_photos":"12","load_more_number":"4","pagination_per_page_number":"10","pagination_preload_number":"10","image_browser_preload_number":"10","image_browser_load_number":"10","number_of_columns":"3","resort_after_load_more":"0","show_likes":"0","show_description":"0","show_comments":"0","show_usernames":"0","display_user_info":"1","display_user_post_follow_number":"1","show_full_description":"1","disable_mobile_layout":"0","feed_type":"thumbnails","feed_item_onclick":"lightbox","popup_fullscreen":"0","popup_width":"640","popup_height":"640","popup_type":"none","popup_autoplay":"0","popup_interval":"5","popup_enable_filmstrip":"0","popup_filmstrip_height":"70","autohide_lightbox_navigation":"1","popup_enable_ctrl_btn":"1","popup_enable_fullscreen":"1","popup_enable_info":"0","popup_info_always_show":"0","popup_info_full_width":"0","popup_enable_comment":"0","popup_enable_fullsize_image":"1","popup_enable_download":"0","popup_enable_share_buttons":"0","popup_enable_facebook":"0","popup_enable_twitter":"0","popup_enable_google":"0","popup_enable_pinterest":"0","popup_enable_tumblr":"0","show_image_counts":"0","enable_loop":"1","popup_image_right_click":"1","conditional_filters":"","conditional_filter_type":"none","show_username_on_thumb":"0","conditional_filter_enable":"0","liked_feed":"userhash","id":"1","widget":true,"access_token":"175801102.54da896.7c53450cc99c4f268253c81df0215e11","wdi_feed_counter":0},"data":[],"usersData":[],"dataCount":"0"};
+var wdi_front = {"feed_counter":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-content/plugins/wd-instagram-feed/frontend/../js/wdi_frontend.js?ver=1.1.16'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-content/plugins/wd-instagram-feed/frontend/../js/wdi_responsive.js?ver=1.1.16'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-content/plugins/wd-instagram-feed/js/gallerybox/jquery.mobile.js?ver=1.1.16'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-content/plugins/wd-instagram-feed/js/gallerybox/jquery.mCustomScrollbar.concat.min.js?ver=1.1.16'></script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-content/plugins/wd-instagram-feed/js/gallerybox/jquery.fullscreen-0.4.1.js?ver=1.1.16'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wdi_objectL10n = {"wdi_field_required":"Field is required.","wdi_mail_validation":"This is not a valid email address.","wdi_search_result":"There are no images matching your search."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.pickledplum.com/wp-content/plugins/wd-instagram-feed/js/gallerybox/wdi_gallery_box.js?ver=1.1.16'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201704.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.4.1',blog:'48972045',post:'9841',tz:'-4',srv:'www.pickledplum.com'} ]);
+	_stq.push([ 'clickTrackerInit', '48972045', '9841' ]);
+</script>
+	    <script type="text/javascript">var omapi_localized = { ajax: 'http://www.pickledplum.com/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: '59620a60d4' };</script>
+	    <script type="text/javascript" id="spxw_script" src="http://ardrone.swoop.com/js/spxw.js" data-domain="SW-57979657-1" data-theme="red" data-serverbase="http://ardrone.swoop.com/"></script><script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body></html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced
+
+ Served from: www.pickledplum.com @ 2017-01-26 14:46:32 by W3 Total Cache -->

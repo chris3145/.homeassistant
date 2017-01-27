@@ -1,0 +1,594 @@
+http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/
+
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8"/>
+<title>Lanzhou Beef Noodle Soup - The Woks of Life</title><meta name="viewport" content="width=device-width, initial-scale=1"/>
+ 
+<meta name="description" content="Consisting of a flavorful broth, shaved beef, tender radishes, herbs, chili oil, and chewy noodles, Lanzhou Beef Noodle Soup (兰州拉面, lanzhou lamian) has the majority vote for favorite bowl of noodles among 1.4 billion very culinarily-conscious citizens."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/"/>
+<link rel="publisher" href="http://google.com/+Thewoksoflife1"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Lanzhou Beef Noodle Soup - The Woks of Life"/>
+<meta property="og:description" content="Consisting of a flavorful broth, shaved beef, tender radishes, herbs, chili oil, and chewy noodles, Lanzhou Beef Noodle Soup (兰州拉面, lanzhou lamian) has the majority vote for favorite bowl of noodles among 1.4 billion very culinarily-conscious citizens."/>
+<meta property="og:url" content="http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/"/>
+<meta property="og:site_name" content="The Woks of Life"/>
+<meta property="article:publisher" content="https://www.facebook.com/thewoksoflife"/>
+<meta property="article:author" content="facebook.com/thewoksoflife"/>
+<meta property="article:section" content="Beef"/>
+<meta property="article:published_time" content="2014-10-19T10:45:59-05:00"/>
+<meta property="article:modified_time" content="2016-11-03T22:52:07-05:00"/>
+<meta property="og:updated_time" content="2016-11-03T22:52:07-05:00"/>
+<meta property="og:image" content="http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-6.jpg"/>
+<meta property="og:image:width" content="600"/>
+<meta property="og:image:height" content="900"/>
+ 
+<link rel='dns-prefetch' href='//assets.pinterest.com'/>
+<link rel='dns-prefetch' href='//fonts.googleapis.com'/>
+<link rel='dns-prefetch' href='//s.w.org'/>
+<link rel="alternate" type="application/rss+xml" title="The Woks of Life &raquo; Feed" href="http://feeds.feedburner.com/thewoksoflife"/>
+<link rel="alternate" type="application/rss+xml" title="The Woks of Life &raquo; Comments Feed" href="http://thewoksoflife.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="The Woks of Life &raquo; Lanzhou Beef Noodle Soup Comments Feed" href="http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/feed/"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/thewoksoflife.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel='stylesheet' id='easyindex-widget-css' href='http://thewoksoflife.com/wp-content/plugins/easyindexplus/css/easyindex-widget.min.css?ver=1.0.1637' type='text/css' media='all'/>
+<link rel='stylesheet' id='pinterest-pin-it-button-plugin-styles-css' href='http://thewoksoflife.com/wp-content/plugins/pinterest-pin-it-button/css/public.css?ver=2.1.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='genesis-simple-share-plugin-css-css' href='//thewoksoflife.com/wp-content/plugins/genesis-simple-share/lib/css/share.css?ver=0.1.0' type='text/css' media='all'/>
+<link rel='stylesheet' id='genesis-simple-share-genericons-css-css' href='//thewoksoflife.com/wp-content/plugins/genesis-simple-share/lib/css/genericons.css?ver=0.1.0' type='text/css' media='all'/>
+<link rel='stylesheet' id='daily-dish-pro-theme-css' href='http://thewoksoflife.com/wp-content/themes/daily-dish-pro/style.css?ver=1.0.13' type='text/css' media='all'/>
+<link rel='stylesheet' id='dashicons-css' href='http://thewoksoflife.com/wp-includes/css/dashicons.min.css?ver=4.7.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='daily-dish-google-fonts-css' href='//fonts.googleapis.com/css?family=Alice%7CLato%3A400%2C700%2C900&#038;ver=1.0.13' type='text/css' media='all'/>
+<link rel='stylesheet' id='simple-social-icons-font-css' href='http://thewoksoflife.com/wp-content/plugins/simple-social-icons/css/style.css?ver=2.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='easyrecipestyle-reset-css' href='http://thewoksoflife.com/wp-content/plugins/easyrecipeplus/css/easyrecipe-style-reset-min.css?ver=3.5.3226' type='text/css' media='all'/>
+<link rel='stylesheet' id='easyrecipebuttonUI-css' href='http://thewoksoflife.com/wp-content/plugins/easyrecipeplus/ui/easyrecipe-buttonUI.css?ver=3.5.3226' type='text/css' media='all'/>
+<link rel='stylesheet' id='easyrecipestyle-css' href='http://thewoksoflife.com/wp-content/plugins/easyrecipeplus/styles/style002/style.css?ver=3.5.3226.1.4' type='text/css' media='all'/>
+<link rel='stylesheet' id='mc4wp-form-basic-css' href='http://thewoksoflife.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-basic.min.css?ver=4.0.12' type='text/css' media='all'/>
+<link rel='stylesheet' id='gppro-style-css' href='//thewoksoflife.com/wp-content/uploads/gppro/gppro-custom-1.css?ver=1466212867' type='text/css' media='all'/>
+<script type='text/javascript' src='http://thewoksoflife.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://thewoksoflife.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://thewoksoflife.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewoksoflife.com/wp-content/plugins/easyindexplus/js/easyindex-widget.min.js?ver=1.0.1637'></script>
+<script type='text/javascript' src='//thewoksoflife.com/wp-content/plugins/genesis-simple-share/lib/sharrre/jquery.sharrre.min.js?ver=0.1.0'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://thewoksoflife.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='http://thewoksoflife.com/wp-content/themes/daily-dish-pro/js/responsive-menu.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://thewoksoflife.com/wp-content/plugins/simple-social-icons/svgxuse.js?ver=1.1.21'></script>
+<script type='text/javascript' src='http://thewoksoflife.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewoksoflife.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewoksoflife.com/wp-content/plugins/easyrecipeplus/js/easyrecipe-min.js?ver=3.5.3226'></script>
+<link rel='https://api.w.org/' href='http://thewoksoflife.com/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thewoksoflife.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thewoksoflife.com/wp-includes/wlwmanifest.xml"/>
+<meta name="generator" content="WordPress 4.7.1"/>
+<link rel='shortlink' href='http://thewoksoflife.com/?p=6859'/>
+<link rel="alternate" type="application/json+oembed" href="http://thewoksoflife.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthewoksoflife.com%2F2014%2F10%2Flanzhou-beef-noodle-soup%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="http://thewoksoflife.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthewoksoflife.com%2F2014%2F10%2Flanzhou-beef-noodle-soup%2F&#038;format=xml"/>
+<script>
+window.adthrive = window.adthrive || {};
+window.adthrive.cmd = window.adthrive.cmd || [];
+
+(function() {
+  var script = document.createElement('script');
+  script.async = true;
+  script.type = 'text/javascript';
+  script.src = 'http://ads.adthrive.com/sites/55cca79b52c946be6dac61bd/ads.min.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(script, node);
+})();
+</script>
+<link rel="icon" href="http://thewoksoflife.com/wp-content/uploads/2014/10/TWOL-Bowl-Favicon.ico"/>
+<link rel="pingback" href="http://thewoksoflife.com/xmlrpc.php"/>
+<meta name="p:domain_verify" content="30015a499feadb9c68198258b4c3e2f2"/>
+<meta name="msvalidate.01" content="32AAE00E89F95B57DF9331F382CB26C1"/>
+<meta name="google-site-verification" content="mxGNTKW0K6l_thaJwLiadsZ-IzB7SNeGQyc46TmqxsI"/>
+ 
+<link rel="icon" href="http://thewoksoflife.com/wp-content/uploads/2014/10/TWOL-Bowl-Favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="http://thewoksoflife.com/wp-content/uploads/2014/10/TWOL-Bowl-Favicon.ico" type="image/x-icon"/>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41678252-1', 'thewoksoflife.com');
+  ga('require', 'displayfeatures');
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+
+bN_cfg = {
+  b: "b.aol.com",
+  h: location.hostname
+};
+
+function runOmni()
+{
+  s_265.pfxID="fnt";
+  s_265.pageName=document.title;
+  s_265.channel="us.woklife";
+  s_265.linkInternalFilters="javascript:,thewoksoflife.com";
+  s_265.prop1="the woks of life";
+  s_265.prop54="wordpress";
+  s_265.mmxgo=true;
+  var s_code=s_265.t();
+}
+s_265_account ="aolsvc";
+(function(){
+    var d = document, s = d.createElement('script');
+    s.type = 'text/javascript';
+    s.src = (location.protocol == 'https:' ? 'https://s' : 'http://o') + '.aolcdn.com/os_merge/?file=/aol/beacon.min.js&file=/aol/omniture.min.js';
+    d.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script><style type="text/css" media="screen">.simple-social-icons ul li a,.simple-social-icons ul li a:hover,.simple-social-icons ul li a:focus{background-color:#002d02!important;border-radius:0px;color:#ffffff!important;border:0px #ffffff solid!important;font-size:18px;padding:9px;}.simple-social-icons ul li a:hover,.simple-social-icons ul li a:focus{background-color:#e85c00!important;border-color:#ffffff!important;color:#ffffff!important;}.simple-social-icons ul li a:focus{outline:1px dotted #e85c00!important;}</style><style type="text/css">html body div.easyrecipe .ERSName{font-family:Lato!important;font-weight:bold!important;font-size:30px!important;margin-bottom:0px!important;margin-left:0px!important;margin-right:0px!important;padding-bottom:0px!important;padding-left:0px!important;padding-right:0px!important;}</style>
+</head>
+<body class="post-template-default single single-post postid-6859 single-format-standard header-full-width content-sidebar gppro-custom er-recipe" itemscope itemtype="http://schema.org/WebPage"><div class="site-container"><header class="site-header" itemscope itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://thewoksoflife.com/">The Woks of Life</a></p><p class="site-description" itemprop="description">a culinary genealogy</p></div></div></header><nav class="nav-primary" itemscope itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-menu" class="menu genesis-nav-menu menu-primary"><li id="menu-item-608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-608"><a href="http://thewoksoflife.com" itemprop="url"><span itemprop="name">HOME</span></a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://thewoksoflife.com/about/" itemprop="url"><span itemprop="name">About</span></a></li>
+<li id="menu-item-3080" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3080"><a itemprop="url"><span itemprop="name">RECIPES</span></a>
+<ul class="sub-menu">
+<li id="menu-item-8819" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8819"><a href="http://thewoksoflife.com/visual-recipe-index/" itemprop="url"><span itemprop="name">Visual Recipe Index</span></a></li>
+<li id="menu-item-2605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2605"><a href="http://thewoksoflife.com/recipe-list/" itemprop="url"><span itemprop="name">Recipe List</span></a>
+<ul class="sub-menu">
+<li id="menu-item-12820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12820"><a href="http://thewoksoflife.com/recipe-list/" itemprop="url"><span itemprop="name">Complete Recipe List</span></a></li>
+<li id="menu-item-12837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12837"><a href="http://thewoksoflife.com/chinese-new-year-recipes/" itemprop="url"><span itemprop="name">Chinese New Year</span></a></li>
+<li id="menu-item-12809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12809"><a href="http://thewoksoflife.com/chinese-take-out-recipes/" itemprop="url"><span itemprop="name">Chinese Take Out</span></a></li>
+<li id="menu-item-12806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12806"><a href="http://thewoksoflife.com/chinese-dim-sum-recipes/" itemprop="url"><span itemprop="name">Chinese Dim Sum</span></a></li>
+<li id="menu-item-12807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12807"><a href="http://thewoksoflife.com/quick-easy-recipes/" itemprop="url"><span itemprop="name">Quick and Easy</span></a></li>
+<li id="menu-item-12808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12808"><a href="http://thewoksoflife.com/chinese-bakery-recipes/" itemprop="url"><span itemprop="name">Chinese Bakery</span></a></li>
+<li id="menu-item-12805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12805"><a href="http://thewoksoflife.com/chinese-vegetarian-recipes/" itemprop="url"><span itemprop="name">Vegetarian</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-7902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7902"><a href="http://thewoksoflife.com/category/cooking-methods/" itemprop="url"><span itemprop="name">How-To</span></a>
+<ul class="sub-menu">
+<li id="menu-item-11503" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11503"><a href="http://thewoksoflife.com/category/cooking-methods/" itemprop="url"><span itemprop="name">See All How-To Posts</span></a></li>
+<li id="menu-item-3579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3579"><a href="http://thewoksoflife.com/how-to/chinese-cooking-tools/" itemprop="url"><span itemprop="name">Chinese Cooking Tools</span></a></li>
+<li id="menu-item-11217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11217"><a href="http://thewoksoflife.com/chinese-ingredients-glossary/" itemprop="url"><span itemprop="name">Chinese Ingredients Glossary &#8211; NEW!</span></a></li>
+<li id="menu-item-3582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3582"><a href="http://thewoksoflife.com/how-to/cooking-methods-used-in-chinese-cuisine/" itemprop="url"><span itemprop="name">Cooking Methods Used in Chinese Cuisine</span></a></li>
+<li id="menu-item-3583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3583"><a href="http://thewoksoflife.com/how-to/navigating-a-chinese-grocery-store/" itemprop="url"><span itemprop="name">Navigating a Chinese Grocery Store</span></a></li>
+<li id="menu-item-3585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3585"><a href="http://thewoksoflife.com/how-to/hot-pot-how-to/" itemprop="url"><span itemprop="name">Hot Pot How-to</span></a></li>
+<li id="menu-item-3580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3580"><a href="http://thewoksoflife.com/how-to/how-to-eat-with-a-bunch-of-chinese-people/" itemprop="url"><span itemprop="name">How to Eat With A Bunch of Chinese People</span></a></li>
+<li id="menu-item-3584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3584"><a href="http://thewoksoflife.com/how-to/how-to-use-chopsticks/" itemprop="url"><span itemprop="name">How to Use Chopsticks</span></a></li>
+</ul>
+</li>
+<li id="menu-item-7662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7662"><a href="http://thewoksoflife.com/category/life/" itemprop="url"><span itemprop="name">LIFE</span></a></li>
+<li id="menu-item-7661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7661"><a href="http://thewoksoflife.com/category/travel/" itemprop="url"><span itemprop="name">TRAVEL</span></a></li>
+<li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-137"><a href="http://thewoksoflife.com/contact/" itemprop="url"><span itemprop="name">Contact</span></a>
+<ul class="sub-menu">
+<li id="menu-item-14688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14688"><a href="http://thewoksoflife.com/work-with-us/" itemprop="url"><span itemprop="name">Work with Us</span></a></li>
+<li id="menu-item-14689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14689"><a href="http://thewoksoflife.com/press/" itemprop="url"><span itemprop="name">Press</span></a></li>
+</ul>
+</li>
+<li class="right search"><form class="search-form" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" method="get" action="http://thewoksoflife.com/" role="search"><meta itemprop="target" content="http://thewoksoflife.com/?s={s}"/><input itemprop="query-input" type="search" name="s" placeholder="SEARCH HERE &#x2026;"/><input type="submit" value=""/></form></li></ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><div class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://thewoksoflife.com/" rel="v:url" property="v:title">Home</a> » <span rel="v:child" typeof="v:Breadcrumb"><a href="http://thewoksoflife.com/category/recipes/" rel="v:url" property="v:title">Recipes</a> » <span rel="v:child" typeof="v:Breadcrumb"><a href="http://thewoksoflife.com/category/recipes/beef-recipes/" rel="v:url" property="v:title">Beef</a> » <strong class="breadcrumb_last">Lanzhou Beef Noodle Soup</strong></span></span></span></span></div><article class="post-6859 post type-post status-publish format-standard has-post-thumbnail category-beef-recipes category-recipes category-rice-and-noodles-recipes category-soups-and-stocks entry" itemscope itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Lanzhou Beef Noodle Soup</h1>
+<p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2014-10-19T10:45:59+00:00">October 19, 2014</time> By <span class="entry-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a href="http://thewoksoflife.com/author/jleung/" class="entry-author-link" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Judy</span></a></span> <span class="entry-comments-link"><a href="http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/#comments">133 Comments</a></span> </p></header><a href="http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/" title="Lanzhou Beef Noodle Soup"><img width="600" height="900" src="http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-6.jpg" class="post-image" alt="Lanzhou Beef Noodle Soup, by thewoksoflife.com" srcset="http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-6.jpg 600w, http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-6-200x300.jpg 200w" sizes="(max-width: 600px) 100vw, 600px"/></a><div class="entry-content" itemprop="text"><div class="pin-it-btn-wrapper"><a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fthewoksoflife.com%2F2014%2F10%2Flanzhou-beef-noodle-soup%2F&media=http%3A%2F%2Fthewoksoflife.com%2Fwp-content%2Fuploads%2F2014%2F10%2Flanzhou-beef-noodle-soup-4.jpg&description=Lanzhou%20Beef%20Noodle%20Soup%2C%20by%20thewoksoflife.com" data-pin-do="buttonBookmark" data-pin-config="beside" data-pin-color="gray" rel="nobox"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" title="Pin It" data-pib-button="true"/></a></div><p>It&#8217;s obvious that China has no shortage of noodle dishes and Chinese noodle soup recipes. More than you&#8217;ve probably ever heard or dreamt of. The variety is as expansive as China&#8217;s geography, and EVERYTHING is delicious. But among the many noodle dishes (and noodle soups in particular), one stands out.</p>
+<p>Consisting of a flavorful, clear broth, shaved beef, tender Chinese radish slices, lots of cilantro and scallion, deep red chili oil, and chewy handmade noodles, Lanzhou Beef Noodle Soup (兰州拉面, <em>lanzhou lamian</em>) has the majority vote among 1.4 billion <em>very</em> culinarily-conscious citizens.</p>
+<p>This fact has been confirmed by a quick search on China&#8217;s Google, baidu.com. Translating to Lanzhou Hand-Pulled Noodle Soup, this bowl of hot, spicy delight is deceptively simple and has spawned noodle chains across Beijing. In fact, we have a Lanzhou Beef Noodle Soup place right downstairs, about 100 yards from our apartment. My niece Kim came to visit us in Beijing this summer, and after many fancy restaurants and lavish meals, she declared this bowl of noodle soup to be the best thing she had in China. And it only costs $3! We made sure to feed her an extra bowl before leaving for the airport.</p>
+<p>If you&#8217;ve been on The Woks of Life for a while, you&#8217;ve probably learned a thing or two about me from my recipes. I&#8217;m not a fussy person, and I love keeping things simple. This recipe is adapted from many conversations with the cooks and staff at our local noodle shop, and after much thought and experimentation, I&#8217;ve simplified things for the home cook. We&#8217;re not going to make noodles from scratch, so don&#8217;t worry. You can&#8217;t compromise flavor on the broth however, which is what brings the dish together.</p>
+<p><img class="aligncenter size-full wp-image-6883" src="http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-4.jpg" alt="Lanzhou Beef Noodle Soup, by thewoksoflife.com" width="600" height="847" srcset="http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-4.jpg 600w, http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-4-212x300.jpg 212w" sizes="(max-width: 600px) 100vw, 600px"/></p>
+<p>You&#8217;ll need:</p>
+<ul>
+<li>4 lbs beef or pork soup bones</li>
+<li>2 1/4 lbs (1 kg) beef shank</li>
+<li>½ of a whole roasting chicken (or a leftover roasted chicken carcass)</li>
+<li>10 cups water</li>
+<li>4 cups (about 1 liter) <a href="http://thewoksoflife.com/2016/01/homemade-chicken-stock/" target="_blank">chicken stock</a></li>
+<li>Spice mix (see recipe below)</li>
+<li>Salt, to taste (I added about a tablespoon)</li>
+<li>1/2 of a small <a href="http://thewoksoflife.com/asian-vegetables-beans-melons/#chinese-radish" target="_blank">Chinese radish</a>, quartered and thinly sliced</li>
+<li>1 lb fresh or <a href="http://thewoksoflife.com/chinese-noodles-wrappers/#fresh-white-noodles" target="_blank">fresh or dried white noodles</a> (they can really be any thickness, as long as they are wheat-based noodles rather than rice noodles, and have a nice chew when cooked)</li>
+<li>Hot chili oil, to taste (see recipe below)</li>
+<li>chopped <a href="http://thewoksoflife.com/chinese-chives-scallions-aromatics-peppers/" target="_blank">scallion</a></li>
+<li>chopped <a href="http://thewoksoflife.com/chinese-chives-scallions-aromatics-peppers/#cilantro" target="_blank">cilantro</a></li>
+</ul>
+<p>For the spice mix:</p>
+<ul>
+<li>7 <a href="http://thewoksoflife.com/chinese-spices-condiments/#star-anise" target="_blank">star anise</a></li>
+<li>12 <a href="http://thewoksoflife.com/chinese-spices-condiments/#cloves" target="_blank">cloves</a></li>
+<li>1 <a href="http://thewoksoflife.com/chinese-spices-condiments/#gui-pi" target="_blank">cinnamon stick</a></li>
+<li>5 <a href="http://thewoksoflife.com/chinese-spices-condiments/#bay-leaf" target="_blank">bay leaves</a></li>
+<li>6 large slices of <a href="http://thewoksoflife.com/chinese-spices-condiments/#dried-sand-ginger" target="_blank">sand ginger</a></li>
+<li>1 1/2 teaspoons <a href="http://thewoksoflife.com/chinese-spices-condiments/#fennel-seed" target="_blank">fennel seeds</a></li>
+<li>1 teaspoon <a href="http://thewoksoflife.com/chinese-spices-condiments/#cumin-seeds" target="_blank">cumin seeds</a></li>
+<li>2 teaspoons <a href="http://thewoksoflife.com/chinese-spices-condiments/#sichuan-peppercorn" target="_blank">Sichuan peppercorns</a></li>
+<li>1 1/2 teaspoons <a href="http://thewoksoflife.com/chinese-spices-condiments/#white-pepper" target="_blank">white peppercorns</a></li>
+<li>5 licorice root slices (if you can&#8217;t find these, you can leave them out)</li>
+<li>3 pieces <a href="http://thewoksoflife.com/chinese-spices-condiments/#dried-tangerine-peel" target="_blank">dried orange peel</a></li>
+<li>1 <a href="http://thewoksoflife.com/chinese-spices-condiments/#black-cardamom" target="_blank">black cardamom</a></li>
+</ul>
+<p>Check our our <a href="http://thewoksoflife.com/chinese-spices-condiments/" target="_blank">Chinese Dry spices and condiments page</a> to see more detailed descriptions and pictures of these and other  spices we use in our recipes.</p>
+<p>For the hot chili oil:</p>
+<ul>
+<li>3/4 cup oil</li>
+<li>2 <a href="http://thewoksoflife.com/chinese-spices-condiments/#star-anise" target="_blank">star anise</a></li>
+<li>1/2 of a small <a href="http://thewoksoflife.com/chinese-spices-condiments/#gui-pi" target="_blank">cinnamon stick</a></li>
+<li>½ teaspoon <a href="http://thewoksoflife.com/chinese-spices-condiments/#sichuan-peppercorn" target="_blank">Sichuan peppercorns</a></li>
+<li>3 tablespoons <a href="http://thewoksoflife.com/chinese-spices-condiments/#red-chili-flakes" target="_blank">crushed red pepper flakes</a> (just the regular kind you&#8217;d sprinkle on your pizza)</li>
+<li>1 teaspoon salt</li>
+<li>1/4 teaspoon sugar</li>
+</ul>
+<p>Rinse the soup bones and pat dry. Roast them on a <a href="http://thewoksoflife.com/how-to/chinese-cooking-tools/#label-sheet-pan" target="_blank">baking sheet</a> at 400 degrees for 45 minutes. Bring a large pot of water to a boil, and add the beef shank and the chicken (or chicken carcass) to the pot. Bring everything to a boil again. Once boiling, remove the shank and the chicken, discard the water, and clean the pot. This process gets rid of any impurities, and will give your broth a cleaner flavor.</p>
+<p>Put the beef shank and chicken back into the pot along with the roasted bones, 10 more cups of water, and 4 cups chicken stock. Make the spice mix by combining all ingredients and tying them tightly in cheese cloth with a bit of kitchen string. Add this to the pot as well and season with salt. Bring everything to a boil.</p>
+<p>Once boiling, turn down the heat to low and let everything simmer for about 2 hours. After 2 hours have elapsed, remove the beef shank and set aside. Add the sliced radish and continue simmering for another hour. After that, use tongs to pick out and discard the spice pouch, chicken, and soup bones. Taste the broth for salt and adjust the seasoning if needed. The soup base is ready.</p>
+<p>While all that is happening, you can take the time to make your chili oil. In a small pot, add the oil, star anise, cinnamon, and <a href="http://thewoksoflife.com/chinese-spices-condiments/#sichuan-peppercorn" target="_blank">Sichuan peppercorns.</a></p>
+<p><a href="http://thewoksoflife.com/chinese-spices-condiments/" target="_blank"><img class="aligncenter size-full wp-image-7053" src="http://thewoksoflife.com/wp-content/uploads/2014/10/chili-oil-spices.jpg" alt="Lanzhou Beef Noodle Soup, by thewoksoflife.com" width="600" height="902" srcset="http://thewoksoflife.com/wp-content/uploads/2014/10/chili-oil-spices.jpg 600w, http://thewoksoflife.com/wp-content/uploads/2014/10/chili-oil-spices-199x300.jpg 199w" sizes="(max-width: 600px) 100vw, 600px"/></a></p>
+<p>Place the pot over very low heat and let everything toast together slowly for 15 minutes. Take care not to burn the spices. Use a slotted spoon to remove the spices, and turn off the heat. Let the oil cool for about 5 minutes, and then add the <a href="http://thewoksoflife.com/chinese-spices-condiments/#red-chili-flakes" target="_blank">chili flakes</a>. Slowly toast these in the hot oil until very fragrant (it should almost smell like popcorn), and very red. Stir in the salt and sugar.</p>
+<p><img class="aligncenter size-full wp-image-6880" src="http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-1.jpg" alt="Lanzhou Beef Noodle Soup, by thewoksoflife.com" width="600" height="760" srcset="http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-1.jpg 600w, http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-1-236x300.jpg 236w" sizes="(max-width: 600px) 100vw, 600px"/></p>
+<p>Once the broth and chili oil are done, cook the noodles in a separate pot according to the package instructions. Divide the noodles among 6 bowls. Slice the cooled beef shank into thin slices, and fan them out over the noodles. To finish, add a big ladle of broth and radishes, a spoonful of hot chili oil, and a handful each (don&#8217;t be shy) of chopped <a href="http://thewoksoflife.com/chinese-chives-scallions-aromatics-peppers/" target="_blank">scallion and cilantro</a>.</p>
+<p><img class="aligncenter size-full wp-image-6881" src="http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-2.jpg" alt="Lanzhou Beef Noodle Soup, by thewoksoflife.com" width="600" height="888" srcset="http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-2.jpg 600w, http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-2-202x300.jpg 202w" sizes="(max-width: 600px) 100vw, 600px"/></p>
+<p>You&#8217;re ready to enjoy this famous bowl of noodles like the best of them! Slurping is very much encouraged.</p>
+<p><img class="aligncenter size-full wp-image-6882" src="http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-3.jpg" alt="Lanzhou Beef Noodle Soup, by thewoksoflife.com" width="600" height="902" srcset="http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-3.jpg 600w, http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-3-199x300.jpg 199w" sizes="(max-width: 600px) 100vw, 600px"/><img class="aligncenter size-full wp-image-6884" src="http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-5.jpg" alt="Lanzhou Beef Noodle Soup, by thewoksoflife.com" width="600" height="902" srcset="http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-5.jpg 600w, http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-5-199x300.jpg 199w" sizes="(max-width: 600px) 100vw, 600px"/></p>
+<p>Want more noodle soup recipes? Try our <a title="Noodle Soup with Pork and Pickled Greens" href="http://thewoksoflife.com/2014/08/noodle-soup-pork-pickled-greens/" target="_blank">Shanghai Pork and Pickled Greens Noodle Soup</a>, and find out why Sarah would eat it, even on the verge of heat stroke!</p>
+<p> <br/>
+<div id="easyrecipe-6859-0" class="easyrecipe" itemscope itemtype="http://schema.org/Recipe"> <div itemprop="name" class="ERSName">Lanzhou Beef Noodle Soup</div> <div class="ERSClear">&nbsp;</div> <div class="ERSTopRight"> <img itemprop="image" src="http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-4.jpg" width="205"/> <div class="ERSSavePrint"> <span class="ERSSaveBtnSpan"><a href="" class="ERSSaveBtn bigoven">Save</a></span> <span class="ERSPrintBtnSpan"><a class="ERSPrintBtn" href="http://thewoksoflife.com/easyrecipe-print/6859-0/" rel="nofollow" target="_blank">Print</a></span> </div> </div> <div class="ERSTimes"> <div class="ERSTime"> <div class="ERSTimeHeading">Prep time</div> <div class="ERSTimeItem"> <time itemprop="prepTime" datetime="PT30M">30 mins</time> </div> </div> <div class="ERSTime ERSTimeRight"> <div class="ERSTimeHeading">Cook time</div> <div class="ERSTimeItem"> <time itemprop="cookTime" datetime="PT5H">5 hours</time> </div> </div> <div class="ERSTime ERSTimeRight"> <div class="ERSTimeHeading">Total time</div> <div class="ERSTimeItem"> <time itemprop="totalTime" datetime="PT5H30M">5 hours 30 mins</time> </div> </div> <div class="ERSClearLeft">&nbsp;</div> </div> <div class="divERSHeadItems"> <div class="ERSServes">Serves: <span itemprop="recipeYield">6 servings</span></div> </div> <div class="ERSIngredients"> <div class="ERSIngredientsHeader ERSHeading">Ingredients</div> <div class="ERSSectionHead">You'll need:</div> <ul> <li class="ingredient" itemprop="ingredients">4 lbs beef or pork soup bones</li> <li class="ingredient" itemprop="ingredients">2&frac14; lbs (1 kg) beef shank</li> <li class="ingredient" itemprop="ingredients">½ of a whole roasting chicken (or a leftover roasted chicken carcass)</li> <li class="ingredient" itemprop="ingredients">10 cups water</li> <li class="ingredient" itemprop="ingredients">4 cups (about 1 liter) chicken stock</li> <li class="ingredient" itemprop="ingredients">Spice mix (see recipe below)</li> <li class="ingredient" itemprop="ingredients">Salt, to taste (I added about a tablespoon)</li> <li class="ingredient" itemprop="ingredients">&frac12; of a small Chinese radish, quartered and thinly sliced</li> <li class="ingredient" itemprop="ingredients">1 lb fresh or dried white noodles (they can really be any thickness, as long as they are wheat-based noodles rather than rice noodles, and have a nice chew when cooked)</li> <li class="ingredient" itemprop="ingredients">Hot chili oil, to taste (see recipe below)</li> <li class="ingredient" itemprop="ingredients">chopped scallion</li> <li class="ingredient" itemprop="ingredients">chopped cilantro</li> </ul> <div class="ERSSectionHead">For the spice mix:</div> <ul> <li class="ingredient" itemprop="ingredients">7 star anise</li> <li class="ingredient" itemprop="ingredients">12 cloves</li> <li class="ingredient" itemprop="ingredients">1 cinnamon stick</li> <li class="ingredient" itemprop="ingredients">5 bay leaves</li> <li class="ingredient" itemprop="ingredients">6 large slices of sand ginger</li> <li class="ingredient" itemprop="ingredients">1&frac12; teaspoons fennel seeds</li> <li class="ingredient" itemprop="ingredients">1 teaspoon cumin seeds</li> <li class="ingredient" itemprop="ingredients">2 teaspoons Sichuan peppercorns</li> <li class="ingredient" itemprop="ingredients">1&frac12; teaspoons white peppercorns</li> <li class="ingredient" itemprop="ingredients">5 licorice root slices (if you can't find these, you can leave them out)</li> <li class="ingredient" itemprop="ingredients">3 pieces dried orange peel</li> <li class="ingredient" itemprop="ingredients">1 black cardamom</li> </ul> <div class="ERSSectionHead">For the hot chili oil:</div> <ul> <li class="ingredient" itemprop="ingredients">&frac34; cup oil</li> <li class="ingredient" itemprop="ingredients">2 star anise</li> <li class="ingredient" itemprop="ingredients">&frac12; of a small cinnamon stick</li> <li class="ingredient" itemprop="ingredients">½ teaspoon Sichuan peppercorns</li> <li class="ingredient" itemprop="ingredients">3 tablespoons crushed red pepper flakes (just the regular kind you'd sprinkle on your pizza)</li> <li class="ingredient" itemprop="ingredients">1 teaspoon salt</li> <li class="ingredient" itemprop="ingredients">&frac14; teaspoon sugar</li> </ul> <div class="ERSClear"></div> </div> <div class="ERSInstructions"> <div class="ERSInstructionsHeader ERSHeading">Instructions</div> <ol> <li class="instruction" itemprop="recipeInstructions">Rinse the soup bones and pat dry. Roast them on a baking sheet at 400 degrees for 45 minutes. Bring a large pot of water to a boil, and add the beef shank and the chicken (or chicken carcass) to the pot. Bring everything to a boil again. Once boiling, remove the shank and the chicken, discard the water, and clean the pot. This process gets rid of any impurities, and will give your broth a cleaner flavor.</li> <li class="instruction" itemprop="recipeInstructions">Put the beef shank and chicken back into the pot along with the roasted bones, 10 more cups of water, and 4 cups chicken stock. Make the spice mix by combining all ingredients and tying them tightly in cheese cloth with a bit of kitchen string. Add this to the pot as well and season with salt. Bring everything to a boil.</li> <li class="instruction" itemprop="recipeInstructions">Once boiling, turn down the heat to low and let everything simmer for about 2 hours. After 2 hours have elapsed, remove the beef shank and set aside. Add the sliced radish and continue simmering for another hour. After that, use tongs to pick out and discard the spice pouch, chicken, and soup bones. Taste the broth for salt and adjust the seasoning if needed. The soup base is ready.</li> <li class="instruction" itemprop="recipeInstructions">While all that is happening, you can take the time to make your chili oil. In a small pot, add the oil, star anise, cinnamon, and Sichuan peppercorns. Place the pot over very low heat and let everything toast together slowly for 15 minutes. Take care not to burn the spices. Use a slotted spoon to remove the spices, and turn off the heat. Let the oil cool for about 5 minutes, and then add the chili flakes. Slowly toast these in the hot oil until very fragrant (it should almost smell like popcorn), and very red. Stir in the salt and sugar.</li> <li class="instruction" itemprop="recipeInstructions">Once the broth and chili oil are done, cook the noodles in a separate pot according to the package instructions. Divide the noodles among 6 bowls. Slice the cooled beef shank into thin slices, and fan them out over the noodles. To finish, add a big ladle of broth and radishes, a spoonful of hot chili oil, and a handful each (don't be shy) of chopped scallion and cilantro.</li> </ol> <div class="ERSClear"></div> </div> <div class="endeasyrecipe" title="style002" style="display: none">3.5.3217</div> </div><br/>
+ </p>
+<h3>YOU MIGHT ALSO LIKE:</h3><div style="clear: both"></div><div style="border: 0pt none ; margin: 0pt; padding: 0pt;"><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#ffffff'" style="background-color: #FFFFFF; border-right: 1px solid #ffffff; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://thewoksoflife.com/2013/06/tea-eggs/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 200px; height: 275px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://thewoksoflife.com/wp-content/uploads/2013/06/tea-eggs-street-market-200x200.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 200px; height: 200px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Tea Eggs</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#ffffff'" style="background-color: #FFFFFF; border-right: 1px solid #ffffff; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://thewoksoflife.com/2013/10/cantonese-steamed-fish/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 200px; height: 275px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://thewoksoflife.com/wp-content/uploads/2013/09/DSC_0907-200x200.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 200px; height: 200px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Cantonese Steamed Fish</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#ffffff'" style="background-color: #FFFFFF; border-right: 1px solid #ffffff; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://thewoksoflife.com/2016/01/chicken-adobo/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 200px; height: 275px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://thewoksoflife.com/wp-content/uploads/2015/12/chicken-adobo-10-200x200.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 200px; height: 200px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Chicken Adobo</div></div></a></div><div style="clear: both"></div><div class="share-after share-outlined share-small" id="share-after-6859"><div class="facebook" id="facebook-after-6859" data-url="http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/" data-urlalt="http://thewoksoflife.com/?p=6859" data-text="Lanzhou Beef Noodle Soup" data-title="Share"></div><div class="twitter" id="twitter-after-6859" data-url="http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/" data-urlalt="http://thewoksoflife.com/?p=6859" data-text="Lanzhou Beef Noodle Soup" data-title="Tweet"></div><div class="pinterest" id="pinterest-after-6859" data-url="http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/" data-urlalt="http://thewoksoflife.com/?p=6859" data-text="Lanzhou Beef Noodle Soup" data-title="Pin"></div><div class="googlePlus" id="googleplus-after-6859" data-url="http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/" data-urlalt="http://thewoksoflife.com/?p=6859" data-text="Lanzhou Beef Noodle Soup" data-title="Share"></div><div class="stumbleupon" id="stumbleupon-after-6859" data-url="http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/" data-urlalt="http://thewoksoflife.com/?p=6859" data-text="Lanzhou Beef Noodle Soup" data-title="Share"></div></div>
+<script type='text/javascript'>
+				jQuery(document).ready(function($) {
+					$('#facebook-after-6859').sharrre({
+										  share: {
+										    facebook: true
+										  },
+										  urlCurl: 'http://thewoksoflife.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('facebook');
+										  }
+										});
+$('#twitter-after-6859').sharrre({
+										  share: {
+										    twitter: true
+										  },
+										  urlCurl: 'http://thewoksoflife.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('twitter');
+										  }
+										});
+$('#pinterest-after-6859').sharrre({
+										  share: {
+										    pinterest: true
+										  },
+										  urlCurl: 'http://thewoksoflife.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  pinterest: { media: 'http://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-6.jpg', description: 'Lanzhou Beef Noodle Soup' } },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('pinterest');
+										  }
+										});
+$('#googleplus-after-6859').sharrre({
+										  share: {
+										    googlePlus: true
+										  },
+										  urlCurl: 'http://thewoksoflife.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('googlePlus');
+										  }
+										});
+$('#stumbleupon-after-6859').sharrre({
+										  share: {
+										    stumbleupon: true
+										  },
+										  urlCurl: 'http://thewoksoflife.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('stumbleupon');
+										  }
+										});
+
+				});
+		</script><div class="pin-it-btn-wrapper"><a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fthewoksoflife.com%2F2014%2F10%2Flanzhou-beef-noodle-soup%2F&media=http%3A%2F%2Fthewoksoflife.com%2Fwp-content%2Fuploads%2F2014%2F10%2Flanzhou-beef-noodle-soup-4.jpg&description=Lanzhou%20Beef%20Noodle%20Soup%2C%20by%20thewoksoflife.com" data-pin-do="buttonBookmark" data-pin-config="beside" data-pin-color="gray" rel="nobox"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" title="Pin It" data-pib-button="true"/></a></div> 
+</div><footer class="entry-footer"><p class="entry-meta"><span class="entry-categories">Filed Under: <a href="http://thewoksoflife.com/category/recipes/beef-recipes/" rel="category tag">Beef</a>, <a href="http://thewoksoflife.com/category/recipes/" rel="category tag">Recipes</a>, <a href="http://thewoksoflife.com/category/recipes/rice-and-noodles-recipes/" rel="category tag">Rice, Noodles &amp; Pasta</a>, <a href="http://thewoksoflife.com/category/recipes/soups-and-stocks/" rel="category tag">Soups and Stocks</a></span></p></footer></article> <div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/10/lanzhou-beef-noodle-soup/#respond" style="display:none;">Cancel reply</a></small></h3> <form action="http://thewoksoflife.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required'/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required'/></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200"/></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment"/> <input type='hidden' name='comment_post_ID' value='6859' id='comment_post_ID'/>
+<input type='hidden' name='comment_parent' id='comment_parent' value='0'/>
+</p><span class="ERComment">
+<span style="float:left">Rate this recipe: </span>
+<span class="ERRateBG">
+<span class="ERRateStars"></span>
+</span>
+<input type="hidden" class="inpERRating" name="ERRating" value="0"/>
+&nbsp;
+</span><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="2c7156a68f"/></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="66"/></p> </form>
+</div> 
+<div class="entry-comments" id="comments"><h3>133 Comments</h3><ol class="comment-list">
+<li class="comment even thread-even depth-1" id="comment-72666">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<img alt='' src='http://2.gravatar.com/avatar/22823da166de912c2281b40181e04650?s=96&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/22823da166de912c2281b40181e04650?s=192&amp;d=mm&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96'/><span itemprop="name">Hlady</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-06-22T15:50:16+00:00" itemprop="datePublished"><a href="http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/comment-page-2/#comment-72666" class="comment-time-link" itemprop="url">June 22, 2016 at 3:50 PM</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>This looks like the soup I get at a local Chinese/Szechuan take-out place near us. They only make it on Friday and Saturday. I must try to make it myself!</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/?replytocom=72666#respond' onclick='return addComment.moveForm( "comment-72666", "72666", "respond", "6859" )' aria-label='Reply to Hlady'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-jleung bypostauthor odd alt depth-2" id="comment-72733">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<img alt='' src='http://1.gravatar.com/avatar/19b7927d4f9a656651e24583797038da?s=96&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/19b7927d4f9a656651e24583797038da?s=192&amp;d=mm&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96'/><span itemprop="name"><a href="http://thewoksoflife.com" class="comment-author-link" rel="external nofollow" itemprop="url">Judy</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-06-23T14:28:36+00:00" itemprop="datePublished"><a href="http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/comment-page-2/#comment-72733" class="comment-time-link" itemprop="url">June 23, 2016 at 2:28 PM</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Absolutely! It&#8217;s easy enough.</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/?replytocom=72733#respond' onclick='return addComment.moveForm( "comment-72733", "72733", "respond", "6859" )' aria-label='Reply to Judy'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+<li class="comment even thread-odd thread-alt depth-1" id="comment-71632">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<img alt='' src='http://2.gravatar.com/avatar/28661db8b23547491e26032e6656a208?s=96&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/28661db8b23547491e26032e6656a208?s=192&amp;d=mm&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96'/><span itemprop="name">Alan D</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-06-04T22:54:08+00:00" itemprop="datePublished"><a href="http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/comment-page-2/#comment-71632" class="comment-time-link" itemprop="url">June 4, 2016 at 10:54 PM</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Hi, Judy &#8211; Thanks for posting this recipe! I was in Beijing for a few weeks, and as I was walking through the streets of the city, I would frequently catch an absolutely wonderful smell as I passed by the dozens of restaurants on every street. I had no idea what it was.</p>
+<p>It wasn&#8217;t until a few days later at my hotel that I had a beef broth noodle soup, and I found out the source of the wonderful fragrance.</p>
+<p>I never found out what that beef soup at the hotel was, though. Is Lanzhou Beef Noodle Soup the likely candidate? I have been trying to find a recipe for what I enjoyed (and frequently caught a whiff of) as I travelled around Beijing.</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/?replytocom=71632#respond' onclick='return addComment.moveForm( "comment-71632", "71632", "respond", "6859" )' aria-label='Reply to Alan D'>Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-jleung bypostauthor odd alt depth-2" id="comment-72412">
+<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+<header class="comment-header">
+<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<img alt='' src='http://1.gravatar.com/avatar/19b7927d4f9a656651e24583797038da?s=96&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/19b7927d4f9a656651e24583797038da?s=192&amp;d=mm&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96'/><span itemprop="name"><a href="http://thewoksoflife.com" class="comment-author-link" rel="external nofollow" itemprop="url">Judy</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2016-06-18T00:18:54+00:00" itemprop="datePublished"><a href="http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/comment-page-2/#comment-72412" class="comment-time-link" itemprop="url">June 18, 2016 at 12:18 AM</a></time></p> </header>
+<div class="comment-content" itemprop="text">
+<p>Hi Alan, it&#8217;s VERY possible. There is a chain of authentic Lanzhou Beef Noodle Soup restaurants in Beijing (that I could not find in Shanghai) which I absolutely love. Give this recipe a try, hope it will help to bring back those wonderful memories :-)</p>
+</div>
+<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/?replytocom=72412#respond' onclick='return addComment.moveForm( "comment-72412", "72412", "respond", "6859" )' aria-label='Reply to Judy'>Reply</a></div>
+</article>
+</li> 
+</ul> 
+</li> 
+</ol><div class="comments-pagination pagination"><div class="pagination-previous alignleft"><a href="http://thewoksoflife.com/2014/10/lanzhou-beef-noodle-soup/comment-page-1/#comments">« Click to see older comments</a></div><div class="pagination-next alignright"></div></div></div></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="http://schema.org/WPSideBar"><section id="text-15" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Welcome!</h4>
+<div class="textwidget"><p><img src="http://thewoksoflife.com/wp-content/uploads/2014/06/twol-icon.jpeg" nopin="nopin" width="150" height="150" class="alignleft">Hi, we're Bill, Judy, Sarah, and Kaitlin. We're a family of four bloggers, sharing our kitchen exploits & travels w/ each other here! <a href="http://thewoksoflife.com/about/">Find out more</a>.</p>
+</div>
+</div></section>
+<section id="mc4wp_form_widget-2" class="widget widget_mc4wp_form_widget"><div class="widget-wrap"><script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script> <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-12107 mc4wp-form-basic" method="post" data-id="12107" data-name="Default sign-up form"><div class="mc4wp-form-fields"><div class="signup-sidebar">
+<h4 class="widget-title">
+Sign Up For Email Updates
+</h4>
+<p>
+<input type="email" id="mc4wp_email" name="EMAIL" placeholder="Your email address" required /><input type="submit" value="GO"/>
+</p>
+</div><div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"/></div><input type="hidden" name="_mc4wp_timestamp" value="1485460439"/><input type="hidden" name="_mc4wp_form_id" value="12107"/><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"/></div><div class="mc4wp-response"></div></form> </div></section>
+<section id="simple-social-icons-2" class="widget simple-social-icons"><div class="widget-wrap"><h4 class="widget-title widgettitle">Follow Us:</h4>
+<ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/thewoksoflife?ref=hl" target="_blank"><svg role="img" class="social-facebook" aria-labelledby="social-facebook"><title id="social-facebook">Facebook</title><use xlink:href="http://thewoksoflife.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-gplus"><a href="http://google.com/+Thewoksoflife1" target="_blank"><svg role="img" class="social-gplus" aria-labelledby="social-gplus"><title id="social-gplus">Google+</title><use xlink:href="http://thewoksoflife.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-gplus"></use></svg></a></li><li class="ssi-instagram"><a href="http://instagram.com/thewoksoflife" target="_blank"><svg role="img" class="social-instagram" aria-labelledby="social-instagram"><title id="social-instagram">Instagram</title><use xlink:href="http://thewoksoflife.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="http://www.pinterest.com/thewoksoflife1/" target="_blank"><svg role="img" class="social-pinterest" aria-labelledby="social-pinterest"><title id="social-pinterest">Pinterest</title><use xlink:href="http://thewoksoflife.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/thewoksoflife" target="_blank"><svg role="img" class="social-twitter" aria-labelledby="social-twitter"><title id="social-twitter">Twitter</title><use xlink:href="http://thewoksoflife.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li></ul></div></section>
+<section id="text-79" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Learn about Essential Chinese Cooking Tools for your Kitchen</h4>
+<div class="textwidget"><a href="http://thewoksoflife.com/how-to/chinese-cooking-tools/" target="_blank"><img src="http://thewoksoflife.com/wp-content/uploads/2015/11/Chinese-cooking-tools-300sq.jpg" nopin="nopin" width="300" height="300"/></a></div>
+</div></section>
+<section id="text-86" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Secret Sauce for Chinese BBQ Pork Spare Ribs</h4>
+<div class="textwidget"><a href="http://thewoksoflife.com/2013/11/take-style-chinese-roasted-ribs/" target="_blank"><img src="http://thewoksoflife.com/wp-content/uploads/2015/11/Chinese-BBQ-Pork-spare-ribs.jpg" nopin="nopin" width="300" height="300"/></a></div>
+</div></section>
+<section id="text-80" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Stir-Fried Bok Choy Recipe</h4>
+<div class="textwidget"><a href="http://thewoksoflife.com/2015/12/stir-fried-bok-choy-recipe/" target="_blank"><img src="http://thewoksoflife.com/wp-content/uploads/2016/01/bok-choy-stir-fry-300sq.jpg" nopin="nopin" width="300" height="300"/></a></div>
+</div></section>
+<section id="text-83" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Authentic Vietnamese Pho</h4>
+<div class="textwidget"><a href="http://thewoksoflife.com/2015/03/pho-vietnamese-noodle-soup/" target="_blank"><img src="http://thewoksoflife.com/wp-content/uploads/2015/11/pho-recipe-300sq.jpg" nopin="nopin" width="300" height="300"/></a></div>
+</div></section>
+<section id="text-90" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Har Gow (Dim Sum Shrimp Dumplings)</h4>
+<div class="textwidget"><a href="http://thewoksoflife.com/2015/10/har-gow/" target="_blank"><img src="http://thewoksoflife.com/wp-content/uploads/2015/11/Shrimp-dumpling-har-gow-300sq.jpg" nopin="nopin" width="300" height="300"/></a></div>
+</div></section>
+<section id="text-93" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Egg Drop Soup</h4>
+<div class="textwidget"><a href="http://thewoksoflife.com/2015/11/egg-drop-soup/" target="_blank"><img src="http://thewoksoflife.com/wp-content/uploads/2016/01/egg-drop-soup.jpg" nopin="nopin" width="300" height="300"/></a></div>
+</div></section>
+<section id="text-81" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Learn About Chinese Ingredients in our Handy Glossary </h4>
+<div class="textwidget"><a href="http://thewoksoflife.com/chinese-ingredients-glossary/" target="_blank"><img src="http://thewoksoflife.com/wp-content/uploads/2015/11/Chinese-ingredients-glossary-300sq.jpg" nopin="nopin" width="300" height="300"/></a></div>
+</div></section>
+<section id="text-84" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Simple Wonton Soup</h4>
+<div class="textwidget"><a href="http://thewoksoflife.com/2013/12/simple-wonton-soup-2/" target="_blank"><img src="http://thewoksoflife.com/wp-content/uploads/2015/11/simple-wonton-soup-300sq.jpg" nopin="nopin" width="300" height="296"/></a></div>
+</div></section>
+<section id="text-85" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Healthy Sesame Chicken</h4>
+<div class="textwidget"><a href="http://thewoksoflife.com/2015/10/sesame-chicken/" target="_blank"><img src="http://thewoksoflife.com/wp-content/uploads/2015/11/healthy-sesame-chicken-300sq.jpg" nopin="nopin" width="300" height="300"/></a></div>
+</div></section>
+<section id="text-88" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Ultimate Chinese Vegetable Dumplings</h4>
+<div class="textwidget"><a href="http://thewoksoflife.com/2015/09/vegetable-dumplings/" target="_blank"><img src="http://thewoksoflife.com/wp-content/uploads/2015/11/Chinese-vegetable-dumplings-300sq.jpg" nopin="nopin" width="300" height="300"/></a></div>
+</div></section>
+<section id="text-91" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Cumin Lamb Stir-fry</h4>
+<div class="textwidget"><a href="http://thewoksoflife.com/2015/09/cumin-lamb/" target="_blank"><img src="http://thewoksoflife.com/wp-content/uploads/2015/11/cumin-lamb-300sq.jpg" nopin="nopin" width="300" height="300"/></a></div>
+</div></section>
+<section id="text-87" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Spicy Meatball Banh Mi</h4>
+<div class="textwidget"><a href="http://thewoksoflife.com/2015/04/spicy-meatball-banh-mi/" target="_blank"><img src="http://thewoksoflife.com/wp-content/uploads/2015/11/meatball-banh-mi-300sq.jpg" nopin="nopin" width="300" height="300"/></a></div>
+</div></section>
+<section id="text-94" class="widget widget_text"><div class="widget-wrap"> <div class="textwidget"><a href="//www.bluehost.com/track/thewoksoflife/" target="_blank">
+<img border="0" src="//bluehost-cdn.com/media/partner/images/thewoksoflife/300x250/bh-ppc-banners-dynamic-300x250.png">
+</a></div>
+</div></section>
+<section id="text-89" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Grilled Soy Butter RIbeye Steak</h4>
+<div class="textwidget"><a href="http://thewoksoflife.com/2015/07/grilled-ribeye-soy-butter-glaze/" target="_blank"><img src="http://thewoksoflife.com/wp-content/uploads/2015/11/soy-butter-steak-300sq.jpg" nopin="nopin" width="300" height="300"/></a></div>
+</div></section>
+<section id="archives-5" class="widget widget_archive"><div class="widget-wrap"><h4 class="widget-title widgettitle">Archives </h4>
+<label class="screen-reader-text" for="archives-dropdown-5">Archives </label>
+<select id="archives-dropdown-5" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+<option value="">Select Month</option>
+<option value='http://thewoksoflife.com/2017/01/'> January 2017 </option>
+<option value='http://thewoksoflife.com/2016/12/'> December 2016 </option>
+<option value='http://thewoksoflife.com/2016/11/'> November 2016 </option>
+<option value='http://thewoksoflife.com/2016/10/'> October 2016 </option>
+<option value='http://thewoksoflife.com/2016/09/'> September 2016 </option>
+<option value='http://thewoksoflife.com/2016/08/'> August 2016 </option>
+<option value='http://thewoksoflife.com/2016/07/'> July 2016 </option>
+<option value='http://thewoksoflife.com/2016/06/'> June 2016 </option>
+<option value='http://thewoksoflife.com/2016/05/'> May 2016 </option>
+<option value='http://thewoksoflife.com/2016/04/'> April 2016 </option>
+<option value='http://thewoksoflife.com/2016/03/'> March 2016 </option>
+<option value='http://thewoksoflife.com/2016/02/'> February 2016 </option>
+<option value='http://thewoksoflife.com/2016/01/'> January 2016 </option>
+<option value='http://thewoksoflife.com/2015/12/'> December 2015 </option>
+<option value='http://thewoksoflife.com/2015/11/'> November 2015 </option>
+<option value='http://thewoksoflife.com/2015/10/'> October 2015 </option>
+<option value='http://thewoksoflife.com/2015/09/'> September 2015 </option>
+<option value='http://thewoksoflife.com/2015/08/'> August 2015 </option>
+<option value='http://thewoksoflife.com/2015/07/'> July 2015 </option>
+<option value='http://thewoksoflife.com/2015/06/'> June 2015 </option>
+<option value='http://thewoksoflife.com/2015/05/'> May 2015 </option>
+<option value='http://thewoksoflife.com/2015/04/'> April 2015 </option>
+<option value='http://thewoksoflife.com/2015/03/'> March 2015 </option>
+<option value='http://thewoksoflife.com/2015/02/'> February 2015 </option>
+<option value='http://thewoksoflife.com/2015/01/'> January 2015 </option>
+<option value='http://thewoksoflife.com/2014/12/'> December 2014 </option>
+<option value='http://thewoksoflife.com/2014/11/'> November 2014 </option>
+<option value='http://thewoksoflife.com/2014/10/'> October 2014 </option>
+<option value='http://thewoksoflife.com/2014/09/'> September 2014 </option>
+<option value='http://thewoksoflife.com/2014/08/'> August 2014 </option>
+<option value='http://thewoksoflife.com/2014/07/'> July 2014 </option>
+<option value='http://thewoksoflife.com/2014/06/'> June 2014 </option>
+<option value='http://thewoksoflife.com/2014/05/'> May 2014 </option>
+<option value='http://thewoksoflife.com/2014/04/'> April 2014 </option>
+<option value='http://thewoksoflife.com/2014/03/'> March 2014 </option>
+<option value='http://thewoksoflife.com/2014/02/'> February 2014 </option>
+<option value='http://thewoksoflife.com/2014/01/'> January 2014 </option>
+<option value='http://thewoksoflife.com/2013/12/'> December 2013 </option>
+<option value='http://thewoksoflife.com/2013/11/'> November 2013 </option>
+<option value='http://thewoksoflife.com/2013/10/'> October 2013 </option>
+<option value='http://thewoksoflife.com/2013/09/'> September 2013 </option>
+<option value='http://thewoksoflife.com/2013/08/'> August 2013 </option>
+<option value='http://thewoksoflife.com/2013/07/'> July 2013 </option>
+<option value='http://thewoksoflife.com/2013/06/'> June 2013 </option>
+</select>
+</div></section>
+<section id="text-77" class="widget widget_text"><div class="widget-wrap"> <div class="textwidget"><a href="http://www.saveur.com/blog-awards-2015-winners?dom=specialinterest&src=2015blogbadge" target="_blank"><img src="http://thewoksoflife.com/wp-content/uploads/2015/06/Sav_EC_Badge.png" nopin="nopin"/></a></div>
+</div></section>
+<section id="text-76" class="widget widget_text"><div class="widget-wrap"> <div class="textwidget"><a href="http://www.saveur.com/blog-awards-2015-winners?dom=specialinterest&src=2015blogbadge" target="_blank"><img src="http://thewoksoflife.com/wp-content/uploads/2015/06/Sav_RC_Badge.png" nopin="nopin"/></a></div>
+</div></section>
+</aside></div></div><footer class="site-footer" itemscope itemtype="http://schema.org/WPFooter"><div class="wrap"><p>The Woks of Life LLC &#x000A9;&nbsp;2017 | <a href="http://thewoksoflife.com/privacy-policy">Privacy Policy</a></p></div></footer></div><div class="after-footer"><div class="wrap"><section id="text-66" class="widget widget_text"><div class="widget-wrap"> <div class="textwidget"><a href="http://www.lifestylecollective.com/"><img src="http://o.aolcdn.com/os/style_me_pretty/lifestylecollective/footerlogo_black"></a>
+</div>
+</div></section>
+</div></div> 
+<script type="text/javascript">
+  (function addSwoopOnce(domain) {
+    var win = window;
+    try {
+      while (!(win.parent == win || !win.parent.document)) {
+        win = win.parent;
+      }
+    } catch (e) {
+      /* noop */
+    }
+    var doc = win.document;
+    if (!doc.getElementById('swoop_sdk')) {
+      var serverbase = doc.location.protocol + '//ardrone.swoop.com/';
+      var s = doc.createElement('script');
+      s.type = "text/javascript";
+      s.src = serverbase + 'js/spxw.js';
+      s.id = 'swoop_sdk';
+      s.setAttribute('data-domain', domain);
+      s.setAttribute('data-serverbase', serverbase);
+      doc.head.appendChild(s);
+    }
+  })('SW-79167480-44928');
+</script>
+ 
+<script>
+(function($) {
+	$(document).ready(function() {
+		$('#simple-social-icons-2').appendTo('.widget_mc4wp_form_widget .signup-sidebar');
+	});
+
+})(jQuery);	
+</script>
+<script type="text/javascript">
+    /* <![CDATA[ */
+    window.EASYINDEX = window.EASYINDEX || {};
+    EASYINDEX.version = '1.0.1637';
+    EASYINDEX.ajaxUrl = 'http://thewoksoflife.com/wp-admin/admin-ajax.php';
+    EASYINDEX.thumbBase = "http://thewoksoflife.com/wp-content/uploads/easyindex";
+    EASYINDEX.widgetData = '[]';
+    /* ]]> */
+</script><script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><script type='text/javascript' src='http://thewoksoflife.com/wp-content/plugins/akismet/_inc/form.js?ver=3.2'></script>
+<script type='text/javascript' src='//assets.pinterest.com/js/pinit.js'></script>
+<script type='text/javascript' src='http://thewoksoflife.com/wp-includes/js/comment-reply.min.js?ver=4.7.1'></script>
+<script type='text/javascript' src='http://thewoksoflife.com/wp-includes/js/wp-embed.min.js?ver=4.7.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thewoksoflife.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.0.12'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='http://thewoksoflife.com/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.0.12'></script>
+<![endif]-->
+<script type="text/javascript" id="spxw_script" src="http://ardrone.swoop.com/js/spxw.js" data-domain="SW-79167480-44928" data-theme="red" data-serverbase="http://ardrone.swoop.com/"></script></body></html>
+ 

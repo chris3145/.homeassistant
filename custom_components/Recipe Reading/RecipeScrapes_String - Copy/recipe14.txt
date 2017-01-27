@@ -1,0 +1,892 @@
+http://www.thecookierookie.com/skillet-basil-cream-chicken-2/
+
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8"/>
+<title>Skillet Basil Cream Chicken | The Cookie Rookie</title><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<style type="text/css">.slide-excerpt{width:50%;}.slide-excerpt{bottom:0;}.slide-excerpt{right:0;}.flexslider{max-width:680px;max-height:680px;}.slide-image{max-height:680px;}</style>
+<style type="text/css">@media only screen
+			and (min-device-width : 320px)
+			and (max-device-width : 480px) {.slide-excerpt{display:none!important;}}</style>
+ 
+<meta name="description" content="Skillet Basil Cream Chicken! Creamy Basil Cream Sauce and chicken all cooked in one skillet. One pot dish that&#039;s perfect for winter comfort food!"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Skillet Basil Cream Chicken | The Cookie Rookie"/>
+<meta property="og:description" content="Skillet Basil Cream Chicken! Creamy Basil Cream Sauce and chicken all cooked in one skillet. One pot dish that&#039;s perfect for winter comfort food!"/>
+<meta property="og:url" content="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/"/>
+<meta property="og:site_name" content="The Cookie Rookie"/>
+<meta property="article:author" content="cookierookiebec"/>
+<meta property="article:tag" content="basil"/>
+<meta property="article:tag" content="boursin"/>
+<meta property="article:tag" content="cheese"/>
+<meta property="article:tag" content="chicken"/>
+<meta property="article:tag" content="cream"/>
+<meta property="article:tag" content="fry"/>
+<meta property="article:tag" content="herb"/>
+<meta property="article:tag" content="one pan"/>
+<meta property="article:tag" content="one pot"/>
+<meta property="article:tag" content="pimentos"/>
+<meta property="article:tag" content="sauce"/>
+<meta property="article:tag" content="skillet"/>
+<meta property="article:tag" content="tomato"/>
+<meta property="article:tag" content="tomatoes"/>
+<meta property="article:section" content="Easy"/>
+<meta property="article:published_time" content="2014-11-28T06:00:40-06:00"/>
+<meta property="article:modified_time" content="2016-03-12T10:26:23-06:00"/>
+<meta property="og:updated_time" content="2016-03-12T10:26:23-06:00"/>
+<meta property="og:image" content="http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-feature.jpg"/>
+<meta property="og:image:width" content="716"/>
+<meta property="og:image:height" content="716"/>
+ 
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//www.chicoryapp.com'/>
+<link rel='dns-prefetch' href='//cdn2.thecookierookie.com'/>
+<link rel='dns-prefetch' href='//fonts.googleapis.com'/>
+<link rel='dns-prefetch' href='//s.w.org'/>
+<link rel='dns-prefetch' href='//cdn1.thecookierookie.com'/>
+<link rel="alternate" type="application/rss+xml" title="The Cookie Rookie &raquo; Feed" href="http://www.thecookierookie.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="The Cookie Rookie &raquo; Comments Feed" href="http://www.thecookierookie.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="The Cookie Rookie &raquo; Skillet Basil Cream Chicken Comments Feed" href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/feed/"/>
+ 
+<script type='text/javascript' data-cfasync='false'>
+  //<![CDATA[
+    _SHR_SETTINGS = {"endpoints":{"local_recs_url":"http:\/\/www.thecookierookie.com\/wp-admin\/admin-ajax.php?action=shareaholic_permalink_related","share_counts_url":"http:\/\/www.thecookierookie.com\/wp-admin\/admin-ajax.php?action=shareaholic_share_counts_api"}};
+  //]]>
+</script>
+<script type='text/javascript' data-cfasync='false' src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js' data-shr-siteid='5226e95d3e66a54803d381dbf7a99d3a' async='async'>
+</script>
+ 
+<meta name='shareaholic:site_name' content='The Cookie Rookie'/>
+<meta name='shareaholic:language' content='en-US'/>
+<meta name='shareaholic:url' content='http://www.thecookierookie.com/skillet-basil-cream-chicken-2/'/>
+<meta name='shareaholic:keywords' content='basil, boursin, cheese, chicken, cream, fry, herb, one pan, one pot, pimentos, sauce, skillet, tomato, tomatoes, basil cream chicken, easy, favorite recipes, main courses, recipes'/>
+<meta name='shareaholic:article_published_time' content='2014-11-28T12:00:40+00:00'/>
+<meta name='shareaholic:article_modified_time' content='2017-01-25T17:20:20+00:00'/>
+<meta name='shareaholic:shareable_page' content='true'/>
+<meta name='shareaholic:article_author_name' content='Becky Hardin'/>
+<meta name='shareaholic:site_id' content='5226e95d3e66a54803d381dbf7a99d3a'/>
+<meta name='shareaholic:wp_version' content='7.8.0.4'/>
+<meta name='shareaholic:image' content='http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-feature.jpg'/>
+ 
+ 
+<meta property='og:image' content='http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-feature.jpg'/>
+ 
+<link rel='stylesheet' id='foodie-pro-theme-css' href='http://cdn2.thecookierookie.com/wp-content/themes/foodiepro/style.css?ver=2.0.5' type='text/css' media='all'/>
+<style id='foodie-pro-theme-inline-css' type='text/css'>h1.entry-title,.entry-title a,.widgettitle,.recipes-top .widgettitle,.footer-widgets .widgettitle{color:#777777;}a,.entry-meta a,.post-info a,.post-meta a,.site-footer a,.entry-content a{color:#444444;}.enews-widget input[type="submit"]:hover{background:#c4e7ea;}body{font-family:"Raleway","Helvetica Neue",sans-serif;}input,select,textarea,.wp-caption-text,.site-description,.entry-meta,.post-info,.post-meta{font-family:"Droid Serif","Helvetica Neue",sans-serif;}h1,h2,h3,h4,h5,h6,.site-title,.entry-title,.widgettitle{font-family:"Oswald","Helvetica Neue",sans-serif;}</style>
+<link rel='stylesheet' id='advanced-responsive-video-embedder-css' href='http://cdn2.thecookierookie.com/wp-content/plugins/advanced-responsive-video-embedder/public/arve-public.css?ver=8.0.2' type='text/css' media='all'/>
+<link rel='stylesheet' id='et-gf-open-sans-css' href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' type='text/css' media='all'/>
+<link rel='stylesheet' id='et_bloom-css-css' href='http://cdn2.thecookierookie.com/wp-content/plugins/bloom/css/style.css?ver=1.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='jpibfi-style-css' href='http://cdn2.thecookierookie.com/wp-content/plugins/jquery-pin-it-button-for-images/css/client.css?ver=2.2.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='lato-css' href='http://fonts.googleapis.com/css?family=Lato%3A400%2C700%2C300italic%2C300%2C100&#038;ver=4.7.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='mpprecipe-common-css' href='http://cdn2.thecookierookie.com/wp-content/plugins/meal-planner-pro/mpprecipe-common.css?ver=4.7.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='mpprecipe-custom-css' href='http://cdn2.thecookierookie.com/wp-content/plugins/meal-planner-pro/mpprecipe-design14.css?ver=4.7.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='google-fonts-css' href='http://fonts.googleapis.com/css?family=Raleway%3Aregular%2C700%2C200%2C300%2C900%7CDroid+Serif%3Aregular%2Citalic%2C700%7COswald%3Aregular%2C700%2C300%26subset%3Dlatin%2C&#038;ver=2.0.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='tabber_widget-tabber-widget-basic-light-css' href='http://cdn2.thecookierookie.com/wp-content/plugins/tabber-widget/templates/basic-light.css?ver=4.7.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='simple-social-icons-font-css' href='http://cdn2.thecookierookie.com/wp-content/plugins/simple-social-icons/css/style.css?ver=2.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='jetpack_css-css' href='http://cdn2.thecookierookie.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='slider_styles-css' href='http://cdn2.thecookierookie.com/wp-content/plugins/genesis-responsive-slider/style.css?ver=0.9.5' type='text/css' media='all'/>
+<script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jpibfi_options = {"hover":{"siteTitle":"The Cookie Rookie","image_selector":".jpibfi_container img","disabled_classes":"nopin;wp-smiley","enabled_classes":"","min_image_height":310,"min_image_height_small":310,"min_image_width":310,"min_image_width_small":310,"show_on":"[front],[single],[home]","disable_on":"","show_button":"hover","button_margin_bottom":20,"button_margin_top":20,"button_margin_left":20,"button_margin_right":20,"button_position":"top-right","description_option":["img_alt"],"pinLinkedImages":false,"transparency_value":0.2,"pin_image":"old_default","pin_image_button":"square","pin_image_icon":"circle","pin_image_size":"normal","custom_image_url":"","pinImageWidth":65,"pinImageHeight":41}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-content/plugins/jquery-pin-it-button-for-images/js/jpibfi.client.js?ver=2.2.1'></script>
+<script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-content/plugins/meal-planner-pro/mpprecipe_print.js?ver=4.7.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-content/plugins/simple-social-icons/svgxuse.js?ver=1.1.21'></script>
+<script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-content/plugins/tabber-widget/js/jquery.idTabs.min.js?ver=4.7.1'></script>
+<link rel='https://api.w.org/' href='http://www.thecookierookie.com/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.thecookierookie.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thecookierookie.com/wp-includes/wlwmanifest.xml"/>
+<meta name="generator" content="WordPress 4.7.1"/>
+<link rel='shortlink' href='http://www.thecookierookie.com/?p=7297'/>
+<link rel="alternate" type="application/json+oembed" href="http://www.thecookierookie.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.thecookierookie.com%2Fskillet-basil-cream-chicken-2%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="http://www.thecookierookie.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.thecookierookie.com%2Fskillet-basil-cream-chicken-2%2F&#038;format=xml"/>
+<style type="text/css" id="et-bloom-custom-css">.et_bloom .et_bloom_optin_0 .et_bloom_form_content{background-color:#c4e7ea!important;}.et_bloom .et_bloom_optin_0 .zigzag_edge .et_bloom_form_content:before{background:linear-gradient(45deg,transparent 33.33%,#c4e7ea 33.333%,#c4e7ea 66.66%,transparent 66.66%),linear-gradient(-45deg,transparent 33.33%,#c4e7ea 33.33%,#c4e7ea 66.66%,transparent 66.66%)!important;background-size:20px 40px!important;}.et_bloom .et_bloom_optin_0 .zigzag_edge.et_bloom_form_right .et_bloom_form_content:before,.et_bloom .et_bloom_optin_0 .zigzag_edge.et_bloom_form_left .et_bloom_form_content:before{background-size:40px 20px!important;}@media only screen and ( max-width: 767px ) {.et_bloom .et_bloom_optin_0 .zigzag_edge.et_bloom_form_right .et_bloom_form_content:before,.et_bloom .et_bloom_optin_0 .zigzag_edge.et_bloom_form_left .et_bloom_form_content:before{background:linear-gradient(45deg,transparent 33.33%,#c4e7ea 33.333%,#c4e7ea 66.66%,transparent 66.66%),linear-gradient(-45deg,transparent 33.33%,#c4e7ea 33.33%,#c4e7ea 66.66%,transparent 66.66%)!important;background-size:20px 40px!important;}}.et_bloom .et_bloom_optin_0 .et_bloom_form_container .et_bloom_form_header{background-color:#ffffff!important;}.et_bloom .et_bloom_optin_0 .et_bloom_form_content button{background-color:#b1dbdb!important;}.et_bloom .et_bloom_optin_0 .et_bloom_border_letter{background:repeating-linear-gradient(135deg,#bae3e6,#bae3e6 10px,#fff 10px,#fff 20px,#f84d3b 20px,#f84d3b 30px,#fff 30px,#fff 40px)!important;}.et_bloom .et_bloom_optin_0 .et_bloom_form_content button{background-color:#b1dbdb!important;}.et_bloom .et_bloom_optin_0 h2,.et_bloom .et_bloom_optin_0 h2 span,.et_bloom .et_bloom_optin_0 h2 strong{font-family:"Open Sans",Helvetica,Arial,Lucida,sans-serif;}.et_bloom .et_bloom_optin_0 p,.et_bloom .et_bloom_optin_0 p span,.et_bloom .et_bloom_optin_0 p strong,.et_bloom .et_bloom_optin_0 form input,.et_bloom .et_bloom_optin_0 form button span{font-family:"Open Sans",Helvetica,Arial,Lucida,sans-serif;}</style> <style type="text/css">a.pinit-button.custom{}a.pinit-button.custom span{}img.pinit-hover{opacity:0.8!important;filter:alpha(opacity=80)!important;}</style>
+<style>.myrecipe-button,.mylist-button,.mycal-button,.save-button,.nut-circle{background-color:#!important;}.butn-link{border-color:#!important;}.butn-link,#mpprecipe-summary{color:#!important;}.myrecipe-button:hover,.mylist-button:hover,.mycal-button:hover,.save-button:hover{background-color:#!important;}.butn-link:hover{color:#!important;border-color:#!important;}.mpprecipe-container-border a{color:#!important;}.mpprecipe .h-4,#mpprecipe-title{color:#!important;}</style> <script type="text/javascript">
+	window._zem_rp_post_id = '7297';
+	window._zem_rp_thumbnails = true;
+	window._zem_rp_post_title = 'Skillet+Basil+Cream+Chicken';
+	window._zem_rp_post_tags = ['basil', 'tomatoes', 'one+pan', 'boursin', 'one+pot', 'cheese', 'pimentos', 'chicken', 'sauce', 'cream', 'skillet', 'fry', 'tomato', 'herb', 'easy', 'favorite+recipes', 'main+courses', 'recipes', 'food', 'creativ', 'cook', 'cream', 'cooki', 'chicken', 'birthdai', 'basil', 'outlet', 'alton', 'blogger', 'skillet', 'recip', 'love', 'pot'];
+	window._zem_rp_static_base_url = 'https://content.zemanta.com/static/';
+	window._zem_rp_wp_ajax_url = 'http://www.thecookierookie.com/wp-admin/admin-ajax.php';
+	window._zem_rp_plugin_version = '1.14';
+	window._zem_rp_num_rel_posts = '8';
+</script>
+<link rel="stylesheet" href="http://www.thecookierookie.com/wp-content/plugins/related-posts-by-zemanta/static/themes/vertical.css?version=1.14"/>
+<style type="text/css">#author-bio-box{float:left;width:632px;background:#;border:1px solid #bbb;box-shadow:5px 5px 2px #888;padding:5px;}#author-bio-box img{float:left;margin-right:10px;margin-bottom:2px;}#author-bio-box .author-name{font-weight:bold;margin:0px;font-size:14px;}#author-bio-box p{font-size:12px;line-height:14px;}#author-bio-box thead th{border:0;}#author-bio-box tbody{border:0;}.bio-spacer{min-height:44px;padding:1px;display:block;clear:both;border:1px;}.bio-socials{border-top:solid 1px;border-bottom:none;border-left:none;border-right:none;width:628px;height:32px;clear:both;}</style><link rel="icon" href="http://www.thecookierookie.com/wp-content/uploads/2014/06/favicon.ico"/>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44665479-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+<script data-cfasync="false" src="//cdn.grateful.io/ads/1000083.js"></script>
+ 
+<script type="text/javascript">
+  (function addSwoopOnce(domain) {
+    var win = window;
+    try {
+      while (!(win.parent == win || !win.parent.document)) {
+        win = win.parent;
+      }
+    } catch (e) {
+      /* noop */
+    }
+    var doc = win.document;
+    if (!doc.getElementById('swoop_sdk')) {
+      var serverbase = doc.location.protocol + '//ardrone.swoop.com/';
+      var s = doc.createElement('script');
+      s.type = "text/javascript";
+      s.src = serverbase + 'js/spxw.js';
+      s.id = 'swoop_sdk';
+      s.setAttribute('data-domain', domain);
+      s.setAttribute('data-serverbase', serverbase);
+      doc.head.appendChild(s);
+    }
+  })('SW-20795156-42949');
+</script>
+ <style type="text/css">.site-header{background:url(http://cdn2.thecookierookie.com/wp-content/uploads/2014/12/logo2.png) no-repeat!important;}</style>
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<meta name="apple-mobile-web-app-title" content="The Cookie Rookie">
+<link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#83b0d1">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="application-name" content="The Cookie Rookie"><style type="text/css" media="screen">.simple-social-icons ul li a,.simple-social-icons ul li a:hover,.simple-social-icons ul li a:focus{background-color:#f1f1f2!important;border-radius:3px;color:#ffffff!important;border:0px #ffffff solid!important;font-size:15px;padding:8px;}.simple-social-icons ul li a:hover,.simple-social-icons ul li a:focus{background-color:#f1f1f2!important;border-color:#ffffff!important;color:#ffffff!important;}.simple-social-icons ul li a:focus{outline:1px dotted #f1f1f2!important;}</style><style type="text/css" id="custom-background-css">body.custom-background{background-image:url("http://cdn2.thecookierookie.com/wp-content/uploads/2014/12/bg.jpg");background-position:left top;background-size:auto;background-repeat:repeat;background-attachment:fixed;}</style>
+<script data-no-minify="1" data-cfasync="false">(function(w,d){function a(){var b=d.createElement("script");b.async=!0;b.src="http://cdn2.thecookierookie.com/wp-content/plugins/wp-rocket/inc/front/js/lazyload.1.0.5.min.js";var a=d.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)}w.attachEvent?w.attachEvent("onload",a):w.addEventListener("load",a,!1)})(window,document);</script></head>
+<body class="post-template-default single single-post postid-7297 single-format-standard custom-background et_bloom custom-header header-image content-sidebar foodie-pro" itemscope itemtype="http://schema.org/WebPage"><div class="site-container"><header class="site-header" itemscope itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://www.thecookierookie.com/">The Cookie Rookie</a></p><p class="site-description" itemprop="description">Easy Recipes anyone can make, that everyone will love!</p></div><div class="widget-area header-widget-area"><section id="simple-social-icons-5" class="widget-1 widget-first widget-odd widget simple-social-icons"><div class="widget-1 widget-first widget-odd widget-wrap"><ul class="alignright"><li class="ssi-bloglovin"><a href="https://www.bloglovin.com/blogs/cookie-rookie-11390941" target="_blank"><svg role="img" class="social-bloglovin" aria-labelledby="social-bloglovin"><title id="social-bloglovin">Bloglovin</title><use xlink:href="http://www.thecookierookie.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-bloglovin"></use></svg></a></li><li class="ssi-facebook"><a href="http://www.facebook.com/cookierookiebec" target="_blank"><svg role="img" class="social-facebook" aria-labelledby="social-facebook"><title id="social-facebook">Facebook</title><use xlink:href="http://www.thecookierookie.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="http://www.instagram.com/thecookierookie" target="_blank"><svg role="img" class="social-instagram" aria-labelledby="social-instagram"><title id="social-instagram">Instagram</title><use xlink:href="http://www.thecookierookie.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="http://www.pinterest.com/beckygallhardin" target="_blank"><svg role="img" class="social-pinterest" aria-labelledby="social-pinterest"><title id="social-pinterest">Pinterest</title><use xlink:href="http://www.thecookierookie.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-stumbleupon"><a href="http://www.stumbleupon.com/stumbler/thecookierookie" target="_blank"><svg role="img" class="social-stumbleupon" aria-labelledby="social-stumbleupon"><title id="social-stumbleupon">StumbleUpon</title><use xlink:href="http://www.thecookierookie.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-stumbleupon"></use></svg></a></li><li class="ssi-twitter"><a href="http://www.twitter.com/cookierookiebec" target="_blank"><svg role="img" class="social-twitter" aria-labelledby="social-twitter"><title id="social-twitter">Twitter</title><use xlink:href="http://www.thecookierookie.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li></ul></div></section>
+<section id="nav_menu-7" class="widget-2 widget-last widget-even widget widget_nav_menu"><div class="widget-2 widget-last widget-even widget-wrap"><nav class="nav-header" itemscope itemtype="http://schema.org/SiteNavigationElement"><ul id="menu-where-to" class="menu genesis-nav-menu"><li id="menu-item-1800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1800"><a href="http://www.thecookierookie.com/about-us/" itemprop="url"><span itemprop="name">about</span></a></li>
+<li id="menu-item-1801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1801"><a href="http://www.thecookierookie.com/contact-us/" itemprop="url"><span itemprop="name">contact</span></a></li>
+<li id="menu-item-1976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1976"><a href="http://www.thecookierookie.com/recipes/" itemprop="url"><span itemprop="name">recipes</span></a>
+<ul class="sub-menu">
+<li id="menu-item-11009" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-11009"><a href="http://www.thecookierookie.com/category/recipes/favorite-recipes/" itemprop="url"><span itemprop="name">Favorites</span></a></li>
+<li id="menu-item-11008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11008"><a href="http://www.thecookierookie.com/category/weekly-meal-plans/" itemprop="url"><span itemprop="name">Weekly Meal Plan</span></a></li>
+</ul>
+</li>
+<li id="menu-item-3893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3893"><a href="http://www.thecookierookie.com/work-with-me/" itemprop="url"><span itemprop="name">press</span></a>
+<ul class="sub-menu">
+<li id="menu-item-5293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5293"><a href="http://www.thecookierookie.com/disclosure/" itemprop="url"><span itemprop="name">disclosure</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1802"><a href="http://www.thecookierookie.com/how-to-start-a-blog/" itemprop="url"><span itemprop="name">start a blog</span></a></li>
+<li id="menu-item-10679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10679"><a href="http://beckyhardin.com" itemprop="url"><span itemprop="name">portfolio</span></a></li>
+</ul></nav></div></section>
+</div></div></header><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><div class="before-entry widget-area"><div class="wrap"><section id="text-76" class="widget-1 widget-first widget-last widget-odd video-box widget widget_text"><div class="widget-1 widget-first widget-last widget-odd widget-wrap"><h4 class="widget-title widgettitle">See Our Latest Videos!</h4>
+<div class="textwidget"><div itemscope itemtype="http://schema.org/VideoObject"><meta itemprop="uploadDate" content="2016-09-10T17:18:04-0700"/><meta itemprop="name" content="Chicken Parmesan Pasta Skillet"/><meta itemprop="thumbnailUrl" content="http://content.jwplatform.com/thumbs/vRAH8xi1-1920.jpg"/><meta itemprop="contentUrl" content="http://content.jwplatform.com/videos/vRAH8xi1-F1Bf3sLB.mp4"/><script src="//content.jwplatform.com/players/vRAH8xi1-n0JnFH2X.js"></script></div>
+<br/></div>
+</div></section>
+</div></div><article class="post-7297 post type-post status-publish format-standard has-post-thumbnail category-easy-2 category-favorite-recipes category-maincourses category-recipes tag-basil tag-boursin tag-cheese tag-chicken tag-cream tag-fry tag-herb tag-one-pan tag-one-pot tag-pimentos tag-sauce tag-skillet tag-tomato tag-tomatoes entry" itemscope itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Skillet Basil Cream Chicken</h1>
+<p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2014-11-28T06:00:40+00:00">November 28, 2014</time> by <span class="entry-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a href="http://www.thecookierookie.com/author/admin/" class="entry-author-link" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Becky Hardin</span></a></span> <span class="entry-comments-link"><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/#comments">123 Comments</a></span> </p></header><div class="entry-content" itemprop="text"><div class='shareaholic-canvas' data-app-id='6390232' data-app='share_buttons' data-title='Skillet Basil Cream Chicken' data-link='http://www.thecookierookie.com/skillet-basil-cream-chicken-2/' data-summary=''></div><input class="jpibfi" type="hidden"><div style="display: none;"><img class="aligncenter size-large wp-image-7304" src="http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-341x1024.jpg" alt="ONE POT Skillet Basil Cream Chicken, perfect comfort food! | The Cookie Rookie" width="341" height="1024" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-341x1024.jpg 341w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-50x150.jpg 50w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-100x300.jpg 100w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-300x900.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken.jpg 1000w" sizes="(max-width: 341px) 100vw, 341px" data-jpibfi-post-excerpt="" data-jpibfi-post-url="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/" data-jpibfi-post-title="Skillet Basil Cream Chicken"></div>
+<p style="text-align: center;"><em>Skillet Basil Cream has always been one of my favorite recipes.  It&#8217;s the perfect comfort food for this cold weather!</em></p>
+<p style="text-align: left;"><img class="aligncenter size-full wp-image-7303" src="http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-feature.jpg" alt="ONE POT Skillet Basil Cream Chicken, perfect comfort food! | The Cookie Rookie" width="716" height="716" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-feature.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-feature-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-feature-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-feature-450x450.jpg 450w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-feature-250x250.jpg 250w" sizes="(max-width: 716px) 100vw, 716px" data-jpibfi-post-excerpt="" data-jpibfi-post-url="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/" data-jpibfi-post-title="Skillet Basil Cream Chicken">When I started The Cookie Rookie a couple days after my 30th birthday in 2012&#8230;I couldn&#8217;t cook, anything.  I started it as a hobby but it has become SO much more.  I have made some pretty big strides in cooking, but also love it for the creative outlet, connecting with readers, the blogger friends I&#8217;ve made, and of course the never ending delicious leftovers! Skillet Basil Cream Chicken was one of the first recipes I made when I started. Although the post was all written in lowercase&#8230;and the pictures were HORRENDOUS (like, ouch!), it remains one of my very favorite recipes on the site.  Click <a title="skillet basil cream chicken" href="http://www.thecookierookie.com/skillet-basil-cream-chicken/">here</a> to see the original post! (I warned you about the pictures!)</p>
+<style type='text/css'>#gallery-2{margin:auto;}#gallery-2 .gallery-item{float:left;margin-top:10px;text-align:center;width:33%;}#gallery-2 img{border:2px solid #cfcfcf;}#gallery-2 .gallery-caption{margin-left:0;}</style>
+<div id='gallery-2' class='gallery galleryid-7297 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>
+<dt class='gallery-icon landscape'>
+<a href="http://www.thecookierookie.com/chicken-parmesan-pasta-skillet/" target="_blank" class="set-target no-lightbox"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/02/chicken-parmesan-pasta-skillet-4-of-12-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="ONE PAN Chicken Parmesan Pasta Skillet, with only 6 ingredients! This is our go-to easy recipe anytime we are craving comfort food. Delicious one pot pasta everyone will love!" aria-describedby="gallery-2-14288" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2016/02/chicken-parmesan-pasta-skillet-4-of-12-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/02/chicken-parmesan-pasta-skillet-4-of-12-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/02/chicken-parmesan-pasta-skillet-4-of-12-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/02/chicken-parmesan-pasta-skillet-4-of-12-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/02/chicken-parmesan-pasta-skillet-4-of-12-610x610.jpg 610w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/02/chicken-parmesan-pasta-skillet-4-of-12-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/02/chicken-parmesan-pasta-skillet-4-of-12.jpg 736w" sizes="(max-width: 150px) 100vw, 150px"/></a>
+</dt>
+<dd class='wp-caption-text gallery-caption' id='gallery-2-14288'>
+Chicken Parmesan Pasta
+</dd></dl><dl class='gallery-item'>
+<dt class='gallery-icon landscape'>
+<a href="http://www.thecookierookie.com/baked-fried-chicken/" target="_blank" class="set-target no-lightbox"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2015/01/bakedchicken7-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Baked Fried Chicken | The Cookie Rookie" aria-describedby="gallery-2-7896" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2015/01/bakedchicken7-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/01/bakedchicken7-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/01/bakedchicken7-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/01/bakedchicken7.jpg 500w" sizes="(max-width: 150px) 100vw, 150px"/></a>
+</dt>
+<dd class='wp-caption-text gallery-caption' id='gallery-2-7896'>
+Baked Fried Chicken
+</dd></dl><dl class='gallery-item'>
+<dt class='gallery-icon landscape'>
+<a href="http://www.thecookierookie.com/skillet-french-onion-chicken/" target="_blank" class="set-target no-lightbox"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2015/02/skillet-french-onion-chicken-feature-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Skillet French Onion Chicken! Easy go-to dinner idea, SO DELICIOUS! Made in one pan in under 20 minutes! Cheesy and delicious skillet chicken! | The Cookie Rookie" aria-describedby="gallery-2-8571" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2015/02/skillet-french-onion-chicken-feature-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/02/skillet-french-onion-chicken-feature-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/02/skillet-french-onion-chicken-feature.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/02/skillet-french-onion-chicken-feature-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/02/skillet-french-onion-chicken-feature-680x680.jpg 680w" sizes="(max-width: 150px) 100vw, 150px"/></a>
+</dt>
+<dd class='wp-caption-text gallery-caption' id='gallery-2-8571'>
+French Onion Chicken
+</dd></dl><br style="clear: both"/><dl class='gallery-item'>
+<dt class='gallery-icon landscape'>
+<a href="http://www.thecookierookie.com/super-easy-chicken-teriyaki/" target="_blank" class="set-target no-lightbox"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/easy-chicken-teriyaki-3-of-8-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="WE LOVE Super Easy Chicken Teriyaki! Made in just minutes and delicious for the entire family. This easy recipe for Teriyaki Chicken is a family favorite!" aria-describedby="gallery-2-12898" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/easy-chicken-teriyaki-3-of-8-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/easy-chicken-teriyaki-3-of-8-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/easy-chicken-teriyaki-3-of-8-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/easy-chicken-teriyaki-3-of-8-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/easy-chicken-teriyaki-3-of-8-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/easy-chicken-teriyaki-3-of-8.jpg 736w" sizes="(max-width: 150px) 100vw, 150px"/></a>
+</dt>
+<dd class='wp-caption-text gallery-caption' id='gallery-2-12898'>
+Easy Chicken Teriyaki
+</dd></dl><dl class='gallery-item'>
+<dt class='gallery-icon landscape'>
+<a href="http://www.thecookierookie.com/creamy-swiss-chicken-bake/" target="_blank" class="set-target no-lightbox"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/01/creamy-swiss-chicken-bake-5-of-11-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="This Creamy Swiss Chicken Bake only has 5 Ingredients and virtually zero cleanup! Such an easy recipe for any occasion. GREAT FOR LEFTOVERS TOO!" aria-describedby="gallery-2-13220" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2016/01/creamy-swiss-chicken-bake-5-of-11-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/01/creamy-swiss-chicken-bake-5-of-11-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/01/creamy-swiss-chicken-bake-5-of-11-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/01/creamy-swiss-chicken-bake-5-of-11-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/01/creamy-swiss-chicken-bake-5-of-11-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/01/creamy-swiss-chicken-bake-5-of-11.jpg 736w" sizes="(max-width: 150px) 100vw, 150px"/></a>
+</dt>
+<dd class='wp-caption-text gallery-caption' id='gallery-2-13220'>
+Creamy Swiss Chicken Bake
+</dd></dl><dl class='gallery-item'>
+<dt class='gallery-icon landscape'>
+<a href="http://www.thecookierookie.com/sheet-pan-chicken-nachos/" target="_blank" class="set-target no-lightbox"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/01/tequila-lime-sheet-pan-chicken-nachos-5-of-7-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Tequila Lime SHEET PAN Chicken Nachos is a great recipe for feeding a crowd with delicious chicken nachos! Easy, delicious, and perfect for any occasion. Load these up with your favorite toppings and you&#039;re in business!" aria-describedby="gallery-2-12975" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2016/01/tequila-lime-sheet-pan-chicken-nachos-5-of-7-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/01/tequila-lime-sheet-pan-chicken-nachos-5-of-7-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/01/tequila-lime-sheet-pan-chicken-nachos-5-of-7-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/01/tequila-lime-sheet-pan-chicken-nachos-5-of-7-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/01/tequila-lime-sheet-pan-chicken-nachos-5-of-7-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/01/tequila-lime-sheet-pan-chicken-nachos-5-of-7.jpg 736w" sizes="(max-width: 150px) 100vw, 150px"/></a>
+</dt>
+<dd class='wp-caption-text gallery-caption' id='gallery-2-12975'>
+Sheet Pan Tequila Lime Chicken Nachos
+</dd></dl><br style="clear: both"/><dl class='gallery-item'>
+<dt class='gallery-icon landscape'>
+<a href="http://www.thecookierookie.com/baked-spicy-chicken-tacos/" target="_blank" class="set-target no-lightbox"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/oven-baked-spicy-chicken-tacos-5-of-14-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="SUPER EASY Oven Baked Spicy Chicken Tacos make a weekly appearance on our table. All the flavor and none of the stress. ALL THAT MELTED CHEESE! Perfect recipe for a crowd on Family Mexican Night!" aria-describedby="gallery-2-12636" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/oven-baked-spicy-chicken-tacos-5-of-14-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/oven-baked-spicy-chicken-tacos-5-of-14-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/oven-baked-spicy-chicken-tacos-5-of-14-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/oven-baked-spicy-chicken-tacos-5-of-14-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/oven-baked-spicy-chicken-tacos-5-of-14-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/oven-baked-spicy-chicken-tacos-5-of-14.jpg 736w" sizes="(max-width: 150px) 100vw, 150px"/></a>
+</dt>
+<dd class='wp-caption-text gallery-caption' id='gallery-2-12636'>
+Oven Baked Spicy Chicken Tacos
+</dd></dl><dl class='gallery-item'>
+<dt class='gallery-icon landscape'>
+<a href="http://www.thecookierookie.com/creamy-white-chicken-caprese-lasagna/" target="_blank" class="set-target no-lightbox"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2014/12/white-chicken-caprese-lasagna-feature-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Creamy White Chicken Caprese Lasagna stuffed with mozzarella, cream cheese, artichokes, sundried tomatoes, and basil. SO delicious! The perfect comfort food! | The Cookie Rookie" aria-describedby="gallery-2-7707" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2014/12/white-chicken-caprese-lasagna-feature-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/12/white-chicken-caprese-lasagna-feature-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/12/white-chicken-caprese-lasagna-feature-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/12/white-chicken-caprese-lasagna-feature-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/12/white-chicken-caprese-lasagna-feature.jpg 716w" sizes="(max-width: 150px) 100vw, 150px"/></a>
+</dt>
+<dd class='wp-caption-text gallery-caption' id='gallery-2-7707'>
+White Caprese Chicken Lasagna
+</dd></dl><dl class='gallery-item'>
+<dt class='gallery-icon landscape'>
+<a href="http://www.thecookierookie.com/honey-garlic-baked-chicken/" target="_blank" class="set-target no-lightbox"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/baked-honey-garlic-chicken-2-of-7-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="We LOVE this EASY Honey Garlic Baked Chicken! Throw it all together and bake! Great flavor and made in no time. A family favorite recipe we make every week!" aria-describedby="gallery-2-12887" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/baked-honey-garlic-chicken-2-of-7-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/baked-honey-garlic-chicken-2-of-7-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/baked-honey-garlic-chicken-2-of-7-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/baked-honey-garlic-chicken-2-of-7-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/baked-honey-garlic-chicken-2-of-7-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/baked-honey-garlic-chicken-2-of-7.jpg 736w" sizes="(max-width: 150px) 100vw, 150px"/></a>
+</dt>
+<dd class='wp-caption-text gallery-caption' id='gallery-2-12887'>
+Honey Garlic Baked Chicken
+</dd></dl><br style="clear: both"/>
+</div>
+<p style="text-align: left;"><img class="aligncenter size-full wp-image-7302" src="http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-5.jpg" alt="ONE POT Skillet Basil Cream Chicken, perfect comfort food! | The Cookie Rookie" width="716" height="955" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-5.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-5-112x150.jpg 112w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-5-224x300.jpg 224w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-5-300x400.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" data-jpibfi-post-excerpt="" data-jpibfi-post-url="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/" data-jpibfi-post-title="Skillet Basil Cream Chicken">Speaking of leftovers, this recipe is the king of leftovers.  Serve it with rice or pasta, its delicious so many ways.  It&#8217;s a keeper, even if those original pictures were not not not. <span id="more-7297"></span><br/>
+<img class="aligncenter size-full wp-image-7299" src="http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-2.jpg" alt="ONE POT Skillet Basil Cream Chicken, perfect comfort food! | The Cookie Rookie" width="716" height="882" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-2.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-2-121x150.jpg 121w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-2-243x300.jpg 243w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-2-300x369.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" data-jpibfi-post-excerpt="" data-jpibfi-post-url="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/" data-jpibfi-post-title="Skillet Basil Cream Chicken"> <img class="aligncenter size-full wp-image-7298" src="http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-1.jpg" alt="ONE POT Skillet Basil Cream Chicken, perfect comfort food! | The Cookie Rookie" width="716" height="955" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-1.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-1-112x150.jpg 112w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-1-224x300.jpg 224w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-1-300x400.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" data-jpibfi-post-excerpt="" data-jpibfi-post-url="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/" data-jpibfi-post-title="Skillet Basil Cream Chicken">This works best when the chicken breasts aren&#8217;t super thick.  You could also slice bigger breasts (that doesn&#8217;t sound right?) in half length-wise if you can&#8217;t find thin cuts.  They cook faster and more evenly in the skillet and are all the more tender! Man I love this recipe.  Just looking at that basil cream sauce&#8230;addiction.</p>
+<p style="text-align: left;"><img class="aligncenter size-full wp-image-7301" src="http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-4.jpg" alt="ONE POT Skillet Basil Cream Chicken, perfect comfort food! | The Cookie Rookie" width="716" height="987" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-4.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-4-108x150.jpg 108w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-4-217x300.jpg 217w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-4-300x413.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" data-jpibfi-post-excerpt="" data-jpibfi-post-url="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/" data-jpibfi-post-title="Skillet Basil Cream Chicken">Thanks so much for coming along on this crazy Cookie Rookie ride with me.  I couldn&#8217;t do it without you.  I hope you enjoy this recipe as much as I do!</p>
+<p style="text-align: left;"><img class="aligncenter size-full wp-image-7300" src="http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-3.jpg" alt="ONE POT Skillet Basil Cream Chicken, perfect comfort food! | The Cookie Rookie" width="716" height="955" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-3.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-3-112x150.jpg 112w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-3-224x300.jpg 224w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-3-300x400.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" data-jpibfi-post-excerpt="" data-jpibfi-post-url="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/" data-jpibfi-post-title="Skillet Basil Cream Chicken"></p>
+<p>
+<div id="mpprecipe-container-1760" class="mpprecipe-container-border">
+<div itemscope itemtype="http://schema.org/Recipe" id="mpprecipe-container" class="serif mpprecipe">
+<div id="mpprecipe-innerdiv" class="thirdkind">
+<div class="item mpp-top"><div class='mpp-topleft' style='background:url(http://cdn1.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-feature-300x300.jpg);background-size:cover;'></div><div class="mpp-topright"><span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<a href='#' itemprop='url' target='_blank' class='mpp-recipe-author'>
+<span itemprop='name'>
+Becky Hardin - The Cookie Rookie
+</span>
+</a>
+</span><p id="mpprecipe-yield">Yields <span itemprop="recipeYield">4</span></p><div id="mpprecipe-title" itemprop="name" class="h-1">Skillet Basil Cream Chicken</div><div class="fl-l"><p id="mpprecipe-prep-time"><span itemprop="prepTime" content="PT10M">10 min</span>Prep Time </p><p id="mpprecipe-cook-time"><span itemprop="cookTime" content="PT20M">20 min</span>Cook Time </p><p id="mpprecipe-total-time"><span itemprop="totalTime" content="PT30M">30 min</span>Total Time </p>
+<div id='mpp-buttons'>
+<div class='save-button mpp-button' title='Save Recipe to Mealplannerpro.com' alt='Save Recipe to Mealplannerpro.com' href='http://thecookierookie.mealplannerpro.com/clipper/direct' onclick="window.open('http://thecookierookie.mealplannerpro.com/clipper/direct?url=' + window.location.href); return false;"><img src='http://cdn1.thecookierookie.com/wp-content/plugins/meal-planner-pro/plus.png' style='margin-top:-1px;'/> Save Recipe
+</div>
+<div class='butn-link mpp-button' title='Print this recipe' onclick='zlrPrint( "mpprecipe-container-1760", "http://www.thecookierookie.com/wp-content/plugins/meal-planner-pro/", "mpprecipe-design14", "" ); return false'>
+Print Recipe
+</div>
+</div>
+<style>div#mpp-buttons{float:right;margin-top:10px;}.mpp-button{display:inline-block;}</style>
+<div id="mpp-recipe-link-1760" class="mpp-recipe-link fl-r mpp-rmvd"></div></div><div class="zlclear"></div></div><div class="zlclear"></div></div>
+<center><div id='mpp-buttons-2'>
+<a target='_blank' href='http://thecookierookie.mealplannerpro.com/recipe/recipeBox' class='myrecipe-button mpp-button'>My Recipes</a>
+<a target='_blank' href='http://thecookierookie.mealplannerpro.com/grocery-list' class='mylist-button mpp-button'>My Lists</a>
+<a target='_blank' href='http://thecookierookie.mealplannerpro.com/meal-planning-calendar' class='mycal-button mpp-button'>My Calendar</a>
+</div></center><p id="mpprecipe-ingredients" class="h-4 strong">Ingredients</p><ul id="mpprecipe-ingredients-list"><li id="mpprecipe-ingredient-0" class="ingredient" itemprop="ingredients">1/4 cup Milk</li><li id="mpprecipe-ingredient-1" class="ingredient" itemprop="ingredients">1/4 cup Dry bread crumbs</li><li id="mpprecipe-ingredient-2" class="ingredient" itemprop="ingredients">1 pound Boneless skinless chicken breast; 4 halves</li><li id="mpprecipe-ingredient-3" class="ingredient" itemprop="ingredients">3 tablespoons Butter</li><li id="mpprecipe-ingredient-4" class="ingredient" itemprop="ingredients">1/2 cup Chicken broth</li><li id="mpprecipe-ingredient-5" class="ingredient" itemprop="ingredients">1 cup Heavy cream</li><li id="mpprecipe-ingredient-6" class="ingredient" itemprop="ingredients">1 can (4 oz) Pimentos</li><li id="mpprecipe-ingredient-7" class="ingredient" itemprop="ingredients">1 cup diced tomatoes, or 1 can diced tomatoes</li><li id="mpprecipe-ingredient-8" class="ingredient" itemprop="ingredients">1/4 cup Basil; fresh, minced (i also added some dry basil)</li><li id="mpprecipe-ingredient-9" class="ingredient" itemprop="ingredients">1/2 cup Parmesan; grated</li><li id="mpprecipe-ingredient-10" class="ingredient" itemprop="ingredients">2 tablespoons boursin cheese</li><li id="mpprecipe-ingredient-11" class="ingredient" itemprop="ingredients">? teaspoon Pepper</li></ul>
+<p id="mpprecipe-instructions" class="h-4 strong">Instructions</p><ol id="mpprecipe-instructions-list" class="instructions"><li id="mpprecipe-instruction-0" class="instruction" itemprop="recipeInstructions">Heat skillet over medium high heat</li><li id="mpprecipe-instruction-1" class="instruction" itemprop="recipeInstructions">Place milk and bread crumbs in separate shallow bowls</li><li id="mpprecipe-instruction-2" class="instruction" itemprop="recipeInstructions">Dip chicken in milk, and then coat with crumbs</li><li id="mpprecipe-instruction-3" class="instruction" itemprop="recipeInstructions">Add chicken to skillet with 1/2 of the butter about 5 min</li><li id="mpprecipe-instruction-4" class="instruction" itemprop="recipeInstructions">Add remaining butter flip chicken and cook another 5-8 min or until chicken is cooked.</li><li id="mpprecipe-instruction-5" class="instruction" itemprop="recipeInstructions">Remove and set aside</li><li id="mpprecipe-instruction-6" class="instruction" itemprop="recipeInstructions">Add broth to skillet bring to boil over medium heat</li><li id="mpprecipe-instruction-7" class="instruction" itemprop="recipeInstructions">Stir in cream, pimientos, and tomatoes; boil and stir for 1 min</li><li id="mpprecipe-instruction-8" class="instruction" itemprop="recipeInstructions">Reduce heat, add parmesan cheese, bousrin cheese, basil and pepper; cook and stir until heated through.</li><li id="mpprecipe-instruction-9" class="instruction" itemprop="recipeInstructions">Add the chicken back into the sauce.</li><li id="mpprecipe-instruction-10" class="instruction" itemprop="recipeInstructions">Serve chicken as is, covered in sauce, or with rice or pasta.</li><li id="mpprecipe-instruction-11" class="instruction" itemprop="recipeInstructions">Enjoy!</li></ol><div class="mealplannerpro-recipe-plugin" style="display: none;">6.6.15</div><a id="mpp-printed-permalink" href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/"title="Permalink to Recipe">http://www.thecookierookie.com/skillet-basil-cream-chicken-2/</a></div><link class='photo' itemprop='image' href='http://www.thecookierookie.com/wp-content/uploads/2014/11/skillet-basil-cream-chicken-feature-300x300.jpg' />
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org/",
+    "name" : "Skillet Basil Cream Chicken",
+"description" : "",
+"prepTime" : "PT10M",
+"cookTime" : "PT20M",
+"recipeYield" : "4",
+"recipeCategory" : "",
+"datePublished" : "2016-02-13 12:29:33",
+"recipeInstructions" : "\r\n\nHeat skillet over medium high heat\r\n\tPlace milk and bread crumbs in separate shallow bowls\r\n\tDip chicken in milk, and then coat with crumbs\r\n\tAdd chicken to skillet with 1\/2 of the butter about 5 min\r\n\tAdd remaining butter flip chicken and cook another 5-8 min or until chicken is cooked.\r\n\tRemove and set aside\r\n\tAdd broth to skillet bring to boil over medium heat\r\n\tStir in cream, pimientos, and tomatoes; boil and stir for 1 min\r\n\tReduce heat, add parmesan cheese, bousrin cheese, basil and pepper; cook and stir until heated through.\r\n\tAdd the chicken back into the sauce.\r\n\tServe chicken as is, covered in sauce, or with rice or pasta.\r\n\tEnjoy!\r\n\n",
+"recipeIngredient" : ["1\/4 cup Milk","\r","\t","1\/4 cup Dry bread crumbs","\r","\t","1 pound Boneless skinless chicken breast; 4 halves","\r","\t","3 tablespoons Butter","\r","\t","1\/2 cup Chicken broth","\r","\t","1 cup Heavy cream","\r","\t","1 can (4 oz) Pimentos","\r","\t","1 cup diced tomatoes, or 1 can diced tomatoes","\r","\t","1\/4 cup Basil; fresh, minced (i also added some dry basil)","\r","\t","1\/2 cup Parmesan; grated","\r","\t","2 tablespoons boursin cheese","\r","\t","? teaspoon Pepper","\r","",""], 
+
+        "image": {
+          "@type": "ImageObject",
+          "url": "http:\/\/www.thecookierookie.com\/wp-content\/uploads\/2014\/11\/skillet-basil-cream-chicken-feature-300x300.jpg"
+         },
+    
+        "author": {
+          "@type": "Person",
+          "name": "Becky Hardin - The Cookie Rookie"
+         },
+    "@type": "Recipe"} </script></div></div> <!-- end mpp --></p>
+
+<div class="zem_rp_wrap zem_rp_th_vertical" id="zem_rp_first"><div class="zem_rp_content"><h3 class="related_post_title">Related Posts</h3><ul class="related_post zem_rp"><li data-position="0" data-poid="in-1383" data-post-type="none"><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken/" class="zem_rp_thumbnail"><input class="jpibfi" type="hidden"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2013/01/photo-1-60-250x250.jpg" class="attachment-150x150 size-150x150 wp-post-image" alt="" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2013/01/photo-1-60-250x250.jpg 250w, http://cdn1.thecookierookie.com/wp-content/uploads/2013/01/photo-1-60-450x450.jpg 450w, http://cdn1.thecookierookie.com/wp-content/uploads/2013/01/photo-1-60-300x300.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" data-jpibfi-post-excerpt="" data-jpibfi-post-url="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/" data-jpibfi-post-title="Skillet Basil Cream Chicken" ></a><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken/" class="zem_rp_title">skillet basil cream chicken</a></li><li data-position="1" data-poid="in-11853" data-post-type="none"><a href="http://www.thecookierookie.com/southwest-chicken-alfredo-skillet/" class="zem_rp_thumbnail"><img src="http://cdn1.thecookierookie.com/wp-content/uploads/2015/11/one-pan-southwest-chicken-alfredo-skillet-3-of-11-150x150.jpg" alt="One Pan Southwest Chicken Alfredo Skillet" width="150" height="150"  /></a><a href="http://www.thecookierookie.com/southwest-chicken-alfredo-skillet/" class="zem_rp_title">One Pan Southwest Chicken Alfredo Skillet</a></li><li data-position="2" data-poid="in-15902" data-post-type="none"><a href="http://www.thecookierookie.com/enchilada-stuffed-chicken-skillet/" class="zem_rp_thumbnail"><img src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/06/square-enchilada-stuffed-chicken-skillet-1-of-1-150x150.jpg" alt="Enchilada Stuffed Chicken Skillet (Inside-Out Chicken Enchiladas)" width="150" height="150"  /></a><a href="http://www.thecookierookie.com/enchilada-stuffed-chicken-skillet/" class="zem_rp_title">Enchilada Stuffed Chicken Skillet (Inside-Out Chicken Enchiladas)</a></li><li data-position="3" data-poid="in-15381" data-post-type="none"><a href="http://www.thecookierookie.com/one-pot-chicken-alfredo-skillet/" class="zem_rp_thumbnail"><img src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/05/one-pot-chicken-alfredo-skillet-2-of-9-150x150.jpg" alt="One Pot Chicken Alfredo Skillet" width="150" height="150"  /></a><a href="http://www.thecookierookie.com/one-pot-chicken-alfredo-skillet/" class="zem_rp_title">One Pot Chicken Alfredo Skillet</a></li><li data-position="4" data-poid="in-14800" data-post-type="none"><a href="http://www.thecookierookie.com/one-pan-bbq-ranch-chicken-skillet/" class="zem_rp_thumbnail"><img src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/03/one-pan-bbq-ranch-chicken-skillet-4-of-12-150x150.jpg" alt="One Pan Cheesy BBQ Ranch Chicken Skillet" width="150" height="150"  /></a><a href="http://www.thecookierookie.com/one-pan-bbq-ranch-chicken-skillet/" class="zem_rp_title">One Pan Cheesy BBQ Ranch Chicken Skillet</a></li><li data-position="5" data-poid="in-7696" data-post-type="none"><a href="http://www.thecookierookie.com/creamy-white-chicken-caprese-lasagna/" class="zem_rp_thumbnail"><img src="http://cdn1.thecookierookie.com/wp-content/uploads/2014/12/white-chicken-caprese-lasagna-feature-150x150.jpg" alt="Creamy White Chicken Caprese Lasagna" width="150" height="150"  /></a><a href="http://www.thecookierookie.com/creamy-white-chicken-caprese-lasagna/" class="zem_rp_title">Creamy White Chicken Caprese Lasagna</a></li><li data-position="6" data-poid="in-16563" data-post-type="none"><a href="http://www.thecookierookie.com/mustard-chicken-bacon-skillet/" class="zem_rp_thumbnail"><img src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/08/mustard-chicken-and-bacon-skillet-1-of-6-150x150.jpg" alt="One Pot Mustard Chicken and Bacon Skillet" width="150" height="150"  /></a><a href="http://www.thecookierookie.com/mustard-chicken-bacon-skillet/" class="zem_rp_title">One Pot Mustard Chicken and Bacon Skillet</a></li><li data-position="7" data-poid="in-15447" data-post-type="none"><a href="http://www.thecookierookie.com/gluten-free-chicken-marsala/" class="zem_rp_thumbnail"><img src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/05/gluten-free-chicken-marsala-3-of-9-150x150.jpg" alt="Gluten Free Chicken Marsala" width="150" height="150"  /></a><a href="http://www.thecookierookie.com/gluten-free-chicken-marsala/" class="zem_rp_title">Gluten Free Chicken Marsala</a></li></ul></div></div>
+<div class='shareaholic-canvas' data-app-id='6390228' data-app='share_buttons' data-title='Skillet Basil Cream Chicken' data-link='http://www.thecookierookie.com/skillet-basil-cream-chicken-2/' data-summary=''></div><div id="author-bio-box"><img alt='' src='http://1.gravatar.com/avatar/16471cb1a79e139ea1bfc5aa0eb4f60c?s=120&d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&r=g' srcset='http://1.gravatar.com/avatar/16471cb1a79e139ea1bfc5aa0eb4f60c?s=240&d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&r=g 2x' class='avatar avatar-120 photo' height='120' width='120' /><span class="author-name"> Becky Hardin (<a href="http://www.thecookierookie.com/author/admin/">751 Posts</a>)</span><p>Becky woke up on her 30th birthday and realized she didn't know how to cook, ANYTHING! She started The Cookie Rookie as a way to document her journey to learn how to cook, one recipe at a time! The Cookie Rookie is a place to find easy recipes that anyone can make, and everyone will love!</p><div class="bio-socials"><a rel="author" href="http://www.thecookierookie.com/author/admin/"><img class="bio-img" src="http://cdn1.thecookierookie.com/wp-content/plugins/social-autho-bio/images/admin/author_info.png" alt="Author Info"></a><a href="http://www.thecookierookie.com" target="_blank"><img  src="http://cdn1.thecookierookie.com/wp-content/plugins/social-autho-bio/images/Wordpress.png" ></a><a href="http://www.facebook.com/cookierookiebec" target="_blank"><img class="bio-img" src="http://cdn1.thecookierookie.com/wp-content/plugins/social-autho-bio/images/Facebook.png" ></a><a href="http://twitter.com/#!/cookierookiebec" target="_blank"><img class="bio-img" src="http://cdn1.thecookierookie.com/wp-content/plugins/social-autho-bio/images/Twitter.png" ></a><a href="https://plus.google.com/u/0/+TheCookieRookiebec/about" target="_blank"><img class="bio-img" src="http://cdn1.thecookierookie.com/wp-content/plugins/social-autho-bio/images/Google_Plus.png" ></a><a href="http://pinterest.com/beckygallhardin/" target="_blank"><img class="bio-img" src="http://cdn1.thecookierookie.com/wp-content/plugins/social-autho-bio/images/Pinterest.png" ></a></div></div><br/><span class="et_bloom_bottom_trigger"></span></div><footer class="entry-footer"><p class="entry-meta"><span class="entry-categories">Filed Under: <a href="http://www.thecookierookie.com/category/easy-2/" rel="category tag">Easy</a>, <a href="http://www.thecookierookie.com/category/recipes/favorite-recipes/" rel="category tag">Favorite Recipes</a>, <a href="http://www.thecookierookie.com/category/recipes/maincourses/" rel="category tag">main courses</a>, <a href="http://www.thecookierookie.com/category/recipes/" rel="category tag">recipes</a></span> <span class="entry-tags">Tagged With: <a href="http://www.thecookierookie.com/tag/basil/" rel="tag">basil</a>, <a href="http://www.thecookierookie.com/tag/boursin/" rel="tag">boursin</a>, <a href="http://www.thecookierookie.com/tag/cheese/" rel="tag">cheese</a>, <a href="http://www.thecookierookie.com/tag/chicken/" rel="tag">chicken</a>, <a href="http://www.thecookierookie.com/tag/cream/" rel="tag">cream</a>, <a href="http://www.thecookierookie.com/tag/fry/" rel="tag">fry</a>, <a href="http://www.thecookierookie.com/tag/herb/" rel="tag">herb</a>, <a href="http://www.thecookierookie.com/tag/one-pan/" rel="tag">one pan</a>, <a href="http://www.thecookierookie.com/tag/one-pot/" rel="tag">one pot</a>, <a href="http://www.thecookierookie.com/tag/pimentos/" rel="tag">pimentos</a>, <a href="http://www.thecookierookie.com/tag/sauce/" rel="tag">sauce</a>, <a href="http://www.thecookierookie.com/tag/skillet/" rel="tag">skillet</a>, <a href="http://www.thecookierookie.com/tag/tomato/" rel="tag">tomato</a>, <a href="http://www.thecookierookie.com/tag/tomatoes/" rel="tag">tomatoes</a></span></p></footer></article><div class="adjacent-entry-pagination pagination"><div class="pagination-previous alignleft"><a href="http://www.thecookierookie.com/adult-dark-cherry-cream-soda/" rel="prev">&#x000AB; Adult Dark Cherry Cream Soda</a></div><div class="pagination-next alignright"><a href="http://www.thecookierookie.com/raspberry-honey-goat-cheese-bruschetta/" rel="next">Raspberry and Honey Goat Cheese Bruschetta &#x000BB;</a></div></div><div class="entry-comments" id="comments"><h3>Comments</h3><ol class="comment-list">
+	<li class="comment even thread-even depth-1" id="comment-39947">
+	<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<img alt='' src='http://0.gravatar.com/avatar/91784a78bb367d3161b9382fbe89c0d0?s=48&#038;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&#038;r=g' srcset='http://0.gravatar.com/avatar/91784a78bb367d3161b9382fbe89c0d0?s=96&amp;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name"><a href="http://the%20cookie%20rookie" class="comment-author-link" rel="external nofollow" itemprop="url">Jan</a></span> <span class="says">says</span>			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2016-11-06T15:53:07+00:00" itemprop="datePublished"><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/comment-page-4/#comment-39947" class="comment-time-link" itemprop="url">November 6, 2016 at 3:53 pm</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>I live in a very small town and can&#8217;t find any fresh Basil, what can I do ?</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.thecookierookie.com/skillet-basil-cream-chicken-2/?replytocom=39947#respond' onclick='return addComment.moveForm( "comment-39947", "39947", "respond", "7297" )' aria-label='Reply to Jan'>Reply</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment odd alt depth-2" id="comment-39953">
+	<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<img alt='' src='http://0.gravatar.com/avatar/3c8b4989e4e79fdbe3de36812557c8fb?s=48&#038;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&#038;r=g' srcset='http://0.gravatar.com/avatar/3c8b4989e4e79fdbe3de36812557c8fb?s=96&amp;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name">nicky</span> <span class="says">says</span>			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2016-11-07T04:20:19+00:00" itemprop="datePublished"><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/comment-page-4/#comment-39953" class="comment-time-link" itemprop="url">November 7, 2016 at 4:20 am</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>use dry basil, just use less than called for as it is a stronger flavor</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.thecookierookie.com/skillet-basil-cream-chicken-2/?replytocom=39953#respond' onclick='return addComment.moveForm( "comment-39953", "39953", "respond", "7297" )' aria-label='Reply to nicky'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li class="comment even thread-odd thread-alt depth-1" id="comment-40034">
+	<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<img alt='' src='http://0.gravatar.com/avatar/34c57a7f02b0c75cfba43951a134d90a?s=48&#038;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&#038;r=g' srcset='http://0.gravatar.com/avatar/34c57a7f02b0c75cfba43951a134d90a?s=96&amp;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name">Sheila</span> <span class="says">says</span>			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2016-11-15T07:47:47+00:00" itemprop="datePublished"><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/comment-page-4/#comment-40034" class="comment-time-link" itemprop="url">November 15, 2016 at 7:47 am</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>Can you freeze it?</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.thecookierookie.com/skillet-basil-cream-chicken-2/?replytocom=40034#respond' onclick='return addComment.moveForm( "comment-40034", "40034", "respond", "7297" )' aria-label='Reply to Sheila'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+
+	<li class="comment odd alt thread-even depth-1" id="comment-40701">
+	<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<img alt='' src='http://2.gravatar.com/avatar/ec521d576436035b50efb49c524ee221?s=48&#038;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&#038;r=g' srcset='http://2.gravatar.com/avatar/ec521d576436035b50efb49c524ee221?s=96&amp;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name"><a href="http://Google" class="comment-author-link" rel="external nofollow" itemprop="url">Elize</a></span> <span class="says">says</span>			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2016-12-28T09:00:51+00:00" itemprop="datePublished"><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/comment-page-4/#comment-40701" class="comment-time-link" itemprop="url">December 28, 2016 at 9:00 am</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>I lost my favourite recipe and this looks such a winner the same as my old recipe except the ingredients are all fresh, so I can add or replace to the family&#8217;s taste.  It looks so delicious,  I am cooking this dish tonight.  Yum cannot  wait to indulge.  Thanks for sharing, you have made my day.  I hope many more ladies try this, it is also a great winter warmer, just for something extra try lentils, corn kernels or beans &#8211; I like to keep tin items in the cupboard so I can add if I wish for something extra. Thanks for sharing  :-)</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.thecookierookie.com/skillet-basil-cream-chicken-2/?replytocom=40701#respond' onclick='return addComment.moveForm( "comment-40701", "40701", "respond", "7297" )' aria-label='Reply to Elize'>Reply</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment byuser comment-author-admin bypostauthor even depth-2" id="comment-40702">
+	<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<img alt='' src='http://1.gravatar.com/avatar/16471cb1a79e139ea1bfc5aa0eb4f60c?s=48&#038;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&#038;r=g' srcset='http://1.gravatar.com/avatar/16471cb1a79e139ea1bfc5aa0eb4f60c?s=96&amp;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name"><a href="http://www.thecookierookie.com" class="comment-author-link" rel="external nofollow" itemprop="url">Becky Hardin</a></span> <span class="says">says</span>			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2016-12-28T11:07:43+00:00" itemprop="datePublished"><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/comment-page-4/#comment-40702" class="comment-time-link" itemprop="url">December 28, 2016 at 11:07 am</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>That is so wonderful! I&#8217;m so glad you found me. Thanks so much for saying hi, hope you love the recipe!</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.thecookierookie.com/skillet-basil-cream-chicken-2/?replytocom=40702#respond' onclick='return addComment.moveForm( "comment-40702", "40702", "respond", "7297" )' aria-label='Reply to Becky Hardin'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-40721">
+	<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<img alt='' src='http://0.gravatar.com/avatar/c4433b4ca67639dddf64bcf13c2b171c?s=48&#038;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&#038;r=g' srcset='http://0.gravatar.com/avatar/c4433b4ca67639dddf64bcf13c2b171c?s=96&amp;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name">B. Bunger</span> <span class="says">says</span>			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2016-12-29T10:02:24+00:00" itemprop="datePublished"><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/comment-page-4/#comment-40721" class="comment-time-link" itemprop="url">December 29, 2016 at 10:02 am</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>I&#8217;ve never heard of Boursin Cheese &amp; never noticed it in the stores. Can I substitute with something else, &amp; if so, what?? Thanks!</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.thecookierookie.com/skillet-basil-cream-chicken-2/?replytocom=40721#respond' onclick='return addComment.moveForm( "comment-40721", "40721", "respond", "7297" )' aria-label='Reply to B. Bunger'>Reply</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment byuser comment-author-admin bypostauthor even depth-2" id="comment-40722">
+	<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<img alt='' src='http://1.gravatar.com/avatar/16471cb1a79e139ea1bfc5aa0eb4f60c?s=48&#038;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&#038;r=g' srcset='http://1.gravatar.com/avatar/16471cb1a79e139ea1bfc5aa0eb4f60c?s=96&amp;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name"><a href="http://www.thecookierookie.com" class="comment-author-link" rel="external nofollow" itemprop="url">Becky Hardin</a></span> <span class="says">says</span>			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2016-12-29T11:49:14+00:00" itemprop="datePublished"><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/comment-page-4/#comment-40722" class="comment-time-link" itemprop="url">December 29, 2016 at 11:49 am</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>Hi! It&#8217;s a herbed cream cheese style cheese that usually comes in a tub and it shoudl be sold at every grocery store. You could ask someone or find it in the specialty cheese section. It&#8217;s SO good in this, so I hope you find it, but if not you could use cream cheese. Hope you love the recipe!</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.thecookierookie.com/skillet-basil-cream-chicken-2/?replytocom=40722#respond' onclick='return addComment.moveForm( "comment-40722", "40722", "respond", "7297" )' aria-label='Reply to Becky Hardin'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li class="comment odd alt thread-even depth-1" id="comment-41041">
+	<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<img alt='' src='http://2.gravatar.com/avatar/b2849f5e8efeceeddb65a0e869b7cd9e?s=48&#038;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&#038;r=g' srcset='http://2.gravatar.com/avatar/b2849f5e8efeceeddb65a0e869b7cd9e?s=96&amp;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name">Mikki</span> <span class="says">says</span>			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2017-01-14T14:30:44+00:00" itemprop="datePublished"><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/comment-page-4/#comment-41041" class="comment-time-link" itemprop="url">January 14, 2017 at 2:30 pm</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>Would you know the calorie and carb count in this dish?</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.thecookierookie.com/skillet-basil-cream-chicken-2/?replytocom=41041#respond' onclick='return addComment.moveForm( "comment-41041", "41041", "respond", "7297" )' aria-label='Reply to Mikki'>Reply</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment byuser comment-author-admin bypostauthor even depth-2" id="comment-41042">
+	<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<img alt='' src='http://1.gravatar.com/avatar/16471cb1a79e139ea1bfc5aa0eb4f60c?s=48&#038;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&#038;r=g' srcset='http://1.gravatar.com/avatar/16471cb1a79e139ea1bfc5aa0eb4f60c?s=96&amp;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name"><a href="http://www.thecookierookie.com" class="comment-author-link" rel="external nofollow" itemprop="url">Becky Hardin</a></span> <span class="says">says</span>			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2017-01-14T15:00:36+00:00" itemprop="datePublished"><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/comment-page-4/#comment-41042" class="comment-time-link" itemprop="url">January 14, 2017 at 3:00 pm</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>I don&#8217;t have an app currently to calculate nutritional data. I have heard for personal use myfitnesspal.com is great!</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.thecookierookie.com/skillet-basil-cream-chicken-2/?replytocom=41042#respond' onclick='return addComment.moveForm( "comment-41042", "41042", "respond", "7297" )' aria-label='Reply to Becky Hardin'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-41155">
+	<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<img alt='' src='http://0.gravatar.com/avatar/05c3d1ec86e48c789695a2bc75d186b8?s=48&#038;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&#038;r=g' srcset='http://0.gravatar.com/avatar/05c3d1ec86e48c789695a2bc75d186b8?s=96&amp;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name">Stacy</span> <span class="says">says</span>			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2017-01-22T19:57:22+00:00" itemprop="datePublished"><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/comment-page-4/#comment-41155" class="comment-time-link" itemprop="url">January 22, 2017 at 7:57 pm</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>This is an incredible recipe!! Tasted like something I would have ordered in a fancy restaurant. Definitely splurge on the Boursin cheese and fresh basil. Instead of bread crumbs (because I ran out), I coated the chicken with Rice Krispies grounded up. Love the crunch that those offered. Seriously, this was amazing! 5 stars!!</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.thecookierookie.com/skillet-basil-cream-chicken-2/?replytocom=41155#respond' onclick='return addComment.moveForm( "comment-41155", "41155", "respond", "7297" )' aria-label='Reply to Stacy'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+
+	<li class="comment even thread-even depth-1" id="comment-41160">
+	<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<img alt='' src='http://0.gravatar.com/avatar/ccc3ea1a97104cbb4a7a7d5598ff4a2f?s=48&#038;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&#038;r=g' srcset='http://0.gravatar.com/avatar/ccc3ea1a97104cbb4a7a7d5598ff4a2f?s=96&amp;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name">Pili</span> <span class="says">says</span>			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2017-01-23T11:26:20+00:00" itemprop="datePublished"><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/comment-page-4/#comment-41160" class="comment-time-link" itemprop="url">January 23, 2017 at 11:26 am</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>The breading all came off  the Breasts while sautéing them.  Otherwise very good</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.thecookierookie.com/skillet-basil-cream-chicken-2/?replytocom=41160#respond' onclick='return addComment.moveForm( "comment-41160", "41160", "respond", "7297" )' aria-label='Reply to Pili'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-41192">
+	<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<img alt='' src='http://1.gravatar.com/avatar/a7cab9151dc80b7bf4ea20d94dfd98b2?s=48&#038;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&#038;r=g' srcset='http://1.gravatar.com/avatar/a7cab9151dc80b7bf4ea20d94dfd98b2?s=96&amp;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name">Tylstenie</span> <span class="says">says</span>			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2017-01-25T14:58:43+00:00" itemprop="datePublished"><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/comment-page-4/#comment-41192" class="comment-time-link" itemprop="url">January 25, 2017 at 2:58 pm</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>My daughter made this for me a couple months ago and tonight will be my second time making it.  We used cream cheese and dried basil as that is what we had and it was delicious!  For the person asking about he calorie and carb count I am sure it is up there but if you only have it  now and again it is worth the splurge</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.thecookierookie.com/skillet-basil-cream-chicken-2/?replytocom=41192#respond' onclick='return addComment.moveForm( "comment-41192", "41192", "respond", "7297" )' aria-label='Reply to Tylstenie'>Reply</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment byuser comment-author-admin bypostauthor even depth-2" id="comment-41193">
+	<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<img alt='' src='http://1.gravatar.com/avatar/16471cb1a79e139ea1bfc5aa0eb4f60c?s=48&#038;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&#038;r=g' srcset='http://1.gravatar.com/avatar/16471cb1a79e139ea1bfc5aa0eb4f60c?s=96&amp;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /><span itemprop="name"><a href="http://www.thecookierookie.com" class="comment-author-link" rel="external nofollow" itemprop="url">Becky Hardin</a></span> <span class="says">says</span>			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2017-01-25T18:13:08+00:00" itemprop="datePublished"><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/comment-page-4/#comment-41193" class="comment-time-link" itemprop="url">January 25, 2017 at 6:13 pm</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>THank you!! So glad you loved it :)</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.thecookierookie.com/skillet-basil-cream-chicken-2/?replytocom=41193#respond' onclick='return addComment.moveForm( "comment-41193", "41193", "respond", "7297" )' aria-label='Reply to Becky Hardin'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ol><div class="comments-pagination pagination"><div class="pagination-previous alignleft"><a href="http://www.thecookierookie.com/skillet-basil-cream-chicken-2/comment-page-3/#comments" >&laquo; Older Comments</a></div><div class="pagination-next alignright"></div></div></div>	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/skillet-basil-cream-chicken-2/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://www.thecookierookie.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='7297' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>		<p class="antispam-group antispam-group-q" style="clear: both;">
+			<label>Current <a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="48312d083a">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> <span class="required">*</span></label>
+			<input type="hidden" name="antspm-a" class="antispam-control antispam-control-a" value="2017" />
+			<input type="text" name="antspm-q" class="antispam-control antispam-control-q" value="4.3" autocomplete="off" />
+		</p>
+		<p class="antispam-group antispam-group-e" style="display: none;">
+			<label>Leave this field empty</label>
+			<input type="text" name="antspm-e-email-url-website" class="antispam-control antispam-control-e" value="" autocomplete="off" />
+		</p>
+			</form>
+			</div><!-- #respond -->
+	</main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="http://schema.org/WPSideBar"><section id="tabber_widget-3" class="widget-1 widget-first widget-odd widget tabber_widget"><div class="widget-1 widget-first widget-odd widget-wrap">	<div id="tabber_widget-3-content" class="tabber-widget-0 tabber-widget-basic-light">
+		<ul class="tabber-widget-tabs">
+											<li><a class="selected" href="#tab-tabber_widget-3-1">Welcome</a></li>
+											<li><a href="#tab-tabber_widget-3-2">Categories</a></li>
+											<li><a href="#tab-tabber_widget-3-3">Archives</a></li>
+					</ul>
+								<div id="tab-tabber_widget-3-1" class="tabber-widget-content">
+				<div class="widget-1 widget-first widget-last widget-odd tabber-widget user-profile" id="user-profile-2"><h5 class="tabber-widget-title">Hi there, Welcome!</h5><p><img alt='' src='http://1.gravatar.com/avatar/16471cb1a79e139ea1bfc5aa0eb4f60c?s=125&#038;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&#038;r=g' srcset='http://1.gravatar.com/avatar/16471cb1a79e139ea1bfc5aa0eb4f60c?s=250&amp;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&amp;r=g 2x' class='avatar avatar-125 photo' height='125' width='125' />Hi, I'm Becky Hardin.<br />
+I love to create delicious and EASY recipes anyone can make and EVERYONE will love!  <a class="pagelink" href="http://www.thecookierookie.com/about-us/">Click HERE for more...</a></p>
+</div>			</div>
+								<div id="tab-tabber_widget-3-2" class="tabber-widget-content">
+				<div class="widget-1 widget-first widget-last widget-odd tabber-widget widget_categories" id="categories-2"><h5 class="tabber-widget-title">Categories</h5><label class="screen-reader-text" for="cat">Categories</label><select  name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="8">appetizers</option>
+	<option class="level-0" value="586">brands</option>
+	<option class="level-0" value="1127">Breakfast</option>
+	<option class="level-0" value="35">cooking basics/tutorials</option>
+	<option class="level-0" value="16">dill and scout</option>
+	<option class="level-0" value="37">drinks/cocktails</option>
+	<option class="level-0" value="1128">Easy</option>
+	<option class="level-0" value="799">Favorite Recipes</option>
+	<option class="level-0" value="369">For the Dogs/Pet Treats</option>
+	<option class="level-0" value="744">giveaways</option>
+	<option class="level-0" value="894">guest posts</option>
+	<option class="level-0" value="496">healthy(er)</option>
+	<option class="level-0" value="161">holiday favorites</option>
+	<option class="level-0" value="1">life</option>
+	<option class="level-0" value="7">main courses</option>
+	<option class="level-0" value="6">recipes</option>
+	<option class="level-0" value="1107">roundups</option>
+	<option class="level-0" value="289">shop</option>
+	<option class="level-0" value="10">sides</option>
+	<option class="level-0" value="9">sweets</option>
+	<option class="level-0" value="327">thirsty thursday</option>
+	<option class="level-0" value="731">travel/restaurant reviews</option>
+	<option class="level-0" value="62">wedding, family, and pets :)</option>
+	<option class="level-0" value="1381">Weekly Meal Plans</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "http://www.thecookierookie.com/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</div>			</div>
+								<div id="tab-tabber_widget-3-3" class="tabber-widget-content">
+				<div class="widget-1 widget-first widget-last widget-odd tabber-widget widget_archive" id="archives-4"><h5 class="tabber-widget-title">Archives</h5>		<label class="screen-reader-text" for="archives-dropdown-4">Archives</label>
+		<select id="archives-dropdown-4" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://www.thecookierookie.com/2017/01/'> January 2017 </option>
+	<option value='http://www.thecookierookie.com/2016/12/'> December 2016 </option>
+	<option value='http://www.thecookierookie.com/2016/11/'> November 2016 </option>
+	<option value='http://www.thecookierookie.com/2016/10/'> October 2016 </option>
+	<option value='http://www.thecookierookie.com/2016/09/'> September 2016 </option>
+	<option value='http://www.thecookierookie.com/2016/08/'> August 2016 </option>
+	<option value='http://www.thecookierookie.com/2016/07/'> July 2016 </option>
+	<option value='http://www.thecookierookie.com/2016/06/'> June 2016 </option>
+	<option value='http://www.thecookierookie.com/2016/05/'> May 2016 </option>
+	<option value='http://www.thecookierookie.com/2016/04/'> April 2016 </option>
+	<option value='http://www.thecookierookie.com/2016/03/'> March 2016 </option>
+	<option value='http://www.thecookierookie.com/2016/02/'> February 2016 </option>
+	<option value='http://www.thecookierookie.com/2016/01/'> January 2016 </option>
+	<option value='http://www.thecookierookie.com/2015/12/'> December 2015 </option>
+	<option value='http://www.thecookierookie.com/2015/11/'> November 2015 </option>
+	<option value='http://www.thecookierookie.com/2015/10/'> October 2015 </option>
+	<option value='http://www.thecookierookie.com/2015/09/'> September 2015 </option>
+	<option value='http://www.thecookierookie.com/2015/08/'> August 2015 </option>
+	<option value='http://www.thecookierookie.com/2015/07/'> July 2015 </option>
+	<option value='http://www.thecookierookie.com/2015/06/'> June 2015 </option>
+	<option value='http://www.thecookierookie.com/2015/05/'> May 2015 </option>
+	<option value='http://www.thecookierookie.com/2015/04/'> April 2015 </option>
+	<option value='http://www.thecookierookie.com/2015/03/'> March 2015 </option>
+	<option value='http://www.thecookierookie.com/2015/02/'> February 2015 </option>
+	<option value='http://www.thecookierookie.com/2015/01/'> January 2015 </option>
+	<option value='http://www.thecookierookie.com/2014/12/'> December 2014 </option>
+	<option value='http://www.thecookierookie.com/2014/11/'> November 2014 </option>
+	<option value='http://www.thecookierookie.com/2014/10/'> October 2014 </option>
+	<option value='http://www.thecookierookie.com/2014/09/'> September 2014 </option>
+	<option value='http://www.thecookierookie.com/2014/08/'> August 2014 </option>
+	<option value='http://www.thecookierookie.com/2014/07/'> July 2014 </option>
+	<option value='http://www.thecookierookie.com/2014/06/'> June 2014 </option>
+	<option value='http://www.thecookierookie.com/2014/05/'> May 2014 </option>
+	<option value='http://www.thecookierookie.com/2014/04/'> April 2014 </option>
+	<option value='http://www.thecookierookie.com/2014/03/'> March 2014 </option>
+	<option value='http://www.thecookierookie.com/2014/02/'> February 2014 </option>
+	<option value='http://www.thecookierookie.com/2014/01/'> January 2014 </option>
+	<option value='http://www.thecookierookie.com/2013/12/'> December 2013 </option>
+	<option value='http://www.thecookierookie.com/2013/11/'> November 2013 </option>
+	<option value='http://www.thecookierookie.com/2013/10/'> October 2013 </option>
+	<option value='http://www.thecookierookie.com/2013/03/'> March 2013 </option>
+	<option value='http://www.thecookierookie.com/2013/02/'> February 2013 </option>
+	<option value='http://www.thecookierookie.com/2013/01/'> January 2013 </option>
+	<option value='http://www.thecookierookie.com/2012/12/'> December 2012 </option>
+	<option value='http://www.thecookierookie.com/2012/11/'> November 2012 </option>
+	<option value='http://www.thecookierookie.com/2012/10/'> October 2012 </option>
+
+		</select>
+		</div>			</div>
+			</div>
+	
+	<script type="text/javascript">
+		jQuery("#tabber_widget-3-content ul").idTabs();
+	</script>
+</div></section>
+<section id="search-3" class="widget-2 widget-even widget widget_search"><div class="widget-2 widget-even widget-wrap"><h4 class="widget-title widgettitle">Looking for Something?</h4>
+<form class="search-form" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" method="get" action="http://www.thecookierookie.com/" role="search"><meta itemprop="target" content="http://www.thecookierookie.com/?s={s}"/><input itemprop="query-input" type="search" name="s" placeholder="Search this website &#x2026;" /><input type="submit" value="Search"  /></form></div></section>
+<section id="bloomwidget-2" class="widget-3 widget-odd widget widget_bloomwidget"><div class="widget-3 widget-odd widget-wrap"><div class="et_bloom_widget_content et_bloom_optin et_bloom_optin_1">
+					<style type="text/css">.et_bloom .et_bloom_optin_1 .et_bloom_form_content { background-color: #bae3e6 !important; } .et_bloom .et_bloom_optin_1 .et_bloom_form_container .et_bloom_form_header { background-color: #ffffff !important; } .et_bloom .et_bloom_optin_1 .et_bloom_form_content button { background-color: #afd6d8 !important; } .et_bloom .et_bloom_optin_1 .et_bloom_border_letter { background: repeating-linear-gradient( 135deg, #bae3e6, #bae3e6 10px, #fff 10px, #fff 20px, #f84d3b 20px, #f84d3b 30px, #fff 30px, #fff 40px ) !important; } .et_bloom .et_bloom_optin_1 .et_bloom_form_content button { background-color: #afd6d8 !important; } .et_bloom .et_bloom_optin_1 h2, .et_bloom .et_bloom_optin_1 h2 span, .et_bloom .et_bloom_optin_1 h2 strong { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; }.et_bloom .et_bloom_optin_1 p, .et_bloom .et_bloom_optin_1 p span, .et_bloom .et_bloom_optin_1 p strong, .et_bloom .et_bloom_optin_1 form input, .et_bloom .et_bloom_optin_1 form button span { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; } </style>
+					<div class="et_bloom_form_container  et_bloom_border_letter et_bloom_form_text_dark">
+						
+			<div class="et_bloom_form_container_wrapper clearfix">
+				<div class="et_bloom_header_outer">
+					<div class="et_bloom_form_header et_bloom_header_text_dark">
+						<img width="610" height="92" src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/02/Untitled-610x92.jpg" class=" et_bloom_image_no_animation et_bloom_image" alt="" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2016/02/Untitled-610x92.jpg 610w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/02/Untitled-150x23.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/02/Untitled-300x45.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/02/Untitled-768x116.jpg 768w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/02/Untitled-716x108.jpg 716w" sizes="(max-width: 610px) 100vw, 610px" />
+						<div class="et_bloom_form_text">
+						<h2 style="text-align: center;">Never Go Hungry!</h2><p style="text-align: center;">Join our mailing list and never miss a delicious moment! New piping hot recipes sent straight to your inbox.</p>
+					</div>
+						
+					</div>
+				</div>
+				<div class="et_bloom_form_content et_bloom_1_field et_bloom_bottom_stacked">
+					
+					
+					<form method="post" class="clearfix">
+						
+						<p class="et_bloom_popup_input et_bloom_subscribe_email">
+							<input placeholder="Email">
+						</p>
+
+						<button data-optin_id="optin_1" data-service="mailchimp" data-list_id="7f8cd13092" data-page_id="7297" data-account="thecookierookie" data-disable_dbl_optin="" class="et_bloom_submit_subscription">
+							<span class="et_bloom_subscribe_loader"></span>
+							<span class="et_bloom_button_text et_bloom_button_text_color_light">SIGN ME UP!</span>
+						</button>
+					</form>
+					<div class="et_bloom_success_container">
+						<span class="et_bloom_success_checkmark"></span>
+					</div>
+					<h2 class="et_bloom_success_message">You have Successfully Subscribed!</h2>
+					
+				</div>
+			</div>
+			<span class="et_bloom_close_button"></span>
+					</div>
+				</div></div></section>
+<section id="text-78" class="widget-4 widget-even widget widget_text"><div class="widget-4 widget-even widget-wrap"><h4 class="widget-title widgettitle">OUR FAVE SKILLET RECIPES EBOOK!</h4>
+			<div class="textwidget"><a href="https://sowl.co/ABSwA"><img  src="http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/the-ultimate-skillet-ecookbook.jpeg" ></a><center>THE BEST SKILLET RECIPES! (only 2.99!!!)<center>
+<a href="https://transactions.sendowl.com/products/510312/0649D2A7/purchase" rel="nofollow"><img src="https://transactions.sendowl.com/assets/external/buy-now.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script></div>
+		</div></section>
+<section id="text-77" class="widget-5 widget-odd widget widget_text"><div class="widget-5 widget-odd widget-wrap">			<div class="textwidget"><script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script type="text/javascript">
+Criteo.DisplayAd({
+    "zoneid": 630014,
+    "async": false});
+</script></div>
+		</div></section>
+<section id="featured-post-30" class="widget-6 widget-even widget featured-content featuredpost"><div class="widget-6 widget-even widget-wrap"><h4 class="widget-title widgettitle">Newest Recipes!</h4>
+<article class="post-19007 post type-post status-publish format-standard has-post-thumbnail category-appetizers category-brands category-favorite-recipes category-recipes tag-app tag-appetizer tag-bowl tag-bread tag-cheese tag-dip tag-football tag-french-onion tag-la-brea tag-mini tag-mozzarella tag-onion tag-party tag-pretzel tag-roll tag-sourdough tag-super-bowl tag-superbowl tag-swiss tag-tailgate tag-tailgating entry"><a href="http://www.thecookierookie.com/mini-french-onion-dip-bread-bowls/" title="Mini French Onion Dip Bread Bowls" class="aligncenter"><img width="320" height="320" src="http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14-320x320.jpg" class="entry-image attachment-post" alt="These MINI FRENCH ONION DIP BREAD BOWLS are the perfect cute and DELICIOUS appetizer for the Super Bowl! Wow your party guests with French Onion Dip inside mini bread bowls and topped with melty swiss. BEST DIP EVER!" itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14-768x768.jpg 768w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14-610x610.jpg 610w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14.jpg 1200w" sizes="(max-width: 320px) 100vw, 320px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.thecookierookie.com/mini-french-onion-dip-bread-bowls/">Mini French Onion Dip Bread Bowls</a></h2></header></article><article class="post-18951 post type-post status-publish format-standard has-post-thumbnail category-appetizers category-brands category-easy-2 category-recipes tag-appetizer tag-casserole tag-chicken tag-dip tag-king-ranch tag-old-el-paso tag-ranch tag-rotel tag-super-bowl tag-superbowl tag-tailgate tag-tailgating entry"><a href="http://www.thecookierookie.com/king-ranch-chicken-dip/" title="King Ranch Chicken Dip" class="aligncenter"><img width="320" height="320" src="http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/king-ranch-chicken-dip-5-of-10-320x320.jpg" class="entry-image attachment-post" alt="KING RANCH CHICKEN DIP is a fun twist on a classic family favorite casserole. The flavors including chicken, rotel, cheese, and tortillas lend themselves easily to a delicious dip, just perfect for the Super Bowl!" itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/king-ranch-chicken-dip-5-of-10-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/king-ranch-chicken-dip-5-of-10-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/king-ranch-chicken-dip-5-of-10-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/king-ranch-chicken-dip-5-of-10-768x768.jpg 768w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/king-ranch-chicken-dip-5-of-10-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/king-ranch-chicken-dip-5-of-10-610x610.jpg 610w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/king-ranch-chicken-dip-5-of-10-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/king-ranch-chicken-dip-5-of-10.jpg 1200w" sizes="(max-width: 320px) 100vw, 320px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.thecookierookie.com/king-ranch-chicken-dip/">King Ranch Chicken Dip</a></h2></header></article><article class="post-18872 post type-post status-publish format-standard has-post-thumbnail category-recipes category-roundups entry"><a href="http://www.thecookierookie.com/28-best-super-bowl-appetizers/" title="28 Best Super Bowl Appetizers" class="aligncenter"><img width="320" height="320" src="http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/28-Best-Super-Bowl-Appetizers-320x320.jpg" class="entry-image attachment-post" alt="18 BEST SUPER BOWL APPETIZERS! The best Super Bowl appetizers perfect for tailgating! Dips, wings, nachos, and everything in between!" itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/28-Best-Super-Bowl-Appetizers-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/28-Best-Super-Bowl-Appetizers-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/28-Best-Super-Bowl-Appetizers-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/28-Best-Super-Bowl-Appetizers-768x768.jpg 768w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/28-Best-Super-Bowl-Appetizers-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/28-Best-Super-Bowl-Appetizers-610x610.jpg 610w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/28-Best-Super-Bowl-Appetizers-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/28-Best-Super-Bowl-Appetizers.jpg 900w" sizes="(max-width: 320px) 100vw, 320px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.thecookierookie.com/28-best-super-bowl-appetizers/">28 Best Super Bowl Appetizers</a></h2></header></article></div></section>
+<section id="featured-post-29" class="widget-7 widget-odd widget featured-content featuredpost"><div class="widget-7 widget-odd widget-wrap"><h4 class="widget-title widgettitle">Favorite Recipes</h4>
+<article class="simple-grid one-third odd first post-19007 post type-post status-publish format-standard has-post-thumbnail category-appetizers category-brands category-favorite-recipes category-recipes tag-app tag-appetizer tag-bowl tag-bread tag-cheese tag-dip tag-football tag-french-onion tag-la-brea tag-mini tag-mozzarella tag-onion tag-party tag-pretzel tag-roll tag-sourdough tag-super-bowl tag-superbowl tag-swiss tag-tailgate tag-tailgating entry"><a href="http://www.thecookierookie.com/mini-french-onion-dip-bread-bowls/" title="Mini French Onion Dip Bread Bowls" class="alignnone"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14-150x150.jpg" class="entry-image attachment-post" alt="These MINI FRENCH ONION DIP BREAD BOWLS are the perfect cute and DELICIOUS appetizer for the Super Bowl! Wow your party guests with French Onion Dip inside mini bread bowls and topped with melty swiss. BEST DIP EVER!" itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14-768x768.jpg 768w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14-610x610.jpg 610w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/mini-french-onion-dip-bread-bowls-7-of-14.jpg 1200w" sizes="(max-width: 150px) 100vw, 150px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.thecookierookie.com/mini-french-onion-dip-bread-bowls/">Mini French Onion Dip Bread Bowls</a></h2></header></article><article class="simple-grid one-third post-18742 post type-post status-publish format-standard has-post-thumbnail category-appetizers category-brands category-easy-2 category-favorite-recipes category-recipes tag-appetizer tag-bacon tag-caramelized tag-carmelized tag-cheddar tag-cheese tag-chips tag-chives tag-cream tag-dip tag-football tag-game-day tag-onion tag-snack tag-sour-cream tag-super-bowl tag-superbowl tag-tailgate tag-tailgating entry"><a href="http://www.thecookierookie.com/carmelized-onion-bacon-dip/" title="Caramelized Onion Bacon Dip" class="alignnone"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/caramelized-onion-bacon-dip-8-of-8-150x150.jpg" class="entry-image attachment-post" alt="This CARAMELIZED ONION BACON DIP is the ultimate super easy appetizer to make for game day! This sour cream dip is made in minutes and loved by all...so much flavor!" itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/caramelized-onion-bacon-dip-8-of-8-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/caramelized-onion-bacon-dip-8-of-8-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/caramelized-onion-bacon-dip-8-of-8-768x768.jpg 768w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/caramelized-onion-bacon-dip-8-of-8-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/caramelized-onion-bacon-dip-8-of-8-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/caramelized-onion-bacon-dip-8-of-8-610x610.jpg 610w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/caramelized-onion-bacon-dip-8-of-8-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/caramelized-onion-bacon-dip-8-of-8.jpg 1200w" sizes="(max-width: 150px) 100vw, 150px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.thecookierookie.com/carmelized-onion-bacon-dip/">Caramelized Onion Bacon Dip</a></h2></header></article><article class="simple-grid one-third odd post-1920 post type-post status-publish format-standard has-post-thumbnail category-appetizers category-easy-2 category-favorite-recipes category-recipes tag-appetizer tag-basil tag-caprese tag-cheese tag-cheese-dip tag-christmas tag-dip tag-holidays tag-hot-dip tag-mozzarella tag-new-years tag-new-years-eve tag-nye tag-party tag-sour-cream tag-super-bowl tag-superbowl tag-tailgate tag-tailgating tag-tomato entry"><a href="http://www.thecookierookie.com/cheesy-caprese-dip/" title="Cheesy Caprese Dip" class="alignnone"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-caprese-dip-5-of-11-150x150.jpg" class="entry-image attachment-post" alt="CHEESY CAPRESE DIP is the ultimate EASY party dip for any occasion! Perfect for any celebration, tailgating, and especially the Super Bowl! Best cheese dip recipe ever!" itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-caprese-dip-5-of-11-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-caprese-dip-5-of-11-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-caprese-dip-5-of-11-768x768.jpg 768w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-caprese-dip-5-of-11-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-caprese-dip-5-of-11-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-caprese-dip-5-of-11-610x610.jpg 610w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-caprese-dip-5-of-11-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-caprese-dip-5-of-11.jpg 1200w" sizes="(max-width: 150px) 100vw, 150px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.thecookierookie.com/cheesy-caprese-dip/">Cheesy Caprese Dip</a></h2></header></article><article class="simple-grid one-third first post-18311 post type-post status-publish format-standard has-post-thumbnail category-favorite-recipes category-maincourses category-recipes tag-bacon tag-chowder tag-comfort-food tag-corn tag-potato tag-sherry tag-soup tag-sweet tag-sweet-corn tag-winter entry"><a href="http://www.thecookierookie.com/bacon-corn-chowder/" title="Bacon Corn Chowder" class="alignnone"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/bacon-corn-chowder-4-of-9-150x150.jpg" class="entry-image attachment-post" alt="BACON CORN CHOWDER is a must make for Winter! This delicious sweet chowder loaded with potatoes, corn, bacon, and so much flavor is the ultimate comfort food." itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/bacon-corn-chowder-4-of-9-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/bacon-corn-chowder-4-of-9-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/bacon-corn-chowder-4-of-9-768x768.jpg 768w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/bacon-corn-chowder-4-of-9-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/bacon-corn-chowder-4-of-9-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/bacon-corn-chowder-4-of-9-610x610.jpg 610w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/bacon-corn-chowder-4-of-9-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/bacon-corn-chowder-4-of-9.jpg 1200w" sizes="(max-width: 150px) 100vw, 150px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.thecookierookie.com/bacon-corn-chowder/">Bacon Corn Chowder</a></h2></header></article><article class="simple-grid one-third odd post-18299 post type-post status-publish format-standard has-post-thumbnail category-favorite-recipes category-maincourses category-recipes tag-bake tag-cheese tag-cheesy tag-crab tag-fish tag-italian tag-lasagna tag-seafood tag-shrimp entry"><a href="http://www.thecookierookie.com/cheesy-seafood-lasagna/" title="Cheesy Seafood Lasagna" class="alignnone"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-seafood-lasagna-3-of-11-150x150.jpg" class="entry-image attachment-post" alt="CHEESY SEAFOOD LASAGNA was a total hit in our house. Full of flavor, beautiful, and fool-proof. Layers of noodles, cheese, crab, shrimp, and more! SO DELICIOUS!" itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-seafood-lasagna-3-of-11-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-seafood-lasagna-3-of-11-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-seafood-lasagna-3-of-11-768x768.jpg 768w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-seafood-lasagna-3-of-11-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-seafood-lasagna-3-of-11-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-seafood-lasagna-3-of-11-610x610.jpg 610w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-seafood-lasagna-3-of-11-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/cheesy-seafood-lasagna-3-of-11.jpg 1200w" sizes="(max-width: 150px) 100vw, 150px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.thecookierookie.com/cheesy-seafood-lasagna/">Cheesy Seafood Lasagna</a></h2></header></article><article class="simple-grid one-third post-18248 post type-post status-publish format-standard has-post-thumbnail category-favorite-recipes category-maincourses category-recipes tag-basil tag-cheese tag-cheesy tag-comfort-food tag-italian tag-marinara tag-meatball tag-mozzarella tag-parmesan tag-pasta tag-soup tag-tomato entry"><a href="http://www.thecookierookie.com/cheesy-meatball-parmesan-soup/" title="Cheesy Meatball Parmesan Soup" class="alignnone"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/meatball-parmesan-soup-7-of-11-150x150.jpg" class="entry-image attachment-post" alt="CHEESY MEATBALL PARMESAN SOUP is the ultimate comfort food! Hearty Meatball Parm Soup topped with melted cheese and basil just might be the best soup you&#039;ve had all year." itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/meatball-parmesan-soup-7-of-11-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/meatball-parmesan-soup-7-of-11-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/meatball-parmesan-soup-7-of-11-768x768.jpg 768w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/meatball-parmesan-soup-7-of-11-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/meatball-parmesan-soup-7-of-11-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/meatball-parmesan-soup-7-of-11-610x610.jpg 610w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/meatball-parmesan-soup-7-of-11-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/meatball-parmesan-soup-7-of-11.jpg 1200w" sizes="(max-width: 150px) 100vw, 150px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.thecookierookie.com/cheesy-meatball-parmesan-soup/">Cheesy Meatball Parmesan Soup</a></h2></header></article><article class="simple-grid one-third odd first post-18287 post type-post status-publish format-standard has-post-thumbnail category-easy-2 category-favorite-recipes category-maincourses category-recipes tag-cheese tag-cheesy tag-chicken tag-crockpot tag-easy tag-football tag-pulled tag-rotel tag-sandwich tag-sandwiches tag-slow-cooker tag-super-bowl tag-superbowl tag-tailgate tag-tomatoes tag-velveeta entry"><a href="http://www.thecookierookie.com/slow-cooker-rotel-dip-chicken-sandwiches/" title="Slow Cooker Rotel Dip Chicken Sandwiches" class="alignnone"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/slow-cooker-rotel-dip-chicken-sandwiches-6-of-10-150x150.jpg" class="entry-image attachment-post" alt="SLOW COOKER ROTEL DIP CHICKEN SANDWICHES are the ultimate way to tailgate for the Super Bowl! Spicy Cheesy Chicken Sandwiches made in the crockpot. SO MUCH FLAVOR! So addicting." itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/slow-cooker-rotel-dip-chicken-sandwiches-6-of-10-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/slow-cooker-rotel-dip-chicken-sandwiches-6-of-10-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/slow-cooker-rotel-dip-chicken-sandwiches-6-of-10-768x768.jpg 768w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/slow-cooker-rotel-dip-chicken-sandwiches-6-of-10-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/slow-cooker-rotel-dip-chicken-sandwiches-6-of-10-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/slow-cooker-rotel-dip-chicken-sandwiches-6-of-10-610x610.jpg 610w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/slow-cooker-rotel-dip-chicken-sandwiches-6-of-10-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/slow-cooker-rotel-dip-chicken-sandwiches-6-of-10.jpg 1200w" sizes="(max-width: 150px) 100vw, 150px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.thecookierookie.com/slow-cooker-rotel-dip-chicken-sandwiches/">Slow Cooker Rotel Dip Chicken Sandwiches</a></h2></header></article><article class="simple-grid one-third post-18333 post type-post status-publish format-standard has-post-thumbnail category-appetizers category-brands category-easy-2 category-favorite-recipes category-holiday-faves category-recipes tag-appetizer tag-cheese tag-cheese-dip tag-chiles tag-chili tag-chili-lime tag-chips tag-dip tag-flaming tag-lime tag-mexican tag-new-years tag-new-years-eve tag-nye tag-old-el-paso tag-pico tag-queso tag-spicy tag-super-bowl-superbowl tag-taco tag-tailgate tag-tequila tag-tortilla entry"><a href="http://www.thecookierookie.com/tequila-lime-flaming-queso/" title="Tequila Lime Flaming Queso" class="alignnone"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/tequila-lime-flaming-queso-feature-150x150.jpg" class="entry-image attachment-post" alt="TEQUILA LIME FLAMING QUESO is the most fun way to eat cheese dip! This delicious queso is loaded with pico and green chiles, topped with a chili lime reduction, and then doused in tequila and lit on fire! The ultimate NYE or Super Bowl appetizer!" itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/tequila-lime-flaming-queso-feature-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/tequila-lime-flaming-queso-feature-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/tequila-lime-flaming-queso-feature-768x768.jpg 768w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/tequila-lime-flaming-queso-feature-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/tequila-lime-flaming-queso-feature-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/tequila-lime-flaming-queso-feature-610x610.jpg 610w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/tequila-lime-flaming-queso-feature-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/tequila-lime-flaming-queso-feature.jpg 1200w" sizes="(max-width: 150px) 100vw, 150px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.thecookierookie.com/tequila-lime-flaming-queso/">Tequila Lime Flaming Queso</a></h2></header></article><article class="simple-grid one-third odd post-18421 post type-post status-publish format-standard has-post-thumbnail category-brands category-easy-2 category-favorite-recipes category-recipes tag-appetizer tag-artichoke tag-borden tag-cheese tag-christmas tag-crab tag-dip tag-mozzarella tag-new-years tag-new-years-eve tag-nye tag-party tag-pepper-jack tag-super-bowl tag-superbowl tag-tailgate tag-warm entry"><a href="http://www.thecookierookie.com/crab-artichoke-dip-bread-bowl/" title="Warm Crab Artichoke Dip in a Bread Bowl" class="alignnone"><img width="150" height="150" src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/warm-crab-artichoke-dip-in-bread-bowl-9-of-10-150x150.jpg" class="entry-image attachment-post" alt="WARM CRAB ARTICHOKE DIP IN A BREAD BOWL is the perfect EASY appetizer for tailgating or celebrating with friends. The Super Bowl won&#039;t be the same without this simple, classy, and cheesy dip!" itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/warm-crab-artichoke-dip-in-bread-bowl-9-of-10-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/warm-crab-artichoke-dip-in-bread-bowl-9-of-10-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/warm-crab-artichoke-dip-in-bread-bowl-9-of-10-768x768.jpg 768w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/warm-crab-artichoke-dip-in-bread-bowl-9-of-10-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/warm-crab-artichoke-dip-in-bread-bowl-9-of-10-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/warm-crab-artichoke-dip-in-bread-bowl-9-of-10-610x610.jpg 610w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/warm-crab-artichoke-dip-in-bread-bowl-9-of-10-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/12/warm-crab-artichoke-dip-in-bread-bowl-9-of-10.jpg 1200w" sizes="(max-width: 150px) 100vw, 150px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.thecookierookie.com/crab-artichoke-dip-bread-bowl/">Warm Crab Artichoke Dip in a Bread Bowl</a></h2></header></article></div></section>
+<section id="featured-post-23" class="widget-8 widget-even widget featured-content featuredpost"><div class="widget-8 widget-even widget-wrap"><h4 class="widget-title widgettitle">Roundups!</h4>
+<article class="simple-grid one-half odd first post-18872 post type-post status-publish format-standard has-post-thumbnail category-recipes category-roundups entry"><a href="http://www.thecookierookie.com/28-best-super-bowl-appetizers/" title="28 Best Super Bowl Appetizers" class="alignnone"><img width="680" height="450" src="http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/28-Best-Super-Bowl-Appetizers-680x450.jpg" class="entry-image attachment-post" alt="18 BEST SUPER BOWL APPETIZERS! The best Super Bowl appetizers perfect for tailgating! Dips, wings, nachos, and everything in between!" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.thecookierookie.com/28-best-super-bowl-appetizers/">28 Best Super Bowl Appetizers</a></h2></header></article><article class="simple-grid one-half post-18785 post type-post status-publish format-standard has-post-thumbnail category-recipes category-roundups tag-ice-cream tag-protein tag-shake tag-smoothie tag-smoothies entry"><a href="http://www.thecookierookie.com/25-favorite-easy-smoothies/" title="25 Favorite Easy Smoothies" class="alignnone"><img width="680" height="450" src="http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/25-Favorite-Easy-Smoothies-680x450.jpg" class="entry-image attachment-post" alt="25 FAVORITE EASY SMOOTHIES! These easy smoothie recipes are the perfect healthy recipes for breakfast, after working out, or anywhere in between. ALL THE BEST SMOOTHIE RECIPES!" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.thecookierookie.com/25-favorite-easy-smoothies/">25 Favorite Easy Smoothies</a></h2></header></article><article class="simple-grid one-half odd first post-18583 post type-post status-publish format-standard has-post-thumbnail category-recipes category-roundups tag-diet tag-dressing tag-healthy tag-hearty tag-new-years tag-salad tag-salads tag-skinny tag-weight-loss entry"><a href="http://www.thecookierookie.com/27-big-hearty-salads/" title="27 Big Hearty Salads" class="alignnone"><img width="680" height="450" src="http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/27-big-hearty-salads-680x450.jpg" class="entry-image attachment-post" alt="These 27 BIG HEARTY SALADS are the perfect healthy recipe for those New Years resolutions! Every type of salad you can imagine...so easy and delicious! Eating healthy can be delicious!" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.thecookierookie.com/27-big-hearty-salads/">27 Big Hearty Salads</a></h2></header></article><article class="simple-grid one-half post-18536 post type-post status-publish format-standard has-post-thumbnail category-recipes category-roundups tag-crockpot tag-slow-cooker entry"><a href="http://www.thecookierookie.com/25-slow-cooker-favorites/" title="25 Slow Cooker Favorites" class="alignnone"><img width="680" height="450" src="http://cdn1.thecookierookie.com/wp-content/uploads/2017/01/25-slow-cooker-favorites-680x450.jpg" class="entry-image attachment-post" alt="25 SLOW COOKER FAVORITES for every occasion. The best slow cooker recipes for appetizers, main courses, and more! Nothing beats an amazing crockpot recipe!" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.thecookierookie.com/25-slow-cooker-favorites/">25 Slow Cooker Favorites</a></h2></header></article></div></section>
+<section id="featured-page-2" class="widget-9 widget-odd widget featured-content featuredpage"><div class="widget-9 widget-odd widget-wrap"><h4 class="widget-title widgettitle">Start a Blog!!</h4>
+<article class="post-32 page type-page status-publish has-post-thumbnail entry"><a href="http://www.thecookierookie.com/how-to-start-a-blog/" class="alignnone" ><img width="675" height="450" src="http://cdn1.thecookierookie.com/wp-content/uploads/2012/10/Untitled-680x453.jpg" class="entry-image attachment-page" alt="How to start a blog and MAKE MONEY Blogging!" itemprop="image" /></a></article></div></section>
+<section id="text-34" class="widget-10 widget-even widget widget_text"><div class="widget-10 widget-even widget-wrap">			<div class="textwidget"><center><a title="Follow The Cookie Rookie on Bloglovin" href="http://www.bloglovin.com/en/blog/11390941"><img alt="Follow on Bloglovin" src="http://www.bloglovin.com/widget/bilder/en/widget.gif?id=11390941" border="0"></a><center>
+
+<a href="https://www.eatlove.is/menus?merchantId=916aa472-229f-4fbd-a43d-57392dd70879&merchantName=Cookie+Rookie&mref=916aa472">
+
+        <img src="https://static.chewba.info/images/blogger-badge-1.jpg" />
+
+    </a></div>
+		</div></section>
+<!-- fixed widget --><section id="text-74" class="widget-11 widget-last widget-odd widget widget_text"><div class="widget-11 widget-last widget-odd widget-wrap">			<div class="textwidget"><div id="gads-sticky-sidebar"></div></div>
+		</div></section>
+</aside></div></div><div class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="user-profile-3" class="widget-1 widget-first widget-last widget-odd widget user-profile"><div class="widget-1 widget-first widget-last widget-odd widget-wrap"><h4 class="widget-title widgettitle">Connect</h4>
+<p><img alt='' src='http://1.gravatar.com/avatar/16471cb1a79e139ea1bfc5aa0eb4f60c?s=125&#038;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&#038;r=g' srcset='http://1.gravatar.com/avatar/16471cb1a79e139ea1bfc5aa0eb4f60c?s=250&amp;d=http%3A%2F%2Fwww.thecookierookie.com%2Ffavicon-96x96.png&amp;r=g 2x' class='avatar avatar-125 photo' height='125' width='125' />Hello and welcome on my journey to learn how to cook! We hope to provide you with fun and easy recipes the entire family will love.</p>
+</div></section>
+</div><div class="footer-widgets-2 widget-area"><section id="featured-post-6" class="widget-1 widget-first widget-last widget-odd widget featured-content featuredpost"><div class="widget-1 widget-first widget-last widget-odd widget-wrap"><h4 class="widget-title widgettitle">Popular Posts</h4>
+<article class="simple-grid one-third odd first post-12108 post type-post status-publish format-standard has-post-thumbnail category-giveaways tag-amazon tag-calphalon tag-christmas tag-giveaway entry"><a href="http://www.thecookierookie.com/favorite-kitchen-items-giveaway/" title="Favorite Kitchen Items (GIVEAWAY!)" class="alignnone"><img width="320" height="320" src="http://cdn1.thecookierookie.com/wp-content/uploads/2015/11/Calphalon-Knife-Block-2-blog3-320x320.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2015/11/Calphalon-Knife-Block-2-blog3-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/11/Calphalon-Knife-Block-2-blog3-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/11/Calphalon-Knife-Block-2-blog3-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/11/Calphalon-Knife-Block-2-blog3.jpg 500w" sizes="(max-width: 320px) 100vw, 320px" /></a></article><article class="simple-grid one-third post-8267 post type-post status-publish format-standard has-post-thumbnail category-appetizers category-brands category-easy-2 category-favorite-recipes category-giveaways category-recipes category-desserts tag-biscoff tag-black-and-white tag-blender tag-blendtec tag-cookie tag-cookie-butter-butter tag-cookies tag-cookies-and-cream tag-copycat tag-cream tag-dessert tag-dip tag-diy tag-easy tag-giveaway tag-knock-off tag-oreo tag-spread tag-sweet tag-trader-joes entry"><a href="http://www.thecookierookie.com/cookies-and-cream-cookie-butter/" title="Copycat Trader Joe&#8217;s Cookies and Cream Cookie Butter" class="alignnone"><img width="320" height="320" src="http://cdn1.thecookierookie.com/wp-content/uploads/2015/01/cookies-and-cream-cookie-butter-feature-320x320.jpg" class="entry-image attachment-post" alt="Copycat Trader Joe&#039;s Cookies and Cream Cookie Butter!!! LIFE CHANGING! Make Oreo Cookie Butter at home! | The Cookie Rookie" itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2015/01/cookies-and-cream-cookie-butter-feature-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/01/cookies-and-cream-cookie-butter-feature-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/01/cookies-and-cream-cookie-butter-feature-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/01/cookies-and-cream-cookie-butter-feature.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/01/cookies-and-cream-cookie-butter-feature-680x680.jpg 680w" sizes="(max-width: 320px) 100vw, 320px" /></a></article><article class="simple-grid one-third odd post-3421 post type-post status-publish format-standard has-post-thumbnail category-favorite-recipes category-weekend-slimdown category-maincourses category-recipes tag-452 tag-avocado tag-cilantro tag-delicious tag-easy tag-grill tag-grilled tag-grilled-salmon tag-healthy tag-lime tag-salmon tag-salmon-recipe tag-salmon-recipes tag-salmon-with-avocado tag-salsa tag-seafood tag-skinny tag-the-best-salmon tag-whole tag-whole-30 tag-whole30 entry"><a href="http://www.thecookierookie.com/salmon-with-avocado/" title="Whole30 grilled salmon with avocado salsa recipe" class="alignnone"><img width="320" height="320" src="http://cdn1.thecookierookie.com/wp-content/uploads/2014/01/salmon.feature1-450x450.jpg" class="entry-image attachment-post" alt="SALMON WITH AVOCADO SALSA" itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2014/01/salmon.feature1-450x450.jpg 450w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/01/salmon.feature1-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/01/salmon.feature1-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/01/salmon.feature1-1024x1024.jpg 1024w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/01/salmon.feature1-600x600.jpg 600w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/01/salmon.feature1-250x250.jpg 250w" sizes="(max-width: 320px) 100vw, 320px" /></a></article><article class="simple-grid one-third first post-12634 post type-post status-publish format-standard has-post-thumbnail category-appetizers category-brands category-easy-2 category-favorite-recipes category-maincourses category-recipes tag-bake tag-baked tag-beans tag-chicken tag-chili tag-crowd tag-dinner tag-easy tag-holidays tag-mexican tag-new-years tag-new-years-eve tag-old-el-paso tag-oven tag-recipe tag-simple tag-spicy tag-taco tag-tomato entry"><a href="http://www.thecookierookie.com/baked-spicy-chicken-tacos/" title="Easy Oven Baked Spicy Chicken Tacos" class="alignnone"><img width="320" height="320" src="http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/oven-baked-spicy-chicken-tacos-5-of-14-320x320.jpg" class="entry-image attachment-post" alt="SUPER EASY Oven Baked Spicy Chicken Tacos make a weekly appearance on our table. All the flavor and none of the stress. ALL THAT MELTED CHEESE! Perfect recipe for a crowd on Family Mexican Night!" itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/oven-baked-spicy-chicken-tacos-5-of-14-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/oven-baked-spicy-chicken-tacos-5-of-14-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/oven-baked-spicy-chicken-tacos-5-of-14-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/oven-baked-spicy-chicken-tacos-5-of-14-716x716.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/oven-baked-spicy-chicken-tacos-5-of-14-680x680.jpg 680w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/12/oven-baked-spicy-chicken-tacos-5-of-14.jpg 736w" sizes="(max-width: 320px) 100vw, 320px" /></a></article><article class="simple-grid one-third odd post-8532 post type-post status-publish format-standard has-post-thumbnail category-appetizers category-easy-2 category-favorite-recipes category-giveaways category-recipes category-sides tag-bread tag-crusty tag-dutch-oven tag-french tag-homemade tag-le-crueset tag-rosemary tag-salt tag-sea-salt tag-yeast entry"><a href="http://www.thecookierookie.com/dutch-oven-bread/" title="Rosemary Sea Salt Dutch Oven Bread" class="alignnone"><img width="320" height="320" src="http://cdn1.thecookierookie.com/wp-content/uploads/2015/02/dutch-oven-crusty-bread-feature-320x320.jpg" class="entry-image attachment-post" alt="EASY Rosemary Sea Salt Dutch Oven Bread! Crusty Bread made in a Dutch Oven. The only homemade bread recipe you&#039;ll ever need! | The Cookie Rookie!" itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2015/02/dutch-oven-crusty-bread-feature-320x320.jpg 320w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/02/dutch-oven-crusty-bread-feature-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/02/dutch-oven-crusty-bread-feature-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/02/dutch-oven-crusty-bread-feature.jpg 716w, http://cdn1.thecookierookie.com/wp-content/uploads/2015/02/dutch-oven-crusty-bread-feature-680x680.jpg 680w" sizes="(max-width: 320px) 100vw, 320px" /></a></article><article class="simple-grid one-third post-3612 post type-post status-publish format-standard has-post-thumbnail category-favorite-recipes category-maincourses category-recipes tag-best tag-carrot tag-celery tag-chicken tag-cozy tag-cream tag-creamy tag-favorite tag-herbs tag-onion tag-soup tag-stew tag-warm tag-winter entry"><a href="http://www.thecookierookie.com/chicken-soup/" title="creamy chicken soup" class="alignnone"><img width="320" height="320" src="http://cdn1.thecookierookie.com/wp-content/uploads/2014/02/chsoupfeature-450x450.jpg" class="entry-image attachment-post" alt="" itemprop="image" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2014/02/chsoupfeature-450x450.jpg 450w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/02/chsoupfeature-150x150.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/02/chsoupfeature-300x300.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/02/chsoupfeature-1024x1024.jpg 1024w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/02/chsoupfeature-600x600.jpg 600w, http://cdn1.thecookierookie.com/wp-content/uploads/2014/02/chsoupfeature-250x250.jpg 250w" sizes="(max-width: 320px) 100vw, 320px" /></a></article></div></section>
+</div><div class="footer-widgets-3 widget-area"><section id="search-5" class="widget-1 widget-first widget-odd widget widget_search"><div class="widget-1 widget-first widget-odd widget-wrap"><h4 class="widget-title widgettitle">Looking for something?</h4>
+<form class="search-form" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" method="get" action="http://www.thecookierookie.com/" role="search"><meta itemprop="target" content="http://www.thecookierookie.com/?s={s}"/><input itemprop="query-input" type="search" name="s" placeholder="Search this website &#x2026;" /><input type="submit" value="Search"  /></form></div></section>
+<section id="simple-social-icons-4" class="widget-2 widget-last widget-even widget simple-social-icons"><div class="widget-2 widget-last widget-even widget-wrap"><ul class="alignright"><li class="ssi-facebook"><a href="https://www.facebook.com/cookierookiebec" ><svg role="img" class="social-facebook" aria-labelledby="social-facebook"><title id="social-facebook">Facebook</title><use xlink:href="http://www.thecookierookie.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-gplus"><a href="https://plus.google.com/+TheCookieRookiebec/" ><svg role="img" class="social-gplus" aria-labelledby="social-gplus"><title id="social-gplus">Google+</title><use xlink:href="http://www.thecookierookie.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-gplus"></use></svg></a></li><li class="ssi-instagram"><a href="http://instagram.com/thecookierookie" ><svg role="img" class="social-instagram" aria-labelledby="social-instagram"><title id="social-instagram">Instagram</title><use xlink:href="http://www.thecookierookie.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="http://www.pinterest.com/beckygallhardin/" ><svg role="img" class="social-pinterest" aria-labelledby="social-pinterest"><title id="social-pinterest">Pinterest</title><use xlink:href="http://www.thecookierookie.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-stumbleupon"><a href="http://www.stumbleupon.com/stumbler/thecookierookie" ><svg role="img" class="social-stumbleupon" aria-labelledby="social-stumbleupon"><title id="social-stumbleupon">StumbleUpon</title><use xlink:href="http://www.thecookierookie.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-stumbleupon"></use></svg></a></li><li class="ssi-tumblr"><a href="http://thecookierookie.tumblr.com" ><svg role="img" class="social-tumblr" aria-labelledby="social-tumblr"><title id="social-tumblr">Tumblr</title><use xlink:href="http://www.thecookierookie.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-tumblr"></use></svg></a></li><li class="ssi-twitter"><a href="http://www.twitter.com/cookierookiebec" ><svg role="img" class="social-twitter" aria-labelledby="social-twitter"><title id="social-twitter">Twitter</title><use xlink:href="http://www.thecookierookie.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li></ul></div></section>
+</div></div></div><footer class="site-footer" itemscope itemtype="http://schema.org/WPFooter"><div class="wrap"><p>Copyright &#x000A9;&nbsp;2017 &middot;  <a href="http://www.bloggerboutique.com/go/genesis">Genesis Framework</a> &middot; customized by <a href="http://www.bloggerboutique.com/">blogger boutique</a> </p></div></footer></div><div class="et_bloom_flyin et_bloom_optin et_bloom_resize et_bloom_flyin_right et_bloom_optin_0 et_bloom_auto_popup et_bloom_hide_mobile_optin" data-delay="14" data-cookie_duration="14">
+							<div class="et_bloom_form_container et_bloom_form_bottom with_edge zigzag_edge et_bloom_with_border et_bloom_border_letter et_bloom_border_position_full et_bloom_rounded et_bloom_form_text_dark et_bloom_animation_slideup et_flyin_1_field et_bloom_flyin_bottom_inline">
+								
+			<div class="et_bloom_form_container_wrapper clearfix">
+				<div class="et_bloom_header_outer">
+					<div class="et_bloom_form_header et_bloom_header_text_dark">
+						<img width="610" height="197" src="http://cdn1.thecookierookie.com/wp-content/uploads/2016/06/fb1-610x197.jpg" class=" et_bloom_image_slideup et_bloom_image" alt="" srcset="http://cdn1.thecookierookie.com/wp-content/uploads/2016/06/fb1-610x197.jpg 610w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/06/fb1-150x49.jpg 150w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/06/fb1-300x97.jpg 300w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/06/fb1-768x249.jpg 768w, http://cdn1.thecookierookie.com/wp-content/uploads/2016/06/fb1-716x232.jpg 716w" sizes="(max-width: 610px) 100vw, 610px" />
+						<div class="et_bloom_form_text">
+						<h2 style="text-align: center;">NEVER MISS A RECIPE!</h2><p style="text-align: center;">Join our mailing list and never miss out on a single delicious minute!</p>
+					</div>
+						
+					</div>
+				</div>
+				<div class="et_bloom_form_content et_bloom_1_field et_bloom_bottom_inline">
+					
+					
+					<form method="post" class="clearfix">
+						
+						<p class="et_bloom_popup_input et_bloom_subscribe_email">
+							<input placeholder="Email">
+						</p>
+
+						<button data-optin_id="optin_0" data-service="mailchimp" data-list_id="7f8cd13092" data-page_id="7297" data-account="thecookierookie" data-disable_dbl_optin="" class="et_bloom_submit_subscription">
+							<span class="et_bloom_subscribe_loader"></span>
+							<span class="et_bloom_button_text et_bloom_button_text_color_light">SIGN ME UP!</span>
+						</button>
+					</form>
+					<div class="et_bloom_success_container">
+						<span class="et_bloom_success_checkmark"></span>
+					</div>
+					<h2 class="et_bloom_success_message">So glad we are pen pals! </h2>
+					
+				</div>
+			</div>
+			<span class="et_bloom_close_button"></span>
+							</div>
+						</div><script type="text/javascript">
+bN_cfg = {
+  // Force beacons to this address to resolve SSL certificate issues.
+  b: "b.aol.com",
+  // The "h" parameter whitelists this hostname for beacon initialization.
+  // Note: Can be a string or an array of hostnames. Use "location.hostname" to match URL of current page
+  h: location.hostname
+};
+
+function runOmni()
+{
+	s_265.pfxID="wp_undefined";
+	s_265.pageName=document.title;
+	s_265.channel="wp_undefined";
+	s_265.linkInternalFilters="javascript:";
+	s_265.prop1="wp_undefined";
+	s_265.prop2="";
+	s_265.prop54="wordpress";
+	s_265.mmxgo=true;
+	var s_code=s_265.t();
+}
+s_265_account ="wp_undefined";
+(function(){
+    var d = document, s = d.createElement('script');
+    s.type = 'text/javascript';
+    s.src = (location.protocol == 'https:' ? 'https://s' : 'http://o') + '.aolcdn.com/os_merge/?file=/aol/beacon.min.js&file=/aol/omniture.min.js';
+    d.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script>
+<script type='text/javascript'>jQuery(document).ready(function($) {$(".flexslider").flexslider({controlsContainer: "#genesis-responsive-slider",animation: "slide",directionNav: 1,controlNav: 1,animationDuration: 800,slideshowSpeed: 4000    });  });</script><script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-content/plugins/anti-spam/js/anti-spam-4.3.js'></script>
+<script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-content/plugins/bloom/js/jquery.uniform.min.js?ver=1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bloomSettings = {"ajaxurl":"http:\/\/www.thecookierookie.com\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/www.thecookierookie.com\/skillet-basil-cream-chicken-2\/","stats_nonce":"68ea8d6f12","subscribe_nonce":"5a1ed5f15c"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-content/plugins/bloom/js/custom.js?ver=1.1'></script>
+<script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-content/plugins/bloom/js/idle-timer.min.js?ver=1.1'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201704'></script>
+<script type='text/javascript' src='http://www.chicoryapp.com/widget_v2/?php=5.6.29&#038;plugin=2.0.7&#038;location=below-ingredient&#038;ver=4.7.1'></script>
+<script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-includes/js/comment-reply.min.js?ver=4.7.1'></script>
+<script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-content/themes/foodiepro/assets/js/general.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-content/plugins/genesis-responsive-slider/js/jquery.flexslider.js?ver=0.9.5'></script>
+<script type='text/javascript'>
+var q2w3_sidebar_options = new Array();
+q2w3_sidebar_options[0] = { "sidebar" : "sidebar", "margin_top" : 15, "margin_bottom" : 550, "stop_id" : "", "screen_max_width" : 600, "screen_max_height" : 0, "width_inherit" : false, "refresh_interval" : 8000, "window_load_hook" : true, "disable_mo_api" : false, "widgets" : ['text-74'] };
+</script>
+<script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.0.4'></script>
+<script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-content/plugins/wp-gallery-custom-links/wp-gallery-custom-links.js?ver=1.1'></script>
+<script type='text/javascript' src='http://cdn2.thecookierookie.com/wp-includes/js/wp-embed.min.js?ver=4.7.1'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201704.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.5',blog:'41247206',post:'7297',tz:'-6',srv:'www.thecookierookie.com'} ]);
+	_stq.push([ 'clickTrackerInit', '41247206', '7297' ]);
+</script>
+</body></html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1485406455 -->
