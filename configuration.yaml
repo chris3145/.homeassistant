@@ -99,7 +99,7 @@ script: !include_dir_merge_named script
 
 
 # temporarily removed as I prepare to update the Raspberry Pi
-# recipe_reader:
+recipe_reader:
 # hello_state:
 # hello_service:
 
