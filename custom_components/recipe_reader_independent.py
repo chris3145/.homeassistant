@@ -131,7 +131,7 @@ def downloadRecipe(url):
     This runs all of the functions to save the webpage, extract the title, and extract the ingredients.
     '''
     
-    print("Load service called")
+    print("Download service called")
             
     global rcpTitle
     global rcpIngList
