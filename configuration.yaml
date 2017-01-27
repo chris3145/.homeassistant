@@ -97,11 +97,12 @@ script: !include_dir_merge_named script
 
 # python add ons
 
-recipe_reader:
 
-hello_state:
+# temporarily removed as I prepare to update the Raspberry Pi
+# recipe_reader:
+# hello_state:
+# hello_service:
 
-hello_service:
 
 # simple_alarm:
   # known_light: input_boolean.tv_on
