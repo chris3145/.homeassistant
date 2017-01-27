@@ -97,7 +97,7 @@ script: !include_dir_merge_named script
 
 # python add ons
 
-recipe_reader_hass:
+recipe_reader:
 
 hello_state:
 

@@ -311,7 +311,7 @@ googletag.cmd = googletag.cmd || [];
 </span>
 <input type="hidden" class="inpERRating" name="ERRating" value="0" />
 &nbsp;
-</span><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="670eeeb4a6" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="202"/></p>			</form>
+</span><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="670eeeb4a6" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="76"/></p>			</form>
 			</div><!-- #respond -->
 	
 	<li class="comment even thread-even depth-1" id="comment-209753">
