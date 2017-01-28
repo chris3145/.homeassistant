@@ -30,7 +30,7 @@ updater:
 discovery:
 
 # Allows you to issue voice commands from the frontend in enabled browsers
-# This is restricted to a very limited "turn on [device]" format, so I'm not even going to bother with it
+# This is currently restricted to a very limited "turn <Friendly Name> <on/off>" format, so I'm not going to bother with it
 # conversation:
 
 # Enables support for tracking state changes over time.
@@ -95,11 +95,14 @@ shell_command:
 
 script: !include_dir_merge_named script
 
+
 # python add ons
+recipe_reader:
+
 
 
 # temporarily removed as I prepare to update the Raspberry Pi
-recipe_reader:
+
 # hello_state:
 # hello_service:
 

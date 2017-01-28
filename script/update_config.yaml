@@ -1,7 +1,7 @@
 #------------------------------------------------------------------------------------#
-#   A script to update the home assistant configuration by pulling from github       #
+#   A script to update the home assistant configuration by fetching from github      #
 #                                                                                    #
-#   Pull the latest files down from github, then restart home assistant.             #
+#   Fetch the latest files from github, then restart home assistant.                 #
 #------------------------------------------------------------------------------------#
 
 

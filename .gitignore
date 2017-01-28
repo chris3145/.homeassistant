@@ -14,8 +14,8 @@ home-assistant_v2.db
 *.db-journal
 www
 OZW_Log.txt
-known_devices.yaml
 pyozw.sqlite
+known_devices.yaml
 
 
 
@@ -34,6 +34,7 @@ lib
 deps
 tts
 custom_components/recipeFiles
+
 
 
 # ignore anything that starts with a period
