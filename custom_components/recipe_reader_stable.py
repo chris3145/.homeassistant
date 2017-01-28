@@ -193,23 +193,19 @@ def setup(hass, config):
 
         # print("Recipe setup complete!")
         _LOGGER.info("Recipe parameters loaded!")
-        
-        respondWithIFTTT("Recipe saved!")
 
-         
 
     def findAmount(call):
         ''' when given an ingredient and an ingredient list, find all entries of the list that mention the ingredient'''
         
         print("\n\nFinding ingredient amount\n")
+        print("Working directory:")
+        print(os.getcwd())
         
-        # when called as a home assistant service, getting the ingredient looks like this
-        # ingredient = call.data.get(ATTR_INGR, DEFAULT_INGR)
-        
-        # when called directly, use this
-        ingredient = call
-        
-        
+        print("\nReal path")
+        print(os.path.realpath(__file__))
+
+        ingredient = call.data.get(ATTR_INGR, DEFAULT_INGR)
         _LOGGER.info("Finding ingredient amount. Searching for '"+ingredient+"' in ingredient list.")
                 
         try:
@@ -241,45 +237,9 @@ def setup(hass, config):
             
             return ingResult
 
-    # @app.route('/webhook', methods=['POST'])
-    def webhook(request):
     
-        
-        
-        
-        print("Webhook called")
-        
-        print('\n\n')
-        print("Request received as ", type(request))
-        # print("Request body is ", type(request.body))
-        print(request)
-        
-        requestStr = str(request)
-        print('\n\n')
-        
-        ingStartPos = requestStr.find('\'ingredient\': \'')
-        ingEndPos = requestStr.find(',', ingStartPos)
-        
-        foundIng = requestStr[ingStartPos+15:ingEndPos-1]
-        
-        print('Ingredient: "'+foundIng+'"')
-        # print(requestStr)
-       
-        
-        print('\n\n')
-        
-        
-        ingAmt = findAmount(foundIng)
-        
-        print(ingAmt[0])
-        
-        respondWithIFTTT(ingAmt[0])
-        
-        print('\n\n')
-              
     
     #these are the services that will be exposed to home assistant
-    hass.services.register(DOMAIN, 'webhook', webhook)
     hass.services.register(DOMAIN, 'downloadRecipe', downloadRecipe)  
     hass.services.register(DOMAIN, 'findAmount', findAmount)
     
@@ -291,6 +251,9 @@ def setup(hass, config):
         rcpTitle = getTitle(rcpFile)        
         rcpIngList = getIngredientList(rcpFile)
         _LOGGER.info("Data retrieval succeeded!")
+        # script.ifttt.trigger("event":"Text_Me","value1":"Test")
+        # print(rcpIngList)
+        # print('\n\n\n\n')
     except FileNotFoundError:
         _LOGGER.warn("No recipe file found.")  
     
