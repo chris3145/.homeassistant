@@ -149,7 +149,7 @@ def setup(hass, config):
        
 
        # Send a request to IFTTT containing the result
-        print("Sending IFTTT request")
+        # print("Sending IFTTT request")
         
         IFTTTurl = "https://maker.ifttt.com/trigger/Text_Me/with/key/dt6NqmWkQPIXhE5OopFufv"
         values = {'value1':response}#str(ingResult[0])}
@@ -224,7 +224,13 @@ def setup(hass, config):
         finally:
             print('\n\n')
             
-            respondWithIFTTT(str(ingResult[0]))
+            
+            if not ingResult:
+                ingResult = ["Ingredient not found"]
+                
+            _LOGGER.info("Result: " + str(ingResult[0]))
+            
+            # respondWithIFTTT(str(ingResult[0]))
             
 
             
