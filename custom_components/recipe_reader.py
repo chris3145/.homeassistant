@@ -217,7 +217,9 @@ def setup(hass, config):
                 
         try:
             ingResult = [x for x in rcpIngList if ingredient in x]
-               
+            _LOGGER.info("Result: " + str(ingResult[0]))
+
+            
         except NameError:       
             _LOGGER.error("No ingredient list found!")
             ingResult = ["No ingredient list found!"]            
@@ -231,7 +233,7 @@ def setup(hass, config):
         finally:
             print('\n\n')
             
-            
+            #if ingredient wasn't found
             if not ingResult:
                 ingResult = ["Ingredient not found"]
                 print(ingList)
