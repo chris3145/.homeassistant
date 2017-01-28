@@ -190,11 +190,14 @@ def setup(hass, config):
         # get the recipe title and the list of ingredients
         rcpTitle = getTitle(rcpFile)      
         rcpIngList = getIngredientList(rcpFile)
+        
+        print('\n\n',rcpTitle)
+        print('\n',rcpIngList)
 
         # print("Recipe setup complete!")
         _LOGGER.info("Recipe parameters loaded!")
         
-        respondWithIFTTT("Recipe saved!")
+        respondWithIFTTT("Recipe downloaded!")
 
          
 
@@ -231,6 +234,7 @@ def setup(hass, config):
             
             if not ingResult:
                 ingResult = ["Ingredient not found"]
+                print(ingList)
                 
             _LOGGER.info("Result: " + str(ingResult[0]))
             
@@ -249,17 +253,16 @@ def setup(hass, config):
         
         print("Webhook called")
         
-        print('\n\n')
-        print("Request received as ", type(request))
+        # print('\n\n')
+        # print("Request received as ", type(request))
         # print("Request body is ", type(request.body))
-        print(request)
+        # print(request)
         
         requestStr = str(request)
         print('\n\n')
         
         ingStartPos = requestStr.find('\'ingredient\': \'')
-        ingEndPos = requestStr.find(',', ingStartPos)
-        
+        ingEndPos = requestStr.find(',', ingStartPos) 
         foundIng = requestStr[ingStartPos+15:ingEndPos-1]
         
         print('Ingredient: "'+foundIng+'"')
