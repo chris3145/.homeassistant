@@ -142,6 +142,25 @@ def setup(hass, config):
         ingList = [x for x in ingList if x != '']
 
         return ingList
+        
+    def respondWithIFTTT(response):
+        
+        _LOGGER.info("Responding through IFTTT. Result: " +response)        
+       
+
+       # Send a request to IFTTT containing the result
+        print("Sending IFTTT request")
+        
+        IFTTTurl = "https://maker.ifttt.com/trigger/Text_Me/with/key/dt6NqmWkQPIXhE5OopFufv"
+        values = {'value1':response}#str(ingResult[0])}
+        
+        params = json.dumps(values).encode('utf8')
+        req = urllib.request.Request(IFTTTurl, params, headers={'content-type': 'application/json'})
+        
+        response = urllib.request.urlopen(req)
+        
+        print(response.read().decode('utf8')) #print IFTTT response
+    
     
     def downloadRecipe(call):
         '''Setup function that is called when first receiving the url.
@@ -194,7 +213,7 @@ def setup(hass, config):
                
         except NameError:       
             _LOGGER.error("No ingredient list found!")
-            ingResult = []            
+            ingResult = ["No ingredient list found!"]            
             
         else:
             # _LOGGER.info("Ingredient search complete. Results:"+ingResult)
@@ -205,19 +224,9 @@ def setup(hass, config):
         finally:
             print('\n\n')
             
+            respondWithIFTTT(str(ingResult[0]))
             
-            
-            # Send a request to IFTTT containing the result
-            print("Sending IFTTT request")
-            IFTTTurl = "https://maker.ifttt.com/trigger/Text_Me/with/key/dt6NqmWkQPIXhE5OopFufv"
-            values = {'value1':str(ingResult[0])}#str(ingResult[0])}
-            
-            params = json.dumps(values).encode('utf8')
-            req = urllib.request.Request(IFTTTurl, params, headers={'content-type': 'application/json'})
-            
-            response = urllib.request.urlopen(req)
-            
-            print(response.read().decode('utf8'))
+
             
             
             return ingResult
