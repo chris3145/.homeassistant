@@ -6,6 +6,7 @@
 #------------------------------------------------------------------------------------#
 
   temporary_cool:
+    alias: Temporary Cool
     sequence:
     
       # save setpoints on thermostat

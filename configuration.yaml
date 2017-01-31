@@ -35,14 +35,7 @@ discovery:
 
 # Enables support for tracking state changes over time.
 history:
-
-#Browse the web from Home Assistant?
-panel_iframe:
- google:
-   title: 'Google'
-   url: 'http://www.google.com/'
-   icon: mdi:google
-   
+  
 
 # View all events in a logbook
 logbook:
@@ -94,6 +87,73 @@ shell_command:
   get_latest_config: bash /home/homeassistant/.homeassistant/fetchconfig.sh
 
 script: !include_dir_merge_named script
+
+# groups
+
+group:
+
+  default_view:
+    view: yes
+    entities:
+      - group.home_nest
+      - group.home_advanced
+      
+  
+  home_nest:
+    name: Climate
+    control: hidden
+    entities:
+      - climate.living_room
+      - script.temporary_heat
+      - script.temporary_cool
+  
+  home_advanced:
+    name: Advanced
+    control: hidden
+    entities:
+      - script.update_config
+  
+  
+  
+  
+  debug_view:
+    view: yes
+    name: Debug
+    entities:
+      - group.debug_blinds
+      - group.debug_nest
+      - group.debug_misc
+  
+  debug_blinds:
+    name: Blinds Simulation
+    control: hidden
+    entities:
+      - input_boolean.tv_on
+      - input_boolean.sun_debug
+      - input_boolean.blinds_open
+      - automation.close_blinds
+      - automation.open_blinds
+      
+  debug_nest:
+    name: Climate
+    control: hidden
+    entities:
+      - input_slider.nest_temp
+      - input_slider.nest_temp_lo
+      - input_slider.nest_temp_hi
+      - automation.nest_temp_change_trigger_value_template
+      
+  debug_misc:
+    name: Misc
+    control: hidden
+    entities:
+      - script.parse_command
+      - automation.debug_delay
+      - automation.time_checker
+      - input_boolean.debug_bool
+      - input_slider.debug
+    
+
 
 
 # python add ons
