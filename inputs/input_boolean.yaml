@@ -1,23 +1,8 @@
 debug_bool:
   name: Debug
   initial: off
-  icon: mdi:android-debug-bridge
-
-
-
-
-restart_ha_pb:
-  name: Restart home assistant
-  initial: off
-  icon: mdi:restart
-    
-    
-nest_temp_test:
-  name: Temporarily change Nest
-  initial: off
-  icon: mdi:restart
-
-  
+  icon: mdi:android-debug-bridge 
+      
 blinds_open:
   name: Blinds open
   initial: off

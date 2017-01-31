@@ -1,12 +1,12 @@
-- alias: Home Assistant restart button
-  # hide_entity: true
-  trigger:
-    platform: state
-    entity_id: input_boolean.restart_ha_pb
-    to: 'on'
+# - alias: Home Assistant restart button
+  # # hide_entity: true
+  # trigger:
+    # platform: state
+    # entity_id: input_boolean.restart_ha_pb
+    # to: 'on'
     
-  action:
-    - service: notify.debug
-      data:
-        message: Restart button pushed
-    - service: homeassistant.restart
+  # action:
+    # - service: notify.debug
+      # data:
+        # message: Restart button pushed
+    # - service: homeassistant.restart

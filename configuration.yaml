@@ -40,7 +40,7 @@ history:
 panel_iframe:
  google:
    title: 'Google'
-   url: 'https://www.google.com/'
+   url: 'http://www.google.com/'
    icon: mdi:google
    
 

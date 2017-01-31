@@ -62,7 +62,19 @@ panel_iframe:
 #-----------------------#
 
 
-
+# Restart home assistant when an input bool is turned on
+- alias: Home Assistant restart button
+  # hide_entity: true
+  trigger:
+    platform: state
+    entity_id: input_boolean.restart_ha_pb
+    to: 'on'
+    
+  action:
+    - service: notify.debug
+      data:
+        message: Restart button pushed
+    - service: homeassistant.restart
 
 
 #Automation entry to log the temperature whenever Nest updates.
