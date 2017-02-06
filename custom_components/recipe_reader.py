@@ -299,6 +299,9 @@ def setup(hass, config):
     except FileNotFoundError:
         _LOGGER.warn("No recipe file found.")  
     
+    # Set a state to display on the front end
+    hass.states.set('recipe_reader.Title', rcpTitle)
+    
     # print('Title after update:', rcpTitle)
     # print('\n\n\n')
     

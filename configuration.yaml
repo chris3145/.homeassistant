@@ -17,6 +17,7 @@ http:
   api_password: !secret api_password
   # Uncomment the following line if you are using SSL or running in Docker etc
   # base_url: example.duckdns.org:8123
+  server_port: !secret port
   
   # no password required for connections from these IP addresses
   trusted_networks:
@@ -92,11 +93,12 @@ script: !include_dir_merge_named script
 
 group:
 
-  default_view:
-    view: yes
-    entities:
-      - group.home_nest
-      - group.home_advanced
+  # default_view:
+    # view: yes
+    # entities:
+      # - group.home_nest
+      # - group.home_advanced
+      # - group.recipe_reader
       
   
   home_nest:
@@ -114,8 +116,6 @@ group:
       - script.update_config
   
   
-  
-  
   debug_view:
     view: yes
     name: Debug
@@ -123,6 +123,7 @@ group:
       - group.debug_blinds
       - group.debug_nest
       - group.debug_misc
+  
   
   debug_blinds:
     name: Blinds Simulation
