@@ -1,0 +1,16 @@
+getCookTemperature what do i set the oven to
+getCookTemperature what my recipe says to preheat the oven to
+getCookTemperature what temperature should i preheat the oven to
+getCookTemperature how hot am i supposed to bake this at
+getCookTemperature what does it say to cook the {ingredient} at
+getCookTemperature how hot the recipe says the oven should be
+getCookTemperature what temperature i'm supposed to set the oven to
+getCookTemperature what temperature it says i need to bake this at
+getCookTemperature how hot does it say i need to cook this at
+getCookTemperature what temperature the instructions say i need to preheat the oven to
+
+
+getCookTemperature what the instructions say the oven should be set to
+getCookTemperature what temperature is the oven supposed to be
+getCookTemperature how hot do the instructions say the oven needs to be
+getCookTemperature what temperature does it say the {ingredient} is supposed to bake at

@@ -21,7 +21,20 @@
       }]
     },
     {
-      "intent": "getCookTemp"
+      "intent": "getCookTemperature",
+      "slots": [
+      {
+          "name": "ingredient",
+          "type": "AMAZON.Food"
+        }]
+    },
+    {
+      "intent": "getCookTime",
+      "slots": [
+      {
+          "name": "ingredient",
+          "type": "AMAZON.Food"
+        }]
     }
   ]
 }

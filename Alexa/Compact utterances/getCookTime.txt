@@ -1,0 +1,24 @@
+getCookTime how long do i bake this for
+getCookTime how much time should i cook the {ingredient} for
+getCookTime how many minutes am i supposed to leave this in the oven for
+getCookTime how long the instructions say i should put the {ingredient} in the oven
+getCookTime how much time my recipe says i need to leave this in the oven
+getCookTime how many hours it says {ingredient} is supposed to cook for
+getCookTime how long does the recipe say to cook this
+getCookTime how much time i need to put the {ingredient} in the oven for
+getCookTime how long it says i'm supposed to cook this for
+getCookTime how long i need to leave the {ingredient} in the oven
+
+
+getCookTime how long does the {ingredient} bake for
+getCookTime how much time should this be in the oven
+getCookTime how many minutes is the {ingredient} supposed to stay in the oven for
+getCookTime how long it says the {ingredient} needs to cook for
+getCookTime how long the recipe says this needs to bake
+getCookTime how much time do the instructions say the {ingredient} needs to cook
+getCookTime how long this needs to go in the oven for
+
+
+getCookTime how long it's supposed to take for the {ingredient} to bake
+getCookTime how much time this needs in the oven
+getCookTime how long {ingredient} will need to be in the oven for

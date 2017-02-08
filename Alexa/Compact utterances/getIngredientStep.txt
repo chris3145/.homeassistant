@@ -1,0 +1,26 @@
+getIngredientStep what do i do with the {ingredient}
+getIngredientStep what should i do with to the {ingredient}
+getIngredientStep what am i supposed to do with the {ingredient}
+getIngredientStep what do the instructions say i should do with the {ingredient}
+getIngredientStep what i do with the {ingredient}
+getIngredientStep what i do to the {ingredient}
+getIngredientStep what the recipe says to do with the {ingredient}
+getIngredientStep what does the recipe say i'm supposed to do to the {ingredient}
+getIngredientStep what the recipe says i need to do with the {ingredient}
+getIngredientStep what does my recipe say about {action} the {ingredient}
+getIngredientStep what it says about {action} the {ingredient}
+
+
+getIngredientStep how do i {action} the {ingredient}
+getIngredientStep when should i {action} the {ingredient}
+getIngredientStep how am i supposed to {action} the {ingredient}
+getIngredientStep when do the instructions say to {action} the {ingredient}
+getIngredientStep how does the recipe say i'm supposed to {action} the {ingredient}
+getIngredientStep when do i need to {action} the {ingredient}
+getIngredientStep when i {action} the {ingredient}
+
+
+getIngredientStep how long i'm supposed to {action} the {ingredient} for
+getIngredientStep what i'm supposed to do after i {action} the {ingredient} 
+getIngredientStep what the recipe says to do after {action} the {ingredient}
+getIngredientStep what does it say i have to do before i {action} the {ingredient}
