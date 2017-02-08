@@ -1,0 +1,103 @@
+getIngredientAmount how much {ingredient} do i use
+getIngredientAmount how many {ingredient} should i need
+getIngredientAmount how many cups of {ingredient} am i supposed to use
+getIngredientAmount how many tablespoons of {ingredient} do the instructions say to use
+getIngredientAmount what amount of {ingredient} the instructions say i am supposed to use
+getIngredientAmount how much {ingredient} does it say i need to use
+getIngredientAmount how many {ingredient} my recipe says i need
+getIngredientAmount how many cups of {ingredient} the recipe says i should use
+getIngredientAmount how {ingredient} do i need
+getIngredientAmount what amount of {ingredient} does my recipe say i'm supposed to need
+getIngredientAmount how much {ingredient} i'm supposed to use
+getIngredientAmount how much {ingredient} it says i need
+getIngredientAmount how many {ingredient} i need
+getIngredientAmount what amount of {ingredient} the recipe says i'm supposed to need
+
+
+getIngredientAmount how many slices of {ingredient} the recipe says there are
+getIngredientAmount how much {ingredient} it says i need
+getIngredientAmount what amount of {ingredient} is in the recipe
+getIngredientAmount how many {ingredient} are in this
+getIngredientAmount how much {ingredient} there is in this
+getIngredientAmount how many pounds of {ingredient} the instructions say there are
+
+
+
+
+
+getIngredientStep what do i do with the {ingredient}
+getIngredientStep what should i do with to the {ingredient}
+getIngredientStep what am i supposed to do with the {ingredient}
+getIngredientStep what do the instructions say i should do with the {ingredient}
+getIngredientStep what i do with the {ingredient}
+getIngredientStep what i do to the {ingredient}
+getIngredientStep what the recipe says to do with the {ingredient}
+getIngredientStep what does the recipe say i'm supposed to do to the {ingredient}
+getIngredientStep what the recipe says i need to do with the {ingredient}
+getIngredientStep what does my recipe say about {action} the {ingredient}
+getIngredientStep what it says about {action} the {ingredient}
+
+
+getIngredientStep how do i {action} the {ingredient}
+getIngredientStep when should i {action} the {ingredient}
+getIngredientStep how am i supposed to {action} the {ingredient}
+getIngredientStep when do the instructions say to {action} the {ingredient}
+getIngredientStep how does the recipe say i'm supposed to {action} the {ingredient}
+getIngredientStep when do i need to {action} the {ingredient}
+getIngredientStep when i {action} the {ingredient}
+
+
+getIngredientStep how long i'm supposed to {action} the {ingredient} for
+getIngredientStep what i'm supposed to do after i {action} the {ingredient} 
+getIngredientStep what the recipe says to do after {action} the {ingredient}
+getIngredientStep what does it say i have to do before i {action} the {ingredient} 
+
+
+
+
+
+getCookTemperature what do i set the oven to
+getCookTemperature what my recipe says to preheat the oven to
+getCookTemperature what temperature should i preheat the oven to
+getCookTemperature how hot am i supposed to bake this at
+getCookTemperature what does it say to cook the {ingredient} at
+getCookTemperature how hot the recipe says the oven should be
+getCookTemperature what temperature i'm supposed to set the oven to
+getCookTemperature what temperature it says i need to bake this at
+getCookTemperature how hot does it say i need to cook this at
+getCookTemperature what temperature the instructions say i need to preheat the oven to
+
+
+getCookTemperature what the instructions say the oven should be set to
+getCookTemperature what temperature is the oven supposed to be
+getCookTemperature how hot do the instructions say the oven needs to be
+getCookTemperature what temperature does it say the {ingredient} is supposed to bake at
+
+
+
+
+
+getCookTime how long do i bake this for
+getCookTime how much time should i cook the {ingredient} for
+getCookTime how many minutes am i supposed to leave this in the oven for
+getCookTime how long the instructions say i should put the {ingredient} in the oven
+getCookTime how much time my recipe says i need to leave this in the oven
+getCookTime how many hours it says {ingredient} is supposed to cook for
+getCookTime how long does the recipe say to cook this
+getCookTime how much time i need to put the {ingredient} in the oven for
+getCookTime how long it says i'm supposed to cook this for
+getCookTime how long i need to leave the {ingredient} in the oven
+
+
+getCookTime how long does the {ingredient} bake for
+getCookTime how much time should this be in the oven
+getCookTime how many minutes is the {ingredient} supposed to stay in the oven for
+getCookTime how long it says the {ingredient} needs to cook for
+getCookTime how long the recipe says this needs to bake
+getCookTime how much time do the instructions say the {ingredient} needs to cook
+getCookTime how long this needs to go in the oven for
+
+
+getCookTime how long it's supposed to take for the {ingredient} to bake
+getCookTime how much time this needs in the oven
+getCookTime how long {ingredient} will need to be in the oven for

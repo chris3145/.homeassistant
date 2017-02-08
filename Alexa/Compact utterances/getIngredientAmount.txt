@@ -1,0 +1,22 @@
+getIngredientAmount how much {ingredient} do i use
+getIngredientAmount how many {ingredient} should i need
+getIngredientAmount how many cups of {ingredient} am i supposed to use
+getIngredientAmount how many tablespoons of {ingredient} do the instructions say to use
+getIngredientAmount what amount of {ingredient} the instructions say i am supposed to use
+getIngredientAmount how much {ingredient} does it say i need to use
+getIngredientAmount how many {ingredient} my recipe says i need
+getIngredientAmount how many cups of {ingredient} the recipe says i should use
+getIngredientAmount how {ingredient} do i need
+getIngredientAmount what amount of {ingredient} does my recipe say i'm supposed to need
+getIngredientAmount how much {ingredient} i'm supposed to use
+getIngredientAmount how much {ingredient} it says i need
+getIngredientAmount how many {ingredient} i need
+getIngredientAmount what amount of {ingredient} the recipe says i'm supposed to need
+
+
+getIngredientAmount how many slices of {ingredient} the recipe says there are
+getIngredientAmount how much {ingredient} it says i need
+getIngredientAmount what amount of {ingredient} is in the recipe
+getIngredientAmount how many {ingredient} are in this
+getIngredientAmount how much {ingredient} there is in this
+getIngredientAmount how many pounds of {ingredient} the instructions say there are
