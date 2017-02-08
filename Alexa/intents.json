@@ -1,0 +1,27 @@
+{
+  "intents": [
+    {
+      "intent": "getIngredientAmount",
+      "slots": [
+      {
+          "name": "ingredient",
+          "type": "AMAZON.Food"
+        }]
+    },
+    {
+      "intent": "getIngredientStep",
+      "slots": [
+      {
+          "name": "ingredient",
+          "type": "AMAZON.Food"
+        },
+      {
+          "name": "action",
+          "type": "FOOD_ACTIONS"         
+      }]
+    },
+    {
+      "intent": "getCookTemp"
+    }
+  ]
+}
