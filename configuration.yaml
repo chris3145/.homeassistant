@@ -99,6 +99,11 @@ script: !include_dir_merge_named script
 alexa:
   intents:
     getIngredientAmount:
+      action:
+        service: notify.notify
+        data_template:
+          message: Alexa asked for an ingredient amount.
+          
       speech:
         type: plaintext
         text: >
