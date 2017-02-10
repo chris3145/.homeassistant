@@ -98,19 +98,50 @@ script: !include_dir_merge_named script
 # alexa config
 alexa:
   intents:
+  
     getIngredientAmount:
       action:
         service: persistent_notification.create
         data:
           message: Alexa asked for an ingredient amount.
-          title: Alexa
-          
+          title: Alexa 
+      speech:
+        type: plaintext
+        text: Finding ingredient amount.
+        
+    getIngredientStep:
+      action:
+        service: persistent_notification.create
+        data:
+          message: Alexa asked for an ingredient step.
+          title: Alexa        
+      speech:
+        type: plaintext
+        text: Finding ingredient amount.
+        
+    getCookTemperature:
+      action:
+        service: persistent_notification.create
+        data:
+          message: Alexa asked for the cooking temperature.
+          title: Alexa        
       speech:
         type: plaintext
         text: Finding ingredient amount.
 
-
-
+        
+    getCookTime:
+      action:
+        service: persistent_notification.create
+        data:
+          message: Alexa asked for the cooking time.
+          title: Alexa     
+      speech:
+        type: plaintext
+        text: Finding ingredient amount.        
+        
+        
+        
 # groups
 
 group:
