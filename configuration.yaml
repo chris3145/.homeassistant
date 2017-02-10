@@ -18,6 +18,8 @@ http:
   # Uncomment the following line if you are using SSL or running in Docker etc
   # base_url: example.duckdns.org:8123
   server_port: !secret port
+  ssl_certificate: !secret ssl_cert
+  ssl_key: !secret ssl_key
   
   # no password required for connections from these IP addresses
   trusted_networks:
