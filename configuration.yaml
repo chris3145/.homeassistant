@@ -114,12 +114,12 @@ alexa:
 
 group:
 
-  # default_view:
-    # view: yes
-    # entities:
-      # - group.home_nest
-      # - group.home_advanced
-      # - group.recipe_reader
+  default_view:
+    view: yes
+    entities:
+      - group.home_nest
+      - group.home_advanced
+      - group.recipe_reader
       
   
   home_nest:
