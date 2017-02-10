@@ -91,6 +91,21 @@ shell_command:
 
 script: !include_dir_merge_named script
 
+
+
+
+
+# alexa config
+alexa:
+  intents:
+    getIngredientAmount:
+      speech:
+        type: plaintext
+        text: >
+          Finding ingredient amount.
+
+
+
 # groups
 
 group:
