@@ -100,9 +100,10 @@ alexa:
   intents:
     getIngredientAmount:
       action:
-        service: notify.notify
-        data_template:
+        service: persistent_notification.create
+        data:
           message: Alexa asked for an ingredient amount.
+          title: Alexa
           
       speech:
         type: plaintext
