@@ -106,8 +106,7 @@ alexa:
           
       speech:
         type: plaintext
-        text: >
-          Finding ingredient amount.
+        text: Finding ingredient amount.
 
 
 
