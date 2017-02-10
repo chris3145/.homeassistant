@@ -17,8 +17,7 @@ http:
   api_password: !secret api_password
   # Uncomment the following line if you are using SSL or running in Docker etc
   # base_url: example.duckdns.org:8123
-  
-  # server_port: !secret port
+  server_port: !secret port
   
   # no password required for connections from these IP addresses
   trusted_networks:
