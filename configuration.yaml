@@ -113,7 +113,7 @@ alexa:
       speech:
         type: plaintext
         text: >
-          {{ states(recipe_reader.alexa_response') }}
+          {{ states('recipe_reader.alexa_response') }}
         
     getIngredientStep:
       action:
