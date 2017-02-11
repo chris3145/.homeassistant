@@ -1,4 +1,4 @@
-# import json
+import json
 import urllib.request # for getting the page from the internet
 import requests
 import re # for using regex 
@@ -6,7 +6,6 @@ import os # for making a directory
 import sys
 import html # for extracting html characters
 import logging # for logging to home assistant logs
-from bs4 import BeautifulSoup # BeautifulSoup is used for most of the HTML parsing
 
 
 _LOGGER = logging.getLogger(__name__)
@@ -27,7 +26,7 @@ def setup(hass, config):
         version = "Mozilla/5.0"
     opener = AppURLopener()
        
-    print('\n\n\n\n\n\n')
+    
     # set file locations
     folderName = "recipeFiles"           
     fileName = "recipe.txt"        
@@ -41,98 +40,13 @@ def setup(hass, config):
     rcpFile = os.path.join(filePath,fileName)
 
     print(rcpFile)
-    print('\n\n\n\n\n\n')
+    
     
     # Create the recipe data folder if it doesn't exist already
     if not os.path.isdir(filePath):
         os.makedirs(filePath)
-        
-        
-    print('\n\n\n\n\n\n')  
-    print('Point A')
-        
-        
-    
-    def trim(s):
-        '''
-        remove whitespace on left and right of string s.
-        trim whitespace between characters to a single space
-        ''' 
-        # This seems to be the only way to properly handle the Betty Crocker website which has a bunch of stuff in between the amount for an ingredient and the rest of the ingredient entry
-        
-        return " ".join(s.split())
     
     
-    print('\n\n\n\n\n\n')  
-    print('Point B')  
-
-
-    
-    def isSchemaOrgStandard(soup):
-        '''Determine if the recipe uses the schema.org/Recipe standard'''
-        
-        # see if any tags are found that contain the itemtype flag for schema.org/Recipe standard
-        try:
-            return soup.findAll(True, {"itemtype" : re.compile("http://schema.org/Recipe", re.IGNORECASE)}) != []
-            
-        except Exception as e:
-            logging.debug(e)
-            return False    
- 
-    print('\n\n\n\n\n\n')  
-    print('Point C')  
-
- 
-    def findIngList(soup):
-        '''Extract the list of ingredients from the HTML'''
-        
-        # if the soup fits the schema.org format
-        if isSchemaOrgStandard(soup):
-            ingList = soup.findAll(True, {"itemprop" : re.compile("ingredients", re.IGNORECASE)})    
-            
-            # for each element in the list, set the element to the text inside the html tags (i.e. remove the html tags themselves)
-            for ndx, member in enumerate(ingList):            
-                ingList[ndx] = trim(ingList[ndx].get_text()) # set the list elements to be just the text without the HTML tags and strip any whitespace off the ends
-        
-            return ingList
-            
-        return ['']
-        
-    def findStepList(soup):
-        '''Extract the list of recipe steps from the HTML'''
-        
-        # if the soup fits the schema.org format
-        if isSchemaOrgStandard(soup):
-            stepList = soup.findAll(True, {"itemprop" : re.compile("instructions", re.IGNORECASE)})
-        
-            # for each element in the list, set the element to the text inside the html tags (i.e. remove the html tags themselves)
-            for ndx, member in enumerate(stepList):            
-                stepList[ndx] = trim(stepList[ndx].get_text()) # set the list elements to be just the text without the HTML tags and strip any whitespace off the ends
-        
-            return stepList
-        return ['']
-        
-    def findTitle(soup):
-
-        # first try to use og:title tag
-        og_title = (soup.find("meta", attrs={"property": "og:title"}) or soup.find("meta", attrs={"name": "og:title"}))
-        
-        if og_title and og_title["content"]:
-            print("Title found using og:title tag.")
-            return og_title["content"]
-        
-      
-        # if that didn't work get the recipe title from a <title> tag
-        if soup.title and soup.title.string:
-            print("Title found using <title> tag.")
-            return soup.title.string
-        
-        # if nothing worked, return None
-        return ''   
-
-
-    
-        
     
     def formatForAlexa(data, intent):
         '''When given a result and the type of intent,
@@ -176,14 +90,15 @@ def setup(hass, config):
         
         # try to get the webpage content
         try:
-            # Get webpage content (with requests)
-            r = requests.get(url)
-            
-            
             # Get the webpage content (using urllib request form)
             # req = opener.open(url)
             # page_content = req.read()
             
+            
+            # Get webpage content (with requests)
+            r = requests.get(url)
+            
+        
         except (FileNotFoundError, ValueError):
             print("Webpage could not be reached!")
             page_content = "<title>Failed to load webpage</title>".encode()
@@ -200,13 +115,82 @@ def setup(hass, config):
                 # old format with urllib
                 # fid.write(page_content.decode())
                 
-         
+                
+                
                 
         except FileNotFoundError:
             print("Destination directory not found!")
             raise
             
+            
+      
+    def getTitle(recipeFile):
+        '''Get the title from the recipe file'''
+        
+        print("Finding title")
+        
+        # open the file and get its text
+        with open(recipeFile, 'rt', encoding='utf-8') as inf:              
+            url = inf.readline()  # get the url from the first line of the file
+            filetext = inf.read()  # get the rest of the file (doesn't include the first line because that was already read)
+          
+        # escape html character encodings
+        filetext = html.unescape(filetext)
+        
+        #search for the first thing that is found between <title></title> tags
+        pattern = re.compile("(?<=\<title\>)(.*?)(?=\<\/title\>)",re.DOTALL)
+        match = re.search(pattern, filetext)
+        
+        # check if a title was a found and clean it up
+        try:
+            # try to clean up the result that was found.
+            title = re.sub(r'[^\x00-\x7F]+',' ', match.group(0)) #remove non-ASCII characters by replacing them with white space
+            title = re.sub(r'[\t\n\r\f\v]','', title) #remove most "blank" characters that aren't spaces
+            title.strip()  #remove leading or trailing white space from title
+            
+           
+        except AttributeError:
+            # if cleaning failed because no title was found, set the title to "Title not found!"
+            print("Title not found!")
+            title = "Title not found!"
+            
+        finally:
+            return title
 
+
+      
+    def getIngredientList(recipeFile):
+            
+        print("Finding ingredients")
+        
+        # open the file and get its text
+        with open(recipeFile, 'rt', encoding='utf-8') as inf:              
+            url = inf.readline()  # get the url from the first line of the file
+            filetext = inf.read()  # get the rest of the file (doesn't include the first line because that was already read)
+        
+        filetext = html.unescape(filetext)
+        #
+        # find an ingredient list
+        #
+
+        # find all html tags that include contain "ingredient (keep the open quote to avoid finding extra stuff, but leave off the closing quote so that it still works if labels are plural or have suffixes)
+        # or maybe leave off the open quote to help find "p-ingredient" tags or "RecipeIngredient" tags
+        ingpattern1 = re.compile("<[^>]*?ingredient[^>]*>.*?<",re.IGNORECASE)
+        ingList = re.findall(ingpattern1, filetext)
+
+        # for each item that was found, strip out the html tags and leave behind what was in between them
+        for ndx, member in enumerate(ingList):
+            # print('\n')
+            # print(ndx)
+            # print(ingList[ndx])
+            ingpattern2 = re.compile("(?<=>)(.*?)(?=<)") # pattern that finds everything between '>' and '<' (can also end with a new line)
+            ingList[ndx] = re.search(ingpattern2,ingList[ndx]).group(0) # sets the element in ingList to the version with html stripped out
+            ingList[ndx].strip()
+
+        # remove any blank elements from ingList
+        ingList = [x for x in ingList if x != '']
+
+        return ingList
         
     def respondWithIFTTT(response):
         
@@ -225,28 +209,8 @@ def setup(hass, config):
         response = urllib.request.urlopen(req)
         
         print(response.read().decode('utf8')) #print IFTTT response
-        
-    def htmlParse(recipeFile):
-        global rcpTitle
-        global rcpIngList
-        global rcpStepList
-
-        
-        # open the file and read it
-        with open(recipeFile, 'rt', encoding='utf-8') as inf:              
-            url = inf.readline()  # get the url from the first line of the file
-            filetext = inf.read()  # get the rest of the file (doesn't include the first line because that was already read)
-            filetext = html.unescape(filetext)
-            soup = BeautifulSoup(filetext, 'html.parser')
-            
-        
-        # get the recipe title and the list of ingredients
-        rcpTitle = findTitle(soup)      
-        rcpIngList = findIngList(soup)
-        rcpStepList = findStepList(soup)
-        
-        
-            
+    
+    
     def downloadRecipe(call):
         '''Setup function that is called when first receiving the url.
         This runs all of the functions to save the webpage, extract the title, and extract the ingredients.
@@ -254,7 +218,8 @@ def setup(hass, config):
         
         print("Download service called")
                 
-
+        global rcpTitle
+        global rcpIngList
         
         #get the url from the service call
         url = call.data.get(ATTR_URL, DEFAULT_URL)
@@ -269,10 +234,11 @@ def setup(hass, config):
             # print("Something went wrong while retrieving the recipe. Ending execution.") 
             sys.exit()
 
-
-        
-        
-        
+            
+            
+        # get the recipe title and the list of ingredients
+        rcpTitle = getTitle(rcpFile)      
+        rcpIngList = getIngredientList(rcpFile)
         
         print('\n\n',rcpTitle)
         print('\n',rcpIngList)
@@ -367,34 +333,26 @@ def setup(hass, config):
         respondWithIFTTT(ingAmt[0])
         
         print('\n\n')
-
-
-    print('\n\n\n\n\n\n')  
-    print('Point D')         
+              
     
     #these are the services that will be exposed to home assistant
     hass.services.register(DOMAIN, 'webhook', webhook)
     hass.services.register(DOMAIN, 'downloadRecipe', downloadRecipe)  
     hass.services.register(DOMAIN, 'findAmount', findAmount)
     
-    print('\n\n\n\n\n\n')  
-    print('Point E')  
+    print('\n\n\n')
     # # print('Previous title:', rcpTitle)
     
     try:
         _LOGGER.info("Recipe reader is attempting to load parameters from last-used recipe.")
-        htmlParse(rcpFile)
+        rcpTitle = getTitle(rcpFile)        
+        rcpIngList = getIngredientList(rcpFile)
         _LOGGER.info("Data retrieval succeeded!")
     except FileNotFoundError:
         _LOGGER.warn("No recipe file found.")  
     
-    print('\n\n\n\n\n\n')  
-    print('Point F')  
-    
-    print(rcpTitle)
-    
     # Set a state to display on the front end
-    hass.states.set('recipe_reader.Title', 'no title yet')
+    hass.states.set('recipe_reader.Title', rcpTitle)
     hass.states.set('recipe_reader.ing_amount', 'no search yet')
     
     # print('Title after update:', rcpTitle)

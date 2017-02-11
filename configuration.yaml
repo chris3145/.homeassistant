@@ -50,9 +50,9 @@ logbook:
 sun:
 
 # Nest thermostat
-nest:
- client_id: !secret Nest_id
- client_secret: !secret Nest_secret
+# nest:
+ # client_id: !secret Nest_id
+ # client_secret: !secret Nest_secret
   
 # IFTTT
 ifttt:
@@ -115,7 +115,7 @@ alexa:
         text: >
           {{ states('recipe_reader.alexa_response') }}
         
-    getIngredientStep:
+    getStep:
       action:
         service: persistent_notification.create
         data_template:
@@ -125,6 +125,7 @@ alexa:
       speech:
         type: plaintext
         text: Finding ingredient step.
+        
         
     getCookTemperature:
       action:
@@ -136,6 +137,7 @@ alexa:
       speech:
         type: plaintext
         text: Finding cooking temperature.
+        
         
     getCookTime:        
       action:
