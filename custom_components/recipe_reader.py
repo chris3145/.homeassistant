@@ -72,7 +72,7 @@ def setup(hass, config):
                     response = "I found multiple entries for that ingredient. "
                     
                     for ndx, member in enumerate(data):
-                        response += '<break strength="x-strong"/> The <say-as interpret-as="cardinal">' + str(ndx) + '</say-as> is ' + data[ndx]
+                        response += '<break strength="x-strong"/> The <say-as interpret-as="ordinal">' + str(ndx) + '</say-as> is ' + data[ndx]
                     
                     
         
