@@ -102,7 +102,7 @@ alexa:
     getIngredientAmount:
       action:
         service: persistent_notification.create
-        data:
+        data_template:
           message: Alexa asked for the amount of {{ ingredient }}.
           title: Alexa 
       speech:
@@ -112,7 +112,7 @@ alexa:
     getIngredientStep:
       action:
         service: persistent_notification.create
-        data:
+        data_template:
           message: Alexa asked what to do with {{ ingredient }}.
           title: Alexa        
       speech:
@@ -122,7 +122,7 @@ alexa:
     getCookTemperature:
       action:
         service: persistent_notification.create
-        data:
+        data_template:
           message: Alexa asked for the cooking temperature.
           title: Alexa        
       speech:
@@ -132,7 +132,7 @@ alexa:
     getCookTime:        
       action:
         service: persistent_notification.create
-        data:
+        data_template:
           message: Alexa asked for the cooking time.
           title: Alexa        
       speech:
