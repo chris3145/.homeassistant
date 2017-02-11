@@ -335,45 +335,11 @@ def setup(hass, config):
             
             return ingResult
 
-    # @app.route('/webhook', methods=['POST'])
-    def webhook(request):
-   
-        
-        print("Webhook called")
-        
-        # print('\n\n')
-        # print("Request received as ", type(request))
-        # print("Request body is ", type(request.body))
-        # print(request)
-        
-        requestStr = str(request)
-        print('\n\n')
-        
-        ingStartPos = requestStr.find('\'ingredient\': \'')
-        ingEndPos = requestStr.find(',', ingStartPos) 
-        foundIng = requestStr[ingStartPos+15:ingEndPos-1]
-        
-        print('Ingredient: "'+foundIng+'"')
-        # print(requestStr)
-       
-        
-        print('\n\n')
-        
-        
-        ingAmt = findAmount(foundIng)
-        
-        print(ingAmt[0])
-        
-        respondWithIFTTT(ingAmt[0])
-        
-        print('\n\n')
-
 
     print('\n\n\n\n\n\n')  
     print('Point D')         
     
     #these are the services that will be exposed to home assistant
-    hass.services.register(DOMAIN, 'webhook', webhook)
     hass.services.register(DOMAIN, 'downloadRecipe', downloadRecipe)  
     hass.services.register(DOMAIN, 'findAmount', findAmount)
     
