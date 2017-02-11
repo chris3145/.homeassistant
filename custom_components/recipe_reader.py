@@ -207,10 +207,10 @@ def setup(hass, config):
         print("\n\nFinding ingredient amount\n")
         
         # when called as a home assistant service, getting the ingredient looks like this
-        # ingredient = call.data.get(ATTR_INGR, DEFAULT_INGR)
+        ingredient = call.data.get(ATTR_INGR, DEFAULT_INGR)
         
         # when called directly, use this
-        ingredient = call
+        # ingredient = call
         
         
         _LOGGER.info("Finding ingredient amount. Searching for '"+ingredient+"' in ingredient list.")
@@ -243,7 +243,7 @@ def setup(hass, config):
             # respondWithIFTTT(str(ingResult[0]))
             
 
-            
+            hass.states.set('recipe_reader.ing_amount', ingResult[0])
             
             return ingResult
 

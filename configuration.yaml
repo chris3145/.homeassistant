@@ -101,18 +101,25 @@ alexa:
   
     getIngredientAmount:
       action:
-        service: persistent_notification.create
-        data_template:
-          message: Alexa asked for the amount of {{ ingredient }}.
-          title: Alexa 
+        - service: recipe_reader.findAmount
+          data_template:
+            ingredient: {{ ingredient }}
+        
+        
+        - service: persistent_notification.create
+          data_template:
+            notification_id: Alexa
+            message: Alexa asked for the amount of {{ ingredient }}.
+            title: Alexa 
       speech:
         type: plaintext
-        text: Finding the amount of {{ ingredient }}.
+        text: {{ states('recipe_reader.ing_amount') }}
         
     getIngredientStep:
       action:
         service: persistent_notification.create
         data_template:
+          notification_id: Alexa
           message: Alexa asked what to do with {{ ingredient }}.
           title: Alexa        
       speech:
@@ -123,6 +130,7 @@ alexa:
       action:
         service: persistent_notification.create
         data_template:
+          notification_id: Alexa
           message: Alexa asked for the cooking temperature.
           title: Alexa        
       speech:
@@ -133,6 +141,7 @@ alexa:
       action:
         service: persistent_notification.create
         data_template:
+          notification_id: Alexa
           message: Alexa asked for the cooking time.
           title: Alexa        
       speech:
