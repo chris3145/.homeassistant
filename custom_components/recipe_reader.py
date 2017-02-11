@@ -69,10 +69,10 @@ def setup(hass, config):
                     
                 # if there were multiple matches, assemble them into a single spoken response    
                 else:
-                    response = "I found multiple matches."
+                    response = "I found multiple entries for that ingredient. "
                     
                     for ndx, member in enumerate(data):
-                        response += "\nMatch number " + str(ndx) + " is " + data[ndx]
+                        response += '<break strength="x-strong"/> The <say-as interpret-as="cardinal">' + str(ndx) + '</say-as> is ' + data[ndx]
                     
                     
         
