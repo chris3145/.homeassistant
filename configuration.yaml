@@ -50,9 +50,9 @@ logbook:
 sun:
 
 # Nest thermostat
-# nest:
- # client_id: !secret Nest_id
- # client_secret: !secret Nest_secret
+nest:
+ client_id: !secret Nest_id
+ client_secret: !secret Nest_secret
   
 # IFTTT
 ifttt:
