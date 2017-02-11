@@ -1,4 +1,5 @@
 getIngredientAmount how much {ingredient} do i use
+getIngredientAmount how many {ingredient} to use
 getIngredientAmount how many {ingredient} should i need
 getIngredientAmount how many cups of {ingredient} am i supposed to use
 getIngredientAmount how many tablespoons of {ingredient} do the instructions say to use
