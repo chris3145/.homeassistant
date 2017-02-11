@@ -13,7 +13,7 @@ DOMAIN = 'recipe_reader'
 
 ATTR_URL = 'url'
 DEFAULT_URL = ''
-ATTR_INGR = 'search_ingredient'
+ATTR_INGR = 'ingredient'
 DEFAULT_INGR = ''
 INGR_AMT = 'none'
 
@@ -44,6 +44,45 @@ def setup(hass, config):
     # Create the recipe data folder if it doesn't exist already
     if not os.path.isdir(filePath):
         os.makedirs(filePath)
+    
+    
+    
+    def formatForAlexa(data, intent):
+        '''When given a result and the type of intent,
+        format a response for Alexa to speak'''
+    
+        print('Formatting for Alexa')
+        
+        # if the request was to find an ingredient amount
+        if intent is 'getIngredientAmount':
+            
+            # if no matches were found, say that. Make sure to name the ingredient so the user knows what it was looking for.
+            if not data:
+                response = "I wasn't able to find " + ingredient
+                
+            #if the ingredient was found    
+            else:
+            
+                #if there was only one match, read the match
+                if len(data) == 1: 
+                    response = "Here's what I found: " + data[0]
+                    
+                # if there were multiple matches, assemble them into a single spoken response    
+                else:
+                    response = "I found multiple matches."
+                    
+                    for ndx, member in enumerate(data):
+                        response += "\nMatch number " + str(ndx) + " is " + data[ndx]
+                    
+                    
+        
+            
+        print('\n')
+        print(response)
+        print('\n')
+    
+    
+        return response
     
     
     def saveRecipe(url, recipeFile):
@@ -206,7 +245,8 @@ def setup(hass, config):
         
         print("\n\nFinding ingredient amount\n")
         
-        ingredient = 'pepper'
+        # Make a ingredient a global variable so the response formatter can see it if it needs to
+        global ingredient
         
         # when called as a home assistant service, getting the ingredient looks like this
         ingredient = call.data.get(ATTR_INGR, DEFAULT_INGR)
@@ -218,34 +258,43 @@ def setup(hass, config):
         _LOGGER.info("Finding ingredient amount. Searching for '"+ingredient+"' in ingredient list.")
                 
         try:
+            print("\n Point A")
             ingResult = [x for x in rcpIngList if ingredient in x]
             _LOGGER.info("Result: " + str(ingResult[0]))
 
             
-        except NameError:       
+        except NameError:
+            print("\n Point B")
             _LOGGER.error("No ingredient list found!")
             ingResult = ["No ingredient list found!"]            
             
         else:
             # _LOGGER.info("Ingredient search complete. Results:"+ingResult)
-            print('\n\n')
+            print('\n Point C')
             for ndx, member in enumerate(ingResult):
                 print(ingResult[ndx])
             
         finally:
-            print('\n\n')
+            print('\n Point D')
             
             #if ingredient wasn't found
             if not ingResult:
-                ingResult = ["Couldn't find ingredient."]
-                print(ingList)
-                
-            _LOGGER.info("Result: " + str(ingResult[0]))
+                _LOGGER.error("Ingredient was not found.")
+                print('\n Point E')
+                print('\n Point F')
+                # print(rcpIngList)
             
+            print('\n Point G')
+     
+                       
             # respondWithIFTTT(str(ingResult[0]))
+            # hass.states.set('recipe_reader.ing_amount', ingResult[0])
             
-
-            hass.states.set('recipe_reader.ing_amount', ingResult[0])
+            
+            # Turn the found ingredient result into a full response for Alexa to speak.
+            alexaResponse = formatForAlexa(ingResult, 'getIngredientAmount')
+            print('\n\nAlexa response: ', alexaResponse)
+            hass.states.set('recipe_reader.alexa_response', alexaResponse)
             
             return ingResult
 
