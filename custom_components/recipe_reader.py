@@ -241,9 +241,7 @@ def setup(hass, config):
         ''' when given an ingredient and an ingredient list, find all entries of the list that mention the ingredient'''
         ''' The function will return ingResult, which contains the dictionary of matches, but the return probably won't be used.
             It will also set the alexa_response state which is what Alexa speaks back to the person'''
-        
-        print("\n\nFinding ingredient amount\n")
-        
+               
         # when called as a home assistant service, getting the ingredient looks like this
         ingredient = call.data.get(ATTR_INGR, DEFAULT_INGR)
         
@@ -255,34 +253,36 @@ def setup(hass, config):
                 
         try:
             ingResult = [x for x in rcpIngList if ingredient in x]
-            # _LOGGER.info("Result: " + str(ingResult[0]))
-
-            
+         
+        # This error is thrown when no ingredient list exists            
         except NameError:
-            # This error is thrown when no ingredient list exists
-            print("\n Point B")
+
+            # print("\n Point B")
             _LOGGER.error("No ingredient list found!")
-            alexaResponse = "I couldn't find a list of ingredients."
-            
+            alexaResponse = "I couldn't find a list of ingredients."     
+        
+        # This code runs if no exception was thrown (i.e. there was an ingredient list)            
         else:
-            #This code runs if a match was found
-            
-            print('\n Point C')
-            for ndx, member in enumerate(ingResult):
-                print(ingResult[ndx])
+
+            # if the ingredient was found in the ingredient list
+            if ingResult:
+                # print('\n Point D')
+                alexaResponse = formatForAlexa(ingResult, 'getIngredientAmount')                
                 
-            alexaResponse = formatForAlexa(ingResult, 'getIngredientAmount')
+                # for ndx, member in enumerate(ingResult):
+                    # print(ingResult[ndx])                 
             
-        finally:
-            print('\n Point D')
-            
-            if not ingResult:
-                # if the ingredient wasn't found
+            # if the ingredient wasn't found
+            else:
+                # print('\n Point E')
+                
                 _LOGGER.error("Ingredient '" + ingredient + "' was not found.")
-                alexaRresponse = "I wasn't able to find " + ingredient + " in the list of ingredients."
+                alexaResponse = "I wasn't able to find " + ingredient + " in the list of ingredients."
+           
+        # no matter what happens, set the alexaResponse    
+        finally:   
             
-            print('\n Point G')
-                        
+            # record the result in the log and set the state that Alexa reads from
             _LOGGER.info("getIngredientAmount response: " + alexaResponse)          
             hass.states.set('recipe_reader.alexa_response', alexaResponse)
             
