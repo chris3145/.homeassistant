@@ -57,8 +57,9 @@ def setup(hass, config):
         if intent is 'getIngredientAmount':
             
             # if no matches were found, say that. Make sure to name the ingredient so the user knows what it was looking for.
+            # This scenario should be caught elsewhere and never reach this point, but here's some code that can handle it just in case.
             if not data:
-                response = "I wasn't able to find " + ingredient
+                response = "I wasn't able to find that item in the ingredient list."
                 
             #if the ingredient was found    
             else:
@@ -72,16 +73,12 @@ def setup(hass, config):
                     response = "I found multiple entries for that ingredient. "
                     
                     for ndx, member in enumerate(data):
-                        response += '<break strength="x-strong"/> The <say-as interpret-as="ordinal">' + str(ndx) + '</say-as> is ' + data[ndx]
-                    
-                    
-        
+                        response += '<break strength="x-strong"/> The <say-as interpret-as="ordinal">' + str(ndx+1) + '</say-as> is ' + data[ndx]          
             
         print('\n')
         print(response)
         print('\n')
-    
-    
+
         return response
     
     
@@ -242,67 +239,58 @@ def setup(hass, config):
 
     def findAmount(call):
         ''' when given an ingredient and an ingredient list, find all entries of the list that mention the ingredient'''
+        ''' The function will return ingResult, which contains the dictionary of matches, but the return probably won't be used.
+            It will also set the alexa_response state which is what Alexa speaks back to the person'''
         
         print("\n\nFinding ingredient amount\n")
-        
-        # Make a ingredient a global variable so the response formatter can see it if it needs to
-        global ingredient
         
         # when called as a home assistant service, getting the ingredient looks like this
         ingredient = call.data.get(ATTR_INGR, DEFAULT_INGR)
         
         # when called directly, use this
         # ingredient = call
-        
+
         
         _LOGGER.info("Finding ingredient amount. Searching for '"+ingredient+"' in ingredient list.")
                 
         try:
-            print("\n Point A")
             ingResult = [x for x in rcpIngList if ingredient in x]
-            _LOGGER.info("Result: " + str(ingResult[0]))
+            # _LOGGER.info("Result: " + str(ingResult[0]))
 
             
         except NameError:
+            # This error is thrown when no ingredient list exists
             print("\n Point B")
             _LOGGER.error("No ingredient list found!")
-            ingResult = ["No ingredient list found!"]            
+            alexaResponse = "I couldn't find a list of ingredients."
             
         else:
-            # _LOGGER.info("Ingredient search complete. Results:"+ingResult)
+            #This code runs if a match was found
+            
             print('\n Point C')
             for ndx, member in enumerate(ingResult):
                 print(ingResult[ndx])
+                
+            alexaResponse = formatForAlexa(ingResult, 'getIngredientAmount')
             
         finally:
             print('\n Point D')
             
-            #if ingredient wasn't found
             if not ingResult:
-                _LOGGER.error("Ingredient was not found.")
-                print('\n Point E')
-                print('\n Point F')
-                # print(rcpIngList)
+                # if the ingredient wasn't found
+                _LOGGER.error("Ingredient '" + ingredient + "' was not found.")
+                alexaRresponse = "I wasn't able to find " + ingredient + " in the list of ingredients."
             
             print('\n Point G')
-     
-                       
-            # respondWithIFTTT(str(ingResult[0]))
-            # hass.states.set('recipe_reader.ing_amount', ingResult[0])
-            
-            
-            # Turn the found ingredient result into a full response for Alexa to speak.
-            alexaResponse = formatForAlexa(ingResult, 'getIngredientAmount')
-            print('\n\nAlexa response: ', alexaResponse)
+                        
+            _LOGGER.info("getIngredientAmount response: " + alexaResponse)          
             hass.states.set('recipe_reader.alexa_response', alexaResponse)
             
             return ingResult
 
     # @app.route('/webhook', methods=['POST'])
     def webhook(request):
-    
-        
-        
+   
         
         print("Webhook called")
         
