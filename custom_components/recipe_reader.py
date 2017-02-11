@@ -13,7 +13,7 @@ DOMAIN = 'recipe_reader'
 
 ATTR_URL = 'url'
 DEFAULT_URL = ''
-ATTR_INGR = 'ingredient'
+ATTR_INGR = 'search_ingredient'
 DEFAULT_INGR = ''
 INGR_AMT = 'none'
 
@@ -237,7 +237,7 @@ def setup(hass, config):
             
             #if ingredient wasn't found
             if not ingResult:
-                ingResult = ["Ingredient not found"]
+                ingResult = ["Couldn't find ingredient."]
                 print(ingList)
                 
             _LOGGER.info("Result: " + str(ingResult[0]))
