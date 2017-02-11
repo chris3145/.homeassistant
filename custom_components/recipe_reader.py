@@ -18,6 +18,7 @@ DEFAULT_URL = ''
 ATTR_INGR = 'ingredient'
 DEFAULT_INGR = ''
 INGR_AMT = 'none'
+REQUIREMENTS = ['beautifulsoup4']
 
         
 def setup(hass, config):
