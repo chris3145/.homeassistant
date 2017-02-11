@@ -103,7 +103,7 @@ alexa:
       action:
         - service: recipe_reader.findAmount
           data_template:
-            search_ingredient: '{{ ingredient }}'    
+            ingredient: '{{ ingredient }}'    
         
         - service: persistent_notification.create
           data_template:
@@ -113,7 +113,7 @@ alexa:
       speech:
         type: plaintext
         text: >
-          {{ states('recipe_reader.ing_amount') }}
+          {{ states(recipe_reader.alexa_response') }}
         
     getIngredientStep:
       action:
