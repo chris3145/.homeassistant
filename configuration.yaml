@@ -102,8 +102,8 @@ alexa:
     getIngredientAmount:
       action:
         - service: recipe_reader.findAmount
-          data_template:
-            ingredient: {{ ingredient }}
+          # data_template:
+            # ingredient: {{ ingredient }}
         
         
         - service: persistent_notification.create

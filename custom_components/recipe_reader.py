@@ -206,8 +206,10 @@ def setup(hass, config):
         
         print("\n\nFinding ingredient amount\n")
         
+        ingredient = 'pepper'
+        
         # when called as a home assistant service, getting the ingredient looks like this
-        ingredient = call.data.get(ATTR_INGR, DEFAULT_INGR)
+        # ingredient = call.data.get(ATTR_INGR, DEFAULT_INGR)
         
         # when called directly, use this
         # ingredient = call
