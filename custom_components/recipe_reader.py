@@ -303,6 +303,7 @@ def setup(hass, config):
     
     # Set a state to display on the front end
     hass.states.set('recipe_reader.Title', rcpTitle)
+    hass.states.set('recipe_reader.ing_amount', 'no search yet')
     
     # print('Title after update:', rcpTitle)
     # print('\n\n\n')

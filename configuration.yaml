@@ -102,8 +102,8 @@ alexa:
     getIngredientAmount:
       action:
         - service: recipe_reader.findAmount
-          # data_template:
-            # ingredient: {{ ingredient }}
+          data_template:
+            ingredient: garlic
         
         
         - service: persistent_notification.create
@@ -113,7 +113,8 @@ alexa:
             title: Alexa 
       speech:
         type: plaintext
-        text: {{ states('recipe_reader.ing_amount') }}
+        text: >
+          {{ states('recipe_reader.ing_amount') }}
         
     getIngredientStep:
       action:
