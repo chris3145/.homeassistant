@@ -18,8 +18,8 @@ http:
   # Uncomment the following line if you are using SSL or running in Docker etc
   # base_url: example.duckdns.org:8123
   server_port: !secret port
-  ssl_certificate: !secret ssl_cert
-  ssl_key: !secret ssl_key
+  # ssl_certificate: !secret ssl_cert
+  # ssl_key: !secret ssl_key
   
   # no password required for connections from these IP addresses
   trusted_networks:
@@ -96,49 +96,30 @@ script: !include_dir_merge_named script
 
 
 # alexa config
+# alexa:
+  # intents:
+  
+    # getIngredientAmount:
+      # action:
+        # service: persistent_notification.create
+        # data:
+          # message: Alexa asked for an ingredient amount.
+          # title: Alexa 
+      # speech:
+        # type: plaintext
+        # text: Finding ingredient amount.
+        
 alexa:
   intents:
-  
-    getIngredientAmount:
+    SpeakIntent:
       action:
         service: persistent_notification.create
         data:
-          message: Alexa asked for an ingredient amount.
-          title: Alexa 
+          message: Alexa asked for an the amount of {{ ingredient }}.
+          title: Alexa
       speech:
         type: plaintext
-        text: Finding ingredient amount.
-        
-    getIngredientStep:
-      action:
-        service: persistent_notification.create
-        data:
-          message: Alexa asked for an ingredient step.
-          title: Alexa        
-      speech:
-        type: plaintext
-        text: Finding ingredient amount.
-        
-    getCookTemperature:
-      action:
-        service: persistent_notification.create
-        data:
-          message: Alexa asked for the cooking temperature.
-          title: Alexa        
-      speech:
-        type: plaintext
-        text: Finding ingredient amount.
-
-        
-    getCookTime:
-      action:
-        service: persistent_notification.create
-        data:
-          message: Alexa asked for the cooking time.
-          title: Alexa     
-      speech:
-        type: plaintext
-        text: Finding ingredient amount.        
+        text: This is magic
         
         
         
