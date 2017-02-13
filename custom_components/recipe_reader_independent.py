@@ -2,9 +2,9 @@ import urllib.parse
 import urllib.request # for getting the page from the internet
 import re # for using regex 
 import os # for making a directory
-import sys
+import sys # used for sys.exit()
 import html # for extracting html characters
-import json
+import json # might be used for parsing JSON data from a webpage
 
 
 # This is used to bypass some of the webpages that attempt to block access from Python
