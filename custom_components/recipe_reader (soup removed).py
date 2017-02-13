@@ -1,13 +1,15 @@
 # import json
 import urllib.request # for getting the page from the internet
-import requests
+
 import re # for using regex 
 import os # for making a directory
 import sys
 import html # for extracting html characters
 import logging # for logging to home assistant logs
-from bs4 import BeautifulSoup # BeautifulSoup is used for most of the HTML parsing
 
+
+# from bs4 import BeautifulSoup # BeautifulSoup is used for most of the HTML parsing
+# import requests
 
 _LOGGER = logging.getLogger(__name__)
 
@@ -72,13 +74,15 @@ def setup(hass, config):
     def isSchemaOrgStandard(soup):
         '''Determine if the recipe uses the schema.org/Recipe standard'''
         
-        # see if any tags are found that contain the itemtype flag for schema.org/Recipe standard
-        try:
-            return soup.findAll(True, {"itemtype" : re.compile("http://schema.org/Recipe", re.IGNORECASE)}) != []
+        return True
+        
+        # # see if any tags are found that contain the itemtype flag for schema.org/Recipe standard
+        # try:
+            # return soup.findAll(True, {"itemtype" : re.compile("http://schema.org/Recipe", re.IGNORECASE)}) != []
             
-        except Exception as e:
-            logging.debug(e)
-            return False    
+        # except Exception as e:
+            # logging.debug(e)
+            # return False    
  
     print('\n\n\n\n\n\n')  
     print('Point C')  
@@ -87,48 +91,48 @@ def setup(hass, config):
     def findIngList(soup):
         '''Extract the list of ingredients from the HTML'''
         
-        # if the soup fits the schema.org format
-        if isSchemaOrgStandard(soup):
-            ingList = soup.findAll(True, {"itemprop" : re.compile("ingredients", re.IGNORECASE)})    
+        # # if the soup fits the schema.org format
+        # if isSchemaOrgStandard(soup):
+            # ingList = soup.findAll(True, {"itemprop" : re.compile("ingredients", re.IGNORECASE)})    
             
-            # for each element in the list, set the element to the text inside the html tags (i.e. remove the html tags themselves)
-            for ndx, member in enumerate(ingList):            
-                ingList[ndx] = trim(ingList[ndx].get_text()) # set the list elements to be just the text without the HTML tags and strip any whitespace off the ends
+            # # for each element in the list, set the element to the text inside the html tags (i.e. remove the html tags themselves)
+            # for ndx, member in enumerate(ingList):            
+                # ingList[ndx] = trim(ingList[ndx].get_text()) # set the list elements to be just the text without the HTML tags and strip any whitespace off the ends
         
-            return ingList
+            # return ingList
             
         return ['']
         
     def findStepList(soup):
         '''Extract the list of recipe steps from the HTML'''
         
-        # if the soup fits the schema.org format
-        if isSchemaOrgStandard(soup):
-            stepList = soup.findAll(True, {"itemprop" : re.compile("instructions", re.IGNORECASE)})
+        # # if the soup fits the schema.org format
+        # if isSchemaOrgStandard(soup):
+            # stepList = soup.findAll(True, {"itemprop" : re.compile("instructions", re.IGNORECASE)})
         
-            # for each element in the list, set the element to the text inside the html tags (i.e. remove the html tags themselves)
-            for ndx, member in enumerate(stepList):            
-                stepList[ndx] = trim(stepList[ndx].get_text()) # set the list elements to be just the text without the HTML tags and strip any whitespace off the ends
+            # # for each element in the list, set the element to the text inside the html tags (i.e. remove the html tags themselves)
+            # for ndx, member in enumerate(stepList):            
+                # stepList[ndx] = trim(stepList[ndx].get_text()) # set the list elements to be just the text without the HTML tags and strip any whitespace off the ends
         
-            return stepList
+            # return stepList
         return ['']
         
     def findTitle(soup):
 
         # first try to use og:title tag
-        og_title = (soup.find("meta", attrs={"property": "og:title"}) or soup.find("meta", attrs={"name": "og:title"}))
+        # og_title = (soup.find("meta", attrs={"property": "og:title"}) or soup.find("meta", attrs={"name": "og:title"}))
         
-        if og_title and og_title["content"]:
-            print("Title found using og:title tag.")
-            return og_title["content"]
+        # if og_title and og_title["content"]:
+            # print("Title found using og:title tag.")
+            # return og_title["content"]
         
       
-        # if that didn't work get the recipe title from a <title> tag
-        if soup.title and soup.title.string:
-            print("Title found using <title> tag.")
-            return soup.title.string
+        # # if that didn't work get the recipe title from a <title> tag
+        # if soup.title and soup.title.string:
+            # print("Title found using <title> tag.")
+            # return soup.title.string
         
-        # if nothing worked, return None
+        # # if nothing worked, return None
         return ''   
 
 
@@ -176,36 +180,36 @@ def setup(hass, config):
         print("Retrieving webpage")
         
         # try to get the webpage content
-        try:
-            # Get webpage content (with requests)
-            r = requests.get(url)
+        # try:
+            # # Get webpage content (with requests)
+            # r = requests.get(url)
             
             
-            # Get the webpage content (using urllib request form)
-            # req = opener.open(url)
-            # page_content = req.read()
+            # # Get the webpage content (using urllib request form)
+            # # req = opener.open(url)
+            # # page_content = req.read()
             
-        except (FileNotFoundError, ValueError):
-            print("Webpage could not be reached!")
-            page_content = "<title>Failed to load webpage</title>".encode()
-            raise
+        # except (FileNotFoundError, ValueError):
+            # print("Webpage could not be reached!")
+            # page_content = "<title>Failed to load webpage</title>".encode()
+            # raise
             
         
-        # save the page content to the provided .txt file
-        try:
-            with open(recipeFile, 'w+t', encoding='utf-8') as fid:   
-                fid.write(url)
-                fid.write('\n\n\n')
-                fid.write(r.text)
+        # # save the page content to the provided .txt file
+        # try:
+            # with open(recipeFile, 'w+t', encoding='utf-8') as fid:   
+                # fid.write(url)
+                # fid.write('\n\n\n')
+                # fid.write(r.text)
                 
                 # old format with urllib
                 # fid.write(page_content.decode())
                 
          
                 
-        except FileNotFoundError:
-            print("Destination directory not found!")
-            raise
+        # except FileNotFoundError:
+            # print("Destination directory not found!")
+            # raise
             
 
         
@@ -234,12 +238,13 @@ def setup(hass, config):
 
         
         # open the file and read it
-        with open(recipeFile, 'rt', encoding='utf-8') as inf:              
-            url = inf.readline()  # get the url from the first line of the file
-            filetext = inf.read()  # get the rest of the file (doesn't include the first line because that was already read)
-            filetext = html.unescape(filetext)
-            soup = BeautifulSoup(filetext, 'html.parser')
-            
+        # with open(recipeFile, 'rt', encoding='utf-8') as inf:              
+            # url = inf.readline()  # get the url from the first line of the file
+            # filetext = inf.read()  # get the rest of the file (doesn't include the first line because that was already read)
+            # filetext = html.unescape(filetext)
+            # soup = BeautifulSoup(filetext, 'html.parser')
+        
+        soup = ""
         
         # get the recipe title and the list of ingredients
         rcpTitle = findTitle(soup)      
@@ -264,15 +269,11 @@ def setup(hass, config):
         # if there is an error, end code execution
         try:
             saveRecipe(url, rcpFile)
-            pass
         except (FileNotFoundError, ValueError):
             _LOGGER.error("Something went wrong while retrieving the recipe. Ending execution. URL was ", url)
             # print("Something went wrong while retrieving the recipe. Ending execution.") 
             sys.exit()
-
-
-        
-        
+  
         
         
         print('\n\n',rcpTitle)
