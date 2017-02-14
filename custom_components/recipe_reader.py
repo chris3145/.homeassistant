@@ -7,6 +7,7 @@ import sys
 import html # for extracting html characters
 import logging # for logging to home assistant logs
 from bs4 import BeautifulSoup # BeautifulSoup is used for most of the HTML parsing
+import random # for randomization (used to add some personality to Alexa responses)
 
 
 _LOGGER = logging.getLogger(__name__)
@@ -63,11 +64,7 @@ def setup(hass, config):
         
         return " ".join(s.split())
     
-    
-    print('\n\n\n\n\n\n')  
-    print('Point B')  
-
-
+ 
     
     def isSchemaOrgStandard(soup):
         '''Determine if the recipe uses the schema.org/Recipe standard'''
@@ -79,9 +76,7 @@ def setup(hass, config):
         except Exception as e:
             logging.debug(e)
             return False    
- 
-    print('\n\n\n\n\n\n')  
-    print('Point C')  
+  
 
  
     def findIngList(soup):
@@ -98,7 +93,9 @@ def setup(hass, config):
             return ingList
             
         return ['']
-        
+ 
+
+ 
     def findStepList(soup):
         '''Extract the list of recipe steps from the HTML'''
         
@@ -112,6 +109,9 @@ def setup(hass, config):
         
             return stepList
         return ['']
+
+
+        
         
     def findTitle(soup):
 
@@ -153,8 +153,11 @@ def setup(hass, config):
             else:
             
                 #if there was only one match, read the match
-                if len(data) == 1: 
-                    response = "Here's what I found: " + data[0]
+                if len(data) == 1:
+                    
+                    lead = ["Here's what I found. ", "It says to use ", "The recipe says to use ", "The recipe calls for ", "The recipe says you need "]                    
+                    response = random.choice(lead) + data[0]
+
                     
                 # if there were multiple matches, assemble them into a single spoken response    
                 else:
@@ -169,6 +172,8 @@ def setup(hass, config):
 
         return response
     
+
+
     
     def saveRecipe(url, recipeFile):
         '''Save the contents of a url to a .txt file at a given location'''
@@ -226,6 +231,8 @@ def setup(hass, config):
         response = urllib.request.urlopen(req)
         
         print(response.read().decode('utf8')) #print IFTTT response
+
+
         
     def htmlParse(recipeFile):
         global rcpTitle
@@ -314,8 +321,11 @@ def setup(hass, config):
 
             # if the ingredient was found in the ingredient list
             if ingResult:
-                # print('\n Point D')
-                alexaResponse = formatForAlexa(ingResult, 'getIngredientAmount')                
+                alexaResponse = formatForAlexa(ingResult, 'getIngredientAmount')
+
+
+                if ingredient == 'cilantro':
+                    alexaResponse = random.choice(["I'm supposed to help with the food, not ruin it.", "Ew no gross", "I don't care what the recipe says. The correct amount is none."])
                 
                 # for ndx, member in enumerate(ingResult):
                     # print(ingResult[ndx])                 
@@ -324,8 +334,14 @@ def setup(hass, config):
             else:
                 # print('\n Point E')
                 
-                _LOGGER.error("Ingredient '" + ingredient + "' was not found.")
-                alexaResponse = "I wasn't able to find " + ingredient + " in the list of ingredients."
+                _LOGGER.info("Ingredient '" + ingredient + "' was not found.")
+                alexaResponse = "I wasn't able to find " + ingredient + " in the list of ingredients"
+                
+                print(ingredient)
+                
+                if ingredient == 'cilantro':
+                    tail = ["<break strength=\"x-strong\"/>I can't say that's any great loss.", ", luckily", ", and you better not ruin a perfectly good recipe by adding it."]
+                    alexaResponse += random.choice(tail)
            
         # no matter what happens, set the alexaResponse    
         finally:   
@@ -337,15 +353,13 @@ def setup(hass, config):
             return ingResult
 
 
-    print('\n\n\n\n\n\n')  
-    print('Point D')         
+     
     
     #these are the services that will be exposed to home assistant
     hass.services.register(DOMAIN, 'downloadRecipe', downloadRecipe)  
     hass.services.register(DOMAIN, 'findAmount', findAmount)
     
-    print('\n\n\n\n\n\n')  
-    print('Point E')  
+
     # # print('Previous title:', rcpTitle)
     
     try:
@@ -354,9 +368,7 @@ def setup(hass, config):
         _LOGGER.info("Data retrieval succeeded!")
     except FileNotFoundError:
         _LOGGER.warn("No recipe file found.")  
-    
-    print('\n\n\n\n\n\n')  
-    print('Point F')  
+     
     
     print(rcpTitle)
     

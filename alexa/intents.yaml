@@ -1,0 +1,52 @@
+intents:
+  
+    getIngredientAmount:
+      action:
+        - service: recipe_reader.findAmount
+          data_template:
+            ingredient: '{{ ingredient }}'    
+        
+        - service: persistent_notification.create
+          data_template:
+            notification_id: Alexa
+            message: Alexa asked for the amount of {{ ingredient }}.
+            title: Alexa 
+      speech:
+        type: plaintext
+        text: >
+          {{ states('recipe_reader.alexa_response') }}
+        
+    getStep:
+      action:
+        service: persistent_notification.create
+        data_template:
+          notification_id: Alexa
+          message: Alexa asked what to do with {{ ingredient }}.
+          title: Alexa        
+      speech:
+        type: plaintext
+        text: Finding ingredient step.
+        
+        
+    getCookTemperature:
+      action:
+        service: persistent_notification.create
+        data_template:
+          notification_id: Alexa
+          message: Alexa asked for the cooking temperature.
+          title: Alexa        
+      speech:
+        type: plaintext
+        text: Finding cooking temperature.
+        
+        
+    getCookTime:        
+      action:
+        service: persistent_notification.create
+        data_template:
+          notification_id: Alexa
+          message: Alexa asked for the cooking time.
+          title: Alexa        
+      speech:
+        type: plaintext
+        text: Finding cook time.
