@@ -87,12 +87,10 @@ input_slider: !include inputs/input_slider.yaml
 
 # Creates a command to pull the latest updates from GitHub and then restart home assistant
 shell_command:
-  get_latest_config: bash /home/homeassistant/.homeassistant/fetchconfig.sh
+  get_latest_config: bash /home/homeassistant/.homeassistant/fetch_main.sh
+  get_latest_sandbox: bash /home/homeassistant/.homeassistant/fetch_sandbox.sh
 
 script: !include_dir_merge_named script
-
-
-
 
 
 # alexa config
@@ -125,6 +123,7 @@ group:
     control: hidden
     entities:
       - script.update_config
+      - script.get_sandbox_branch
   
   
   debug_view:
