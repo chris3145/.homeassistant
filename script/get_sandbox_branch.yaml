@@ -6,7 +6,7 @@
 
 
   get_sandbox_branch:
-    alias: Get Sandbox Config
+    alias: Update to latest sandbox
     sequence:
       - service: shell_command.get_latest_sandbox
       - service: homeassistant.restart
