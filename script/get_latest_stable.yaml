@@ -5,7 +5,7 @@
 #------------------------------------------------------------------------------------#
 
 
-  update_config:
+  get_latest_stable:
     alias: Update to latest stable
     sequence:
       - service: shell_command.get_latest_config

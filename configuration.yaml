@@ -119,11 +119,11 @@ group:
       - script.temporary_cool
   
   home_advanced:
-    name: Advanced
+    name: Update and Restart
     control: hidden
     entities:
-      - script.update_config
-      - script.get_sandbox_branch
+      - script.get_latest_stable
+      - script.get_latest_sandbox
   
   
   debug_view:

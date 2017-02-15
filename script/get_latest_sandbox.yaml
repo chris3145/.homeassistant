@@ -5,7 +5,7 @@
 #------------------------------------------------------------------------------------#
 
 
-  get_sandbox_branch:
+  get_latest_sandbox:
     alias: Update to latest sandbox
     sequence:
       - service: shell_command.get_latest_sandbox
