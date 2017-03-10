@@ -13,13 +13,12 @@ homeassistant:
 frontend:
 
 http:
-  # Uncomment the following line to add a password (recommended!)
   api_password: !secret api_password
+  ssl_certificate: !secret ssl_cert
+  ssl_key: !secret ssl_key  
+  # server_port: !secret port
   # Uncomment the following line if you are using SSL or running in Docker etc
   # base_url: example.duckdns.org:8123
-  # server_port: !secret port
-  ssl_certificate: !secret ssl_cert
-  ssl_key: !secret ssl_key
   
   # no password required for connections from these IP addresses
   trusted_networks:
@@ -87,8 +86,8 @@ input_slider: !include inputs/input_slider.yaml
 
 # Creates a command to pull the latest updates from GitHub and then restart home assistant
 shell_command:
-  get_latest_config: bash /home/homeassistant/.homeassistant/fetch_main.sh
-  get_latest_sandbox: bash /home/homeassistant/.homeassistant/fetch_sandbox.sh
+  get_latest_config: bash /home/homeassistant/.homeassistant/shell_commands/fetch_main.sh
+  get_latest_sandbox: bash /home/homeassistant/.homeassistant/shell_commands/fetch_sandbox.sh
 
 script: !include_dir_merge_named script
 
@@ -102,12 +101,12 @@ alexa: !include_dir_merge_named alexa
 
 group:
 
-  default_view:
-    view: yes
-    entities:
-      - group.home_nest
-      - group.home_advanced
-      - group.recipe_reader
+  # default_view:
+    # view: yes
+    # entities:
+      # - group.home_nest
+      # - group.home_advanced
+      # - group.recipe_reader
       
   
   home_nest:
@@ -119,11 +118,11 @@ group:
       - script.temporary_cool
   
   home_advanced:
-    name: Advanced
+    name: Update
     control: hidden
     entities:
-      - script.update_config
-      - script.get_sandbox_branch
+      - script.get_latest_stable
+      - script.get_latest_sandbox
   
   
   debug_view:
@@ -166,21 +165,5 @@ group:
     
 
 
-
 # python add ons
 recipe_reader:
-
-
-# temporarily removed as I prepare to update the Raspberry Pi
-
-# hello_state:
-# hello_service:
-
-
-# simple_alarm:
-  # known_light: input_boolean.tv_on
-  # unknown_light: input_boolean.sun_debug
-  
-# simple_python:
-  # input_bit: input_boolean.tv_on
-  # output_bit: input_boolean.sun_debug

@@ -1,12 +1,12 @@
 #------------------------------------------------------------------------------------#
-#   A script to test the sandbox on the raspberry pi by fetching from github         #
+#   A script to update the home assistant configuration by fetching from github      #
 #                                                                                    #
-#   Fetch the latest sandbox files from github, then restart home assistant.         #
+#   Fetch the latest files from github, then restart home assistant.                 #
 #------------------------------------------------------------------------------------#
 
 
-  get_sandbox_branch:
-    alias: Get Sandbox Config
+  get_latest_stable:
+    alias: Update to latest stable
     sequence:
-      - service: shell_command.get_latest_sandbox
+      - service: shell_command.get_latest_config
       - service: homeassistant.restart
