@@ -363,6 +363,8 @@ def setup(hass, config):
     hass.services.register(DOMAIN, 'downloadRecipe', downloadRecipe)  
     hass.services.register(DOMAIN, 'findAmount', findAmount)
     
+    # populate default parameters before the recipe file is read
+    rcpTitle = 'no title yet'
 
     # # print('Previous title:', rcpTitle)
     
@@ -372,15 +374,15 @@ def setup(hass, config):
         _LOGGER.info("Data retrieval succeeded!")
         
         # Set title state to display on the front end
-        hass.states.set('recipe_reader.Title', rcpTitle)
+        # hass.states.set('recipe_reader.Title', rcpTitle)
 
     except FileNotFoundError:
         _LOGGER.warn("No recipe file found.")
         
         # Set title state to display on the front end
-        hass.states.set('recipe_reader.Title', 'no title yet')
+        # hass.states.set('recipe_reader.Title', 'no title yet')
         
-        
+    hass.states.set('recipe_reader.Title', rcpTitle)    
     hass.states.set('recipe_reader.ing_amount', 'no search yet')        
      
     
