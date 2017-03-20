@@ -271,10 +271,12 @@ def setup(hass, config):
         # if there is an error, end code execution
         try:
             saveRecipe(url, rcpFile)
-            pass
+            respondWithIFTTT("Recipe downloaded!")
+            
         except (FileNotFoundError, ValueError):
             _LOGGER.error("Something went wrong while retrieving the recipe. Ending execution. URL was ", url)
-            # print("Something went wrong while retrieving the recipe. Ending execution.") 
+            # print("Something went wrong while retrieving the recipe. Ending execution.")
+            respondWithIFTTT("Error downloading recipe :(")
             sys.exit()
 
 
@@ -288,7 +290,8 @@ def setup(hass, config):
         # print("Recipe setup complete!")
         _LOGGER.info("Recipe parameters loaded!")
         
-        respondWithIFTTT("Recipe downloaded!")
+        # Eventually the program should analyze the recipe here and offer a response regarding how well it is able to read it
+        # respondWithIFTTT("Recipe downloaded!")
 
          
 
@@ -325,7 +328,8 @@ def setup(hass, config):
 
 
                 if ingredient == 'cilantro':
-                    alexaResponse = random.choice(["I'm supposed to help with the food, not ruin it.", "Ew no gross", "I don't care what the recipe says. The correct amount is none."])
+                    alexaResponse = "I'm supposed to help with the food, not ruin it."
+                    # alexaResponse = random.choice(["I'm supposed to help with the food, not ruin it.", "Ew no gross", "I don't care what the recipe says. The correct amount is none."])
                 
                 # for ndx, member in enumerate(ingResult):
                     # print(ingResult[ndx])                 
@@ -340,7 +344,7 @@ def setup(hass, config):
                 print(ingredient)
                 
                 if ingredient == 'cilantro':
-                    tail = ["<break strength=\"x-strong\"/>I can't say that's any great loss.", ", luckily", ", and you better not ruin a perfectly good recipe by adding it."]
+                    tail = ['<break strength="x-strong"/>I can\'t say that\'s any great loss.', ', luckily', ', and you better not ruin a perfectly good recipe by adding it.']
                     alexaResponse += random.choice(tail)
            
         # no matter what happens, set the alexaResponse    
@@ -366,15 +370,23 @@ def setup(hass, config):
         _LOGGER.info("Recipe reader is attempting to load parameters from last-used recipe.")
         htmlParse(rcpFile)
         _LOGGER.info("Data retrieval succeeded!")
+        
+        # Set title state to display on the front end
+        hass.states.set('recipe_reader.Title', rcpTitle)
+
     except FileNotFoundError:
-        _LOGGER.warn("No recipe file found.")  
+        _LOGGER.warn("No recipe file found.")
+        
+        # Set title state to display on the front end
+        hass.states.set('recipe_reader.Title', 'no title yet')
+        
+        
+    hass.states.set('recipe_reader.ing_amount', 'no search yet')        
      
     
     print(rcpTitle)
     
-    # Set a state to display on the front end
-    hass.states.set('recipe_reader.Title', 'no title yet')
-    hass.states.set('recipe_reader.ing_amount', 'no search yet')
+
     
     # print('Title after update:', rcpTitle)
     # print('\n\n\n')
