@@ -364,7 +364,7 @@ def setup(hass, config):
     hass.services.register(DOMAIN, 'findAmount', findAmount)
     
     # populate default parameters before the recipe file is read
-    rcpTitle = 'no title yet'
+    global rcpTitle = 'no title yet'
 
     # # print('Previous title:', rcpTitle)
     
