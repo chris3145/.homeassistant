@@ -271,12 +271,12 @@ def setup(hass, config):
         # if there is an error, end code execution
         try:
             saveRecipe(url, rcpFile)
-            respondWithIFTTT("Recipe downloaded!")
+            # respondWithIFTTT("Recipe downloaded!")
             
         except (FileNotFoundError, ValueError):
             _LOGGER.error("Something went wrong while retrieving the recipe. Ending execution. URL was ", url)
             # print("Something went wrong while retrieving the recipe. Ending execution.")
-            respondWithIFTTT("Error downloading recipe :(")
+            # respondWithIFTTT("Error downloading recipe :(")
             sys.exit()
 
 

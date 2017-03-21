@@ -1,5 +1,12 @@
 intents:
-  
+    
+    
+    getTitle:
+      speech:
+        type: plaintext
+        text: >
+          {{ states('recipe_reader.Title') }}
+    
     getIngredientAmount:
       action:
         - service: recipe_reader.findAmount
