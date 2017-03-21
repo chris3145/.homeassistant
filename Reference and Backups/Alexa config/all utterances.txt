@@ -1,3 +1,34 @@
+#tempHeat has been removed from the Alexa sample utterances so that a misunderstood command doesn't turn on the heat
+
+tempHeat run the heat for a few minutes
+tempHeat heat the house a little bit
+tempHeat turn on the heat for a bit
+tempHeat run the heat
+tempHeat it's a bit cool
+tempHeat it's a little chilly
+
+tempHeat run the heat for {duration}
+tempHeat heat the house for {duration}
+tempHeat turn on the heat for {duration}
+
+
+
+
+
+getTitle what the recipe is called
+getTitle what is the name of this recipe
+getTitle what recipe i'm working on
+getTitle what this recipe is called
+getTitle for the title of the recipe
+getTitle the name of the recipe
+getTitle what i'm cooking
+getTitle what it thinks i'm cooking
+getTitle what is this dish called
+
+
+
+
+
 getIngredientAmount how much {ingredient} do i use
 getIngredientAmount how many {ingredient} to use
 getIngredientAmount how many {ingredient} should i need
@@ -7,14 +38,14 @@ getIngredientAmount what amount of {ingredient} the instructions say i am suppos
 getIngredientAmount how much {ingredient} does it say i need to use
 getIngredientAmount how many {ingredient} my recipe says i need
 getIngredientAmount how many cups of {ingredient} the recipe says i should use
-getIngredientAmount how {ingredient} do i need
+getIngredientAmount how much {ingredient} do i need
+getIngredientAmount how much {ingredient} it says to use
 getIngredientAmount what amount of {ingredient} does my recipe say i'm supposed to need
 getIngredientAmount how much {ingredient} i'm supposed to use
 getIngredientAmount how much {ingredient} it says i need
 getIngredientAmount how much {ingredient} the recipe says to use
 getIngredientAmount how many {ingredient} i need
 getIngredientAmount what amount of {ingredient} the recipe says i'm supposed to need
-
 
 getIngredientAmount how many slices of {ingredient} the recipe says there are
 getIngredientAmount how much {ingredient} it says i need
@@ -39,7 +70,6 @@ getStep what the recipe says i need to do with the {ingredient}
 getStep what does my recipe say about {action} the {ingredient}
 getStep what it says about {action} the {ingredient}
 
-
 getStep how do i {action} the {ingredient}
 getStep when should i {action} the {ingredient}
 getStep how am i supposed to {action} the {ingredient}
@@ -48,7 +78,6 @@ getStep how does the recipe say i'm supposed to {action} the {ingredient}
 getStep when do i need to {action} the {ingredient}
 getStep when i {action} the {ingredient}
 
-
 getStep how long i'm supposed to {action} the {ingredient} for
 getStep what i'm supposed to do after i {action} the {ingredient} 
 getStep what the recipe says to do after {action} the {ingredient}
@@ -56,7 +85,6 @@ getStep what does it say i have to do before i {action} the {ingredient}
 
 getStep how long it says to {action} the {ingredient}
 getStep how long it says to {action} this
-
 
 
 
@@ -72,7 +100,6 @@ getCookTemperature what temperature i'm supposed to set the oven to
 getCookTemperature what temperature it says i need to bake this at
 getCookTemperature how hot does it say i need to cook this at
 getCookTemperature what temperature the instructions say i need to preheat the oven to
-
 
 getCookTemperature what the instructions say the oven should be set to
 getCookTemperature what temperature is the oven supposed to be
@@ -94,7 +121,6 @@ getCookTime how much time i need to put the {ingredient} in the oven for
 getCookTime how long it says i'm supposed to cook this for
 getCookTime how long i need to leave the {ingredient} in the oven
 
-
 getCookTime how long does the {ingredient} bake for
 getCookTime how much time should this be in the oven
 getCookTime how many minutes is the {ingredient} supposed to stay in the oven for
@@ -102,7 +128,6 @@ getCookTime how long it says the {ingredient} needs to cook for
 getCookTime how long the recipe says this needs to bake
 getCookTime how much time do the instructions say the {ingredient} needs to cook
 getCookTime how long this needs to go in the oven for
-
 
 getCookTime how long it's supposed to take for the {ingredient} to bake
 getCookTime how much time this needs in the oven
