@@ -253,6 +253,9 @@ def setup(hass, config):
         rcpIngList = findIngList(soup)
         rcpStepList = findStepList(soup)
         
+        # set homeassistant states
+        hass.states.set('recipe_reader.Title', rcpTitle)
+        
         
             
     def downloadRecipe(call):
@@ -279,8 +282,9 @@ def setup(hass, config):
             # respondWithIFTTT("Error downloading recipe :(")
             sys.exit()
 
-
         
+        # read the recipe file
+        htmlParse(rcpFile)
         
         
         
