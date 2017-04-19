@@ -1,15 +1,13 @@
-#tempHeat has been removed from the Alexa sample utterances so that a misunderstood command doesn't turn on the heat
+tempCool run the AC for a few minutes
+tempCool cool the house a little bit
+tempCool turn on the air conditioner for a bit
+tempCool run the air conditioner
+tempCool it's a bit warm
+tempCool it's a little too hot
 
-tempHeat run the heat for a few minutes
-tempHeat heat the house a little bit
-tempHeat turn on the heat for a bit
-tempHeat run the heat
-tempHeat it's a bit cool
-tempHeat it's a little chilly
-
-tempHeat run the heat for {duration}
-tempHeat heat the house for {duration}
-tempHeat turn on the heat for {duration}
+tempCool run the AC for {duration}
+tempCool cool the house for {duration}
+tempCool turn on the cooling for {duration}
 
 
 
