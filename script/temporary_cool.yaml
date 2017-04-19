@@ -33,7 +33,7 @@
       
       # wait for a time
       - delay:
-          minutes: 3
+          minutes: 4
           
       # set the thermostat back to its initial setpoints
       - service: climate.set_temperature

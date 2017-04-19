@@ -1,5 +1,12 @@
 intents:
-    
+       
+    tempCool:
+      action:
+        service: script.temporary_cool
+      speech:
+        type: plaintext
+        text: Running the AC for a few minutes.
+        
     
     getTitle:
       speech:
